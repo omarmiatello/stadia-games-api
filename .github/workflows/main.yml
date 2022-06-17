@@ -1,0 +1,39 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Run script
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+    # At 10:00 on Tuesday - more info: https://crontab.guru/#0_10_*_*_2
+    - cron:  '0 10 * * 2'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "script"
+  script:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # otherwise, you will fail to push refs to dest repo
+
+      - name: Run script
+        run: kotlinc -script ./update-api.main.kts
+
+      # Commit modified files
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update Stadia Games API (using Github Action)"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
