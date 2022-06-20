@@ -7,8 +7,8 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    # At 10:00 on Tuesday - more info: https://crontab.guru/#0_10_*_*_2
-    - cron:  '0 10 * * 2'
+    # At 16:00 on every day-of-week from Monday through Friday - more info: https://crontab.guru/#0_16_*_*_1-5
+    - cron:  '0 16 * * 1-5'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Update Stadia Games API (using Github Action)"
+          git commit -m "Update Stadia Games API (using Github Action)" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
