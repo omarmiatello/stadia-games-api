@@ -8,6 +8,7 @@
 import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.gson
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.readJsonOrNull
+import com.github.omarmiatello.telegram.ParseMode
 import com.github.omarmiatello.telegram.TelegramClient
 import org.jsoup.Jsoup
 import java.net.URL
@@ -15,7 +16,13 @@ import kotlin.system.exitProcess
 
 // Models (data classes)
 data class GameListResponse(val api_version: Int, val count: Int, val games: List<Game>)
-data class Game(val title: String, val img: String, val button: String?)
+data class Game(val title: String, val url: String, val img: String, val button: String?) {
+    fun toMarkdown(withImage: Boolean = true) = buildString {
+        if (withImage) append("[\u200B]($img)")
+        append("[$title]($url)")
+        if (button != null) append(" ($button)")
+    }
+}
 
 launchKotlinScriptToolbox(
     scriptName = "Update for Stadia Games API",
@@ -28,7 +35,7 @@ launchKotlinScriptToolbox(
     val defaultChatId = readSystemPropertyOrNull("TELEGRAM_CHAT_ID")!!
     suspend fun sendTelegramMessage(text: String, chatId: String = defaultChatId) {
         println("💬 $text")
-        telegramClient.sendMessage(chat_id = chatId, text = text)
+        telegramClient.sendMessage(chat_id = chatId, text = text, parse_mode = ParseMode.Markdown, disable_web_page_preview = false)
     }
 
     // Parse https://stadia.google.com/games
@@ -45,6 +52,8 @@ launchKotlinScriptToolbox(
                 title = gameDoc.select(".Oou9nd").first()!!.wholeText()
                     .trim()
                     .replace(" ", " "),
+                url = "https://stadia.google.com/" + gameDoc.select(".nBACW.QAAyWd.wJYinb").first()!!
+                    .attr("href"),
                 img = gameDoc.select(".EvMdmf").first()!!.attr("src"),
                 button = gameDoc.select(".Pyflbb").first()?.wholeText(),
             )
@@ -63,13 +72,19 @@ launchKotlinScriptToolbox(
     if (oldResponse != null) {
         val oldTitles = oldResponse.games.map { it.title }.toSet()
         val newGames = newResponse.games.filter { it.title !in oldTitles }
-        if (newGames.isNotEmpty()) {
-            val gamesString = newGames.joinToString { it.title }
-            sendTelegramMessage(if (newGames.size == 1) {
-                "There is a new game: $gamesString"
-            } else {
-                "There are ${newGames.size} new games: $gamesString"
-            })
+        when (newGames.size) {
+            0 -> { /* do nothing */ }
+            1 -> { sendTelegramMessage("There is a new game: ${newGames.first().toMarkdown()}") }
+            in 2..5 -> {
+                sendTelegramMessage("There are *${newGames.size} new games*: ${newGames.first().toMarkdown()}")
+                newGames.drop(1).forEach { game ->
+                    sendTelegramMessage(game.toMarkdown())
+                }
+            }
+            else -> {
+                val gamesMarkdown = newGames.joinToString { it.toMarkdown(withImage = false) }
+                sendTelegramMessage("There are *${newGames.size} new games*: $gamesMarkdown".take(4096))
+            }
         }
     }
 }
