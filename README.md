@@ -10,11 +10,13 @@ Example:
   "games": [
     {
       "title": "A Place for the Unwilling",
-      "img": "https://lh3.googleusercontent.com/3UbNVwfUXXEytzwlCgI7xDimGT_LcerieF_-HVKiCkIwKyRwWLQ1XiPymCd8APVFK9t4LaaRgNeb3KgNt9_xLlkcdfvs4SdKF5d7ROH-Rs-UNZp74aba1btCZbI\u003dw300-h400-rw-no-v1-nu"
+      "url": "https://stadia.google.com/game/a-place-for-the-unwilling",
+      "img": "https://lh3.googleusercontent.com/4YcX0ToJSlermUr3ZjVEG3g2-RNVD8X4KFVlLjHiQdl6jYC8bWVyZRlpYpY4LUB_PcmX6C4x7-DlmDUjDbiEm0aWHUfCqqJli-x4aJT1Lujle0vcRuXJDvZdTic\u003dw300-h400-rw-no-v1-nu"
     },
     // ...
     {
       "title": "Assassin\u0027s Creed Valhalla",
+      "url": "https://stadia.google.com/game/assassins-creed-valhalla",
       "img": "https://lh3.googleusercontent.com/7al3Mqv3RkYu-v4DL9vhiWHfsMLpc_IHHpthd4r5KlwBQohCCND1jac6Bsw9tjuIBpWA0M1f2S7plurbPWkrrfa16bBGD3kyBs35gASW94ecVHvLFgs0E7CkyiPk\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 120 min"
     },
@@ -28,6 +30,7 @@ Kotlin data classes:
 ```kotlin
 data class Game(
     val title: String,
+    val url: String,
     val img: String,
     val button: String?,
 )
@@ -38,4 +41,3 @@ data class GameListResponse(
     val games: List<Game>,
 )
 ```
-
