@@ -1,13 +1,13 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
 @file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.0.3")
-@file:DependsOn("com.github.omarmiatello.telegram:client-jvm:6.0")
+@file:DependsOn("com.github.omarmiatello.telegram:client-jvm:6.1")
 @file:DependsOn("io.ktor:ktor-client-okhttp-jvm:2.0.2")  // required for com.github.omarmiatello.telegram:client
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
-import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.gson
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.readJsonOrNull
+import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.writeJson
 import com.github.omarmiatello.telegram.ParseMode
 import com.github.omarmiatello.telegram.TelegramClient
 import org.jsoup.Jsoup
@@ -66,7 +66,7 @@ launchKotlinScriptToolbox(
     val newResponse = GameListResponse(api_version = 1, count = games.size, games = games)
 
     // Update API: data/games.json
-    writeText("games.json", gson.toJson(newResponse))
+    writeJson("games.json", newResponse)
 
     // Send notification
     if (oldResponse != null) {
