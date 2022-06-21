@@ -1,7 +1,7 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
 @file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.0.3")
-@file:DependsOn("com.github.omarmiatello.telegram:client-jvm:6.1")
+@file:DependsOn("com.github.omarmiatello.telegram:client-jvm:6.0")
 @file:DependsOn("io.ktor:ktor-client-okhttp-jvm:2.0.2")  // required for com.github.omarmiatello.telegram:client
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
