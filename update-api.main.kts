@@ -30,7 +30,6 @@ launchKotlinScriptToolbox(
     scriptName = "Update for Stadia Games API",
     filepathPrefix = "data/",
 ) {
-    val localDebug = false
 
     // Set up: Games converter
     fun List<Game>.toMarkdownForTelegram(withImage: Boolean, singular: String, plural: String) = when (size) {
@@ -57,13 +56,7 @@ launchKotlinScriptToolbox(
     }
 
     // # Parse games from https://stadia.google.com/games
-    val gamesHtml = readTextOrNull("games.html")
-    val gamesDoc = if (localDebug && gamesHtml != null) {
-        Jsoup.parse(gamesHtml)
-    } else {
-        Jsoup.parse(URL("https://stadia.google.com/games"), 10000)
-            .also { if (localDebug) writeText("games.html", it.toString()) }
-    }
+    val gamesDoc = Jsoup.parse(URL("https://stadia.google.com/games"), 10000)
     val allGames = gamesDoc.select(".tLwy5")
         .map { gameDoc ->
             Game(

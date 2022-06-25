@@ -1,6 +1,6 @@
 # stadia-games-api
 
-## Data source:
+## Data source
 - Full public list: https://stadia.google.com/games (used by this bot)
 - Full list for registered users on Stadia: https://stadia.google.com/store/list/3
 
