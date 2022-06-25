@@ -20,7 +20,7 @@ data class Game(val title: String, val url: String, val img: String, val button:
     fun toMarkdown(withImage: Boolean = true) = buildString {
         if (withImage) append("[\u200B]($img)")
         append("[$title]($url)")
-        if (button != null) append(" ($button)")
+        if (button != null) append(" - $button")
     }
 }
 
@@ -30,15 +30,28 @@ launchKotlinScriptToolbox(
 ) {
     val localDebug = false
 
+    // Set up: Games converter
+    fun List<Game>.toMarkdownMessages(withImage: Boolean, singular: String, plural: String) = when (size) {
+        0 -> emptyList()
+        1 -> listOf("There is *$singular*: ${first().toMarkdown(withImage = withImage)}")
+        in 2..5 -> listOf("There are *$size $plural*: ${first().toMarkdown(withImage = withImage)}") + drop(1).map { game -> game.toMarkdown() }
+        else -> listOf("There are *$size $plural*: ${joinToString { it.toMarkdown(withImage = false) }}")
+    }
+
     // Set up: Telegram notification
     val telegramClient = TelegramClient(apiKey = readSystemPropertyOrNull("TELEGRAM_BOT_APIKEY")!!)
     val defaultChatId = readSystemPropertyOrNull("TELEGRAM_CHAT_ID")!!
     suspend fun sendTelegramMessage(text: String, chatId: String = defaultChatId) {
-        println("💬 $text")
-        telegramClient.sendMessage(chat_id = chatId, text = text, parse_mode = ParseMode.Markdown, disable_web_page_preview = false)
+        println("💬 ${text.take(4096)}")
+        telegramClient.sendMessage(
+            chat_id = chatId,
+            text = text.take(4096),
+            parse_mode = ParseMode.Markdown,
+            disable_web_page_preview = false
+        )
     }
 
-    // Parse https://stadia.google.com/games
+    // # Parse games from https://stadia.google.com/games
     val gamesHtml = readTextOrNull("games.html")
     val gamesDoc = if (localDebug && gamesHtml != null) {
         Jsoup.parse(gamesHtml)
@@ -46,7 +59,7 @@ launchKotlinScriptToolbox(
         Jsoup.parse(URL("https://stadia.google.com/games"), 10000)
             .also { if (localDebug) writeText("games.html", it.toString()) }
     }
-    val games = gamesDoc.select(".tLwy5")
+    val allGames = gamesDoc.select(".tLwy5")
         .map { gameDoc ->
             Game(
                 title = gameDoc.select(".Oou9nd").first()!!.wholeText()
@@ -61,32 +74,37 @@ launchKotlinScriptToolbox(
         .distinctBy { it.title }
         .sortedBy { it.title }
 
-    // Prepare for comparison of GameListResponse
-    val oldResponse = readJsonOrNull<GameListResponse>("games.json")
-    val newResponse = GameListResponse(api_version = 1, count = games.size, games = games)
+    // # Find old games
+    val oldAllGames = readJsonOrNull<GameListResponse>("games.json")?.games
+    if (oldAllGames != null) {
+        // ## New games: allGames - oldAllGames = newGames
+        // 1. Find new games
+        val newGames = oldAllGames
+            .map { it.title }
+            .toSet()
+            .let { oldGamesTitles -> allGames.filter { it.title !in oldGamesTitles } }
 
-    // Update API: data/games.json
-    writeJson("games.json", newResponse)
+        // 2. Send notifications: Telegram
+        newGames
+            .toMarkdownMessages(withImage = true, singular = "a new game", plural = "new games")
+            .forEach { message -> sendTelegramMessage(message) }
 
-    // Send notification
-    if (oldResponse != null) {
-        val oldTitles = oldResponse.games.map { it.title }.toSet()
-        val newGames = newResponse.games.filter { it.title !in oldTitles }
-        when (newGames.size) {
-            0 -> { /* do nothing */ }
-            1 -> { sendTelegramMessage("There is a new game: ${newGames.first().toMarkdown()}") }
-            in 2..5 -> {
-                sendTelegramMessage("There are *${newGames.size} new games*: ${newGames.first().toMarkdown()}")
-                newGames.drop(1).forEach { game ->
-                    sendTelegramMessage(game.toMarkdown())
-                }
-            }
-            else -> {
-                val gamesMarkdown = newGames.joinToString { it.toMarkdown(withImage = false) }
-                sendTelegramMessage("There are *${newGames.size} new games*: $gamesMarkdown".take(4096))
-            }
-        }
+        // ## New demos: assuming `it.button != null` means "has demo"
+        // 1. Find new demos
+        val newGamesDemo = oldAllGames
+            .filter { it.button != null }
+            .associate { it.title to it.button!! }
+            .let { oldGamesDemosMap -> allGames.filter { it.button != null && oldGamesDemosMap[it.title] != it.button } }
+
+        // 2. Send notifications: Telegram
+        newGamesDemo
+            .toMarkdownMessages(withImage = true, singular = "a new demo", plural = "new demos")
+            .forEach { message -> sendTelegramMessage(message) }
     }
+
+    // # Update API (in `/data/` folder)
+    writeJson("games.json", GameListResponse(api_version = 1, count = allGames.size, games = allGames))
+    writeText("games.md", allGames.joinToString("\n") { "1. ${it.toMarkdown(withImage = false)}" })
 }
 
 exitProcess(status = 0)

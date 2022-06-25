@@ -8,9 +8,9 @@
 ## Features
 - Daily auto update of this repository
 - Telegram notification if there are new games
+- Telegram notification if there are new timed demo
 
 ## Upcoming features
-- Telegram notification if there are new timed demo
 - Add Twitter support
 - Add Markdown files in `data/`
 - Markdown: Full list `data/games.md`
@@ -22,8 +22,7 @@
 
 ## Format example:
 ### Json
-
-```json
+```json5
 {
   "api_version": 1,
   "count": 376,
@@ -46,7 +45,6 @@
 ```
 
 ### Kotlin data classes
-
 ```kotlin
 data class Game(
     val title: String,
