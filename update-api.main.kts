@@ -41,7 +41,7 @@ launchKotlinScriptToolbox(
     }
 
     fun List<Game>.toMarkdownNumberedList() =
-        joinToString("\n") { "1. ${it.toMarkdown(withImage = false)}" }
+        withIndex().joinToString("\n") { (i, game) -> "${i + 1}. ${game.toMarkdown(withImage = false)}" }
 
     // Set up: Telegram notification
     val telegramClient = TelegramClient(apiKey = readSystemPropertyOrNull("TELEGRAM_BOT_APIKEY")!!)
