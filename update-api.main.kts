@@ -115,11 +115,15 @@ launchKotlinScriptToolbox(
                 text = buildString {
                     appendLine("## ${now.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))}")
                     if (newGames.isNotEmpty()) {
-                        appendLine(if (newGames.size == 1) "1 new game" else "${newGames.size} new games")
+                        appendLine()
+                        append("### Found ")
+                        appendLine(if (newGames.size == 1) "a new game" else "${newGames.size} new games")
                         appendLine(newGames.toMarkdownNumberedList())
                     }
                     if (newGamesDemo.isNotEmpty()) {
-                        appendLine(if (newGamesDemo.size == 1) "1 new demo" else "${newGamesDemo.size} new demos")
+                        appendLine()
+                        append("### Found ")
+                        appendLine(if (newGamesDemo.size == 1) "a new demo" else "${newGamesDemo.size} new demos")
                         appendLine(newGamesDemo.toMarkdownNumberedList())
                     }
                     appendLine()
