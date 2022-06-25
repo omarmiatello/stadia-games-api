@@ -12,6 +12,8 @@ import com.github.omarmiatello.telegram.ParseMode
 import com.github.omarmiatello.telegram.TelegramClient
 import org.jsoup.Jsoup
 import java.net.URL
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
 import kotlin.system.exitProcess
 
 // Models (data classes)
@@ -31,12 +33,15 @@ launchKotlinScriptToolbox(
     val localDebug = false
 
     // Set up: Games converter
-    fun List<Game>.toMarkdownMessages(withImage: Boolean, singular: String, plural: String) = when (size) {
+    fun List<Game>.toMarkdownForTelegram(withImage: Boolean, singular: String, plural: String) = when (size) {
         0 -> emptyList()
         1 -> listOf("There is *$singular*: ${first().toMarkdown(withImage = withImage)}")
         in 2..5 -> listOf("There are *$size $plural*: ${first().toMarkdown(withImage = withImage)}") + drop(1).map { game -> game.toMarkdown() }
         else -> listOf("There are *$size $plural*: ${joinToString { it.toMarkdown(withImage = false) }}")
     }
+
+    fun List<Game>.toMarkdownNumberedList() =
+        joinToString("\n") { "1. ${it.toMarkdown(withImage = false)}" }
 
     // Set up: Telegram notification
     val telegramClient = TelegramClient(apiKey = readSystemPropertyOrNull("TELEGRAM_BOT_APIKEY")!!)
@@ -86,7 +91,7 @@ launchKotlinScriptToolbox(
 
         // 2. Send notifications: Telegram
         newGames
-            .toMarkdownMessages(withImage = true, singular = "a new game", plural = "new games")
+            .toMarkdownForTelegram(withImage = true, singular = "a new game", plural = "new games")
             .forEach { message -> sendTelegramMessage(message) }
 
         // ## New demos: assuming `it.button != null` means "has demo"
@@ -98,13 +103,37 @@ launchKotlinScriptToolbox(
 
         // 2. Send notifications: Telegram
         newGamesDemo
-            .toMarkdownMessages(withImage = true, singular = "a new demo", plural = "new demos")
+            .toMarkdownForTelegram(withImage = true, singular = "a new demo", plural = "new demos")
             .forEach { message -> sendTelegramMessage(message) }
+
+        // ## Update changelog (in `/data/` folder)
+        if (newGames.isNotEmpty() || newGamesDemo.isNotEmpty()) {
+            val now = LocalDateTime.now()
+            val changelogFilename = "changelog-${now.year}.md"
+            writeText(
+                pathname = changelogFilename,
+                text = buildString {
+                    appendLine("## ${now.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))}")
+                    if (newGames.isNotEmpty()) {
+                        appendLine(if (newGames.size == 1) "1 new game" else "${newGames.size} new games")
+                        appendLine(newGames.toMarkdownNumberedList())
+                    }
+                    if (newGamesDemo.isNotEmpty()) {
+                        appendLine(if (newGamesDemo.size == 1) "1 new demo" else "${newGamesDemo.size} new demos")
+                        appendLine(newGamesDemo.toMarkdownNumberedList())
+                    }
+                    appendLine()
+
+                    val oldHistory = readTextOrNull(pathname = changelogFilename)
+                    if (oldHistory != null) append(oldHistory)
+                }
+            )
+        }
     }
 
     // # Update API (in `/data/` folder)
     writeJson("games.json", GameListResponse(api_version = 1, count = allGames.size, games = allGames))
-    writeText("games.md", allGames.joinToString("\n") { "1. ${it.toMarkdown(withImage = false)}" })
+    writeText("games.md", allGames.toMarkdownNumberedList())
 }
 
 exitProcess(status = 0)

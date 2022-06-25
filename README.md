@@ -1,21 +1,19 @@
 # stadia-games-api
 
-## Games list:
-- Full list `data/games.json` [View in GitHub](data/games.json) or [GitHub Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/games.json)
-- Full list for users with a Stadia account: https://stadia.google.com/store/list/3
-- Full list for users without a Stadia account: https://stadia.google.com/games
+## Data source:
+- Full public list: https://stadia.google.com/games (used by this bot)
+- Full list for registered users on Stadia: https://stadia.google.com/store/list/3
 
 ## Features
-- Daily auto update of this repository
-- Telegram notification if there are new games
-- Telegram notification if there are new timed demo
+- `data/games.json` - Full list in Json: [View in GitHub](data/games.json) or [GitHub Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/games.json)
+- `data/games.md` - Full list in Markdown: [View in GitHub](data/games.md) or [GitHub Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/games.md)
+- `data/changelog-2022.md` - Changelog by year in Markdown: [View in GitHub](data/changelog-2022.md) or [GitHub Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/changelog-2022.md)
+- Daily automatic update of this repository
+- Notification: If there are new games
+- Notification: If there are new demos
 
 ## Upcoming features
 - Add Twitter support
-- Add Markdown files in `data/`
-- Markdown: Full list `data/games.md`
-- Markdown: History by years `data/updates-2022.md`
-- Json: History by years `data/updates-2022.json`
 
 ## Notes
 - This repository helped me (by accident) to discover new timed demos - https://www.reddit.com/r/Stadia/comments/vjypss/35_new_timed_demos_were_released_today/
