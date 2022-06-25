@@ -1,8 +1,7 @@
 # stadia-games-api
 
 ## Games list:
-- Open `data/games.json` [View in GitHub](data/games.json)
-- Open `data/games.json` [GitHub Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/games.json)
+- Full list `data/games.json` [View in GitHub](data/games.json) or [GitHub Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/games.json)
 - Full list for users with a Stadia account: https://stadia.google.com/store/list/3
 - Full list for users without a Stadia account: https://stadia.google.com/games
 
@@ -12,7 +11,11 @@
 
 ## Upcoming features
 - Telegram notification if there are new timed demo
-- ...
+- Add Twitter support
+- Add Markdown files in `data/`
+- Markdown: Full list `data/games.md`
+- Markdown: History by years `data/updates-2022.md`
+- Json: History by years `data/updates-2022.json`
 
 ## Notes
 - This repository helped me (by accident) to discover new timed demos - https://www.reddit.com/r/Stadia/comments/vjypss/35_new_timed_demos_were_released_today/
