@@ -25,6 +25,10 @@ jobs:
         env:
           TELEGRAM_BOT_APIKEY: ${{ secrets.TELEGRAM_BOT_APIKEY }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
         run: kotlinc -script ./update-api.main.kts
 
       # Commit modified files

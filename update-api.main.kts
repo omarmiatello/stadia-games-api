@@ -6,22 +6,37 @@
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
+import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.gson
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.readJsonOrNull
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.writeJson
 import com.github.omarmiatello.telegram.ParseMode
 import com.github.omarmiatello.telegram.TelegramClient
+import io.ktor.client.*
+import io.ktor.client.request.*
+import okio.ByteString
 import org.jsoup.Jsoup
 import java.net.URL
+import java.net.URLEncoder
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
+import java.util.*
+import javax.crypto.Mac
+import javax.crypto.spec.SecretKeySpec
 import kotlin.system.exitProcess
 
 // Models (data classes)
+data class TweetMessage(val text: String)
 data class GameListResponse(val api_version: Int, val count: Int, val games: List<Game>)
 data class Game(val title: String, val url: String, val img: String, val button: String?) {
     fun toMarkdown(withImage: Boolean = true) = buildString {
         if (withImage) append("[\u200B]($img)")
         append("[$title]($url)")
+        if (button != null) append(" - $button")
+    }
+
+    fun toPlainTextForTwitter(withUrl: Boolean = true) = buildString {
+        append(title)
+        if (withUrl) append(" $url")
         if (button != null) append(" - $button")
     }
 }
@@ -32,11 +47,18 @@ launchKotlinScriptToolbox(
 ) {
 
     // Set up: Games converter
-    fun List<Game>.toMarkdownForTelegram(withImage: Boolean, singular: String, plural: String) = when (size) {
+    fun List<Game>.toTelegramMessages(singular: String, plural: String, withImage: Boolean) = when (size) {
         0 -> emptyList()
         1 -> listOf("There is *$singular*: ${first().toMarkdown(withImage = withImage)}")
         in 2..5 -> listOf("There are *$size $plural*: ${first().toMarkdown(withImage = withImage)}") + drop(1).map { game -> game.toMarkdown() }
         else -> listOf("There are *$size $plural*: ${joinToString { it.toMarkdown(withImage = false) }}")
+    }
+
+    fun List<Game>.toTwitterMessages(singular: String, plural: String) = when (size) {
+        0 -> emptyList()
+        1 -> listOf("There is $singular: ${first().toPlainTextForTwitter()}")
+        in 2..5 -> map { game -> "There are $size $plural, including: ${game.toPlainTextForTwitter()}" }
+        else -> listOf("There are $size $plural: ${joinToString { it.toPlainTextForTwitter(withUrl = false) }}")
     }
 
     fun List<Game>.toMarkdownNumberedList() =
@@ -53,6 +75,35 @@ launchKotlinScriptToolbox(
             parse_mode = ParseMode.Markdown,
             disable_web_page_preview = false
         )
+    }
+
+    // Set up: Twitter notification
+    val httpClient = HttpClient()
+    val twitterConsumerKey = readSystemPropertyOrNull("TWITTER_CONSUMER_KEY")!!
+    val twitterConsumerSecret = readSystemPropertyOrNull("TWITTER_CONSUMER_SECRET")!!
+    val twitterAccessKey = readSystemPropertyOrNull("TWITTER_ACCESS_KEY")!!
+    val twitterAccessSecret = readSystemPropertyOrNull("TWITTER_ACCESS_SECRET")!!
+    suspend fun sendTweetMessage(text: String) {
+        println("🐣 --> $text")
+        val response: String = httpClient.post("https://api.twitter.com/2/tweets") {
+            header("Content-Type", "application/json")
+
+            val nonce: String = UUID.randomUUID().toString()
+            val timestamp: Long = System.currentTimeMillis() / 1000L
+            fun String.encodeUtf8() = URLEncoder.encode(this, "UTF-8").replace("+", "%2B")
+            val urlEncoded = url.buildString().encodeUtf8()
+            val paramEncoded = "oauth_consumer_key=$twitterConsumerKey&oauth_nonce=$nonce&oauth_signature_method=HMAC-SHA1&oauth_timestamp=$timestamp&oauth_token=$twitterAccessKey&oauth_version=1.0".encodeUtf8()
+            val signature = Mac.getInstance("HmacSHA1")
+                .apply { init(SecretKeySpec("$twitterConsumerSecret&$twitterAccessSecret".toByteArray(), "HmacSHA1")) }
+                .doFinal("${method.value}&$urlEncoded&$paramEncoded".toByteArray())
+                .let { ByteString.of(*it) }
+                .base64()
+                .encodeUtf8()
+
+            header("Authorization", """OAuth oauth_consumer_key="$twitterConsumerKey", oauth_nonce="$nonce", oauth_signature="$signature", oauth_signature_method="HMAC-SHA1", oauth_timestamp="$timestamp", oauth_token="$twitterAccessKey", oauth_version="1.0"""")
+            body = gson.toJson(TweetMessage(text))
+        }
+        println("🐥 <-- $response")
     }
 
     // # Parse games from https://stadia.google.com/games
@@ -82,10 +133,9 @@ launchKotlinScriptToolbox(
             .toSet()
             .let { oldGamesTitles -> allGames.filter { it.title !in oldGamesTitles } }
 
-        // 2. Send notifications: Telegram
-        newGames
-            .toMarkdownForTelegram(withImage = true, singular = "a new game", plural = "new games")
-            .forEach { message -> sendTelegramMessage(message) }
+        // 2. Send notifications
+        newGames.toTelegramMessages(singular = "a new game", plural = "new games", withImage = true).forEach { sendTelegramMessage(it) }
+        newGames.toTwitterMessages(singular = "a new game", plural = "new games").forEach { sendTweetMessage(it) }
 
         // ## New demos: assuming `it.button != null` means "has demo"
         // 1. Find new demos
@@ -94,10 +144,9 @@ launchKotlinScriptToolbox(
             .associate { it.title to it.button!! }
             .let { oldGamesDemosMap -> allGames.filter { it.button != null && oldGamesDemosMap[it.title] != it.button } }
 
-        // 2. Send notifications: Telegram
-        newGamesDemo
-            .toMarkdownForTelegram(withImage = true, singular = "a new demo", plural = "new demos")
-            .forEach { message -> sendTelegramMessage(message) }
+        // 2. Send notifications
+        newGamesDemo.toTelegramMessages(singular = "a new demo", plural = "new demos", withImage = true).forEach { sendTelegramMessage(it) }
+        newGamesDemo.toTwitterMessages(singular = "a new demo", plural = "new demos").forEach { sendTweetMessage(it) }
 
         // ## Update changelog (in `/data/` folder)
         if (newGames.isNotEmpty() || newGamesDemo.isNotEmpty()) {
