@@ -48,7 +48,7 @@ launchKotlinScriptToolboxZeroSetup(
         1 -> listOf("There is $singular: ${first().toPlainTextForTwitter()}")
         in 2..5 -> map { game -> "There are $size $plural, including: ${game.toPlainTextForTwitter()}" }
         else -> listOf("There are $size $plural: ${joinToString { it.toPlainTextForTwitter(withUrl = false) }}")
-    }
+    }.map { it.take(280) }
 
     fun List<Game>.toMarkdownNumberedList() =
         joinToString("\n") { game -> "1. ${game.toMarkdown(withImage = false)}" }
