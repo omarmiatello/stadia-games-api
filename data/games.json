@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 377,
+  "count": 379,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -20,7 +20,8 @@
     {
       "title": "Adam Wolfe",
       "url": "https://stadia.google.com/game/adam-wolfe",
-      "img": "https://lh3.googleusercontent.com/Fz68RblnsLubtvKk_rJnrqdCuIMtzv_J9bMoxdKiPV9aAkw-PPi11v06cKLgiwFpNfIzcF5h5V5RS1If0HKJyADijEE8l4eQGM_-KueC0SdT22UzJgRckn2BKQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/Fz68RblnsLubtvKk_rJnrqdCuIMtzv_J9bMoxdKiPV9aAkw-PPi11v06cKLgiwFpNfIzcF5h5V5RS1If0HKJyADijEE8l4eQGM_-KueC0SdT22UzJgRckn2BKQ\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "Adventure Time: Pirates of the Enchiridion",
@@ -31,7 +32,8 @@
     {
       "title": "Ary and the Secret of Seasons",
       "url": "https://stadia.google.com/game/ary-and-the-secret-of-seasons",
-      "img": "https://lh3.googleusercontent.com/_JC7BzzEzYKWheexqC18WaGLFbyF2Os1gB3ULObcWmd_BcemU-CqSyM8GXehLRQKTb3xEiMKpeoWheL-9vB-yUH3ePyGo0BQEIB6iuxvG8pDCRACUqXsfOjC3-g\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/_JC7BzzEzYKWheexqC18WaGLFbyF2Os1gB3ULObcWmd_BcemU-CqSyM8GXehLRQKTb3xEiMKpeoWheL-9vB-yUH3ePyGo0BQEIB6iuxvG8pDCRACUqXsfOjC3-g\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "Assassin\u0027s Creed Black Flag",
@@ -96,23 +98,23 @@
     {
       "title": "Assassin\u0027s Creed Valhalla",
       "url": "https://stadia.google.com/game/assassins-creed-valhalla",
-      "img": "https://lh3.googleusercontent.com/7al3Mqv3RkYu-v4DL9vhiWHfsMLpc_IHHpthd4r5KlwBQohCCND1jac6Bsw9tjuIBpWA0M1f2S7plurbPWkrrfa16bBGD3kyBs35gASW94ecVHvLFgs0E7CkyiPk\u003dw300-h400-rw-no-v1-nu",
+      "img": "https://lh3.googleusercontent.com/W45w1sGEhxHj-ZOO2HtlR9SJHOYOfjo7aSVzdlSPEffui5b54bOEJTOTsnG43xsPQ5pSUFWAUCs27eWbu8f8V9SN5jgp2QLzwNnoLFymqAmBZ9L-4HJRJsvF8eVI\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 120 min"
     },
     {
       "title": "Assassin\u0027s Creed Valhalla Complete Edition",
       "url": "https://stadia.google.com/game/ssassins-creed-valhalla-complete-edition",
-      "img": "https://lh3.googleusercontent.com/kqDWJI_51t8bxXD8WOL8Qy16JEX1YjSCo64Nkk4KEXl-VWpCEfp9a-dMFI0TH71UzRDALobVJk9k9YvgS3pm6xf4rHMhwhq8Eznj-NZx8ZygcE8klaqnilGlxSM\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/Nam5IOYBySI-PIusJ7c0ljtpf25PbJP7i4Fd5VyjQyrjH4ihjvZ-9yj6Ym6_nvWP71hoBm8a4G0p8hD2zqyqvmm3V9cX_OQ9QC-q2TL75wzL_GxLrI4ZtGELrLI\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Assassin\u0027s Creed Valhalla Ragnarök Edition",
       "url": "https://stadia.google.com/game/ssassins-creed-valhalla-ragnarok-edition",
-      "img": "https://lh3.googleusercontent.com/PLeblCzP7TG4YDecRUcaLN5ilx69FHsQzTEigbG1J86ieK6FGHju_sHhr-VSD_4XOgt300j5grmI6o_jTuPixZiif8kMncVnm7Ri9y082Rc-kx33AYO7qJuj2w\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/UD_zgVn9taxdSpQQz1zZUzhsmy2QvsvzPAdrOj-YRrYTKchESO2DhvuLrVPYHgzggF0Ggu6Umco9TMKCujOKBRbAWKa7zQ5Qr31AUuOkxg1r8liVMHX9kMImMg\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Assassin\u0027s Creed® Valhalla Deluxe Edition",
       "url": "https://stadia.google.com/game/assassins-creed-valhalla-deluxe-edition",
-      "img": "https://lh3.googleusercontent.com/OSr_VvAZGOhL5yEVtXiSa-ZXOZzmT4wLB60dOr-bbrpjKK205KIzvjTSRhoyXgN3_gQmfiyu7jj0BKxCa-1eXKCY98oPzbhWg8TDToesaRtj0gtijpDUVkX4Jdg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/ZgP80vFQQlgfNzpK2Vk9GA-VOlPpc3Svjhk4mRhxre8XKjWXBWhh2uX-3VvEuIyNqO-HDkVN4TKFBt2BZJ1KeuFc4-6Tri4j_4XCy2-aLOc9uL0AhnvkVZEF4wE\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Assassin’s Creed Liberation HD",
@@ -127,7 +129,7 @@
     {
       "title": "Baldur\u0027s Gate 3 Early Access",
       "url": "https://stadia.google.com/game/baldurs-gate-3",
-      "img": "https://lh3.googleusercontent.com/irRLrVtdjJK6D7j34QkjuPDONRsDXDbYacU3IcPY_W-gal8qPHjIbW7xYJEzJOR7C9LYREcgW3tmk0Tx2xlefof0V0d0_8Pkewhv6t5kZDN9b0gJyv-BTsiCXFg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/EGp-JArBM5dHU91QM-m4tqUQGyE-rAK-61rPsi91TCY2EP2CxaK9EYmAf3IvyOB0okMAHqyXgEjiZwe1h60SmqwPeBRbQSAiaaFgZlYpsDvkZKPb55EX3edqfOQ\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Ben 10: Power Trip",
@@ -149,7 +151,8 @@
     {
       "title": "Blue Fire",
       "url": "https://stadia.google.com/game/blue-fire",
-      "img": "https://lh3.googleusercontent.com/tTAPTYnoFHq1wB38Z4r2rxsNKJDNkcDb8G7JtjjtGVRt8VtATnlC16uTe8DwHgcLzkdWVvCoap5Fvt5G_S9TkTGrXhMDjxk0nz2_hjf5ySkOUWFNZOkMJ7FbxhoF\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/tTAPTYnoFHq1wB38Z4r2rxsNKJDNkcDb8G7JtjjtGVRt8VtATnlC16uTe8DwHgcLzkdWVvCoap5Fvt5G_S9TkTGrXhMDjxk0nz2_hjf5ySkOUWFNZOkMJ7FbxhoF\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "Borderlands®3",
@@ -228,7 +231,8 @@
     {
       "title": "City Legends - The Curse of the Crimson Shadow CE",
       "url": "https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce",
-      "img": "https://lh3.googleusercontent.com/YPo2O0oOlT_j4oz8tkk83F1y8MRheS8drxZnFuShlJQxJ2JuKdYKnjknJVo5rIlzkuN8FNbEthKj8qJ48mCE84vb6pZD6TDx2kHYL1etZTBHjthU_2Dm9DV6PA4\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/YPo2O0oOlT_j4oz8tkk83F1y8MRheS8drxZnFuShlJQxJ2JuKdYKnjknJVo5rIlzkuN8FNbEthKj8qJ48mCE84vb6pZD6TDx2kHYL1etZTBHjthU_2Dm9DV6PA4\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "Control Ultimate Edition",
@@ -248,7 +252,8 @@
     {
       "title": "Cris Tales",
       "url": "https://stadia.google.com/game/cris-tales",
-      "img": "https://lh3.googleusercontent.com/KZBekny3ov9TbqMa0x8Ax6RHNRWlLe_pQEH-JnRQb8R_KWIFJ1fA4xaM4H05SuPXJa2mB2fb422gpo6H5bkWAaKym-0DY1wVFkMi5NLnF0fkcnRa_RphPP6dDQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/KZBekny3ov9TbqMa0x8Ax6RHNRWlLe_pQEH-JnRQb8R_KWIFJ1fA4xaM4H05SuPXJa2mB2fb422gpo6H5bkWAaKym-0DY1wVFkMi5NLnF0fkcnRa_RphPP6dDQ\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "Cthulhu Saves Christmas",
@@ -404,22 +409,22 @@
     {
       "title": "Destiny 2",
       "url": "https://stadia.google.com/game/destiny-2",
-      "img": "https://lh3.googleusercontent.com/dP2ObxdKD1nbJvfFrjaI2chN-EyAe3NhVa-1EzAONY2Xiw_hhWVmb8V4tQYHiDHjcHVVK3Bp6aycLV0jt2mxlcHgCauMYv-ChwBZjDhlDTpnRpyKJUhZRWPk4DU\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/FCvBJyImFLVejB-fzX7mtFcj9UhlV2-sQ_U-B6t7terr66K7ERHwnALw8Yv9O78ztWTz9xDGdgGkwKOcC29gnffdXgWt7mjaFEjoCD8GIaJ6WRK4YEhrSvUsXvM\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Destiny 2: Legacy Collection",
       "url": "https://stadia.google.com/game/destiny-2-legacy-collection",
-      "img": "https://lh3.googleusercontent.com/ZnellhR5w4cxxc9zGd1KlrVlQwr9JYgptkq4DN5aj86uIDuhHEFBg_NhrjOv7hYXIznLYXucawKk0OeJsnCKvw0dI_Hq7mJSNvOAU3W4S9-PwCNnQXeuCXfz2A\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/S981Nm3t8DJBXv3QfC1l_V2aFlqb6Z3J5AQBh42utcJw8-zs-og3kvPCozdRpz0vqkUNVnUs19Wf4H_XTXUQI1BTo8VCOJJsBUEHk0c1ie3zcyubi5xEmOADhQ\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Destiny 2: The Witch Queen Deluxe + 30th Anniv. Bundle",
       "url": "https://stadia.google.com/game/destiny-2-the-witch-queen-deluxe-30th-anniv",
-      "img": "https://lh3.googleusercontent.com/RLEhoH0ko0I-piGrwKrnkALsPd7HAj6m6WiNh0dIfMtq4kpQZ7Nsawx28EodJQSER5rAPJIiGV1nxKBAEnvNcmlKVuHb_4ZVacHx1TQlgSobIJ8Phxzpzod46_c\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/mhA_PCtC4WyroejSjg4XIkYSvTqiSGTkdoNSchmzfgnv9lxWmXKNzS9BKl809qZkg2q_UXIClKfW5lcH5rdZXcEq2-3Wd7AJVHhtUlvy-Kl-eCtfhw60rrw4Xlc\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Destiny 2: The Witch Queen Deluxe Edition",
       "url": "https://stadia.google.com/game/destiny-2-the-witch-queen-deluxe-edition",
-      "img": "https://lh3.googleusercontent.com/H31CcGp_6mvFxkQ-ConxXFLaYqGjq_dewMi7HruinNFTywl1lfaFfp7rhdU5Hdrb2BIMQMNBDQq7d2M5xgZnsFWDYMTAKj9POUMpblu33rm7s0Gstj_3FjB64g\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/-HY0WVjcwQmT-Uh1bhN8_WCCA-73VuPfy5U6mas4ctob894SVIqkg0gXzZ5gZtUoM9Qxb0TI4nKKzgVx-38zzXdYx6VHS_vCJUshoEkzstpBn6ClRclRmsATJw\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Destroy All Humans!",
@@ -463,7 +468,7 @@
     {
       "title": "Elemental War 2",
       "url": "https://stadia.google.com/game/elemental-war-2",
-      "img": "https://lh3.googleusercontent.com/r5s38gQm8NTMZMOz5RKoL1YqIRwg3MdKgXoN-m3sF06E4B1gi4RdEwfI-qiW3Thy_unVCg0n7olrKuxJU457EHvAE-uiruDyyI1-i6AouS-SeF3LxaBdILM60p6d\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/4Jh0F1RYin00gVQYreCaGqsZlbG0FfhT54V_UemLBzEJRHI4n-Pop5drSpUBjGeOwdgKZb5K9SHwfm4q5U5Rt31faCYbw2txynSoOZtGgiYUCT_EKIO32X8XQLhM\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Embr",
@@ -817,7 +822,8 @@
     {
       "title": "Jotun: Valhalla Edition",
       "url": "https://stadia.google.com/game/jotun-valhalla-edition",
-      "img": "https://lh3.googleusercontent.com/fHIezI1hNQosnb7i24y17TlnnAqc1q1hqQgvANATu890i4-vcPEmf-drwLF9CAluSsjxXobzIi_8xnJN2rqvw7UuLY6C2sMDhX1mPSr3uHStDZVBeirvAs8_aud7\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/fHIezI1hNQosnb7i24y17TlnnAqc1q1hqQgvANATu890i4-vcPEmf-drwLF9CAluSsjxXobzIi_8xnJN2rqvw7UuLY6C2sMDhX1mPSr3uHStDZVBeirvAs8_aud7\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "Journey to the Savage Planet",
@@ -940,7 +946,8 @@
     {
       "title": "Lost Words: Beyond the Page",
       "url": "https://stadia.google.com/game/lost-words-beyond-the-page",
-      "img": "https://lh3.googleusercontent.com/D9fxH2bNwH8gTvX1kLTRws3_kt_-yVEP-7579RSVXvrZxOlwPiEpmivCmggMh-XS9JFx2tUXUsDPbViMqpcbGh7Um9mVMajUpTLjA_6BjyJwAgSob1KqGNgWlDw\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/D9fxH2bNwH8gTvX1kLTRws3_kt_-yVEP-7579RSVXvrZxOlwPiEpmivCmggMh-XS9JFx2tUXUsDPbViMqpcbGh7Um9mVMajUpTLjA_6BjyJwAgSob1KqGNgWlDw\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "Lumote: The Mastermote Chronicles",
@@ -962,6 +969,12 @@
       "title": "MY HERO ONE\u0027S JUSTICE 2 for STADIA™",
       "url": "https://stadia.google.com/game/my-hero-ones-justice-2-for",
       "img": "https://lh3.googleusercontent.com/IDZNWdNVJL4bPikfO9gzh17tn9iU9VkRTWHVZxuRguUePjCok_QvFYoi5KHBvDUC3K9EEh3IApbnqpT63Bx_iOyihZs3SkdeVkXPaivMI10adRYCqxozbfdirPnv\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "MY LITTLE PONY: A Maretime Bay Adventure",
+      "url": "https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure",
+      "img": "https://lh3.googleusercontent.com/7oXr6E4tFET_9UazfNnQWhnnKOO9SixkELdxJUdHKb0w5OfFpbOA-8HLZoCbk6Xad3xHYx4LC65gDmY-vVZz5Pc7nwROX82WIz45V6T15MiKpa9ln1HggX8YlaI\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "Mad Streets",
@@ -996,12 +1009,12 @@
     {
       "title": "Marvel\u0027s Avengers",
       "url": "https://stadia.google.com/game/marvels-avengers",
-      "img": "https://lh3.googleusercontent.com/TiIpLN7hsxcSlWd8P4IJL6LZ5H3d5KbqykliXUrl-qlJiLX5u1BI24aS7vw7Tfx-bxLkJdBltlMTbdOMXLtfQ69T8Z6LxhliiWf0kRB6X_8YngEpCpkyXLB6vA\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/tlTbUIr83QvJNyaewXZQDs-tVSvtmWtuJK38vVTCI1-SgGxzpIzA5auvwCTGFUepn4lT8TeQmb2M6PmXiVXOs1aPkw6eaTi2T7CVTGs7XS6ZzfbnoCkXbqlYrw\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Marvel\u0027s Avengers: Endgame Edition",
       "url": "https://stadia.google.com/game/marvels-avengers-endgame-edition",
-      "img": "https://lh3.googleusercontent.com/y8SUYf7QzHcwdUHiyoAnYiTs03YVYY_0yfmADZkOBAGU695437ioK3qZeNgUw-5ltmptxmsVr2q7l-rqOd_SnqvT7z_oRJe5U8NnLubSo-oXLVrgLmamFoqCHw\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/ubZr25hMp46a0MBEnmta-197TThzt2JChxQkFMcK0AvF3XYf-sCu9zfUkRn3tw0aLKghkGg7qq4PMJnAhBoId0Dnq6OS0DIT7q7jmK24oBhJOqJJ59CbcE4gCg\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Merek\u0027s Market",
@@ -1089,7 +1102,8 @@
     {
       "title": "Murder by Numbers",
       "url": "https://stadia.google.com/game/murder-by-numbers",
-      "img": "https://lh3.googleusercontent.com/HuXns29OYkEsZvSrq-P5vAeCFbrBDgrm2houJSg67jIU_IlrEiZJ5z_4faDoppfukmaohOJT_IjKANuG_skQwkWB6TTDRJ-3MlzoDBIaUAgf9-nqU0KwiKrTIA\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/HuXns29OYkEsZvSrq-P5vAeCFbrBDgrm2houJSg67jIU_IlrEiZJ5z_4faDoppfukmaohOJT_IjKANuG_skQwkWB6TTDRJ-3MlzoDBIaUAgf9-nqU0KwiKrTIA\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "My Friend Peppa Pig",
@@ -1144,9 +1158,14 @@
     },
     {
       "title": "OUTRIDERS",
-      "url": "https://stadia.google.com/game/outriders",
-      "img": "https://lh3.googleusercontent.com/C3ScaqNlpZtXmCOPtvxGHENnhw4l1-4tI_xdSOHZCE7AwrrJNWqzdQp3BS5t439pXuskL-dAtCByhb2otXHLU0jLaVBvhW-DU4B7a1HqS3SdL-fvbQ5q9U4a4tU\u003dw300-h400-rw-no-v1-nu",
-      "button": "Play for 90 min"
+      "url": "https://stadia.google.com/game/outriders-game",
+      "img": "https://lh3.googleusercontent.com/9a5F7AFbSgP9XvFBn2g35RlY7t_hOT6QL_QUluwHnYG7wIelE4jnExoJQrH1hWfERrRcFImNhvu5PJtVt5uVGbAB6DltybTfmkcWqeu4Ef7zkmp2_RiAKrKMdDBn\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "OUTRIDERS WORLDSLAYER EDITION",
+      "url": "https://stadia.google.com/game/outriders-worldslayer-edition",
+      "img": "https://lh3.googleusercontent.com/sK2lorMt6H9xYW25Y7D58B2RVUmri2DSs4WJDREKSz4Pj3HBcsImOFOIo2SMoNv-qLwN5pJ8EgezzdGDg6QVol2KOxLJT660j-VuNC72vlriJttIojpMJn5McEM\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 45 min"
     },
     {
       "title": "Olympic Games Tokyo 2020 – The Official Video Game™",
@@ -1375,7 +1394,8 @@
     {
       "title": "Rock of Ages 3: Make \u0026 Break",
       "url": "https://stadia.google.com/game/rock-of-ages-3-make-break",
-      "img": "https://lh3.googleusercontent.com/u2wX1JY4-ze_uCAvu4FyyI25TG8mJCNacKtMSk6yHQn_VAAO9MtY3QMSBx-6YTcEPvSQIP3u3crpz22FPuzas0kY3t2On9j-e6_HFx3UTYgyPeVQGdRpCFJE-g\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/u2wX1JY4-ze_uCAvu4FyyI25TG8mJCNacKtMSk6yHQn_VAAO9MtY3QMSBx-6YTcEPvSQIP3u3crpz22FPuzas0kY3t2On9j-e6_HFx3UTYgyPeVQGdRpCFJE-g\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "Ryan\u0027s Rescue Squad",
@@ -1481,7 +1501,8 @@
     {
       "title": "Spiritfarer: Farewell Edition",
       "url": "https://stadia.google.com/game/spiritfarer-farewell-edition",
-      "img": "https://lh3.googleusercontent.com/HM976bRmL_Gkn1z_ps8ZxSN89xx9K75_J5DDJPT00P2z_N18Z2KjLGgzC0XvXKqJrXedi5Tmxh_X7E2n2l_OWAtyx6rqzaqv7YbY8CBeaGRtRiejj5FinWu-8c8g\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/HM976bRmL_Gkn1z_ps8ZxSN89xx9K75_J5DDJPT00P2z_N18Z2KjLGgzC0XvXKqJrXedi5Tmxh_X7E2n2l_OWAtyx6rqzaqv7YbY8CBeaGRtRiejj5FinWu-8c8g\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "Spitlings",
@@ -1549,18 +1570,20 @@
     {
       "title": "Sundered: Eldritch Edition",
       "url": "https://stadia.google.com/game/sundered-eldritch-edition",
-      "img": "https://lh3.googleusercontent.com/FXUDcnGp6OzwRiIheMWEQFNZqsrFFMUx8QDV8k8hFIuAgqOM4zjcv9iMMD7D9rRBJYAgifVFkcLjrOXTFjKxnbLjMeFDh6sN-p1dlytztios7u9B8plAmUHFvQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/FXUDcnGp6OzwRiIheMWEQFNZqsrFFMUx8QDV8k8hFIuAgqOM4zjcv9iMMD7D9rRBJYAgifVFkcLjrOXTFjKxnbLjMeFDh6sN-p1dlytztios7u9B8plAmUHFvQ\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "Super Animal Royale",
       "url": "https://stadia.google.com/game/super-animal-royale",
-      "img": "https://lh3.googleusercontent.com/qufgQIhq4ADRIWV9E_AHCGCKs91yVp9s3gNnJhhCSQdwcNWF3nS6fMb1ug00Y50choHMY65Hn2Sb6dKFWMRrUUFAyvqmaZucJyajz2CWKokl4FQaBLlycNmQew\u003dw300-h400-rw-no-v1-nu",
+      "img": "https://lh3.googleusercontent.com/k2FFnfTPXp_M4_6yoUz4kkEL5504SUaM_bFmTtipFKEG7L6hdfs9aKb8qzRu9LG4-BKvPkivExv5IsWPoPIqmRo_nsOXPXWIF-kWOrEVs05x9lkKSysYUOj3mw\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 60 min"
     },
     {
       "title": "TOHU",
       "url": "https://stadia.google.com/game/tohu",
-      "img": "https://lh3.googleusercontent.com/4cLOrmmOeCkvR0tiiY-gv4rGadeo6U_6e0pdcFL5YIgI9kUsskLOhNOj5fNExqGuVQJZM5Uep4r55jbJcXSCbDs4_ZEG61gaKpf9mW_CpvIUukpVM1QNKspfRek\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/4cLOrmmOeCkvR0tiiY-gv4rGadeo6U_6e0pdcFL5YIgI9kUsskLOhNOj5fNExqGuVQJZM5Uep4r55jbJcXSCbDs4_ZEG61gaKpf9mW_CpvIUukpVM1QNKspfRek\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "TRANSFORMERS: BATTLEGROUNDS - Complete Edition",

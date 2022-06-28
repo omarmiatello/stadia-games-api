@@ -1,9 +1,9 @@
 1. [A Place for the Unwilling](https://stadia.google.com/game/a-place-for-the-unwilling)
 1. [ARK: Survival Evolved](https://stadia.google.com/game/ark-survival-evolved)
 1. [AVICII Invector](https://stadia.google.com/game/avicii-invector)
-1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe)
+1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/dventure-time-pirates-of-the-enchiridion) - Play for 30 min
-1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons)
+1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
 1. [Assassin's Creed Black Flag](https://stadia.google.com/game/assassins-creed-black-flag)
 1. [Assassin's Creed Black Flag Gold Edition](https://stadia.google.com/game/assassins-creed-black-flag-gold-edition)
 1. [Assassin's Creed III Remastered](https://stadia.google.com/game/assassins-creed-iii-remastered)
@@ -26,7 +26,7 @@
 1. [Ben 10: Power Trip](https://stadia.google.com/game/ben-10-power-trip) - Play for 30 min
 1. [Blaze and the Monster Machines: Axle City Racers](https://stadia.google.com/game/blaze-and-the-monster-machines-axle-city-racers) - Play for 60 min
 1. [Bloodstained: Ritual of the Night](https://stadia.google.com/game/bloodstained-ritual-of-the-night)
-1. [Blue Fire](https://stadia.google.com/game/blue-fire)
+1. [Blue Fire](https://stadia.google.com/game/blue-fire) - Play for 60 min
 1. [Borderlands®3](https://stadia.google.com/game/borderlands3)
 1. [Borderlands®3: Super Deluxe Edition](https://stadia.google.com/game/borderlands3-super-deluxe-edition)
 1. [Borderlands®3: Ultimate Edition](https://stadia.google.com/game/borderlands3-ultimate-edition)
@@ -41,11 +41,11 @@
 1. [Cities: Skylines - Collection](https://stadia.google.com/game/cities-skylines-collection)
 1. [Cities: Skylines - New Player Bundle](https://stadia.google.com/game/cities-skylines-new-player-bundle)
 1. [Cities: Skylines - Stadia™ Edition](https://stadia.google.com/game/cities-skylines-stadia-edition) - Play for 60 min
-1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce)
+1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min
 1. [Control Ultimate Edition](https://stadia.google.com/game/control)
 1. [Cosmic Star Heroine](https://stadia.google.com/game/cosmic-star-heroine)
 1. [Crayta](https://stadia.google.com/game/crayta)
-1. [Cris Tales](https://stadia.google.com/game/cris-tales)
+1. [Cris Tales](https://stadia.google.com/game/cris-tales) - Play for 60 min
 1. [Cthulhu Saves Christmas](https://stadia.google.com/game/cthulhu-saves-christmas)
 1. [Cyberpunk 2077](https://stadia.google.com/game/cyberpunk2077)
 1. [DEATHRUN TV](https://stadia.google.com/game/deathrun-tv) - Play for 30 min
@@ -155,7 +155,7 @@
 1. [Immortals Fenyx Rising™ Stadia](https://stadia.google.com/game/immortals-fenyx-rising)
 1. [Into the Breach](https://stadia.google.com/game/into-the-breach)
 1. [It Came From Space And Ate Our Brains](https://stadia.google.com/game/from-space)
-1. [Jotun: Valhalla Edition](https://stadia.google.com/game/jotun-valhalla-edition)
+1. [Jotun: Valhalla Edition](https://stadia.google.com/game/jotun-valhalla-edition) - Play for 30 min
 1. [Journey to the Savage Planet](https://stadia.google.com/game/journey-to-the-savage-planet)
 1. [Judgment](https://stadia.google.com/game/judgment)
 1. [Just Dance® 2021](https://stadia.google.com/game/just-dance-2021)
@@ -179,11 +179,12 @@
 1. [Little Nightmares](https://stadia.google.com/game/little-nightmares)
 1. [Little Nightmares Complete Edition](https://stadia.google.com/game/little-nightmares-complete-edition) - Play for 30 min
 1. [Little Nightmares II](https://stadia.google.com/game/little-nightmares-ii)
-1. [Lost Words: Beyond the Page](https://stadia.google.com/game/lost-words-beyond-the-page)
+1. [Lost Words: Beyond the Page](https://stadia.google.com/game/lost-words-beyond-the-page) - Play for 30 min
 1. [Lumote: The Mastermote Chronicles](https://stadia.google.com/game/lumote-the-mastermote-chronicles) - Play for 30 min
 1. [MONOPOLY + MONOPOLY Madness](https://stadia.google.com/game/monopoly-monopoly-madness)
 1. [MONOPOLY® Madness](https://stadia.google.com/game/monopoly-madness)
 1. [MY HERO ONE'S JUSTICE 2 for STADIA™](https://stadia.google.com/game/my-hero-ones-justice-2-for)
+1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min
 1. [Mad Streets](https://stadia.google.com/game/mad-streets)
 1. [Madden NFL 21](https://stadia.google.com/game/madden-nfl-21)
 1. [Madden NFL 21 Superstar Edition](https://stadia.google.com/game/madden-nfl-21-superstar-edition)
@@ -208,7 +209,7 @@
 1. [Mortal Kombat 11 Ultimate](https://stadia.google.com/game/mortal-kombat11-ultimate)
 1. [MotoGP™20](https://stadia.google.com/game/motogp20)
 1. [MotoGP™21](https://stadia.google.com/game/motogp21) - Play for 60 min
-1. [Murder by Numbers](https://stadia.google.com/game/murder-by-numbers)
+1. [Murder by Numbers](https://stadia.google.com/game/murder-by-numbers) - Play for 60 min
 1. [My Friend Peppa Pig](https://stadia.google.com/game/my-friend-peppa-pig) - Play for 30 min
 1. [NBA 2K20](https://stadia.google.com/game/nba-2k20)
 1. [NBA 2K20 Digital Deluxe](https://stadia.google.com/game/nba-2k20-digital-deluxe)
@@ -219,7 +220,8 @@
 1. [Nine To Five](https://stadia.google.com/game/nine-to-five)
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
 1. [ONE PIECE World Seeker Premium Edition](https://stadia.google.com/game/one-piece-world-seeker-premium-edition)
-1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min
+1. [OUTRIDERS](https://stadia.google.com/game/outriders-game)
+1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders-worldslayer-edition) - Play for 45 min
 1. [Olympic Games Tokyo 2020 – The Official Video Game™](https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game)
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
 1. [Orcs Must Die! 3](https://stadia.google.com/game/orcs-must-die-3)
@@ -263,7 +265,7 @@
 1. [Riders Republic™ Ultimate - Ubisoft + Edition](https://stadia.google.com/game/riders-republic-ultimate-ubisoft-edition)
 1. [Rise of the Tomb Raider: 20 Year Celebration](https://stadia.google.com/game/rise-of-the-tomb-raider-20-year-celebration)
 1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 60 min
-1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break)
+1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min
 1. [République](https://stadia.google.com/game/republique)
 1. [SAMURAI SHODOWN (Standard Ver.)](https://stadia.google.com/game/samurai-shodown)
@@ -284,7 +286,7 @@
 1. [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/game/shantae-riskys-revenge-directors-cut)
 1. [Sniper Elite 4](https://stadia.google.com/game/sniper-elite-4)
 1. [Sniper Elite 4: Deluxe Edition](https://stadia.google.com/game/sniper-elite-4-deluxe-edition)
-1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition)
+1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min
 1. [Spitlings](https://stadia.google.com/game/spitlings) - Play for 30 min
 1. [SpongeBobSquarePants:Battle for Bikini BottomRehydrated](https://stadia.google.com/game/spongebobsquarepantsbattle-for-bikini-bottomrehydrated) - Play for 30 min
 1. [Stacks On Stacks (On Stacks)](https://stadia.google.com/game/stacks-on-stacks)
@@ -297,9 +299,9 @@
 1. [Street Power Football](https://stadia.google.com/game/street-power-football)
 1. [Streets of Rage 4](https://stadia.google.com/game/streets-of-rage-4)
 1. [Submerged: Hidden Depths](https://stadia.google.com/game/submerged-hidden-depths)
-1. [Sundered: Eldritch Edition](https://stadia.google.com/game/sundered-eldritch-edition)
+1. [Sundered: Eldritch Edition](https://stadia.google.com/game/sundered-eldritch-edition) - Play for 30 min
 1. [Super Animal Royale](https://stadia.google.com/game/super-animal-royale) - Play for 60 min
-1. [TOHU](https://stadia.google.com/game/tohu)
+1. [TOHU](https://stadia.google.com/game/tohu) - Play for 30 min
 1. [TRANSFORMERS: BATTLEGROUNDS - Complete Edition](https://stadia.google.com/game/transformers-battlegrounds-complete-edition) - Play for 30 min
 1. [TRIVIAL PURSUIT Live! 2](https://stadia.google.com/game/trivial-pursuit-live-2)
 1. [Terraria](https://stadia.google.com/game/terraria)
