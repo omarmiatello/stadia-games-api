@@ -1,13 +1,13 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.0.7")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.0.8")
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
+import com.github.omarmiatello.kotlinscripttoolbox.gson.readJsonOrNull
+import com.github.omarmiatello.kotlinscripttoolbox.gson.writeJson
 import com.github.omarmiatello.kotlinscripttoolbox.telegram.sendTelegramMessage
 import com.github.omarmiatello.kotlinscripttoolbox.twitter.sendTweet
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.launchKotlinScriptToolboxZeroSetup
-import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.readJsonOrNull
-import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.writeJson
 import org.jsoup.Jsoup
 import java.net.URL
 import java.time.LocalDateTime
@@ -23,10 +23,10 @@ data class Game(val title: String, val url: String, val img: String, val button:
         if (button != null) append(" - $button")
     }
 
-    fun toPlainTextForTwitter(withUrl: Boolean = true) = buildString {
+    fun toPlainTextForTwitter(withButton: Boolean = true, withUrl: Boolean = true) = buildString {
         append(title)
+        if (withButton && button != null) append(" - $button")
         if (withUrl) append(" $url")
-        if (button != null) append(" - $button")
     }
 }
 
@@ -35,19 +35,30 @@ launchKotlinScriptToolboxZeroSetup(
     filepathPrefix = "data/",
 ) {
 
+    val telegramChatIds: List<String> = (readSystemProperty("TELEGRAM_CHAT_ID_LIST").split(",") +
+            readSystemProperty("TELEGRAM_CHAT_ID")).distinct()
     // Set up: Games converter
     fun List<Game>.toTelegramMessages(singular: String, plural: String, withImage: Boolean) = when (size) {
         0 -> emptyList()
         1 -> listOf("There is *$singular*: ${first().toMarkdown(withImage = withImage)}")
         in 2..5 -> listOf("There are *$size $plural*: ${first().toMarkdown(withImage = withImage)}") + drop(1).map { game -> game.toMarkdown() }
-        else -> listOf("There are *$size $plural*: ${joinToString { it.toMarkdown(withImage = false) }}")
+        else -> listOf("There are *$size $plural*: ${joinToString("\n") { it.toMarkdown(withImage = false) }}")
     }
 
     fun List<Game>.toTwitterMessages(singular: String, plural: String) = when (size) {
         0 -> emptyList()
         1 -> listOf("There is $singular: ${first().toPlainTextForTwitter()}")
         in 2..5 -> map { game -> "There are $size $plural, including: ${game.toPlainTextForTwitter()}" }
-        else -> listOf("There are $size $plural: ${joinToString { it.toPlainTextForTwitter(withUrl = false) }}")
+        else -> listOf("There are $size $plural: ${
+            groupBy({ it.button }, { it.toPlainTextForTwitter(withButton = false, withUrl = false) })
+                .toList()
+                .joinToString("\n") { (button, games) -> 
+                    buildString { 
+                        if (button != null) appendLine("$button:") else appendLine()
+                        append(games.joinToString("\n"))
+                    }
+                }
+        }")
     }.map { it.take(280) }
 
     fun List<Game>.toMarkdownNumberedList() =
@@ -82,9 +93,11 @@ launchKotlinScriptToolboxZeroSetup(
 
         // 2. Send notifications
         newGames.toTelegramMessages(singular = "a new game", plural = "new games", withImage = true)
-            .forEach { sendTelegramMessage(it) }
+            .forEach { msg ->
+                telegramChatIds.forEach { chatId -> sendTelegramMessage(text = msg, chatId = chatId) }
+            }
         newGames.toTwitterMessages(singular = "a new game", plural = "new games")
-            .forEach { sendTweet(it) }
+            .forEach { msg -> sendTweet(msg) }
 
         // ## New demos: assuming `it.button != null` means "has demo"
         // 1. Find new demos
@@ -95,9 +108,11 @@ launchKotlinScriptToolboxZeroSetup(
 
         // 2. Send notifications
         newGamesDemo.toTelegramMessages(singular = "a new demo", plural = "new demos", withImage = true)
-            .forEach { sendTelegramMessage(it) }
+            .forEach { msg ->
+                telegramChatIds.forEach { chatId -> sendTelegramMessage(text = msg, chatId = chatId) }
+            }
         newGamesDemo.toTwitterMessages(singular = "a new demo", plural = "new demos")
-            .forEach { sendTweet(it) }
+            .forEach { msg -> sendTweet(msg) }
 
         // ## Update changelog (in `/data/` folder)
         if (newGames.isNotEmpty() || newGamesDemo.isNotEmpty()) {

@@ -1,10 +1,10 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.0.7")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.0.8")
 
+import com.github.omarmiatello.kotlinscripttoolbox.gson.readJson
 import com.github.omarmiatello.kotlinscripttoolbox.twitter.sendTweet
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.launchKotlinScriptToolboxZeroSetup
-import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.readJson
 import kotlin.system.exitProcess
 
 // Models (data classes)
