@@ -221,7 +221,7 @@
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
 1. [ONE PIECE World Seeker Premium Edition](https://stadia.google.com/game/one-piece-world-seeker-premium-edition)
 1. [OUTRIDERS](https://stadia.google.com/game/outriders-game)
-1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders-worldslayer-edition) - Play for 45 min
+1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders) - Play for 45 min
 1. [Olympic Games Tokyo 2020 – The Official Video Game™](https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game)
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
 1. [Orcs Must Die! 3](https://stadia.google.com/game/orcs-must-die-3)
