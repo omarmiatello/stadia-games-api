@@ -249,6 +249,7 @@
 1. [RAINBOW SIX: EXTRACTION](https://stadia.google.com/game/rainbow-six-extraction-bundle)
 1. [RAINBOW SIX: EXTRACTION Deluxe Edition](https://stadia.google.com/game/rainbow-six-extraction-deluxe-edition)
 1. [RIDERS REPUBLIC DELUXE EDITION](https://stadia.google.com/game/riders-republic-deluxe-edition)
+1. [Rabbids: Party of Legends](https://stadia.google.com/game/rabbids-party-of-legends)
 1. [Race With Ryan Road Trip Deluxe Edition](https://stadia.google.com/game/race-with-ryan-road-trip-deluxe-edition) - Play for 30 min
 1. [Rayman Legends](https://stadia.google.com/game/rayman-legends)
 1. [Red Dead Redemption 2](https://stadia.google.com/game/rdr2)

@@ -1,6 +1,6 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.0")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.1")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
 import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox

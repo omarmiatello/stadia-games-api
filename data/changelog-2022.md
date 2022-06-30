@@ -1,3 +1,8 @@
+## 2022-06-30
+
+### Found a new game
+1. [Rabbids: Party of Legends](https://stadia.google.com/game/rabbids-party-of-legends)
+
 ## 2022-06-28
 
 ### Found 2 new games
