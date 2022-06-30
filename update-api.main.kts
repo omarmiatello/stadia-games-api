@@ -1,13 +1,13 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.0.8")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.0")
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
+import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
+import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
 import com.github.omarmiatello.kotlinscripttoolbox.gson.readJsonOrNull
 import com.github.omarmiatello.kotlinscripttoolbox.gson.writeJson
-import com.github.omarmiatello.kotlinscripttoolbox.telegram.sendTelegramMessage
-import com.github.omarmiatello.kotlinscripttoolbox.twitter.sendTweet
-import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.launchKotlinScriptToolboxZeroSetup
+import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.ZeroSetupScope
 import org.jsoup.Jsoup
 import java.net.URL
 import java.time.LocalDateTime
@@ -17,8 +17,7 @@ import kotlin.system.exitProcess
 // Models (data classes)
 data class GameListResponse(val api_version: Int, val count: Int, val games: List<Game>)
 data class Game(val title: String, val url: String, val img: String, val button: String?) {
-    fun toMarkdown(withImage: Boolean = true) = buildString {
-        if (withImage) append("[\u200B]($img)")
+    fun toMarkdown() = buildString {
         append("[$title]($url)")
         if (button != null) append(" - $button")
     }
@@ -30,19 +29,16 @@ data class Game(val title: String, val url: String, val img: String, val button:
     }
 }
 
-launchKotlinScriptToolboxZeroSetup(
+launchKotlinScriptToolbox(
+    scope = ZeroSetupScope(baseScope = BaseScope.fromDefaults(filepathPrefix = "data/")),
     scriptName = "Update for Stadia Games API",
-    filepathPrefix = "data/",
 ) {
-
-    val telegramChatIds: List<String> = (readSystemProperty("TELEGRAM_CHAT_ID_LIST").split(",") +
-            readSystemProperty("TELEGRAM_CHAT_ID")).distinct()
     // Set up: Games converter
-    fun List<Game>.toTelegramMessages(singular: String, plural: String, withImage: Boolean) = when (size) {
+    fun List<Game>.toTelegramMessages(singular: String, plural: String) = when (size) {
         0 -> emptyList()
-        1 -> listOf("There is *$singular*: ${first().toMarkdown(withImage = withImage)}")
-        in 2..5 -> listOf("There are *$size $plural*: ${first().toMarkdown(withImage = withImage)}") + drop(1).map { game -> game.toMarkdown() }
-        else -> listOf("There are *$size $plural*: ${joinToString("\n") { it.toMarkdown(withImage = false) }}")
+        1 -> listOf("There is *$singular*: ${first().toMarkdown()}")
+        in 2..5 -> listOf("There are *$size $plural*: ${first().toMarkdown()}") + drop(1).map { game -> game.toMarkdown() }
+        else -> listOf("There are *$size $plural*: ${joinToString("\n") { it.toMarkdown() }}")
     }
 
     fun List<Game>.toTwitterMessages(singular: String, plural: String) = when (size) {
@@ -62,7 +58,7 @@ launchKotlinScriptToolboxZeroSetup(
     }.map { it.take(280) }
 
     fun List<Game>.toMarkdownNumberedList() =
-        joinToString("\n") { game -> "1. ${game.toMarkdown(withImage = false)}" }
+        joinToString("\n") { game -> "1. ${game.toMarkdown()}" }
 
     // # Parse games from https://stadia.google.com/games
     val gamesDoc = Jsoup.parse(URL("https://stadia.google.com/games"), 10000)
@@ -92,10 +88,8 @@ launchKotlinScriptToolboxZeroSetup(
             .let { oldGamesTitles -> allGames.filter { it.title !in oldGamesTitles } }
 
         // 2. Send notifications
-        newGames.toTelegramMessages(singular = "a new game", plural = "new games", withImage = true)
-            .forEach { msg ->
-                telegramChatIds.forEach { chatId -> sendTelegramMessage(text = msg, chatId = chatId) }
-            }
+        newGames.toTelegramMessages(singular = "a new game", plural = "new games")
+            .forEach { msg -> sendTelegramMessage(text = msg) }
         newGames.toTwitterMessages(singular = "a new game", plural = "new games")
             .forEach { msg -> sendTweet(msg) }
 
@@ -107,10 +101,8 @@ launchKotlinScriptToolboxZeroSetup(
             .let { oldGamesDemosMap -> allGames.filter { it.button != null && oldGamesDemosMap[it.title] != it.button } }
 
         // 2. Send notifications
-        newGamesDemo.toTelegramMessages(singular = "a new demo", plural = "new demos", withImage = true)
-            .forEach { msg ->
-                telegramChatIds.forEach { chatId -> sendTelegramMessage(text = msg, chatId = chatId) }
-            }
+        newGamesDemo.toTelegramMessages(singular = "a new demo", plural = "new demos")
+            .forEach { msg -> sendTelegramMessage(text = msg) }
         newGamesDemo.toTwitterMessages(singular = "a new demo", plural = "new demos")
             .forEach { msg -> sendTweet(msg) }
 
