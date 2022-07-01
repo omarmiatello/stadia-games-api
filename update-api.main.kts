@@ -111,7 +111,7 @@ launchKotlinScriptToolbox(
         newGames.toTelegramMessages(singular = "a new game", plural = "new games")
             .forEach { msg -> sendTelegramMessage(text = msg) }
         newGames.toTwitterMessages(singular = "a new game", plural = "new games")
-            .forEach { msg -> sendTweet(msg) }
+            .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
 
         // ## New demos: assuming `it.button != null` means "has demo"
         // 1. Find new demos
@@ -121,10 +121,11 @@ launchKotlinScriptToolbox(
             .let { oldGamesDemosMap -> allGames.filter { it.button != null && oldGamesDemosMap[it.title] != it.button } }
 
         // 2. Send notifications
-        newGamesDemo.toTelegramMessages(singular = "a new demo", plural = "new demos")
+        val newGamesFiltered = newGamesDemo.filter { it !in newGames }      // to reduce noise
+        newGamesFiltered.toTelegramMessages(singular = "a new demo", plural = "new demos")
             .forEach { msg -> sendTelegramMessage(text = msg) }
-        newGamesDemo.toTwitterMessages(singular = "a new demo", plural = "new demos")
-            .forEach { msg -> sendTweet(msg) }
+        newGamesFiltered.toTwitterMessages(singular = "a new demo", plural = "new demos")
+            .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
 
         // ## Update changelog (in `/data/` folder)
         if (newGames.isNotEmpty() || newGamesDemo.isNotEmpty()) {
@@ -134,14 +135,14 @@ launchKotlinScriptToolbox(
                     appendLine("## ${now.format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))}")
                     if (newGames.isNotEmpty()) {
                         appendLine()
-                        append("### Found ")
-                        appendLine(if (newGames.size == 1) "a new game" else "${newGames.size} new games")
+                        append("### ")
+                        appendLine(if (newGames.size == 1) "1 new game" else "${newGames.size} new games")
                         appendLine(newGames.toMarkdownNumberedList())
                     }
                     if (newGamesDemo.isNotEmpty()) {
                         appendLine()
-                        append("### Found ")
-                        appendLine(if (newGamesDemo.size == 1) "a new demo" else "${newGamesDemo.size} new demos")
+                        append("### ")
+                        appendLine(if (newGamesDemo.size == 1) "1 new demo" else "${newGamesDemo.size} new demos")
                         appendLine(newGamesDemo.toMarkdownNumberedList())
                     }
                     appendLine()
