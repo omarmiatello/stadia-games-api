@@ -1,12 +1,13 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.1")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.2")
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
 import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
 import com.github.omarmiatello.kotlinscripttoolbox.gson.readJsonOrNull
 import com.github.omarmiatello.kotlinscripttoolbox.gson.writeJson
+import com.github.omarmiatello.kotlinscripttoolbox.twitter.TwitterScope
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.ZeroSetupScope
 import org.jsoup.Jsoup
 import java.net.URL
@@ -22,7 +23,7 @@ data class Game(val title: String, val url: String, val img: String, val button:
         if (button != null) append(" - $button")
     }
 
-    fun toPlainTextForTwitter(withButton: Boolean = true, withUrl: Boolean = true) = buildString {
+    fun toPlainText(withButton: Boolean = true, withUrl: Boolean = true) = buildString {
         append(title)
         if (withButton && button != null) append(" - $button")
         if (withUrl) append(" $url")
@@ -33,6 +34,11 @@ launchKotlinScriptToolbox(
     scope = ZeroSetupScope(baseScope = BaseScope.fromDefaults(filepathPrefix = "data/")),
     scriptName = "Update for Stadia Games API",
 ) {
+    val now = LocalDateTime.now()
+    val changelogFilename = "changelog-${now.year}.md"
+    val changelogUrl = "https://github.com/omarmiatello/stadia-games-api/blob/main/data/$changelogFilename"
+    val oldAllGames = readJsonOrNull<GameListResponse>("games.json")?.games
+
     // Set up: Games converter
     fun List<Game>.toTelegramMessages(singular: String, plural: String) = when (size) {
         0 -> emptyList()
@@ -43,19 +49,30 @@ launchKotlinScriptToolbox(
 
     fun List<Game>.toTwitterMessages(singular: String, plural: String) = when (size) {
         0 -> emptyList()
-        1 -> listOf("There is $singular: ${first().toPlainTextForTwitter()}")
-        in 2..5 -> map { game -> "There are $size $plural, including: ${game.toPlainTextForTwitter()}" }
-        else -> listOf("There are $size $plural: ${
-            groupBy({ it.button }, { it.toPlainTextForTwitter(withButton = false, withUrl = false) })
-                .toList()
-                .joinToString("\n") { (button, games) -> 
-                    buildString { 
-                        if (button != null) appendLine("$button:") else appendLine()
-                        append(games.joinToString("\n"))
+        1 -> listOf("$singular on #Stadia\n\n${first().toPlainText()}")
+        in 2..5 -> map { game -> "$size $plural on #Stadia, including\n\n${game.toPlainText()}" }
+        else -> {
+            val message = "$size $plural on #Stadia\n${
+                groupBy({ it.button }, { it.toPlainText(withButton = false, withUrl = false) })
+                    .toList()
+                    .joinToString("\n") { (button, games) ->
+                        buildString {
+                            if (button != null) appendLine("$button:") else appendLine()
+                            append(games.joinToString("\n"))
+                        }
                     }
-                }
-        }")
-    }.map { it.take(280) }
+            }"
+            var suffix = "\nFull changelog: "
+            var maxLen = TwitterScope.MESSAGE_MAX_SIZE - suffix.length - TwitterScope.URL_MAX_SIZE
+            listOf(if (message.length <= maxLen) {
+                "$message$suffix$changelogUrl"
+            } else {
+                suffix = "...$suffix"
+                maxLen = TwitterScope.MESSAGE_MAX_SIZE - suffix.length - TwitterScope.URL_MAX_SIZE
+                "${message.take(maxLen)}$suffix$changelogUrl"
+            })
+        }
+    }
 
     fun List<Game>.toMarkdownNumberedList() =
         joinToString("\n") { game -> "1. ${game.toMarkdown()}" }
@@ -77,8 +94,11 @@ launchKotlinScriptToolbox(
         .distinctBy { it.title }
         .sortedBy { it.title }
 
+    // # Update API (in `/data/` folder)
+    writeJson("games.json", GameListResponse(api_version = 1, count = allGames.size, games = allGames))
+    writeText("games.md", allGames.toMarkdownNumberedList())
+
     // # Find old games
-    val oldAllGames = readJsonOrNull<GameListResponse>("games.json")?.games
     if (oldAllGames != null) {
         // ## New games: allGames - oldAllGames = newGames
         // 1. Find new games
@@ -108,8 +128,6 @@ launchKotlinScriptToolbox(
 
         // ## Update changelog (in `/data/` folder)
         if (newGames.isNotEmpty() || newGamesDemo.isNotEmpty()) {
-            val now = LocalDateTime.now()
-            val changelogFilename = "changelog-${now.year}.md"
             writeText(
                 pathname = changelogFilename,
                 text = buildString {
@@ -134,10 +152,6 @@ launchKotlinScriptToolbox(
             )
         }
     }
-
-    // # Update API (in `/data/` folder)
-    writeJson("games.json", GameListResponse(api_version = 1, count = allGames.size, games = allGames))
-    writeText("games.md", allGames.toMarkdownNumberedList())
 }
 
 exitProcess(status = 0)
