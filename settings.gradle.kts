@@ -1,1 +1,1 @@
-rootProject.name = "script-project"
+rootProject.name = "stadia-games-api"
