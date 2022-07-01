@@ -269,7 +269,7 @@
 1. [Rise of the Tomb Raider: 20 Year Celebration](https://stadia.google.com/game/rise-of-the-tomb-raider-20-year-celebration)
 1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 60 min
 1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
-1. [Roguebook](https://stadia.google.com/store/details/1603bd1b26cd44589639ee2ea0b8acd1rcp1/sku/92a73e792d4d4b0394fa58bb0573009ep)
+1. [Roguebook](https://stadia.google.com/store/details/1603bd1b26cd44589639ee2ea0b8acd1rcp1/sku/92a73e792d4d4b0394fa58bb0573009ep) - Play for 90 min
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min
 1. [République](https://stadia.google.com/game/republique)
 1. [SAMURAI SHODOWN (Standard Ver.)](https://stadia.google.com/game/samurai-shodown)
@@ -331,7 +331,7 @@
 1. [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iii)
 1. [The Legend of Heroes: Trails of Cold Steel IV](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iv)
 1. [The Turing Test](https://stadia.google.com/game/the-turing-test)
-1. [Those Who Remain](https://stadia.google.com/game/those-who-remain)
+1. [Those Who Remain](https://stadia.google.com/game/those-who-remain) - Play for 30 min
 1. [Through the Darkest of Times](https://stadia.google.com/game/through-the-darkest-of-times) - Play for 30 min
 1. [Thumper](https://stadia.google.com/game/thumper)
 1. [Tom Clancy's Ghost Recon Breakpoint](https://stadia.google.com/game/tom-clancys-ghost-recon-breakpoint)
@@ -374,7 +374,7 @@
 1. [Windbound](https://stadia.google.com/game/windbound)
 1. [Wolfenstein: Youngblood](https://stadia.google.com/game/wolfenstein-youngblood)
 1. [World War Z: Aftermath](https://stadia.google.com/game/world-war-z-aftermath) - Play for 60 min
-1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd)
+1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min
 1. [Wreckfest](https://stadia.google.com/game/wreckfest) - Play for 30 min
 1. [Young Souls](https://stadia.google.com/game/young-souls)
 1. [Ys IX: Monstrum Nox](https://stadia.google.com/game/ys-ix-monstrum-nox) - Play for 120 min
