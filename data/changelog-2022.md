@@ -1,3 +1,12 @@
+## 2022-07-01
+
+### Found 5 new games
+1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged)
+1. [Five Nights at Freddy's: Security Breach](https://stadia.google.com/game/five-nights-at-freddys-security-breach)
+1. [Roguebook](https://stadia.google.com/store/details/1603bd1b26cd44589639ee2ea0b8acd1rcp1/sku/92a73e792d4d4b0394fa58bb0573009ep)
+1. [Those Who Remain](https://stadia.google.com/game/those-who-remain)
+1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd)
+
 ## 2022-06-30
 
 ### Found a new game

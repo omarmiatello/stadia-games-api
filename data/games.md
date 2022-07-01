@@ -32,6 +32,7 @@
 1. [Borderlands®3: Ultimate Edition](https://stadia.google.com/game/borderlands3-ultimate-edition)
 1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 60 min
 1. [Celeste](https://stadia.google.com/game/celeste)
+1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged)
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min
 1. [Child of Light - Standard Edition](https://stadia.google.com/game/child-of-light-standard-edition)
 1. [Child of Light - Ultimate Edition](https://stadia.google.com/game/child-of-light-ultimate-edition)
@@ -117,6 +118,7 @@
 1. [Farming Simulator 22](https://stadia.google.com/game/farming-simulator-22)
 1. [Fast and Furious: Spy Racers Rise of SH1FT3R](https://stadia.google.com/game/fast-and-furious-spy-racers-rise-of-sh1ft3r) - Play for 30 min
 1. [Figment](https://stadia.google.com/game/figment)
+1. [Five Nights at Freddy's: Security Breach](https://stadia.google.com/game/five-nights-at-freddys-security-breach)
 1. [GRID](https://stadia.google.com/game/grid)
 1. [GRID Ultimate Edition](https://stadia.google.com/game/grid-ultimate-edition)
 1. [GRIME](https://stadia.google.com/game/grime) - Play for 120 min
@@ -267,6 +269,7 @@
 1. [Rise of the Tomb Raider: 20 Year Celebration](https://stadia.google.com/game/rise-of-the-tomb-raider-20-year-celebration)
 1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 60 min
 1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
+1. [Roguebook](https://stadia.google.com/store/details/1603bd1b26cd44589639ee2ea0b8acd1rcp1/sku/92a73e792d4d4b0394fa58bb0573009ep)
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min
 1. [République](https://stadia.google.com/game/republique)
 1. [SAMURAI SHODOWN (Standard Ver.)](https://stadia.google.com/game/samurai-shodown)
@@ -328,6 +331,7 @@
 1. [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iii)
 1. [The Legend of Heroes: Trails of Cold Steel IV](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iv)
 1. [The Turing Test](https://stadia.google.com/game/the-turing-test)
+1. [Those Who Remain](https://stadia.google.com/game/those-who-remain)
 1. [Through the Darkest of Times](https://stadia.google.com/game/through-the-darkest-of-times) - Play for 30 min
 1. [Thumper](https://stadia.google.com/game/thumper)
 1. [Tom Clancy's Ghost Recon Breakpoint](https://stadia.google.com/game/tom-clancys-ghost-recon-breakpoint)
@@ -370,6 +374,7 @@
 1. [Windbound](https://stadia.google.com/game/windbound)
 1. [Wolfenstein: Youngblood](https://stadia.google.com/game/wolfenstein-youngblood)
 1. [World War Z: Aftermath](https://stadia.google.com/game/world-war-z-aftermath) - Play for 60 min
+1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd)
 1. [Wreckfest](https://stadia.google.com/game/wreckfest) - Play for 30 min
 1. [Young Souls](https://stadia.google.com/game/young-souls)
 1. [Ys IX: Monstrum Nox](https://stadia.google.com/game/ys-ix-monstrum-nox) - Play for 120 min
