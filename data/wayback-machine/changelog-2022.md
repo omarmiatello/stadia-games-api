@@ -1,57 +1,21 @@
-## 2022-07-02
+## 2022-07-01 (from Wayback Machine)
 
-### 1 new demo
-1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min
-
-## 2022-07-01
-
-### 5 new games
-1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged)
-1. [Five Nights at Freddy's: Security Breach](https://stadia.google.com/game/five-nights-at-freddys-security-breach)
-1. [Roguebook](https://stadia.google.com/store/details/1603bd1b26cd44589639ee2ea0b8acd1rcp1/sku/92a73e792d4d4b0394fa58bb0573009ep) - Play for 90 min
-1. [Those Who Remain](https://stadia.google.com/game/those-who-remain) - Play for 30 min
-1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min
-
-### 3 new demos
-1. [Roguebook](https://stadia.google.com/store/details/1603bd1b26cd44589639ee2ea0b8acd1rcp1/sku/92a73e792d4d4b0394fa58bb0573009ep) - Play for 90 min
-1. [Those Who Remain](https://stadia.google.com/game/those-who-remain) - Play for 30 min
-1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min
-
-## 2022-06-30
-
-### 1 new game
+### 3 new games
+1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min
+1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders) - Play for 45 min
 1. [Rabbids: Party of Legends](https://stadia.google.com/game/rabbids-party-of-legends)
 
-## 2022-06-28
-
-### 2 new games
-1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min
-1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders-worldslayer-edition) - Play for 45 min
-
-### 14 new demos
+### 49 new demos
 1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min
-1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
-1. [Blue Fire](https://stadia.google.com/game/blue-fire) - Play for 60 min
-1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min
-1. [Cris Tales](https://stadia.google.com/game/cris-tales) - Play for 60 min
-1. [Jotun: Valhalla Edition](https://stadia.google.com/game/jotun-valhalla-edition) - Play for 30 min
-1. [Lost Words: Beyond the Page](https://stadia.google.com/game/lost-words-beyond-the-page) - Play for 30 min
-1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min
-1. [Murder by Numbers](https://stadia.google.com/game/murder-by-numbers) - Play for 60 min
-1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders-worldslayer-edition) - Play for 45 min
-1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
-1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min
-1. [Sundered: Eldritch Edition](https://stadia.google.com/game/sundered-eldritch-edition) - Play for 30 min
-1. [TOHU](https://stadia.google.com/game/tohu) - Play for 30 min
-
-## 2022-06-24
-
-### 35 new demos
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/dventure-time-pirates-of-the-enchiridion) - Play for 30 min
+1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
 1. [Ben 10: Power Trip](https://stadia.google.com/game/ben-10-power-trip) - Play for 30 min
+1. [Blue Fire](https://stadia.google.com/game/blue-fire) - Play for 60 min
 1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 60 min
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min
 1. [Chronos: Before the Ashes](https://stadia.google.com/game/chronos-before-the-ashes) - Play for 30 min
+1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min
+1. [Cris Tales](https://stadia.google.com/game/cris-tales) - Play for 60 min
 1. [Darksiders Genesis](https://stadia.google.com/game/darksiders-genesis) - Play for 60 min
 1. [Darksiders II Deathinitive Edition](https://stadia.google.com/game/darksiders-ii-deathinitive-edition) - Play for 60 min
 1. [Darksiders III](https://stadia.google.com/game/darksiders-iii) - Play for 30 min
@@ -63,19 +27,28 @@
 1. [Get Packed: Fully Loaded](https://stadia.google.com/game/get-packed) - Play for 60 min
 1. [Gigantosaurus The Game](https://stadia.google.com/game/gigantosaurus-the-game) - Play for 30 min
 1. [Ice Age: Scrat's Nutty Adventure](https://stadia.google.com/game/ice-age-scrats-nutty-adventure) - Play for 30 min
+1. [Jotun: Valhalla Edition](https://stadia.google.com/game/jotun-valhalla-edition) - Play for 30 min
 1. [Little Big Workshop](https://stadia.google.com/game/little-big-workshop) - Play for 30 min
+1. [Lost Words: Beyond the Page](https://stadia.google.com/game/lost-words-beyond-the-page) - Play for 30 min
+1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min
 1. [Monster Jam Steel Titans](https://stadia.google.com/game/monster-jam-steel-titans) - Play for 30 min
 1. [Monster Jam Steel Titans 2](https://stadia.google.com/game/monster-jam-steel-titans-2) - Play for 30 min
+1. [Murder by Numbers](https://stadia.google.com/game/murder-by-numbers) - Play for 60 min
 1. [My Friend Peppa Pig](https://stadia.google.com/game/my-friend-peppa-pig) - Play for 30 min
+1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders) - Play for 45 min
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
 1. [PAW Patrol Mighty Pups Save Adventure Bay](https://stadia.google.com/game/paw-patrol-mighty-pups-save-adventure-bay) - Play for 30 min
 1. [PAW Patrol The Movie: Adventure City Calls](https://stadia.google.com/game/paw-patrol-the-movie) - Play for 30 min
 1. [PHOGS!](https://stadia.google.com/game/phogs) - Play for 60 min
 1. [PJ MASKS: HEROES OF THE NIGHT](https://stadia.google.com/game/pj-masks-heroes-of-the-night) - Play for 30 min
 1. [Race With Ryan Road Trip Deluxe Edition](https://stadia.google.com/game/race-with-ryan-road-trip-deluxe-edition) - Play for 30 min
+1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min
+1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min
 1. [Spitlings](https://stadia.google.com/game/spitlings) - Play for 30 min
 1. [SpongeBobSquarePants:Battle for Bikini BottomRehydrated](https://stadia.google.com/game/spongebobsquarepantsbattle-for-bikini-bottomrehydrated) - Play for 30 min
+1. [Sundered: Eldritch Edition](https://stadia.google.com/game/sundered-eldritch-edition) - Play for 30 min
+1. [TOHU](https://stadia.google.com/game/tohu) - Play for 30 min
 1. [TRANSFORMERS: BATTLEGROUNDS - Complete Edition](https://stadia.google.com/game/transformers-battlegrounds-complete-edition) - Play for 30 min
 1. [The Addams Family: Mansion Mayhem](https://stadia.google.com/game/the-addams-family-mansion-mayhem) - Play for 30 min
 1. [The Darkside Detective](https://stadia.google.com/game/the-darkside-detective) - Play for 60 min
