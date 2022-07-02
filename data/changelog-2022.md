@@ -1,3 +1,8 @@
+## 2022-07-02
+
+### 1 new demo
+1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min
+
 ## 2022-07-01
 
 ### 5 new games

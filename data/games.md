@@ -32,7 +32,7 @@
 1. [Borderlands®3: Ultimate Edition](https://stadia.google.com/game/borderlands3-ultimate-edition)
 1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 60 min
 1. [Celeste](https://stadia.google.com/game/celeste)
-1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged)
+1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min
 1. [Child of Light - Standard Edition](https://stadia.google.com/game/child-of-light-standard-edition)
 1. [Child of Light - Ultimate Edition](https://stadia.google.com/game/child-of-light-ultimate-edition)
@@ -269,7 +269,7 @@
 1. [Rise of the Tomb Raider: 20 Year Celebration](https://stadia.google.com/game/rise-of-the-tomb-raider-20-year-celebration)
 1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 60 min
 1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
-1. [Roguebook](https://stadia.google.com/store/details/1603bd1b26cd44589639ee2ea0b8acd1rcp1/sku/92a73e792d4d4b0394fa58bb0573009ep) - Play for 90 min
+1. [Roguebook](https://stadia.google.com/game/roguebook) - Play for 90 min
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min
 1. [République](https://stadia.google.com/game/republique)
 1. [SAMURAI SHODOWN (Standard Ver.)](https://stadia.google.com/game/samurai-shodown)
