@@ -1,6 +1,11 @@
 ## 2022-07-07
 
 ### 1 new game
+1. [Nine to Five](https://stadia.google.com/game/nine-to-five)
+
+## 2022-07-07
+
+### 1 new game
 1. [Far Cry® 3 Blood Dragon Classic Edition](https://stadia.google.com/game/far-cry-3-blood-dragon-classic-edition)
 
 ## 2022-07-02

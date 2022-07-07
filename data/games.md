@@ -220,7 +220,7 @@
 1. [NBA 2K21](https://stadia.google.com/game/nba-2k21)
 1. [NBA 2K21 Mamba Forever Edition](https://stadia.google.com/game/nba-2k21-mamba-forever-edition)
 1. [Nanotale - Typing Chronicles](https://stadia.google.com/game/nanotale-typing-chronicles)
-1. [Nine To Five](https://stadia.google.com/game/nine-to-five)
+1. [Nine to Five](https://stadia.google.com/game/nine-to-five)
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
 1. [ONE PIECE World Seeker Premium Edition](https://stadia.google.com/game/one-piece-world-seeker-premium-edition)
 1. [OUTRIDERS](https://stadia.google.com/game/outriders-game)
