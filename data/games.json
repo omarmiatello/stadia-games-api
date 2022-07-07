@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 385,
+  "count": 386,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -129,7 +129,7 @@
     {
       "title": "Baldur\u0027s Gate 3 Early Access",
       "url": "https://stadia.google.com/game/baldurs-gate-3",
-      "img": "https://lh3.googleusercontent.com/EGp-JArBM5dHU91QM-m4tqUQGyE-rAK-61rPsi91TCY2EP2CxaK9EYmAf3IvyOB0okMAHqyXgEjiZwe1h60SmqwPeBRbQSAiaaFgZlYpsDvkZKPb55EX3edqfOQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/NZkFTB_3s57S2wPp3m05C3GiIxbKzcVIY5nv3mOCfMlAKraawQg8VKHfpHDQGXy_MIZY613GrFSlSrGtCQ1-_EW2K3wJUhe92NTR8TXTHf45CsXQTw88T5Ahr3k\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Ben 10: Power Trip",
@@ -589,6 +589,11 @@
       "img": "https://lh3.googleusercontent.com/prabJgnEtc1DlJq-qaqobaIaUX2Sh8jlvfEZrHgQBSPufjvUiUpvKagnNaYpL-T4rO0y-hzGVSG6gMG512Kk4G9J2vh1e9nZdqzG1vuZ600p_7jBc60T04lcUA\u003dw300-h400-rw-no-v1-nu"
     },
     {
+      "title": "Far Cry® 3 Blood Dragon Classic Edition",
+      "url": "https://stadia.google.com/game/far-cry-3-blood-dragon-classic-edition",
+      "img": "https://lh3.googleusercontent.com/RxJplbI9PEGxUl0U7uQ7Lk9tBxBWpMeGHszmQoLQBMpBmLpyXacHyYVYp6UdKgQ8xjx-ty1FEVGPyW0vm_ylSwBCA1vNFcYzCpTrM1j_KmLGODdR7Ib89ODUCRc\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
       "title": "Far Cry® New Dawn",
       "url": "https://stadia.google.com/game/far-cry-new-dawn",
       "img": "https://lh3.googleusercontent.com/oqlZtyWV2vLMV5lRdM0Srmlaw3Bikt4zSr7xtHuojkkzxb6VwljZAkveZlRTtI9EwH-wSVlEtn1s_d3rWcNbaKs20adNVC-MhKppJ5akd2MAreoPi-wiO5WzlA\u003dw300-h400-rw-no-v1-nu"
@@ -701,12 +706,12 @@
     {
       "title": "HITMAN - Game of The Year Edition",
       "url": "https://stadia.google.com/game/hitman-game-of-the-year-edition",
-      "img": "https://lh3.googleusercontent.com/34PfdINwzVya2djeNK8DK6oBNyAAltobnPOrNER4UqhmruZemxxzsPXLdbLfA-iyqVQmjfNLmYONITmuZsl_5fkA8aCx39DskIwyxSN7qIztXWnCr_qBX_I6t9g\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/Th-a3RV9cVoN8ODgTogAlAjXhYehaDhhRsGo_1fghzzTAUCWpS6VKdVxGoxGi4atOU_oP6ATJOecVqZ0g8Adn4eu2Rn0uXFV-YmVuTF-X5-h8JwZKMqMHU5rEpM\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN - The Complete First Season",
       "url": "https://stadia.google.com/game/hitman-the-complete-first-season",
-      "img": "https://lh3.googleusercontent.com/eQ8QzAUQJWw7vl0CADChIdDOIil22DP3uRHCfdEWwHSbm1QoB6eaZh5DVti3e9qgH79teLUWSzJi58VVsp_Prq4OxGMvzlE9A1aTJW21t8dabtpqp1in9y7XCKs\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/Z_o15EGPSxOHz02BCVXj4haIsPV1zjjPhnBAgZV8-vb3JwjAqDoc8CJqAcnTGqfGW2P4soUem07Gyvytlsr-j5fsy8SMTAg9QOevAItpnp-L_dGnvLEOtcDh1CM\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN - World of Assassination",
@@ -716,22 +721,22 @@
     {
       "title": "HITMAN 2",
       "url": "https://stadia.google.com/game/hitman-2",
-      "img": "https://lh3.googleusercontent.com/1-aLAA4HBEUCwT3SmtAWYnd0cm9suQGdulbvFRiEIUe0jwNbvndQXxTuMKSwz_a5WCkzztbYtJlmVsosgHye8Wy3sUq90uQ1vXYMZoT4jX-_Bb18-B__B1Zdqbk\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/w92iRbRu4d7g54_6oLrB7sjkfqUOKA4lzI5o7WXpKDW8VbLk59tXj95ZT8MSKySKCmWYkRdCjj-QHV0wd4gzo6OCys3J3S2lLd32GLoWn3K9rrHTdEa7pc97u3A\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN 2 - Gold Edition",
       "url": "https://stadia.google.com/game/hitman2-gold-edition",
-      "img": "https://lh3.googleusercontent.com/bwOPcuhVfSLtm13pfMB3P03jLoaxoqAC3-buWgl6SQb5BkfFW4LMFMbrXe-RxSMG5KFtJstTkqosnhZtomMXKWc21Wsr-uhbsB3bdpYojHVvL4g6VO6-smyaHQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/wm1QfK2RdeExBKwWI6VJl0OK7qhkAcfXyh40EO8ZhlR7mquEwGDOyFOoQj8svLSgtEOVVzDbJ9NqnGM4V2rDDDiug-H-Xf9ISGeuNQot1T1NwWj-ZUgGA85fcQ\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN 3 - Deluxe Edition",
       "url": "https://stadia.google.com/game/hitman-3-deluxe-edition",
-      "img": "https://lh3.googleusercontent.com/I0VwPpu6W3l0EOe459d9K3zWAv1oxkjDqUxvQDQOIgZteqbvcRIGHPTwcRvExCMckdLGkH7prjPD3qDNzK0N5iMcBmz3j0MYrc1zuy6WXoyhW2f6-jCa8b0fYqs\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/N9v0fWstwVDBjFMcufM_KarMNceUl1Duan22eIKnLdgjiQ7fz9dGGsuubYZgQWmBaEf0ZVz4rIuvPp2G4-FCNe7haHMgZkIytrZgoy3KjBATvIsPmAFBcA2eyGA\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN 3 - Standard Edition",
       "url": "https://stadia.google.com/game/hitman-3",
-      "img": "https://lh3.googleusercontent.com/H82UDF3UJ6KTQ3u5W7lJUtNXpzpL63KBxfG8uXCLKqU-jzl_TzFEEt5jEHCWdLP70a1WaHgYzmxzrkGBB5wb7VdFiXb3h20fq20kwDlmqREX9BD1gqWWP1BmVr4\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/7tRa_KPAsvfL8nUqNZmSAFBtfCPFOwNxUzJr1VtiY6EwUBuEg0SZ8MSKb40xEorwkztvNATlMt2Zfq4kAozDjzRiBg2Qt4t91s7FuqnhC7evrLOyi0px9FkvANo\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HUMANKIND™",
@@ -1283,17 +1288,17 @@
     {
       "title": "Power Rangers: Battle for the Grid",
       "url": "https://stadia.google.com/game/power-rangers-battle-for-the-grid",
-      "img": "https://lh3.googleusercontent.com/lvgEtvtBsaSSSyJXZc2NezrzIKtZRdJKjxA55hn8Q5ACdZ-XPYFs5JYxm73IJWV0ketS69sj5QiDEXnZBL6DoLNR71_WTnO_wyrO3l66y-iCYkrjs78O8AAkNg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/zNg6k6tpfzxY_Zra7-GuD1MrWL-KzaYbu_mMfJ5m7C343L__EQ7UDHajQ4PeGktoXlbSssGekHXg9QLFQ5Rp_T5Wxx9GBE2sx0F2SPKZsnE3QvM74jEz5txRSw\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Power Rangers: Battle for the Grid Collector\u0027s Edition",
       "url": "https://stadia.google.com/game/power-rangers-battle-for-the-grid-collectors-edition",
-      "img": "https://lh3.googleusercontent.com/rHM-JAx6UxGotZo9m4qqUkzXvQJCfPa2l3FeIguTSreiLGZhqdZXr74S84j_1Z3jg6wcIn0NlL2Y7f0Ri9PEPmrKGiVHXdJEsYwxpDOsuLgW83_dZYBrxlu2YDU\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/O5K7TQN2UJ5XOseThOJnCnBM7qxbWSHDvtbi7JBTzR6G28697UfdlF_O49D4LdsPgmB_uYQ1yaTYWLmsvqgr0zsRPY2bXxXbHVXXBg7e8XZYrof8LO2YzXejkgc\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Power Rangers: Battle for the Grid Super Edition",
       "url": "https://stadia.google.com/game/power-rangers-battle-for-the-grid-super-edition",
-      "img": "https://lh3.googleusercontent.com/Tbl4SyBicaz2Tji-ePPEpqNGHAm945lrggaXxkgvv-XuFD1lGx7G9oqV0nC_nd05D2NyGX45XI4s7XbTQLGEmuNbzEzVtAICwVrL1S6SFJ6HfTwT2hg_6DM4tqYR\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/RCp_j-k3q6wKB7HwuZOr2YBWYyB3GJxbkViwV6h1L8uVb9PeD9YTKM0lNOYQwfL-CZgjgoQlX2uWfvP13vZzYibwVPBebhRzV2cLWMvDik4XVz7WagfhLh7iKjpd\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "RAGE 2",
@@ -1572,7 +1577,7 @@
     {
       "title": "Strange Brigade Deluxe Edition",
       "url": "https://stadia.google.com/game/strange-brigade-deluxe-edition",
-      "img": "https://lh3.googleusercontent.com/OSR4KZM-yBR83T-Az5CkM0exzXmikDdWl-z0CxkGOw1xZU_jEvOS29A_U6o3cKvqwr71kDWYsJ0oQxZRwyz8Pqo5FRQPctJGaqmkbI3vn4S2-XN5fM62Xc_uIg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/a-AXyStjZmlpd-c163f1_ZR7KMLa-HOIaG9Bj7PCTjuxOHS_LS58NpLrZ562IfuVBTVFUttHbw5IcL-Gl4fEkKWmue9LIN0J8TmTpphuD3z_2EB2V5Vday-2Lg\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Street Power Football",

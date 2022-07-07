@@ -110,6 +110,7 @@
 1. [Far Cry 6 Ultimate Edition](https://stadia.google.com/game/far-cry-6-ultimate-edition)
 1. [Far Cry Primal](https://stadia.google.com/game/far-cry-primal) - Play for 60 min
 1. [Far Cry Primal Apex Edition](https://stadia.google.com/game/far-cry-primal-apex-edition)
+1. [Far Cry® 3 Blood Dragon Classic Edition](https://stadia.google.com/game/far-cry-3-blood-dragon-classic-edition)
 1. [Far Cry® New Dawn](https://stadia.google.com/game/far-cry-new-dawn)
 1. [Far Cry® New Dawn Deluxe Edition](https://stadia.google.com/game/far-cry-new-dawn-deluxe-edition)
 1. [Farming Simulator 19](https://stadia.google.com/game/farming-simulator-19)
