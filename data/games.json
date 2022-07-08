@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 386,
+  "count": 388,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -10,7 +10,7 @@
     {
       "title": "ARK: Survival Evolved",
       "url": "https://stadia.google.com/game/ark-survival-evolved",
-      "img": "https://lh3.googleusercontent.com/7XSiIVemzFFOu7ilr56hbcIkz2yZ4z3OuS-X6YFpEcw_bC_vWlzUAjovM6jYWH6XEtn_96aS2T2xW1r4RAn0rtfYfFApIJqNk0HQbi3_lgCN7wFr1buzPKuS7Es\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/d75p-z6qa_81Hu6e9pKySRUgESWVgp1dvl4FFzAC--oGqTIs6QnVdGIxbV5rfx6vdO1AV8qE4VMAEID03sYGnDLayv4XrqP2wgg-wu-L2bL9GKTxY043_YYasIw\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "AVICII Invector",
@@ -103,12 +103,12 @@
     },
     {
       "title": "Assassin\u0027s Creed Valhalla Complete Edition",
-      "url": "https://stadia.google.com/game/ssassins-creed-valhalla-complete-edition",
+      "url": "https://stadia.google.com/game/assassins-creed-valhalla-complete-edition-bundle",
       "img": "https://lh3.googleusercontent.com/Nam5IOYBySI-PIusJ7c0ljtpf25PbJP7i4Fd5VyjQyrjH4ihjvZ-9yj6Ym6_nvWP71hoBm8a4G0p8hD2zqyqvmm3V9cX_OQ9QC-q2TL75wzL_GxLrI4ZtGELrLI\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Assassin\u0027s Creed Valhalla Ragnarök Edition",
-      "url": "https://stadia.google.com/game/ssassins-creed-valhalla-ragnarok-edition",
+      "url": "https://stadia.google.com/game/ssassins-creed-valhalla-ragnarok-edition-bundle",
       "img": "https://lh3.googleusercontent.com/UD_zgVn9taxdSpQQz1zZUzhsmy2QvsvzPAdrOj-YRrYTKchESO2DhvuLrVPYHgzggF0Ggu6Umco9TMKCujOKBRbAWKa7zQ5Qr31AUuOkxg1r8liVMHX9kMImMg\u003dw300-h400-rw-no-v1-nu"
     },
     {
@@ -215,7 +215,7 @@
     {
       "title": "Chronos: Before the Ashes",
       "url": "https://stadia.google.com/game/chronos-before-the-ashes",
-      "img": "https://lh3.googleusercontent.com/Ba0YU9RWWj65GbT1OKj4EdTN5fpiW35BSc0knYCJm_yRFQSTeQus52y98gjpK1mwq_TUztHzoB5pf6oFsg7w6m7T-OyZIWE5rL-h9fcZO30X_3ofAoffzKiqNg\u003dw300-h400-rw-no-v1-nu",
+      "img": "https://lh3.googleusercontent.com/i5ljF7eJmFyq5lggHvorEG1YTBx8yjxkIGx3oOyAKgR-__T_4H3aCLfm77NRy5aaSsKwZjnZSdfBSj7I0H-R6RenfwpVGINwgTkv-aiiMtM71jFrrUkzMZSLpA\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 30 min"
     },
     {
@@ -706,12 +706,12 @@
     {
       "title": "HITMAN - Game of The Year Edition",
       "url": "https://stadia.google.com/game/hitman-game-of-the-year-edition",
-      "img": "https://lh3.googleusercontent.com/Th-a3RV9cVoN8ODgTogAlAjXhYehaDhhRsGo_1fghzzTAUCWpS6VKdVxGoxGi4atOU_oP6ATJOecVqZ0g8Adn4eu2Rn0uXFV-YmVuTF-X5-h8JwZKMqMHU5rEpM\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/90_HgpnBeOd5v3MixDxMwy3k0eqCNFbMbNh5_jDdzJvXh10N2cKswQcY2-en6xKVNJehya-9oBcBvO66osGsmRABmG0q9bSHB1UAGZY2IQmIywXsjrvfeLBSzMk\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN - The Complete First Season",
       "url": "https://stadia.google.com/game/hitman-the-complete-first-season",
-      "img": "https://lh3.googleusercontent.com/Z_o15EGPSxOHz02BCVXj4haIsPV1zjjPhnBAgZV8-vb3JwjAqDoc8CJqAcnTGqfGW2P4soUem07Gyvytlsr-j5fsy8SMTAg9QOevAItpnp-L_dGnvLEOtcDh1CM\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/6B2xBwrCdLTK0MHJDKfhAcvHaZ8kvHCkTAXLHbYFKnlxF3QA7xniUZRfyn60XrEQ3zbUisSnsm8pAdzoNxmEZ0IODbgKN0XODHpl3xOBOGFCOQBgOPlh8ShkiIY\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN - World of Assassination",
@@ -721,22 +721,22 @@
     {
       "title": "HITMAN 2",
       "url": "https://stadia.google.com/game/hitman-2",
-      "img": "https://lh3.googleusercontent.com/w92iRbRu4d7g54_6oLrB7sjkfqUOKA4lzI5o7WXpKDW8VbLk59tXj95ZT8MSKySKCmWYkRdCjj-QHV0wd4gzo6OCys3J3S2lLd32GLoWn3K9rrHTdEa7pc97u3A\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/PtNXJF8upej1kB9BUn-HKelxb_ejZVO8RNpDo7L71F9dExrbzCdFdbT8F2-luPCWQkf-O1LxcrbZdHGaEQNcbyxXjELTEYcnGCkYymmb-swnk6p03fn9K3wwGuQ\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN 2 - Gold Edition",
       "url": "https://stadia.google.com/game/hitman2-gold-edition",
-      "img": "https://lh3.googleusercontent.com/wm1QfK2RdeExBKwWI6VJl0OK7qhkAcfXyh40EO8ZhlR7mquEwGDOyFOoQj8svLSgtEOVVzDbJ9NqnGM4V2rDDDiug-H-Xf9ISGeuNQot1T1NwWj-ZUgGA85fcQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/NZIOowhOS-GYhhgjT9t2dK_SBoYyCSgsu-psUU9qaFWquXRcixvRoWdDorEmpeYjLxGLUMzUmWZYerjteWHfGeZ4lyaPmB2xyn006ZxIZ1p4Wv_Y5PU89-rxkQ\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN 3 - Deluxe Edition",
       "url": "https://stadia.google.com/game/hitman-3-deluxe-edition",
-      "img": "https://lh3.googleusercontent.com/N9v0fWstwVDBjFMcufM_KarMNceUl1Duan22eIKnLdgjiQ7fz9dGGsuubYZgQWmBaEf0ZVz4rIuvPp2G4-FCNe7haHMgZkIytrZgoy3KjBATvIsPmAFBcA2eyGA\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/0vVsKCTZv2o3pAkNyZArQvLkGA4zDoP5vM4LmyQchzfYdXCtp8sWo6k7ocLpEZYVeDDCqAYHmUnG1S8Bs2PSEq0zUuZry78WDMgWuT37BPW9oK7rAffmVK3aw20\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HITMAN 3 - Standard Edition",
       "url": "https://stadia.google.com/game/hitman-3",
-      "img": "https://lh3.googleusercontent.com/7tRa_KPAsvfL8nUqNZmSAFBtfCPFOwNxUzJr1VtiY6EwUBuEg0SZ8MSKb40xEorwkztvNATlMt2Zfq4kAozDjzRiBg2Qt4t91s7FuqnhC7evrLOyi0px9FkvANo\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/Ho7Yk6kLVcMPYrm-3VpBnsR-WGBTGN98sOYi4fPgfzVhze1eVYGdH8zSiIbHbY0wCdeWORShLwZixejeMIIiEorFKkesTrwnfbn65cx3HFfksW5AK_p78U3o38c\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HUMANKIND™",
@@ -974,12 +974,12 @@
     {
       "title": "MONOPOLY + MONOPOLY Madness",
       "url": "https://stadia.google.com/game/monopoly-monopoly-madness",
-      "img": "https://lh3.googleusercontent.com/fy2b8FqUYrR18RQ_7KaZ-BY3l5L1d8iOa-5kA-P5q0baylPShEjkT9yNJ8C07GBiuzkcTKUlBStXOzcIzIJsC9_1tzac2Qua2zlqmBbJUuBh78oaU-uFkBONxHl8\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/WR__ek4YRttx6l2IpfvsDahhmhR_IzF6qVTnp8T27xvSMhOCq3ahVECK-MEIR_qhbhKWrYy7K4WSccR-a872uoNgG185Av9lmMjBWXveoDBMmbAgoRznlivfMEvl\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "MONOPOLY® Madness",
       "url": "https://stadia.google.com/game/monopoly-madness",
-      "img": "https://lh3.googleusercontent.com/DjLIG62X9ZafLGqmyOt9bdtN5gTIlLmq4Dz7aj_3BQiz7wuPIOXnAqgy1EczaxkGRP0yRL9q1XO2kbWann2lujxOVgjtCGYHFgISRf7dZ0QDZspmzvybCeflBbg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/PziTTun2vNz0qsm_fQHzcLIcSFtU_rJOAvL_Z0hHgai_Pu5dzpVKBKfkYb3kXHzSwKaWWc-6WyCHck6_SjPkeVUBq0lMDDUj7dD1f8uPMHMzCTXuxYPDU3gT4EI\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "MY HERO ONE\u0027S JUSTICE 2 for STADIA™",
@@ -1439,6 +1439,16 @@
       "title": "SAMURAI SHODOWN (Standard Ver.)",
       "url": "https://stadia.google.com/game/samurai-shodown",
       "img": "https://lh3.googleusercontent.com/ROp-4BVR4LCnNs7z7t1fnHgE4dZoUsf4Y1-Js3VCXGz292s7Zlcm_CdpBWHxo1ifg5ZgRLt9ZSOi0VVt19kq9NlDp_uYTM0mxQ7r19xlO9isHP4foqfUUP6rgFQ\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "SKULL AND BONES™",
+      "url": "https://stadia.google.com/store/details/46c25c54db99408e8dee0ffb94eaa64arcp1/sku/89a1b792e66d4c58b3e460ef693ef7d2p",
+      "img": "https://lh3.googleusercontent.com/WqNwLLRYTN_sxtpBBvd8waOgcXknRxfou6MYioLuuDZkiONckosjRK3GuCBhh-6fHW1g2OFY1vG7kbHBguvjaWNtwbui_6KuZ3gsj_xuC-p_nEHsaxmURFMf2kn3\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "SKULL AND BONES™ PREMIUM EDITION",
+      "url": "https://stadia.google.com/store/details/46c25c54db99408e8dee0ffb94eaa64arcp1/sku/c2e138bf388744a6ae5e557e0dfe54fdp",
+      "img": "https://lh3.googleusercontent.com/5t6dkvMklqIdOgeCHF2E_4GaE9U7dZTOSOupv9_v2fy6B6fLcnGbJTPRHz0RP4To4W80nXpKsaQkW6HkYk9jE2bwmEpa21UXEbWpgPEsafEpOud6NpCdZ1EV-us\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "STAR WARS Jedi: Fallen Order™",

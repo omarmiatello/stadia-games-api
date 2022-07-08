@@ -17,8 +17,8 @@
 1. [Assassin's Creed Syndicate Gold Edition](https://stadia.google.com/game/assassins-creed-syndicate-gold-edition)
 1. [Assassin's Creed Unity](https://stadia.google.com/game/assassins-creed-unity)
 1. [Assassin's Creed Valhalla](https://stadia.google.com/game/assassins-creed-valhalla) - Play for 120 min
-1. [Assassin's Creed Valhalla Complete Edition](https://stadia.google.com/game/ssassins-creed-valhalla-complete-edition)
-1. [Assassin's Creed Valhalla Ragnarök Edition](https://stadia.google.com/game/ssassins-creed-valhalla-ragnarok-edition)
+1. [Assassin's Creed Valhalla Complete Edition](https://stadia.google.com/game/assassins-creed-valhalla-complete-edition-bundle)
+1. [Assassin's Creed Valhalla Ragnarök Edition](https://stadia.google.com/game/ssassins-creed-valhalla-ragnarok-edition-bundle)
 1. [Assassin's Creed® Valhalla Deluxe Edition](https://stadia.google.com/game/assassins-creed-valhalla-deluxe-edition)
 1. [Assassin’s Creed Liberation HD](https://stadia.google.com/game/assassins-creed-liberation-hd)
 1. [Attack on Titan 2: Final Battle](https://stadia.google.com/game/aot-2-final-battle)
@@ -274,6 +274,8 @@
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min
 1. [République](https://stadia.google.com/game/republique)
 1. [SAMURAI SHODOWN (Standard Ver.)](https://stadia.google.com/game/samurai-shodown)
+1. [SKULL AND BONES™](https://stadia.google.com/store/details/46c25c54db99408e8dee0ffb94eaa64arcp1/sku/89a1b792e66d4c58b3e460ef693ef7d2p)
+1. [SKULL AND BONES™ PREMIUM EDITION](https://stadia.google.com/store/details/46c25c54db99408e8dee0ffb94eaa64arcp1/sku/c2e138bf388744a6ae5e557e0dfe54fdp)
 1. [STAR WARS Jedi: Fallen Order™](https://stadia.google.com/game/star-wars-jedi-fallen-order)
 1. [STAR WARS Jedi: Fallen Order™ Deluxe Edition](https://stadia.google.com/game/star-wars-jedi-fallen-order-deluxe-edition)
 1. [SUPER BOMBERMAN R ONLINE](https://stadia.google.com/game/super-bomberman-r-online)
