@@ -131,8 +131,8 @@
 1. [Gods Will Fall - Valiant Edition](https://stadia.google.com/game/gods-will-fall-valiant-edition)
 1. [Golf With Your Friends](https://stadia.google.com/game/golf-with-your-friends) - Play for 30 min
 1. [Gunsport](https://stadia.google.com/game/gunsport)
-1. [HITMAN - Free Starter Pack](https://stadia.google.com/game/hitman-free-starter-pack)
 1. [HITMAN - Game of The Year Edition](https://stadia.google.com/game/hitman-game-of-the-year-edition)
+1. [HITMAN - Starter Pack](https://stadia.google.com/game/hitman-free-starter-pack)
 1. [HITMAN - The Complete First Season](https://stadia.google.com/game/hitman-the-complete-first-season)
 1. [HITMAN - World of Assassination](https://stadia.google.com/game/hitman)
 1. [HITMAN 2](https://stadia.google.com/game/hitman-2)

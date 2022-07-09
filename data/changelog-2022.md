@@ -1,3 +1,8 @@
+## 2022-07-09
+
+### 1 new game
+1. [HITMAN - Starter Pack](https://stadia.google.com/game/hitman-free-starter-pack)
+
 ## 2022-07-08
 
 ### 2 new games
