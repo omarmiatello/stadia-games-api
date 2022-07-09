@@ -1,18 +1,10 @@
 ## 2022-07-09
 
-### 1 new game
-1. [HITMAN - Starter Pack](https://stadia.google.com/game/hitman-free-starter-pack)
-
 ## 2022-07-08
 
 ### 2 new games
 1. [SKULL AND BONES™](https://stadia.google.com/store/details/46c25c54db99408e8dee0ffb94eaa64arcp1/sku/89a1b792e66d4c58b3e460ef693ef7d2p)
 1. [SKULL AND BONES™ PREMIUM EDITION](https://stadia.google.com/store/details/46c25c54db99408e8dee0ffb94eaa64arcp1/sku/c2e138bf388744a6ae5e557e0dfe54fdp)
-
-## 2022-07-07
-
-### 1 new game
-1. [Nine to Five](https://stadia.google.com/game/nine-to-five)
 
 ## 2022-07-07
 
