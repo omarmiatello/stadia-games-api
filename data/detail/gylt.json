@@ -1,0 +1,69 @@
+{
+  "title": "GYLT",
+  "url": "https://stadia.google.com/game/gylt",
+  "img": "https://lh3.googleusercontent.com/yEZuQGDkZi9Wg-4T-0MieHT4I9h0lXVU2Hz18O2B4DBs-NFg_mPDCMOPlb8iz5IwEy5uk8yRHUgXaSA2MmoCQRO1v5IQ9hg8nC3t6N3z8hZ4hIfWpwWwebwGNUeg\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy"
+  ],
+  "description": "Face your fears in GYLT, a haunting tale about bullying and childhood nightmares, as you help Sally navigate a creepy world to rescue her missing cousin Emily. GYLT is available only on Stadia!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/F8_1ulOmDHYN-xHJfvspKM8VU2UR9FuoPhjjMdcYTzFLnYs6bkRTDfOivipde3OeIrOo5ThSBDKG6rFG5zNvuzIDCAKbI29ptto8wCSHuRpOOQQjT4EyFUxkR0fX\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qlyGxxUT1DLICoMyOIJpu-YsgZmNfq6kGoXdmerBnkOx4tsw74uhSDxtDVvwkg63yefKbzMzEY9MozD-z_lUixi399jfQi4UpsKhkYcqcObDddzqJfWbcq5a1iA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/eRUGIlRb8CCUUWW5iFu-WxYCzKVRL5mpqMASxjQ5uUTFZ93s1SM78gGPGl9TehqE08nSee-5veYai4xFcm_2zQDdWPbB9hSJ0P-TrvZfTcfZ42f7mVtQbp5W6Cs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Q1ZcOlblFSRkegV4zOpkReJ48I0NL5ki4dN7Tmiv6OBayd5NqqGFIQ0AvPlTxcwMIb54clni5vQHhk-qNsmbf-6BdZTp9vPrj75h8VQmL_xvXfBpdcubeC0wc6A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/GnGdb4oTVcew1osAGeQhyqnsA-Nqvw93DIFsIQwRgXTW1u5o9pJO8QKcA4g4jjxsw5ku1IQJeOwqHnNLf9XFVj3MxaWXMTyRdMCjMIFELKgPcu3B7uZ9B9SHqg\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-11-19",
+  "publisher": "Tequila Works",
+  "developer": "Tequila Works",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Subtitle speed controls"
+  ],
+  "notes": "GYLT™ and © 2019. Game and software © 2019, TEQUILA WORKS S.L. All rights reserved. GYLT and related logos, characters, names and distinctive likeness thereof are the exclusive property of TEQUILA WORKS SL and used under exclusive license. TEQUILA WORKS® is a trademark of TEQUILA WORKS SL. Stadia, the Stadia beacon and related marks and logos are trademarks of Google LLC. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners"
+}

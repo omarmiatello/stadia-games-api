@@ -1,0 +1,73 @@
+{
+  "title": "Hotline Miami",
+  "url": "https://stadia.google.com/game/hotline-miami",
+  "img": "https://lh3.googleusercontent.com/Oh6_ViknbzBuFLqn-NV3TFwwz0bvHTpZTfk0Z-bOkESdyU-VF8ask5AAUPYu5HWY89sj8Y6JVqtWJsYhurUP8gvqeXD9Xx2ci13qaURVItF7DvG32x8v3g14Wc0\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$9.99 Buy"
+  ],
+  "description": "Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat. Set in an alternative 1989 Miami, you will assume the role of a mysterious antihero on a murderous rampage against the shady underworld at the behest of voices on your answering machine. Soon you\u0027ll find yourself struggling to get a grip of what is going on and why you are prone to these acts of violence.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/P_i1E-7A370usA2f8HBGYzJfzLO3xZwLtJzd1pDKev7V8_6JLy4XS_4rCnJAPJ6OoJMv3d8v12-uvwYipycRKjhVwT-tvK57wPO0SUgst5vWiRAb_fUrC5SWFw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Bg3j2VUQ3kbj68PRvt91yzKpjbHLDGgr91Uphuzt_jUfgoPmoEy8tU67QWiaksB9gJrTr3iOEcNpyKxpn4qnfvnee5YnTl356N72uGB5jVXJnO6QkstMOwtTXA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/CTc-Rza55ZDU6YWUknaeRDVJwmx80dOYQw0eR9Qrp_QuSNZ6aD84txzQp7IMEOdWm17P1Jov_zAj0slF42alAAlMK74t8rpEtK4MIKvDArzG0AkM-BMcBhcmLLY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/4Mpdj5RasGy-5uvFGcvGN2lyCqHXNWegTHZsogbiHBZNXxehUkup-PoTGRFrmYeVuOHIQskPlFafGO-0TURWOUrBCYHpY7jao-ZErpbmB4dshw_1Z_NEi5I9cd7V\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/O4ay7f4jCtdUVlmp6s9vdFPnwu_x1quTKmlpG10gChx3cjed8mZq4JKjMisQAdSy5dVnScwT2vMuvfe0uJ65lFyzwIboNDOWalbOId38eRGmUVd2Ih4TO4JrBzw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-09-23",
+  "publisher": "Devolver Digital",
+  "developer": "Devolver Digital",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping"
+  ],
+  "notes": "Copyright 2020 Dennaton Games. All Rights Reserved",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Crude Humor",
+    "Drug Reference",
+    "Intense Violence",
+    "Strong Language"
+  ]
+}

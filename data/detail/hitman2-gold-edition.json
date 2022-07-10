@@ -1,0 +1,82 @@
+{
+  "title": "HITMAN 2 - Gold Edition",
+  "url": "https://stadia.google.com/game/hitman2-gold-edition",
+  "img": "https://lh3.googleusercontent.com/T3-etD5UGXdkVupAyBrMgmu3c3Oj7xfZjDj1xwEJvUx8IgZCHjzdcUND8EmzCZP_tz7VTF3sa9Ytdmx8nO6TSYgIYUKyscrgdBfOJgSAvUHO-N-rX_j-Qm-ejw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$99.99 Buy"
+  ],
+  "description": "Travel the globe and track your targets across exotic sandbox locations in HITMAN 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world\u0027s most creative assassin, Agent 47. Prepare to experience the ultimate spy thriller story; your mission is to eliminate the elusive Shadow Client and unravel his militia, but when 47 learns his target\u0027s true identity and the truth about his past, it changes everything. HITMAN 2 - Gold Edition is the ultimate version of the game and includes all available content from the Standard Edition and the Expansion Pass",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/97CXN-xCELYqkLWVa-QfbrT-92C8ZwOfWl7AFNKJmN6LIf2itaqlb3q-7OQSbuceuvHEOlP0H1oFNLs3S6_FcKEXxIpd1-hzWiXE9nzMsSlUS3tqrXT2v-bP0VQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yHZPj9XVZW-T1_E5Rm0BOHNucehRbiLe3dJbWVrsG4eTnBq288eiW5UAl1dvBPQQzOSK3tctvgXzKALtORE8FjfLLgmKCPhmrRg1uhLZ5jAfQQ-lXZflWn6In_DF\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QcscO7nO8PcudnErVYTI3v3LZzFhh4KEvsS1GwCedM4ciMjjivoO0R_-zik4imEKs3dj6Jid4D-LXhS4CJvvCJqmglWRwA7e0U3GEM1RZpKpDdJTyfVyHfClBVrG\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/9iMtSVRqMdpuW4uAqzge3RGfzFYHAgdrta9VKZ6ycz53pLp0jccPuS1nlpCFTnpSfV3edGumQBOzXpg0ZcDXvraqpTk6vOwfGwd85c0WVrnUK7W5QFrzo2U6BbA\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-09-01",
+  "publisher": "IO Interactive",
+  "developer": "IO Interactive",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "HITMAN WORLD OF ASSASINATION © 2020 IO Interactive A/S. IO Interactive, IOI logos, HITMAN, HITMAN logos, and WORLD OF ASSASSINATION are trademarks or registered trademarks owned by or exclusively licensed to IO Interactive A/S. All other trademarks are the property of their respective owners. All rights reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Intense Violence",
+    "Strong Language",
+    "Use of Alcohol",
+    "Use of Drugs In-Game Purchases"
+  ]
+}

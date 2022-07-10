@@ -1,0 +1,77 @@
+{
+  "title": "Streets of Rage 4",
+  "url": "https://stadia.google.com/game/streets-of-rage-4",
+  "img": "https://lh3.googleusercontent.com/dtRoD1VWLEVRmYZsOxVndyNnMYFrvxN0KWpNNBsiUrHbYRHTdVeiyeAqraMg5SIQ3XmnILzTZCr7VeRTu8UmRebCRBzCvsp-eyUwJS3R93DBzXnPqVj7iAuFdg\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$24.99 Buy"
+  ],
+  "description": "Amongst the best beat’em up series ever created, jammin’ ‘90s beats and over the top street beating, the iconic series Streets of Rage comes back with a masterful tribute to and revitalization of the classic action fans adore. The all-time classic Streets of Rage, known as Bare Knuckle (Bea Nakkuru) in Japan, is a beat ‘em up series known for this timeless gameplay and electronic dance influenced music. Streets of Rage 4 builds upon the classic trilogy’s gameplay with new mechanics, beautiful hand-drawn visuals and a God tier soundtrack. Stadia version of the game includes the additional character Estel Aguirre for free, as well as new color palettes for all characters, new Training mode and New Mania+ difficulty.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Ioutj1Qw2C2CzH-93OugGrwkuYZrchwl5nMvVHFaslpSqFBGohYniA9yT9I3ptve_rOHqnPjDnalL7VkOZuYsxRXThzADauLxNDxi88tBMJjLRtWOfrszYi6L0I\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/lNFIpucI1hTgd3fF57ujRdSOC1YOZT-zQ2K9V5GQ-KAq1gCN5kV1Bs_kHfLg_uAWnXddWKaHd61crNZww9UA__EmnLoZymR9r1kPQUJCrRuNvHej8AKy2gEr6Us7\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/jKf_9Wwx6y0WsMnXFkxLjPVDr8rNe2xIQg1m36HIMj_pSpTNVnKECAK2Pxn-klgNnyAwXDUhbwlLDhPQL2w_hZtDKtzYv6LEUnrSVUTiy9NSxim01q3rulH_2ko\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fjVprT8_NTBntrWSHB8j9FcZBaol8-oniv6MnxC4FWGN0l_wA7sxPbXXbCBUSHei3DPakMalsqRLYZ0Y9yWN8wHJdo-MWGC1du3dUrYDIvnVfd7Vaviurbeoedk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/3k5fOWyxtLc-vuDAcb9XSzeQTZJ2NXHoQhAqCRHPghjHU-sck2GJmjekVCisM0IsD0OxqGSpYbVK7X6Sfgb29hZaEFCpYcf1ZBmJZ7_0v7haW3FipzPhsJ_EDQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-07-15",
+  "publisher": "Societe Dotemu SAS",
+  "developer": "Societe Dotemu SAS",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Local multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Partial gamepad support"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Copilot mode",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "©SEGA ©2021 Dotemu, all rights reserved. Developed by Lizardcube, Guard Crush Games and Dotemu."
+}

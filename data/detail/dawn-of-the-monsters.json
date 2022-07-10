@@ -1,0 +1,72 @@
+{
+  "title": "Dawn of the Monsters",
+  "url": "https://stadia.google.com/game/dawn-of-the-monsters",
+  "img": "https://lh3.googleusercontent.com/RPUm-GLuS3A1h5JaGBEd9kail3tJN9THRb5-bA2A70UIVWPgTNoC4QezBrS5jJzPqkUnRBloYReddhP0Di-i5aCErNAJQ6zWyOoY0n-ml52ztdUCx1LVU0w1tSsn\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "The cataclysmic battle between giant monsters has begun in this manga-inspired kaiju beat-’em-up! Take control of four hulking behemoths – Megadon, Aegis Prime, Tempest Galahad, and Ganira – and smash your way through more than 35 missions of colossal one- or two-player co-op combat!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/AYulB2Y6wogw15LQyCNK1NlsEtiCQpPlNbs2Mf6CO9iq6qf_PUOzUgZ0VVQJkarGDk9i6p3NwlfpQu103kCpHVx_9QwauGG7Fklr55EhvCl5bru86ZOIO0FB\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/o904J_l7oCiUeoy-Q3NsQam_tMht0yaXGMnrHjpDgxGpCMVhATsSZPnafKb-tSexTq0a0ZpMAvKajPp1SK7YIt8GTJmV_EHvaHnGttlDEf-_S9ra4uTxJjMqBjk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/bL5exQiIKS8zn4l691Si6rnl_UvhNW-FRv7v3iU5ww1SjDBWoylkm-IMWUsfxU8aKaZcglQZbYWqvoo8UwIBYZULVebN5mr929DUHzuKhJNjiqUuseL4MX_V2NU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/EEH288cFG5J5ytLuTB4iE52Oo30mCiUjxdi1YOaOcs75OlirMQBUyJ9zIn3YpNunHhNycJ-jc6C20FnrWdkfoqS9aRf7BfMoYv9xzd6lZVwGSIoF5mPS5NgeMZg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/W6QrZJ2xpMJE0kD_KfCvSxvWpHz8V4L0qPhw2_reKT3auMgjJiv4SOmOgRoLeqUaf2cbe8s9mfSVJQjnMTjj0HBMBLvdq4Zy8kxMAoCOzprvoMyTS6G1R18LhBU\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-03-01",
+  "publisher": "WayForward",
+  "developer": "WayForward",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fighting"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "© 13AM Games / WayForward"
+}

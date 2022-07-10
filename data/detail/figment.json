@@ -1,0 +1,85 @@
+{
+  "title": "Figment",
+  "url": "https://stadia.google.com/game/figment",
+  "img": "https://lh3.googleusercontent.com/Xhz0fFtD57KJDLWKpEoXHwOG8rBkeQonJ_Obe-99oztvSK0Sy-NYN3kjiZDt89gyxIQUMAldmBJ3L4G9bFEZa50cm3nYULoWb_-gmmcdnhlhCFKOhp2mtKnEYsw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Figment is an action-adventure game that invites you to explore a unique surreal universe filled with music, humor and multi layered narrative. Join Dusty and his ever-optimistic friend, Piper, on an adventure through the different sides of the mind seeking to restore the courage that\u0027s been lost.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/-DwgFoxdMSRL8_zmFPV7-LKEif_TssuIbuS5camDfAwpMdpsldVXRlsdEuS_x2YNH_MVqu8KTq6BL_wwLWrpttE5O9EcKAFj1SDDGv2jsi1BtG1vBYaVgDlWky0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fphZVHqfgMKHCQJjOjocUC2senHSDNKVVV-ZGR8ai-Lhqutt9YESTKRs_K8WW_n9BYJO74ifK7mPeCeIycSgmI_rBqNpT1KSq-NEYOrg7IeYrozeUnysm0Bry00\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/NQlkHMQ7U-vOoDv5x78O8ev7Lsm6EadRyL_Nyd8vid3XTuSStQQT34j8XDHySWb7QSHrzvtcU9vHoMDhuT8eeBM4pV8Tw_DWOcKhndzTtmkB9IAc4izx4BAuojo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/639LtZYrWqLX6e_gjYAeTdS-yEV0Af1iDZGkS9gsW7eUtNP2Vp80NOrO6F3qn-nNUw6GHQ70gAVtHr66UepMxxHPksTDUd8dehoauUBeQxSsZspZhE-YKD7SNX1A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/iH2WVgLQlgKa8C6R4qF10H_rJeShCRZvU3gJJTND6JlJp9ANJz4qIGbhhVAbS3e31njNuG9kbuk9eq9tR4P26DfPzmjWO088BtLW_Us278f5Iu5FKmzfzsyF5SU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5iXRT4NqY_nTZkbJ-F0DbibnQoVvxad7c6eTJNuhvAhXAUYL4OFdcB_mRduuE2raceq7FiN4pWwaMb3hZBwLkhigofjMTqSH1TLRa7UPH4FE_cLAydRyTyVI3ak\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-12-08",
+  "publisher": "Bedtime Digital Games",
+  "developer": "Bedtime Digital Games",
+  "languages": [
+    "Arabic",
+    "Chinese",
+    "Danish",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "© Bedtime Digital Games ApS. All rights reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Crude Humor",
+    "Fantasy Violence",
+    "Language",
+    "Mild Blood"
+  ]
+}

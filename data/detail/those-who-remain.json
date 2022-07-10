@@ -1,0 +1,77 @@
+{
+  "title": "Those Who Remain",
+  "url": "https://stadia.google.com/game/those-who-remain",
+  "img": "https://lh3.googleusercontent.com/3GmjJmWIEiGWQXiHKK1QIkW0C7PGJ-gws_S31eW9cg5732zgMgoYh_Pnr1VW-RcPAEYOZGmSPTWPAyLFwkPaGrwzQ7yhHcpomg3zuSqxfeqy370OL_Url5Y8epqy\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$19.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "As the lights go out, the embers of darkness are stoked in the sleepy town of Dormont. Confront uncomfortable horrors, keep your sanity in check and survive the night in this story-driven first-person psychological-thriller. DARKNESS HAS EYES - Navigate the encroaching darkness and clear paths through the mysteries of Dormont. To survive, you’ll need to stay in the light by any means. WORLDS TORN APART - Explore two strangely interconnected dimensions and solve puzzles to unlock the mysteries held within the dark. CONSCIENCE OF CHOICE – Choose to condemn or reprieve the lost souls of Dormont and their cursed trove of secrets.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/pefX8oMBcS_JKVghmeR3Epc1OLUFiLZLmP-0uvAgXU0aLzeJg2s7glaf6ykoOhB9nQllgIXnb9g_jqMDvNyJuxLHdIcAUUVybbjD3rMOuIStVjXzVtZSYpk2iBw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Q4NHEmmRplKLJmUbcxEirS9-WOFAFau6TKYnRQhPVfBEHrpUWDZqAOCKUNROpJ9BL7VSv0XX70_RlJBAYG-XO3uTMqLXei5g7q0olpDjw7sZ0nG58GmQJuatWzg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/P9RsoVMpJWkr7Q1P8VkchmVnoyUuAths3dv3XJnMtn-P3QUsr0592eu3XAptoYqQQw7rXdBXKx8D8X5SIcCDP7WdwDaQuG7i40ecJ4hRLzH1tJKJXc4asIcwtwPZ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HvbAClNv_9EY0fmzUivSQg5Sig0yMqWY8-xN1knSs9z9Wclu1xIhZXb0nZ7Zw2sRsjRjy5VxCjardyXqEr6QYsWp_8U2FbRsKZso0gqGt17vc2kveQ1slsBFCP64\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/eelimoMfyp0eFbeKbufRkxZsMked2rwkIScV-DfTl_EbDw_ImViBRKhHkuE7789W02QgOD6TXDWg4-ZQSpcsJUEQK8mfGlV2xLbwUcP1rChZq9ruLwcM1tiLAMU\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-07-01",
+  "publisher": "Wired Productions",
+  "developer": "Warp Digital Entertainment Limited",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles"
+  ],
+  "notes": "Those Who Remain © 2022 Camel 101. Published by Wired Productions Ltd and developed by Camel 101. All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Partial Nudity",
+    "Strong Language",
+    "Violence"
+  ]
+}

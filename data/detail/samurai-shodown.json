@@ -1,0 +1,82 @@
+{
+  "title": "SAMURAI SHODOWN (Standard Ver.)",
+  "url": "https://stadia.google.com/game/samurai-shodown",
+  "img": "https://lh3.googleusercontent.com/ROp-4BVR4LCnNs7z7t1fnHgE4dZoUsf4Y1-Js3VCXGz292s7Zlcm_CdpBWHxo1ifg5ZgRLt9ZSOi0VVt19kq9NlDp_uYTM0mxQ7r19xlO9isHP4foqfUUP6rgFQ\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$59.99 Buy"
+  ],
+  "description": "Description: This is SAMURAI SHODOWN’s main game. SAMURAI SHODOWN has enjoyed worldwide success as a blade-wielding fighting game series since its first release in 1993. 11 years have passed since the last series installment, and it is now time for SAMURAI SHODOWN to return in a brand-new game featuring high-end visuals and gameplay! Faithfully reproducing the game mechanics and atmosphere that contributed to the success of the series, SAMURAI SHODOWN includes a revolutionary feature that learns players’ game actions and patterns in order to create CPU-controlled “ghost” characters. With its story set one year before the very first installment, warriors and combatants from various backgrounds and with their own goals are about to battle to fulfill their destinies!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/ixRKRENSgP4Fe4HK1X3i4La7axX8ncjeklt3ilnuYzVoSOHs3cpJL_2XS4Ahwiqe051YnP1xNX2sUM2qxeJk8BozKpqFaDuL39XKQpYYv8KPHFnl-q7a9cJNCb0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/oP2SIhGv4iN4TYairrtFk-6JUCq3t4cPOzIiMeJiqZptUQGjQ9UFD0T8ZhwSmoT9z_oL5rxVLPyPfYgPv_NcoIlOjJ8dgnNMiNO24rJO5QJbwjziCa6SmJcllQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1m1AwK0oYYK1SRZiHCwMq_lD4ljDrJoisXGLGmzBxBvkhiGdPrXvhDRz2r8tZOxy6OTvycV0QSvmf_qeF-nPAfohCqr09qFuKOUPBYR6tWAoPZ1ffOTDUFJPYfI\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-11-19",
+  "publisher": "SNK",
+  "developer": "SNK",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade",
+    "Fighting"
+  ],
+  "game_modes": [
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Difficulty levels",
+    "Training mode"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "©SNK CORPORATION ALL RIGHTS RESERVED. For Honor TM \u0026 © Ubisoft Entertainment. All Rights Reserved. copyright©1998 - 2020 Tencent. All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Partial Nudity",
+    "Violence"
+  ]
+}

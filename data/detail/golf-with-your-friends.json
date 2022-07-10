@@ -1,0 +1,82 @@
+{
+  "title": "Golf With Your Friends",
+  "url": "https://stadia.google.com/game/golf-with-your-friends",
+  "img": "https://lh3.googleusercontent.com/n0O1tmOMpseuujJnve2NnPm4t2U7SFe929UJp1G-urqwuaN-re8o3B2NDR2QEkk_UJDERJxsSNiz8Ag9-ugzWF_rCj9SBL1mkl4jVW_vtyTTz6gEpDGOaDuTL0wb\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$19.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Why have friends if not to play Golf... With Your Friends! Nothing is out of bounds as you take on courses filled with fast paced, exciting, simultaneous mini golf for up to 12 players! Key Features: 12 Player Multiplayer! Make sure your skills are up to scratch as you tee off against 11 other golfers in online multiplayer. Themed Courses! Get the Par-Tee started and go head to head on themed courses! Powerups! Drive a wedge between your friends as you trap their ball in honey, freeze it or turn it into a cube. Three Game Modes! Tee off in classic mini golf, shoot for the pars in hoops or swap the hole for a goal in hockey Customisations! Turn the fairway into the runway, with stylish hats, floaties and trails for your ball!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/CPDpxXCblnQv6DSBYNzNHUvg-s2Wxlxd4n1pgOeDVBuIhcjWvkxJ1cRCXqpcgceZGTr1F0kR03e0fQ2LiLxQQDb4TBgZ8GK_Ne4C_oplsvO4XgsmHekLGyTx-g4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Jn5RYEQLHLb9UnGPxbX5jiLsQFTbri2RagtunQIwFIo-u9po-RH67yLvvIs-PGDKMimBOyvdPoDtGacspHY1AOil6_3x1FxaYq_fi00go3yUhNwwTn91Ogqb_UU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ytdsrKTCI8-Hrj0z3V0hwNOWSPffznhC-kf0uRj-FKR9Q0RvQMS7RLketxjJ4bAi0zcr4nEgeqCBw35GiSzACmIL92SYMVBUplptoU4Lw_JlSjZ4jh-LisgP-G4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/GjcNUKCOmbQgDVV8QGO27tH0N7mlxtxxl_BoveaKvQVc6fp2G43I_TD6R2kGtHmnxACFS_I67eoqBXmKR6Tr8MSwPQ7Xifmmqfw17HFiMHUI1JILSec5GDhHpQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/kpcBRqKJuzYs9rOHh2-DB5oJgDk2sMXQfGpMeqDwLdfAOUIsXvuu15Yjr_WDYn668WmSyX4_tMM7Y_FEvsKUipC9oG2JOrA8w4OdccMwrbGOGHHjvtWIVnO-Sw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-04-14",
+  "publisher": "Team17",
+  "developer": "Team17",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Polish",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Sports"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Copilot mode",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "Golf With Your Friends © 2019. Developed and published by Team17 Digital Limited. Golf With Your Friends and Team17 are trademarks or registered trademarks of Team17 Digital Limited. All rights reserved",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Mild Blood",
+    "Mild Fantasy Violence"
+  ]
+}

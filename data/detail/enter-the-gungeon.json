@@ -1,0 +1,69 @@
+{
+  "title": "Enter The Gungeon",
+  "url": "https://stadia.google.com/game/enter-the-gungeon",
+  "img": "https://lh3.googleusercontent.com/M0oPpHg9dK3LsIoCjDrEBXx-u3TP3xoHAPX_j2whXcvJwDUAcN0OoxWWBymWtspiHoPuA5W3T39O24dTYxOBYNcR4brg-LEPpkE3FDN1BDHRkpMjJaj1oNau2PE\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$14.99 Buy"
+  ],
+  "description": "Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero [or team up in co-op] and battle your way to the bottom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/6JLh5Xhgzi6nh8kEOzAWnn7LVqqtsEY9SX80HP08z20NB908VHY64EKLTFMZdRA81q2qL_UH8kov2CGGkpdg9vr_e-vyIUJcMIcU1PAw-0c_Wq1hAP8JzX3F1g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/O0X8DzqaQKEs6xpkjOl6Yrd0d6V9_1yhNlEbxOkwYGgYpv7dLyxr_1bU-X87ko4o6r2WTupOLvldmEODsagH8bB8JxWgnWJpaEFBr23ntVIrJ65lgwRzGtDTmA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/BWzd8BNWj67hihdXWXNcGCTw8KG9NlwVOQ6q9AjzXoYzEwe3_ng5YjH00rteZdhbSKKHNqGBsJRSDNV5I0bMpq9xaQe0sdHB9CxGFmJhFatysrdyJwDcbMzt7w\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/gsId8DNEdYGckLSiVrTb6yJrQ4y790l9iXGsEUAR7lZVupb5usP-LyyEhx1-4NAXg2ofyj1TbbY763wHf87TbPzAZ20stxRXwAMu_IlDJnd-9z8yo97dmfZVaA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Jer2-ftSwuwS-ld4ZFGDBgPbk1xZKdZwUu0LXTOg0xWhvU_1Gp0C5fsO7i9T81a1xtQfuyd2sl0MjWPqBfZY4IMXLhfbfDPCdlU8UnAkd4hwiQosHoCgCtWXZfU\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-12-22",
+  "publisher": "Devolver Digital",
+  "developer": "Dodge Roll",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Indie"
+  ],
+  "game_modes": [
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable game interface",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Separate volume controls"
+  ],
+  "notes": "Copyright Dodge Roll 2020. All Rights Reserved"
+}

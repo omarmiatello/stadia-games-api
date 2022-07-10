@@ -1,0 +1,74 @@
+{
+  "title": "Farming Simulator 19 Premium Edition",
+  "url": "https://stadia.google.com/game/farming-simulator-19-premium-edition",
+  "img": "https://lh3.googleusercontent.com/-EsmvKqjqX9vpgI5rJ-5JQHvRijIj76Z43p10lLoKv5khOCDFQ0uOxXc_fON67-erqoftMRMhUO-A9h_hmBRk1rB5IK_LEV31s-6oxomU8kINqTgUriMTtdKaw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$49.99 Buy"
+  ],
+  "description": "The Premium Edition contains the multi-million seller Farming Simulator 19, both the Platinum and Alpine Farming expansions and all official add-ons. In total, three official maps, more than 475 authentically digitised machines from Case IH, New Holland, CLAAS, Challenger, Fendt, Massey Ferguson, Valtra, Krone, Deutz-Fahr and, of course, John Deere and more are available.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/DDNtx86cqkxWYMwEWoRmfmVaIEzNipxV_x1_kXEDkIc_eNlM0YnMSqnrfwzC5rohiURIkznrGUuvOC88-o_r9nKSehFXyUPc-QgI_8Q0h45U9tOx_I5bq5xT_6c\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fKSyzJyQ7ShHpHostTxkucyP93FoQiUY8bEBWQjnu4v3ZKAvqYYfoUCBNhRZvKtixvGkIGYglQyoxqhwI12vqeUL2CXsCCzyEd8RsVo0j8mlQaPKgqme3LcIy9s\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/w0VMn7Rk0PqAvioBpDgU-aFwCAabsCzTzrSj_OoEmYUhRHzwBFT0HjTtu09qU9BFp371rHspVe73NxE5YmsYUkqlC5HvsCf5fZZpKr5CM4umFojbgy34n_6QyNU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/BiGt2ImDdwd7rISjQfJMTOxiNN9AOpXh4Wv8WOeaoy-u2WKV5YMEFnE7yYYXbkgzzRjZ64WzEnGSIpbWUnno5c9wKSCU4AT8MMQDV5qINFXhXSGTwOnhFzfghj8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HCBywPgtz0AKf8PNnSEzTcDK3xccmMI4QUMN0glB1ZWDDScTHEJxZU7lHIzxptzKNWZvIT8g8hfv070pRHeV2t9Dt7HeKGMwvAGrHOvsB8wNptC-fYDDqElN9Q\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-11-12",
+  "publisher": "GIANTS Software",
+  "developer": "GIANTS Software",
+  "languages": [
+    "Czech",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Polish",
+    "Romanian",
+    "Slovak",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Simulation"
+  ],
+  "game_modes": [
+    "Cross-platform multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "© 2019 GIANTS Software GmbH. Farming Simulator, GIANTS Software and its logos are trademarks or registered trademarks of GIANTS Software. The agricultural machines and equipment in this game may be different from the actual machines in shapes, colours and performance. All rights reserved. All other names, trademarks and logos are property of their respective owners."
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Crayta",
+  "url": "https://stadia.google.com/game/crayta",
+  "img": "https://lh3.googleusercontent.com/ygDIH-5WaXMvX2XWdsVOOpzrDanHSBXerGYSwSJywUoYffm_6BTmqKsUcUqWDJUiBZHQKCxEN3OggWCJGazgFLC_OlfSwISvMWYZ16k7JXY2SR48rzTgXA9NtBM\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "Play"
+  ],
+  "description": "Play from a continuously growing library of user-generated multiplayer games across a huge variety of genres. From team-based shooters and obstacle courses to farming simulators and cooking games, there\u0027s going to be something for everyone. Crayta is a truly collaborative game creation platform built on Unreal Engine 4 - you and your friends can jump in and create games together in the cloud, regardless of your experience. Gain XP as you complete Creator Challenges and unlock tonnes of cosmetics as you progress through our free Cursed Galleons Battle Pass! Fully express and immerse yourself in Crayta\u0027s new season content with a range of pirate themed outfits, emotes and other cosmetics.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/eab4RJ6uwTSLB9fFoyFTQux4IQ6E0XlMJRFvPNw95tWEEekwjwx052yisGcN_HjAu4_VCgNHh-JjbLB7zCKWDBol3KCbW4opv00FEx_0r2K7POyQCaIWKyHss3s\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yBeoj5IxCygYVFZrfNrVrqEgteBPgTl7y8SNYj5C51zzcE7olRvC6rJSiCOYwoyt63M5fNdr-QLP6dS89bh_vCrIvgS0CeIVR17V74BLY3tqnozLYtAffJVytg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/kdZlcBVKQ5Fw6Z_Vl6kISLUuMw25q9XXuk9mEd5G6aQ7UgpT38UoXpi5cNCrLheUL52diWWYThyQaP2KDWW5-AIUjvDHu-1Oixtx3uUgG5dcPhD9GMEb23vDZUw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/mB8TrISxXYYqLiFNcO29lAsxddfrefimO5NWIvV_Rid4zEuJxQNj6fl8ee_iYAJ2jGv_e37wqFba7iF7YktlBu1LzldTPhJvarKgVAvMmDosGFrI58RK37Ckp08\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/69qdsZb9GFmYeSVflW7C6UzGLcKTXJfSlsMINmvZqgaRA2Dp6lkJApXF89qpMDaRBAQSBk6HiqRt8RJGkuzJpqDzdctC_RE6ITql9oVcQISl0OwaZ_OBJmkdoNsa\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/V4Zc6r_MxI1Ro1P8M2muWyvEiF3xFotrgZzRbjMfOe7NAlecg6id2lXxCTactIf4r-u3Id00dlF29YSVKxNLnBX9cBEkGcZXSG93dI1xfmdH1n9ZhHzlyu-iLOg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/lHBMG9Ve2sUIQmGPCQ6eMpuMU1wbZVi56DNdLq-NNJbeUIkmOP3DvZJpd9kP4o0kQqo18wquVAprcCCF9INkyOiOyEDaIbTxOdf50KWU64lljpbJaT9jYdXmAb26\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/KlOsYEYFISWo-9ndJmlHQdFAACtYzvC7ajO27BXHGvoMG8glEH50CFqFq0Mw-KyN8Dr6iX-3gcAljgRmsRpgNtONRVPpSnpqXPId6YXCx-K0JCKLM-Tia7ihp6A\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-07-01",
+  "publisher": "Unit 2 Games",
+  "developer": "Unit 2 Games",
+  "languages": [
+    "Czech",
+    "English",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Slovak",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Arcade",
+    "Party"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online co-op",
+    "Online multiplayer"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Colorblind modes",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "© 2020 Unit 2 Games Limited. All rights reserved. Crayta logo and name are trademarks or registered trademarks of Unit 2 Games Limited. All other trademarks are property of their respective owners."
+}

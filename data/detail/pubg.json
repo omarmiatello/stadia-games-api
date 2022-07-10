@@ -1,0 +1,74 @@
+{
+  "title": "PUBG: BATTLEGROUNDS",
+  "url": "https://stadia.google.com/game/pubg",
+  "img": "https://lh3.googleusercontent.com/WFhQyujm26c5ulbC2JIc8bSDpUGNadKsH6fuszjlnMVJbF1BbAz819BGt-vztLlI53rtfVbrgWj55otX5Q7iqtcVhM7Z-UbgeEaKjeGN5gXsOAgvXvxHPFrNJg\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "Play"
+  ],
+  "description": "LAND, LOOT, SURVIVE! Play PUBG: BATTLEGROUNDS for free. Land on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds. Squad up and join the Battlegrounds for the original Battle Royale experience that only PUBG: BATTLEGROUNDS can offer. PUBG: BATTLEGROUNDS is a free-to-play game, supporting limited cross-platform play on featured platforms. Optional in-game purchases available. Please visit battlegrounds.pubg.com/ for more information.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/-o9-Ho26zI_WOeYx5Pz2Hy2eS-548CsmCe8wVvtzuFNpvwwW2p10Or6v0blWs5C3Yo42njmoVh0EhqA519a26D5gGr8-Uwh6YRwHkpTf9YviA9rOhv-y9PJntqc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HBRpCJs3fp9s7I9EmVk7Id7AsuJnBN71_GW5d7Vr9eXditK-D3FLuJB_DvV4Wsib5qT7dUDUq5St83XyDsSfL8oQJ6DUA9gkjD5CfReegkoTSWY0AYAwPfIgyDE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1iNOjaHJVEQFI9St5Gxn_OFART2qnS7PU03HOPGgkzOqDptlrmpt-MbMhf8nZOMyMKBpeOPqoFwqL6Tjil_0vupJLweTL4bAYWmH37T-tmZeuj8tRVEQSDdkKrB2\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/2gwin0wqgCxZ3HPp5P3PH1WUfETGSQaSfMJ5B4E791z5fQLL5H_dVv2hs68ThQCB6X8uU_D6mCNaeDbd3DsDD-IHSvENCFPLM2GmTnDiH6wPmiX8pIKrwOamGe7t\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qsBC8Dk1n0u8pK_m1kN4H11KDCuMvMbr8gUVRei02LtuF0CkyJ2Sd0BO5QsOTXtBkfUCoOtK-lNkfesVLxUc2tUsPguKa1wNFQYT4H9xX70-cWe36vFPk2jx2aJ0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/bGuWZZtzM8sxmt0GikDn0xWgFrSBv-7W6MsHLxNDYMbB3GQOR5mgGsbIJQ6pjDI7HZ8OZlXAnGp3av13401tOgNUSffboz0Dno4SKHhI98JGLVLMDdEeXWfwsIYR\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-04-28",
+  "publisher": "KRAFTON, Inc.",
+  "developer": "KRAFTON, Inc.",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Cross-platform multiplayer",
+    "Online multiplayer"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Peripheral controllers"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Colorblind modes",
+    "Training mode"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "©2017 KRAFTON, Inc. PUBG is a registered trademark or service mark of KRAFTON, Inc."
+}

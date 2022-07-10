@@ -1,0 +1,69 @@
+{
+  "title": "Ys IX: Monstrum Nox",
+  "url": "https://stadia.google.com/game/ys-ix-monstrum-nox",
+  "img": "https://lh3.googleusercontent.com/lp0Cbt2gRg4cC1ZN1FncI5mat-BMLDriMNYnwmySXpouBYBavxumOZ7h3yq16ZjY3OFDe7PhbVh65ThshF0D5YOLEpqjiWrmjsV4gza6haiR8MgeIVDXFlwy9w\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 120 min",
+  "buttons": [
+    "Play for 120 min",
+    "$59.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Adol Christin is cursed by a mysterious woman and becomes a Monstrum, a powerful being who can exorcise monsters. To escape from the city of Balduq, he must ally with five other Monstrums, each with their own unique Gifts, and stop the Grimwald Nox, a shadowy dimension on the verge of overflowing into the real world.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/WQCCpVMTUXcSkCUa6BF0uU7ebfb9wOI-qWZUPkhoJUvNbVvXmv0Y5POEarO9nhXByXqW0ADvWi7yDDrczoO65ANGAgYKYGAlttfACwzQXnVmvvDqc0oP_-YWzp4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/NlzylhnPrN1SkkvozygZ9j8X9yiyckE9hS6nHJwU6OPXjZKdmrbkUM7d_hN9b4vhk3o4l1qjHWp2IBCCr8nYU7OWjP4WYOEJzUzkNh76qAO6vfGiYKnlK9vQJHA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/gc58v6dJI_wq24B1YSc64qhm4jPsA84Sn5lmt7gFk_7mfLzm3jB09O-INIzMAiNfCgN8XQ86Wr0Wf55WaZqZppE6RfwBsx9cnsWl69ayAdgTUsVrnt1ve7mrmGk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/aPIdCdPvytkfyOlvpMI38UrpTAT21RHoVhO1uyI-1TjHaLOIBXoAE-YySInDEY3qxMFBxYH7yup6hnxaHFVznZkavZaT5kRdU_kgsPLR3h77p-ITujXilxyKg0A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/aEejZEJew5EhAQzUb3GMGAI8YSQbFfQtovFU1uKnenEwsPzAIhJtpML8G-3taVY8Pr7CZubryynSnPrhJOjPT-BbOM6ogaQ264mTp1sTgUhHdNjpvvnq4OoV0Q\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-07-06",
+  "publisher": "NIS America",
+  "developer": "PH3 GmbH",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Skip repeated button presses"
+  ],
+  "notes": "© Nihon Falcom Corporation. All Rights Reserved. Licensed to and published by NIS America, Inc."
+}

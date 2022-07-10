@@ -1,0 +1,84 @@
+{
+  "title": "Thumper",
+  "url": "https://stadia.google.com/game/thumper",
+  "img": "https://lh3.googleusercontent.com/tShSZ6BHTStbWnBafsYF5xacfxJz6dt7kQ-vSnTevzqsrnbskHJIRV2toWg97hkKvuTk2g75AY1SRm2ivAlNs1zRm_WychZnGdWAwAI9PI9DINFiNRvOwQIoMAk_\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Thumper is rhythm violence: classic rhythm-action, blistering speed, and brutal physicality. You are a space beetle. Brave the hellish void and confront a maniacal giant head from the future.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/P7gyRQ0G3ZrlUC5PGlKV5ldfP0liph-wYtsWFTKj169pbJesEV2eW275tW6B1ppzboF13m0rWDbpiFUTTJiTNgEGvb7lKnv_koUzp6fP03IFo_Dt4AnLPH9Iuezw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/g389VWaUJ9mvWJ7kyBj6pJ21FIRMnyr-53DC3nnnqukcQcg-cTPC7VjuEQow2XG_nqWeMhLqdlq0HP8506XkmNX9gri3KE1npviyiwEw-iZbEOHu2vx9u6HV2R0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/uFJc7ZvQW0eAn75ccX_IsihKr13YLb3PPlZGvT5ZmFfUv2htyvNWNcq_9005ktnAgOiVxRcACNwOblH-99KU2hr-UBmUgNvrpS8EjyewTGPDFBOctrQlSvcDZw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/j2_Lp_jgPRVRPNTPDkANLfZzmLAW-Fo-FnC_xGoAI9_hGqaMkoSAWdltQcI1izztNt5wweowt9zwPWUTKBzww9WgHZapHkmg8jr2TGazAm_n_1BBNBRkCn3aya8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/MKW_v4OHklOJgDvld2SBYVLRIPqocZv_08DTitcOMBRtKC7uNE8P-KAwG552Xqxrv4cqBSof--tKjT3Oi3Lb0DZ0pGY2WkotEYOB-CEihQgnhHlhxzJNB4YrBG4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/YM3F8UgnvAnGMp05fxXZIvYTzbGc7uNfoHsJshtz39SKrO0eTkFgMg0-tanep5lZwbS3B2206Bh2hmZHa0nSou8iL46bUeIRmjusaMdNmuU3kArxFDS-wJSqcyA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/X9B5oa7kKzHDROOZv6FS8U6RxhD_0nsyCLs2swT0rqX3fKPNMpIzgg-QTulWwt28dDd717Qbbi3cfdmRZ5idAQAUu_qcNPki9Wngi1vgtgqjzhsm09RTTnH4SpY\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-11-19",
+  "publisher": "Drool",
+  "developer": "Drool",
+  "languages": [
+    "Chinese",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade",
+    "Music or rhythm"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping"
+  ],
+  "notes": "Copyright Drool LLC 2019. All Rights Reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence"
+  ]
+}

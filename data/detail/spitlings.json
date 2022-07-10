@@ -1,0 +1,94 @@
+{
+  "title": "Spitlings",
+  "url": "https://stadia.google.com/game/spitlings",
+  "img": "https://lh3.googleusercontent.com/X1EyA26CUyEeKsUZ2FHYKfTYfXX6bHLooEO0VoYoKpPeeVTHgVtetXOZOJMwmofLw3LcIBAsR5VpRh4ivE3cT2h9oqNwfM26eEpOv66lky8bUpnfAIZ27F8-Wl-4\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$14.99 Buy"
+  ],
+  "description": "You know what the problem with multiplayer games is, right? The other players! It’s always THEIR FAULT if you lose! We’ve got the perfect game to blame your friends for their incapability: Spitlings! This chaotic action arcade game for up to four players is a modern take on the hardcore classics. You’re in control of a Spitling, a charming rectangular creature with teeth it can spit or use to jump! Makes no sense? Who cares, it’s FUN! Spitlings is a cute but hardcore Arcade game that’s made for playing its hundreds of levels locally/online with friends. Keep playing to unlock new music tracks, unique characters to play with and intense visual themes for certain levels.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/LrvqcvyK3OREeUSCvTyE37GZQL5XeKatziJsto9-ZGnaBhGRqqWPMLtMMKIcVyRlyfsC-yE67Re-9y8JKniqcWhn-jbs4f-SvHcXdc5s9ogz5d4UQ_KaseWQ8g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/OL_znLC83N9DkiQusTRYSdWiTLx0aZxcxGnGOTWx0xM-A6v2zrlktfjXsgLj_ssh2uNqFChaju8wHs7Vi1ePJ1mVW743vQp-1ZAGYitHA26OhetBARpnqED5l38\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/lYPiCH-Hl1x_vUkG5u6ghs-wpK21KyAuO0E6lKYj2VFioFHEYrbc_gw0LC-WBfVBUx849AQvxDuLFCiWOQMl7mEYhXPCNI9ZHn0zX0MYatGIFAsPftQ_-uPqjQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/TeKx4M7ZsK59LDVBCTs-5xUcrraA2Zh7bzVTOOqgNHrrCgao8uF1tBz0TsAhb48uccKDqWQpU6bUTWNGuplAhVqesHLl0HUWX0su_HSFqaIoPjUodP5Jhq4NFwk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Ow_cqJHiAoLT5w-N_UnbFeZTUqAQyq_vUM8mIxi-IoXaUu_H10yPQgfevXwrIhg5mQ-8Euc0bifmr3HdxDGHpGAoW6fUpd-WZijidUdEwI31b_eDNqWcy5TXaQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/9mMyT253H2SodYYfHKO-TpLTL33mfxabXhbb2D3kajSstlENT7fsYUT5oKx9V3I4fDEUg1-caW3L-6vxzM9u0n3kEd7nZutcO_AJq-UqrNAcAmd827AsMLU6Ig\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-02-25",
+  "publisher": "Handy Games",
+  "developer": "Massive Miniteam",
+  "languages": [
+    "Bulgarian",
+    "Chinese",
+    "Croatian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Slovenian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Local multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Peripheral controllers"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Separate volume controls"
+  ],
+  "notes": "© 2019 Massive Miniteam GmbH. Published by HandyGames, Germany. Massive Miniteam, Spitlings and their respective logos are trademarks and/or registered trademarks of Massive Miniteam GmbH.All other brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved."
+}

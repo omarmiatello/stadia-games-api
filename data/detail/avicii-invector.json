@@ -1,0 +1,80 @@
+{
+  "title": "AVICII Invector",
+  "url": "https://stadia.google.com/game/avicii-invector",
+  "img": "https://lh3.googleusercontent.com/ku2r3tNzzRun51jyRaEiRkWdQXuWORIrrN2wwPwbXkYRpe0knJ0CnYpeQn5UpzwvUIaV4tqmmiLiPK3wE-0KTi2cCFanqCWP_Sta1o9baFTqkHXoITEeX7sxbiL4\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Belt up and blast into the rhythmic regions of unexplored space in AVICII Invector. Created in collaboration with the late superstar DJ, AVICII Invector is a pulse-pounding, frenetic rhythm-action experience. Soar through vocal melodies, sweep each fade and attack every beat in 25 of AVICII’s biggest hits, including global chart toppers: Without You, Wake Me Up and Lay Me Down.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/bJLi5f2eWsuLEIayTHgU24uIO5xbE2n5LtVlHUINwXzIHwWHEqVcQUV3OzHDE5DdUWmB_m7Rb3ek0asaaJGe4jawwFQnqOkHZfIJHREzMEjrxs_zS01fcRTl4Oc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/IsSgdKCbCnfZVUJwhpzcMfYFfZNlRTymLDjFY1N1-FxERHQCdYRaCMR8gP8S8cJGqWuZX78Rswp6tCsfZql4s_ipeC3UDpZWESnx-k0HpicWr8asnVgSX64TXqg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yZP3zhXmNCdXrn0W5QGi0dLJBN1xmIvCH3XJRQZYA3k1Q--A2JBln3nImUs6EdP0AKtkBq_lKtjNsuV3eih8cIQyVSZXR2_nKuB8s5CYscwOH6S_gKxToopBIQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Wj2tm04TL-ETJX4xD35ybZut_Pkzwrf_oNtVNQ0H7bTbUyRSDOQpktmRcIVFcmCbvl5YAEHu-aV4lNsz7Q3iXkM6rg0l6I1Gg4v_TRJKJEBSKLwvOxJBsngV_kY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1D4_q009hjugluiHSzSnKio7CHFmndnF65sSMl0Wa9jD09dp5Tj4gYhqSqOB-DW26lNtE1HJKCMiOuN1wFdGj-6oLiW1GVvw3mRIm1_1IZR6Rggo3IQ-iY8KXQQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-03-01",
+  "publisher": "Hello There",
+  "developer": "Hello There",
+  "languages": [
+    "Chinese",
+    "Danish",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Music or rhythm",
+    "Party"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2021 Hello There Games \u0026 © Tim Bergling. Developed by Hello There Games AB. Published by Hello There Games AB. All music is copyright of their respective owners."
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Centipede: Recharged",
+  "url": "https://stadia.google.com/game/centipede-recharged",
+  "img": "https://lh3.googleusercontent.com/Po_JO8rmBYniRgC_30q5TpTYInFcxclL2zuGxKwThaFqBkKlFXIwEH65W6deZl7EgZ8RTkmI_4TAHLMET2Ll8746ziqWyX8cIdyLuAr20d1a4RoeNB18XDrTRAs\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$9.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "The original bug-blasting arcade game is back! Centipede: Recharged has been reimagined for modern gameplay, with vibrant visuals designed for modern screens, a 16:9 field of play, and an original soundtrack from award-winning video game composer Megan McDuffee. Aim for a high score in the old school arcade mode and earn bragging rights with your name at the top of the leaderboard. Or test your skills and rank on the boards in one of 30 intensely creative challenges, which twist the gameplay in new and exciting ways. A dozen new power-ups can give you an edge by introducing abilities like screen-clearing explosions, rail guns, and even slowing down time. Every mode and level is playable in local co-op mode with a friend.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/af253qiYEFkpLljfKz4yYBQEi42TcsDNWNztxv7ChDKKAn8hfZ-WT5_V7Er8efljGjP9YP5fOboQyYJRRXTgioTNfeP8ESewRH7G51MjC_PW3QbF_1-t-BJbuQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RYZERagsJ0KPMR20kAc2Ki--MDcHYMbjClfCK5GMCeCvpXBaB423DxGPYf6p_o5BMRWjq02UyHqLeSHuFnayMljwVZKLzOpPs8ghbIS_9WchuLx-kIaWqYgfAhko\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/0vlhvVYtCUbxH4PrMaugR7mLMUdSOk0ZirzxyTzwLSc3H2Vvo92Nj6c-pkrNIQqJFS11D-4a0RvFTGQy8XmBPWdup62sbtSihEw6m-WhONRrlfM0AkOP5s4_clw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/7GPaE2uEysWM18nOct61F_-Mcb9PumWV5FdcjdGJ0XzK_TUWQeBtJstU_XIB_cI_g8t1zwM2YzcmEnueoJCXV3fHlcrWWd4AiJwb2bpLuRNVOIsKNz038H-6qQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/SyGFTSpPhlde5dhSBk2X1wlIfsTkzlKlmZUO7CxP4RH7OTh336Z3YO5QoNqM6u1rE2kNG_WiWYUa4sy3CACQDFeBfLTRmm5SHnycvTNis-0OGh5BFmmEq3lazQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-07-01",
+  "publisher": "Atari",
+  "developer": "Sneakybox Studios",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Colorblind modes",
+    "Copilot mode",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2021 Atari Interactive, Inc Centipede, and its logo, Atari and the Atari logo are trademarks of Atari Interactive, Inc. in the U.S. and other countries. All rights reserved."
+}

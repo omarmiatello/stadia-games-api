@@ -1,0 +1,72 @@
+{
+  "title": "Merek\u0027s Market",
+  "url": "https://stadia.google.com/game/mereks-market",
+  "img": "https://lh3.googleusercontent.com/LtnvOXyPAwtAtq9taZS8mAFITTZgCAtPWlTVOgFUxaxAXcvnwnmni5RBxd3WQryZaRWbuDdhnkRRq86d7p8Tdknkx6AlatXc3DJjA6kTsypKqMd4brCra_4Er4w\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "A chaotic crafting game about running a medieval shop. Take ownership of a small shop as you haggle, barter and craft your way through a comical single player campaign or team up with friends to supply the whole town.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/kEDtTFAoLetsDKZW5slsFGMZEKDYrO6ItldK9441x0M_ZQIOmD9OAFRZ9vGLHoo9qAN92tgDCUm-00rcDl0pgj956ENktKsvZ3k6uQ-fYnigZ7wUu41OkGf_KuQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Ca94b8W4f_7dSQqzQPel-_u4xkkl4jMD6mhwk2nDUXoyrRCxmZ6h_I3wmD931v_Z0veCvl6jq4bBIuil8_h36HBMQ_DMCtWPVU3WSi0om33LkOJaZbK4H-6FUfM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/SYbi054GCJtd_k3bRBxRaIoIv083MLvMK5SAWMd1HLYIUGa7pewL5J0anOw0uMYM4OJxaXI00cOiu6vfA5Vrb4fOsXH7NnrGhdaLPqSiAHvVGkPnhukYN4p2VMz6\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/T6dsuPD_K8csLtWAeYzpcergcvqlrJLWa_4bPktQtYlPRSK0JE_083f-AJMnOvXAwh4qbVOUpo2t9lka1eBvSMjE485dXn2PCMqceNm2vH6DxQvKgApFxs5ULQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/n6NsTIAcQMj7eTzjxhIU6p4yJHwgF0dL163lXL1UFe-0J5o0f6JLO00I26uOd8q_ZJqbp9MEv9MWRq2aeFYBp5IzMyjAELE6ft3L67kYFmGu6KkdXjQosyNw0znW\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UxqsHXfWhETTQkUaozTH-aHY9FwT1ncF07H-mxtpaGhDA3lH5rK-PFn0A_9-aIoMsrd1VWgAD4e2HYglk_dgHjBoI8sbO50FXfwF7C_FnXyTWXKlSREUoWF_Y-0t\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ohZ3Dilcyi_kcfIIOv-Z8dvrpdwqQcXvptGHWpNsZALcZgOKR6nfL4nkmt4AgdFed7XcDaVcQxLkmt_ROO_cYVW1ls-9lyn3YW3n-7NVlnwLYPrbubuTwXB2K-8\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-09-14",
+  "publisher": "Big Village Games",
+  "developer": "Big Village Games",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade",
+    "Indie",
+    "Kids \u0026 family"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ]
+}

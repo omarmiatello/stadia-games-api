@@ -1,0 +1,70 @@
+{
+  "title": "The Jackbox Party Pack 7",
+  "url": "https://stadia.google.com/game/the-jackbox-party-pack-7",
+  "img": "https://lh3.googleusercontent.com/3B6QYcBlGC_jHi4iTYthBdwPKKWAO6GnbJMu59WzllIbdDYiPYlbQ_Lz4S2l_kQej6pRuOAWeZUVztYXAz61rdp_mgHkfLiDNGPCeGMi4ZWaqe1KTPgOxzI3L2E\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy"
+  ],
+  "description": "Five new games: the hit threequel Quiplash 3, the collaborative chaos of Devils and the Details, the fierce drawing game Champ’d Up, the speech game Talking Points and the guessing game Blather Round. Use phones or tablets as controllers and play with up to 8 players, and an audience of 10,000!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/cmdXGFEVWVpVd5_lUyyGc7kcfISUGjTDiXcwaFq5O71612LcTD8ojVRmNJFHt2Qe2YzXzCYe-2e4PQDZkE-w5tlb3hbUKH5GnJDU845jXBFf4A00RI2KfELFeCnr\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/7GMialxQPAClb-oog4sbFgSJEqaJiyrUrKYhLRxb03sLafi5SxmrKzdJtQaxIrp2DtCDBUUijNe97lAD440YT6yCZKAXWc46oKx_KpG8V0kV4W_pZMcMBnKP4w\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/YX4S1va0Tbdu-uvoDVLuCiIh_TI7gINQKBBHOSVir32E1RGxxs1RyfV786Zl4aRMqM9kQLv444vQ7cAAL3x_K_AB6bcVXhbmZjgGwP3Gl43OGdZZc-qNpdIbzsI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/rew8lxNHm2KKJJltORpU1ALPEUB8IHFA66YtqTaYqnbQMWSRRqclYy2x68rJWRuSdyFNtbDHB-WjdCUxrdZgHBXWyF6TyOXwlfDO-AVQVqMeEQtP9KRxlAiGQRs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Prw2UtgU0H7qUTu6IWLU4lv6GjhPEcrY78f2TRHBRFzfymmmxNpzgwsEoeyGlKR5pdjdMhqncWQG7ADzyryBx2F4xICwOLWV8XsSuCG7OcxuEhv4PJs1Uaj3WWo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/tStilfAHveZu93Iv2bTkw4g5NJ-aFs3J2QsHu8egwv0UcXjyqLr0yehX_z_y-kU7icMncAhudf1LYcezuV2qLpuadyBtjOEVxdU5uYZL9pYfQsRWbSWeJu7FUDQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/gjgKXNdnArBdYSx3EXgBK-0JkxK5T-a2K_LiKX0IDdJuUXL59XutZsZN_1zOecoQ1WCccespBVrkjnA645FfyFvHxki2XZKKD01Mqj41wCKc8Ua7IcpprLWbWA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qEWyGqLPWjUPsjSkg76_Q5HiyoJEFwfb_gg8Q22eXfA2sizbxIk1A35IzCcIbyN1j6n8CueaaMtUsxmHu3ZA1ISPzH1i43fBlS8-YnR1-xwngAFXhfppMsydcxY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/pWmy9_6_iCL8y2r5K0tVL1OdIHF2ftQgZdpYiMZQobUdIQ8J5d37ZiTj1Le-n8fPuP6pk-DNWUAWmL2QntrsBr97xOG70zVr6jW5n2Hp60eDpcJ1WSw_TB0ZCi0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/vCzuCteT8NwAWLrwamp-7efAuoC3ziRqWFtZiANIrdLMxmv-jmRe31Pr9TZiv_DU3WN2grOlY0_g-DsCljQoCiARg7XFHJLWoMm3UJiBeFCk4O9aTZ7FInn8sfM\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-12-07",
+  "publisher": "Jackbox Games",
+  "developer": "Jackbox Games",
+  "languages": [
+    "English"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Party"
+  ],
+  "game_modes": [
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Touch support"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Motion sickness options",
+    "Separate volume controls"
+  ],
+  "notes": "Created \u0026 Developed by Jackbox Games, Inc. Game and Software © 2021 Jackbox Games, Inc. All rights reserved."
+}

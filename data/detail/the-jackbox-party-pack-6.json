@@ -1,0 +1,70 @@
+{
+  "title": "The Jackbox Party Pack 6",
+  "url": "https://stadia.google.com/game/the-jackbox-party-pack-6",
+  "img": "https://lh3.googleusercontent.com/THlYk89uEpsqhrYEmctRwk9FRt5dm3bLT0FPsupPB-gUzCXNz_xcRNlC1HmWFoA3MBN7wb3GkJz4ShazbSTOvY6QKbL59KB4a6tISnV06fNNR89D65n8-hlrPn8\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy"
+  ],
+  "description": "It’s the wildest Party Pack yet, with the absurd deathmatch Trivia Murder Party 2, the weird word circus Dictionarium, the hidden identity game Push The Button, the comedy contest Joke Boat and the offbeat personality test Role Models. Use your phones or tablets as controllers and play with up to 10 players, plus an audience of up to 10,000!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Hpa3eTeEVZsOBwPkgCBV5h0MBSBjjVU764oiFrzhQmOSSQlO0hZh6RJEdN6JCdUbLlw2wo3qxTXrVxiT6BOYKa0LnBDS_Dq3iyBTdZC4-5uIR3Ab-AyjR4F44OU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/m28P3bvPa_q4ducFh4e4QoNHn9qxBrW23uG1FW4bAH16DemXSCn7ADfrPA7kLtPUDWw4TswuSttprNIOIkHu9sAqGKMniA_jXlXlN1FHKmZ7efqxspsYjef2YljI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ROtLVm9HMVRhhWh7fr9mSq10oof5LUoiQaGLMbNfcAuV4qtT6CXDtkroiYY7e9PsPwBieAzOgswfIquhwl9AVmChwAPzpy2s7lMiBw6aF4xb8k-6dLzaC3Bbwg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/I2tZRkOf9leLzvcxM5OiJpWMGbSp_LXXt1PYae4UAlfm5IPPqyafgsghIpa4dr_TXB46drQrw9XqeSjkLTxNw6PZ0IDfClXIEa6Vwn5GnHN9rxUuHDqZvQwwFQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fk7QEzSxStKTsOesl1Eg2MWbuGOrkNKFLbUrR17yza9qw_ZdcrjUHYG6uIldnVHCUdFLdCX7r9y40Q0MPcPQlNkjeVBJbrCIlkdsKobnjUcEAjawUsgJrg0AEQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AENoaFRXAEwGr4piBZ2VQBB0a_jd2vqFnPYYOitE9h96BHAFZJKKHi-rWW1M9osDCVbvAH8b22FYQ2ez1OoVcX8fNJMCZP9B7JsaaBGDJP0AJfDFNE3CLXTzc1A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wwDNsyJ_3R-qZ7VhfuDxOqgaB3pfUqbyUat8NtwIzG3C96myZkAgfED_APYXzLdeCCOy21h-6d3m_0RdvyqXRsYZXwLsFsjrI6zG2yhq0subLMktyH7WA8_T4SAC\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/SQQRbHS7E4jWy2En_8HnBlgmRE8_3AR3nCZjC4wiKI9Ty82EUkK10RJLwYtCLpNQV5PkvcYX3LGG9SQbVzfIOyNR3RmXCHzKNITbyQQheL7OgQU8-bIzIQMG8BVD\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/rjNM8x2-quo8xJqLHiWQTUAAoFH-yqG7HFq9XJTe94RAYcatEiBd7ONCx--QJsnEPSYULw1iDNtltAe7mB05PTv7_1PikCL8dLrd_Y_GzosRfZbp3uecurFtcQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/IgZwClkDgAhNZ8C2djSX3jSQhYiv0Ac4V6dpPoFp6Eqeq9MJrBRo-CJQLeZL_haL6ezVeiwXAKiGzucaw2LVA9DWmgMocP3HppIjPJy5lEtMjzq5JBa8NStbfw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-12-21",
+  "publisher": "Jackbox Games",
+  "developer": "Jackbox Games",
+  "languages": [
+    "English"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Party"
+  ],
+  "game_modes": [
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Touch support"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Motion sickness options",
+    "Separate volume controls"
+  ],
+  "notes": "Created \u0026 Developed by Jackbox Games, Inc. Game and Software © 2021 Jackbox Games, Inc. All rights reserved."
+}

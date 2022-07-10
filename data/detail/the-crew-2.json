@@ -1,0 +1,83 @@
+{
+  "title": "The Crew 2",
+  "url": "https://stadia.google.com/game/the-crew-2",
+  "img": "https://lh3.googleusercontent.com/aiObIiI25TfAhTs9xsAyhggOY58LEKUUsVFM2tfUG-30f62Sqp9BK-l3TgOcWmfDZ677_-2g6p1tc2PST9msImOX5sOfOyccTtdD3Q2Kmf1_ZN-6Je3CsPVtIw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$49.99 Buy",
+    "Get with Ubisoft+"
+  ],
+  "description": "In The Crew 2, take on the American motorsports scene as you explore and dominate the land, air, and sea of the United States in one of the most exhilarating open worlds ever created. With a wide variety of exotic cars, bikes, boats, and planes to choose from, experience the unbridled thrill and adrenaline-pumping excitement of competing across the entire USA as you test your skills in a wide range of driving disciplines. Record every heart-pounding, white-knuckle, moment and share them with the simple push of a button - fame is yours to take! Play with up to 7 friends online.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/R5WV45Vl-FNzkLPI_khe79PRcMnWqHrFbuFtAWOQj2qJVwpz4xkf_Mqswl7FJ7M68zgSPMelcWJHLOgjemFMDBCoMaLdvrux-wqE36edvSp3x0WLpgftwzBcTMs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/G4-VyPiLdrg8EVSDlf6wokEOGNIT1RhmoDXRyJbC6QXCe8YnVkcNRDiAPlarRTy6hZNWWGdFiVKkl26k7euoWWidXTrE-DlOTzJlddfGmd8PSRAweu21UDnHjxM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/8WF5jAPZurywkic2AWZOWcz24vV9Og6YYn846ahejfooH2veNSQgfQhYb8CRHU710jj6TaTBNtVn64dkMpv40pM9706Vud0s-cM9hx5THMAOyQtHaF_zeU19gQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/6qFREt0Tx6F6kGYDUV2ztvXLKUcvr4TgJT9EygVdpaTDeNz-MTBOpNa7EZGIXBO3Nn0pBgGvR3SKBLNYzrSKM44GLjz8OeJtQgbBqOWRyUBTFEe2IQunlV2lh3k\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-03-25",
+  "publisher": "Ubisoft",
+  "developer": "Ubisoft",
+  "languages": [
+    "Arabic",
+    "Breton",
+    "Chinese",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Kanuri",
+    "Polish",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Racing"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA",
+    "Requires third party account"
+  ],
+  "notes": "© 2020 Ubisoft Entertainment. All Rights Reserved. The Crew, Ubisoft, Ubisoft Ivory Tower, the Ubisoft Ivory Tower logo and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries."
+}

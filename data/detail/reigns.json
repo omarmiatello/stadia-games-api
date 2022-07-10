@@ -1,0 +1,79 @@
+{
+  "title": "Reigns",
+  "url": "https://stadia.google.com/game/reigns",
+  "img": "https://lh3.googleusercontent.com/89VumJwoz1ANAH8ekf2Tp7DTwsp9_MuiR7yMq6OEQsCAxViW510hqcjfWDACeV50ci6NXBfX8mcK-f2RD7RYg311f30mYbzdF4smGZ1uTUPE62sqZj-nxymaEeU\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$2.99 Buy"
+  ],
+  "description": "Sit on the throne as a benevolent (or malevolent) medieval monarch of the modern age and swipe your royal controller either left or right to impose your will upon the kingdom. Survive the seemingly never-ending gauntlet of requests from your advisors, peasants, allies, and enemies while maintaining balance between the influential factions of your kingdom. But beware; each decision you make might have implications and unfortunate consequences down the road that could put your reign and family’s dynasty at risk!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Ewf6eITUZQwMkIXVk_5YhbY4-_8f6d0OG4iLR25UFVbQnqSPMtgpdvHR2Q-l3LwghulRdPs3e23v3aX1z5neRYUUKgj4xjfd4fkFeNMCb2OHXrW5uA0hNdUBzb1s\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/CzZ0mDEGbvAS8JcCFYe0EBj3xp-J7yqDeNqYHPkdvJntwtgnqKVTKbQeIHQtRixTNpM9GXim3S1uiPIxJR55p7w7W2K28zZFUwUTsvrCVyav2kqGG7vZir4_GGnM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/et27V1e29NFWHhIQxfSW1D4NIWFWUgHxTIMddn_kzLaIF1cH1vH98BRhQYBN0FVlzGsuwzuNg87iGTQ12I4QXlFVfrSmcFdnl0fPmS7wQd2d6Bj9ElNkKZqhLiU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/V8iiDf2rGVIOuWdNVZ8c7eN3y11SskHd1cG3yd20ylEZ-fvUDk4KFU0CFM0_tOX8egrVAWATP1uiPi6NLuvJZeSUYCaaw0m8eNYwk1DWaCnY5wFq9KDh9GAJYk-Q\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/0iecUGr5w1y_AmEgDoNX6X_iHGQG1oJOBodWTkh9Shm3Ax2hGEAXaqpuuVv39F0v3PkMB6S3D-bzWZ7L2ydUjFkaKnTJLoHxI3D7WGQN2kqzvOEsJXDeB9FRLA\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-12-22",
+  "publisher": "Devolver Digital",
+  "developer": "Nerial Ltd",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Indie",
+    "Strategy"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "Copyright 2020 Nerial. All Rights Reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Alcohol Reference",
+    "Fantasy Violence",
+    "Language",
+    "Mild Blood",
+    "Suggestive Themes"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Mad Streets",
+  "url": "https://stadia.google.com/game/mad-streets",
+  "img": "https://lh3.googleusercontent.com/fnUc55FtRHUySpEU-NOs4EGqLFPLfS-LROSJQ61-qTCWuFvyv7RfhfT9uDdfUmbOGx5iQnb-7WO1Fk2ma3735CNZfjYW5R_h5LY2EKpLjOOya0EcgEhFd932YSrd\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$14.99 Buy"
+  ],
+  "description": "Mad Streets is the kind of game that makes you crack a smile all while punching some one in the face, It\u0027s a physics-based party game meshed with a brawler that feels like an evolution to the genre with a deeper system that allows skilled players to direct their blows for face-crunching KO animations that wouldn\u0027t look out of place in MMA highlights.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/cy1fmOMZCyLpK1_9SHRGEz-7xDRrs4kxsp3SUEwUvPYMaHIorXr5KDhJXDafifBJRF_oEjDCDfqfKOhxQ1g7T07Mu-cEXQkzzbm7aZX48x4EfMf6P4YXMbxW0oU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5R18Ju9xFqme0nLXXIvf46WYK7eu4Pj1i3Aa2lZwEzbH0q1FHnMf-gTXMhouQprYqHUGzqZQE17QR_1to3q_N6BoOi3SCnonlDyjKkoxOvxg7KU319dwF739MS4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/jxUe8Utf1ExamJxTAOO0G7vXhxSA0EtptWzcKC-tZgB7VlfGVn_nVjrnjo6b6jsTK3ui1tZZ4Eca062eqwkSea8gBGXDqK2FtfxvwzT38MpOJIJbmeQ5jq2qs5M\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/bE8P9N8XVfBop8xTJKmc26w5p1zY3pHZCw2X4o7DVtd2vB4jWv9MigYS5eiTqxdR2KScDCji9NE3mvcUwlTiRe2f7W4q4DcTM0eBlBs9-LGLfIu0xLRc94m1lW4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/P56G8gMQpmUdkQo6bsZQMnIjOYjrI5BC0XJ2D8IdyA3Pkwfs6qe9Gil7LUKcTK4p6ahWgp8hx9hteMectvGcvv93ztAUu8YCeoeD_8dudF2jJt0AQZ3tRmW81A\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-03-15",
+  "publisher": "Craftshop",
+  "developer": "Craftshop",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Casual",
+    "Fighting",
+    "Party"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Cross-platform multiplayer",
+    "Local co-op",
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "All Rights Reserved."
+}

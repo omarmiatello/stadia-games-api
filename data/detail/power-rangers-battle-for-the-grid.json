@@ -1,0 +1,75 @@
+{
+  "title": "Power Rangers: Battle for the Grid",
+  "url": "https://stadia.google.com/game/power-rangers-battle-for-the-grid",
+  "img": "https://lh3.googleusercontent.com/zNg6k6tpfzxY_Zra7-GuD1MrWL-KzaYbu_mMfJ5m7C343L__EQ7UDHajQ4PeGktoXlbSssGekHXg9QLFQ5Rp_T5Wxx9GBE2sx0F2SPKZsnE3QvM74jEz5txRSw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Generations of Power Rangers collide across the multiverse’s 25 year history. Experience authentic, but reimagined Power Rangers gameplay. This easy to learn, but hard to master fighting game is designed to welcome players of all skill levels.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/wIeFM4LbCqnacpo35JN9h40RTye6EeG47oPhEjtidbkAOryQwXkXzDDLo5wNSA7pTmPrMpgNQ8WbnwgEsmyf9mXmN51eq7697AjnRprezbAoxaYC9_3hDgaPe74\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/JUB4X602h9EUtTVVlYpqa8IQ3gKfJhyBL120pBCL9NtfXiW3LM8XOg4AOQCyhBT_VCV0RbI3W8OIAoz2_D-hNMf31pYoJXlWb49v1CxStU5pefNFRGhLmbMUZxp7\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/C18cILmHa53Z2dih27MkR3rSKENbBj9CXnd_yfpfzX9bBJ8yfip9-k2fnXgBLFIIcjHlJ-Cx16lp0JN7R_yrcn_81dTUxO2kWIke4fwAcNbokrJkrCs-iIQA6tmG\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RBbGWwn7KoFuUwbWg-bNihfGK07TcXEdx7sZ0B-XvkcP3UkK2GQbSfHZOPW6R3l7ossYsq33yZb7KkVgw0LxH5SgHRCGmInw8NXKZ7TVRr5T0mhbfUp7zCmPB6c\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UkTyU9vImjgCM9FtX9hiXdLYE3U3J2S0U9bx1RMPp7hlXNIAglnBK_hHDKjzedNRnQUM1mVXpZe3D0WGakyCN1l6cviiZZJlmVeETYl6KCCsdPUT3yZamP7weZg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/GyxbMW9GQ7BoaFTh0q0yj6qTaNnb2kh70VHttdVdEt2oRV18FTTqaBdPlteBLr4O4Z49tpRx1Lsax3Ir1qgde8B9nkoXQlGUShNOFYjAUW0zqT0dEkNh1uwh1Boo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/8wzz3oUKCjVut-cFx5U6Vg6D2WosdqU3MmIKR46T5Xa9IFJZinMcwzgw0QMGUv9XEgit0Eu5TBUp05wQNI7b5iRpNwdLCUCQwvPnSBFG_GB44bHumktWL8Tkyw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/FLpXYXSNg83ZZnM3It3A7YqKHHjHUk5NKrvUaIFDfO070ifp9-_i6rvHXJmoezpnHjAQHZ4786iT99fvqqeif3a1nNZqn2o3gGRAKvzxDtzuHs_41x8gQtZnBQ0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wO4m-k_3ZQGGTNJujPXfHk7GEgVH3SPpi2XLREsySzS54gQYi5sMsQp55FfmrrpDFKD1eS_XEF6tUzmswEVYFeSVP8QthxkO2b6Ch7pTeExDK0H_DxJpQUeFDI0\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-05-31",
+  "publisher": "nWay",
+  "developer": "nWay",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Fighting"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Cross-platform multiplayer",
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Peripheral controllers"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Training mode"
+  ],
+  "notes": "POWER RANGERS and all original names, original characters, distinctive likeness thereof and original trademarks and logos is TM \u0026 © 2019 SCG Power Rangers LLC and AllSpark Pictures LLC. Motion Picture Artwork © 2019 Lions Gate Entertainment Inc. All Rights Reserved."
+}

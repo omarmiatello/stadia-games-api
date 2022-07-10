@@ -1,0 +1,68 @@
+{
+  "title": "Windbound",
+  "url": "https://stadia.google.com/game/windbound",
+  "img": "https://lh3.googleusercontent.com/0MetJIUHhk3srceov_s7uYR5GAap5MvcDHNFCiJld_hBNuDiAfdZh3rwbd6QgVDtZn0GXdMkZ2pfQq6E_h499WW6E6nYnds4WUnrcwZmbuAE_zoHOH-Nl3wDUQ\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy"
+  ],
+  "description": "The Forbidden Islands are Calling, Unlock their Secrets Shipwrecked alone on an uncharted island, explore, adapt and navigate the land and perilous seas to stay alive. With no boat, no food or tools, just the will and skill to survive, uncover this beautiful island’s resources. Craft tools and weapons to hunt and defend yourself against nature itself with its wild and fantastical creatures. Whilst exploring further islands and the scattered ruins across their lands, secrets of the past and glimpses of the future are revealed. Unravel the mystery and you may find more than just your way home.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/-ui0165jB4iEgND5fczlwNW7TjZx0Dfzlgx2gE93surfvPTaI7IH28a_8LtI0Hlp69bD3715oM075z3GKQFQI9tRbBQSTJyhQO_AmxTBGutmuviw5DjBIZU0TSs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qiMJXYx47yqAK0EKRUTPATSrQiQ6Cr5PcJP0mzzHouXeJqW5SARYV_5eco-YHlxOJXz_gDxeCXguNo8y3NZJC7z8vi4_LESK0kxJXN-6s9gmrSnvqx349t5IWrY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/WB1uLoTVmM63lzc6HP3w1FmvJdbkaCb4SEyC2nYGwPgxHr9iCvVB8Jyiks148S3FCWhVR5m4gBRz3Xao-vxae-kT2iFtD3D-40BRhSG6L1G5naPt7jYEHdvGGS8\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-08-28",
+  "publisher": "Koch Media",
+  "developer": "5 Lives Studios",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "©2020 and published by Koch Media GmbH, Austria. Deep Silver is a division of Koch Media. Deep Silver, Windbound™ and their respective logos are trademarks of Koch Media GmbH. Developed by 5 Lives Studios. 5 Lives Studios and their respective logo are registered trademarks of 5 Lives Studios Pty Limited . All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence"
+  ]
+}

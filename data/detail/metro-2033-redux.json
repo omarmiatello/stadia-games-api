@@ -1,0 +1,82 @@
+{
+  "title": "Metro 2033 Redux",
+  "url": "https://stadia.google.com/game/metro-2033-redux",
+  "img": "https://lh3.googleusercontent.com/pwyJO5pMtQP1z_OE1ZW2FLbxguM6nmRsgJzP4XKdGpLAgPWFi10qPVBoWyfeSUEgV6xJeO71exsF65Pg81iOle_o04EKn-jNjFFIO9AcRPYuSWJRE_uyDkWMykU\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "In 2013 the world was devastated by an apocalyptic event. A handful of survivors took refuge in the depths of the Moscow underground…The year is 2033. You are Artyom, born in the last days before the fire, but raised Underground. One fateful event sparks a desperate mission to the heart of the Metro system, to warn the remnants of mankind of a terrible impending threat. Metro 2033 Redux is the definitive version of the cult classic ‘Metro 2033’. Fans of the original game will find the unique world of Metro transformed with incredible lighting, physics and dynamic weather effects. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/PDQd1hpVchCeiWdeNfECxvGnq262WbhTKq-Y4d8xYnYcL-QgD-Gh2kvzcriCK7YyfbA2MkfIW9BL8YeozDjPCdQXDD1PzoKOqC1QJCaeWTBnvjvr4Ay-K4TfllA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/PNVn6oy7fx04Wa9rS_P8QLNbkIMLFpgT1fIosPFKVHGVU5SWYrubfhIje3PKqq9tL6enJATftO_g801vwMzG4-X8Vp5m24ljTmldFBHFDbc5ghT6jyeGM5CyXQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/TSNPwwX0n9SBKW3xa62CzhqzZe8LUWJxwZ5oAG5TIREhn0ci4r4tUXY6ztsJU9mNL1662LUxb0QV5pkiF1I-fye-2fwd254X6XnxZhecBs1NHF7j3yU4pj0ZRQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/tC6kfNQu_jNWHsv9jHQQD8435-3NfpckzCv9V31wqurQNSRJARm1qhfyl2QhLBLAYpSIEEy1gKUiXyh-q23ZyZv8m7QO5ot6keTAzI95TTh6IP2GwSEghseVMAQU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/sSD1Mz65ybt7z9nIBNxi5DrJML4bvZcdYCR8gqg5CUt1TkwVdAAK57q_u3C0rnsu5w-ateayUd2wUtHpJOAsSCMhSj8pPcHsPemTPZJsulOcptYBtgXtT5757J4\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-06-23",
+  "publisher": "Koch Media",
+  "developer": "4A Games",
+  "languages": [
+    "Czech",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Brightness constrast gamma adjustment",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Sound captions"
+  ],
+  "notes": "All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Sexual Themes",
+    "Strong Language",
+    "Use of Drugs",
+    "Violence"
+  ]
+}

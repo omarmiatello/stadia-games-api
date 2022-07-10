@@ -1,0 +1,79 @@
+{
+  "title": "Wreckfest",
+  "url": "https://stadia.google.com/game/wreckfest",
+  "img": "https://lh3.googleusercontent.com/KuGP5YodMJ5llHh20rXycmdBjKTNLQ1LPhlU_nWyiVqKyCTOfxdToOAu5W82iSXWvmHcrkxTIJlQK44TBwgXfFRUyQEEikyfcQWHtO1HyicQoMHbLAwykgsvKg\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$39.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Break the rules and take full-contact racing to the limit with Wreckfest! Expect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend – These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you FlatOut 1 \u0026 2! Burn rubber and shred metal in the ultimate driving playground!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/XGHhyK7irs6muR4G-DxArWNuEIRSIq8K2M_gw9d7BEquwsK5e4o4crX_FgstrzBgP8VcKERHfySSHcii6OLIl-EvlfFaxq2ZnIIh60c7ajbEXhAMa4O3wtbat28\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/mekTN3n1HZTA8Qbz8xt7ZcGtspq7gIRqN_njolsVzE7a9j6Z9SSrIYPt4ny6FQwpBaW0I1Yk35skMj74DxUGUJjh9I8Sl4fsWc17Z5xGj6_GMqYwV2Ud94zhvw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/B3iIVxOdeFH2SOgL4CMFwHbGcfVDQAqNsojQ-cCFGH60fWBH6M5ZoCRVDUMroFmNi2Fgerj7-0InYpn3V7nduBsnXFER32gxVTQLYuWzUz9o3a5RcQjGYIPosbM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/kboMg3cLY5we8WCKza-aMEncVqV5-0NS8XKbGXdw3Zsx05LhkfwBjusiho5O4QGctrj41avd2BTxJzALwESvbh1EpysG8gF4B3fG8kToCF1bYF4L9YvOBkB83g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/JW1Yy8iUtcvUNjnHxp-249klMzM8l0vPvPXI4JksisY_gMvVeCYc7b1tyn1czxCAzm_SlTJc4-P8JcigsGFVtQqSe74iNK6CHX-mhaQztCgAasX8sQzQonAC2tY\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-12-01",
+  "publisher": "THQ Nordic",
+  "developer": "Bugbear",
+  "languages": [
+    "Chinese",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Racing"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "© 2021 THQ Nordic AB, Sweden. Developed by Bugbear Entertainment Oy. Published by THQ Nordic GmbH, Austria. Wreckfest, THQ, THQ Nordic and their respective logos are trademarks and/or registered trademarks of THQ Nordic AB. All rights reserved. All other brands, product names and logos are trademarks or registered trademarks of their respective owners."
+}

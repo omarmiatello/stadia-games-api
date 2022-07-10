@@ -1,0 +1,77 @@
+{
+  "title": "Super Animal Royale",
+  "url": "https://stadia.google.com/game/super-animal-royale",
+  "img": "https://lh3.googleusercontent.com/k2FFnfTPXp_M4_6yoUz4kkEL5504SUaM_bFmTtipFKEG7L6hdfs9aKb8qzRu9LG4-BKvPkivExv5IsWPoPIqmRo_nsOXPXWIF-kWOrEVs05x9lkKSysYUOj3mw\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
+  "buttons": [
+    "Play"
+  ],
+  "description": "It’s fight for furvival! Super Animal Royale is a 64-player, frenetic, top-down 2D battle royale where murderous animals fight tooth, claw, and machine gun across an abandoned safari park. Collect and customize your favorite critters and weapons, then put them to work in solo matches or team up as a squad of up to four players!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/JSKz9B42nmLAL4QB6jEBeTRxV9pglOV8i-a9QYjRTR9D5XbayLspbaqSQiykN4kTFyiMC9oLJKk92QVAFYDmjSS0J-Brb64JD6d0SEJPVuu4cEZL6GEgH2OUXC8P\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/7SpEkxd_gLEDGvj65TM1Z39U1HmLXre_CSSYH4n4aJVd_svGiHIda4tFykXKfszDOyKE3O8wKsURgUHtVGt_QOdE852asipi117bbWpZ6nAqFg2dk0U6co00i_A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UrvASZBqfPw3SbiYcX8e2MPqAtUbLlwqHrfCRpAoda7BTbbTQcmOdiCDnLjPbc0xZpc5DcfSPDc3n2c9FIZyOSQL-QBUaz9iiHovPYYM99fhp3hMNIkNH2WjJmI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Kj46zp7RWTTj1CHes2Qa0uhYEI0D50cgH3HitD8C1719FOU-Dx6sn1oS5Lw-7Wf2wFIo-DjlPl25KZ8Q4mrFnh5Z2Mh68b5F-vSgYb6WvQIhH3gSwmMXIthlqg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/2qKKmVg7XY2-3pe4mGgc_oSDHYQGMvqUsyagNHvu4Zig2yY2N53sQ5Z_N0LAWZ09chyO6gZtA0Jb5LWrsYMf-AYZFkVZNFgnWqbNiHMOAjfI9h_ryBsDNMGWGg\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-12-14",
+  "publisher": "Modus Games",
+  "developer": "Pixile Studios, Poppy Works, Modus Games",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Indie",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Cross-platform multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Subtitle speed controls"
+  ],
+  "notes": "©2020 Developed by Pixile Studios. All Rights Reserved. Published by Modus Games™. Modus Games™ and the Modus™ logo are trademarks of Modus Games, LLC. All rights reserved. All other trademarks or registered trademarks belong to their respective owners.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence In-Game Purchases"
+  ]
+}

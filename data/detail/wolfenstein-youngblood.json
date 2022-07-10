@@ -1,0 +1,77 @@
+{
+  "title": "Wolfenstein: Youngblood",
+  "url": "https://stadia.google.com/game/wolfenstein-youngblood",
+  "img": "https://lh3.googleusercontent.com/sE8lhQfVYpqizt6GjF3mq9dD6I1IxwyosNMCpWGOwVQiFy4ca4ZxoJlpP5ytAEWU7o-Hg2LJUVPkpIWzU1szNYd2Y4YLLlc9Ws8B_1-DzDFVYqlOuilvHxuWovY\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure. Nineteen years after the events of Wolfenstein II, BJ Blazkowicz has disappeared after a mission into Nazi-occupied Paris. Now, after years of training from their battle-hardened father, BJ’s twin daughters, Jess and Soph Blazkowicz, are forced into action. Team up with a friend or play alone. Level up, explore, and complete missions to unlock new abilities, weapons, gadgets, cosmetics, and more to complement your playstyle and customize your appearance. Wolfenstein: Youngblood features the most open-ended Wolfenstein experience to date. From a new base of operations located deep in the heart of the Paris catacombs, plan how and when to attack and dismantle the Nazi regime.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/B85OCW2zE637DQKkLwR-o1e1UFxWP2qlhdqLxFgbdqXzYxCUSNWphSE0eBIm9ED-xXA1RtmI-d6Ybt1zj7oxMbkRD0Do28FXbNWjlm9-d1g1Ccn8Gmh1W02i9A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/VurjO5nmUV2Qv8rPM6m82lqG_opgmioXGDYJssdGLeuBo4z5HVnfAcOuo0CLvrWZ2ZPYnGEDz8FlVQubmfz43vE8_vbK5YeqyByvnFCM-HICZTrqFRd1Vv2DxuW2\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UFBBoxgsJQEm3F1Qt-kLO4bq228IhZ9_Vr7viFwNpYeYK-Ps7aLRGuM8bwwItAZgRX02sjWvVlXsI9CV0Vns8V8-QA0W9pKyNjgLfvZi5yuJyBlMS6Adgyv_-ETK\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5hhj10grOVyrGEXUPej6n1V8vRH9Ie4P7pY91ELO1FXRWKyacZsnyCG-AFY4V6XZkv3cmW4h0ME8ZRsx1fYLNVV6sxvPrfAY1Thl1UtnNRlz5g8vTE-zgtw99mY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/CEN2AHF_IMYSKLMa79eOJehP-YeimiwcoHLYI0QHkSNLy91CgghVC3gTMbDglA2Uy10xG6dQVWUIjsAqIRHXmu2lpjEiAxzw0qseMyNVCYwWSaIXUnFaF-Gfgw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-11-19",
+  "publisher": "Bethesda Softworks",
+  "developer": "Machine Games",
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2019 Bethesda Softworks LLC, a ZeniMax Media company. All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Intense Violence",
+    "Strong Language In-Game Purchases",
+    "Users Interact"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "title": "GRIME",
+  "url": "https://stadia.google.com/game/grime",
+  "img": "https://lh3.googleusercontent.com/eG-Wper-TUR4ouznuY0jwY0AiBWH8w5OtmbxN0--VwU8YBy8XL9iMnnokjPjIJOe7ZSIcVkOZZ8FWFTGNcM0jK-HCKgSl7h9Vb9jvVc86Hx8C19xkATLesse7zQ\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 120 min",
+  "buttons": [
+    "Play for 120 min",
+    "$24.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "An unusual material collapses in on itself, the world shudders and contracts, and suddenly you are squeezed into existence. What awaits you is a world unknown, alien in its own familiarity, and you must survive what terrors you face. Explore your surreal surroundings, absorb the many enemies you encounter, and use their own traits against them as you let yourself become far more than you once were. GRIME lets you play to your preference, upgrading only those traits you feel most suited to your unique style. You’ll find there is more than one way to break open an enemy as you move through a variety of evocative environments, meet their inhabitants, and discover the source of their madness.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/JnVZbHvsIq3w04U9UXoe9vSn5-Jqo9jh134v84Ok88XDhLezoIFCffyHxsC86-yzb9l4fmFhMXGq9DErVZ2GD9Dx-puUCaEj94RiTN7MZb2aR0bGq_lRxEArf3hP\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/FQaNVDAftLxbea7CzOT7JyGZDeBcvHmxOfauhiyOS93tbDNm_4m8g5Xgtq6QnRjCLzhI3s3oqIrpe_vOuSV6uZpPi0w61kOZJLqJmDG_zSzcoMUWQTF7KJcH28GG\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/iMrCpN8nko-2cwkzYCxYi5qvqExd3lVoK1xog7bZguH8Uoqa5abPU9ioDdswCqj7d1A47ReL_F3j35bh2kFZm5xZJaKb-W0eZmXCQBA-fN1hweKCjXHheUKVwnqL\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/urFjE8ypbkIWyzk28OczJySvVdqO7_oAw5erVzS4nvmzefv425Lrl5ULWG1lh71jMkpJxT_7AsjR4t104coGYxP5wJlZtZQcE_5ctEQ8e-3n545k-9571hUg6RQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/lb2CjAjiQ4zT36KwvdhgbCbW7GoqPeuv4svUlDMTGoGf_QX8KxSplteM93LghhaqZhmDf1lUJ2WdQCwDOObLTc7Og6o6C_mpOGzKjP1E_tWPv84gFeYem0YZ6w\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-08-02",
+  "publisher": "Akupara Games",
+  "developer": "Clover Bite",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "© 2021 Clover Bite"
+}

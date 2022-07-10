@@ -1,0 +1,78 @@
+{
+  "title": "Outward",
+  "url": "https://stadia.google.com/game/outward",
+  "img": "https://lh3.googleusercontent.com/YtOMxFQdajwYhpAdvpnqdQtIYJuG8AJIrMu3ctUnNKAzEUalCOLCsX87elSNEexW3uXfJaagoeskL4TgTVJPegbWsnBgnDdB0mI9BBheHzO9ot5F8Ry3Sw2CmG-I\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy"
+  ],
+  "description": "Outward offers an immersive RPG experience coupled with realistic gameplay, as well as deeply-rewarding challenges for the most avid gamers. As an ordinary adventurer, you’ll not only have to hide or defend yourself against threatening creatures, but also brave the hazardous environmental conditions, protect yourself against infectious diseases, and stay hydrated. Embark on risky expeditions across untamed lands to reach new cities, undertake important missions, and discover hidden dungeons crawling with formidable enemies. In order to survive in the dazzling yet deadly world of Aurai, you’ll have to be clever… and prepared. Sharing your journey with a friend, locally or online, is also greatly encouraged!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/H-xSR1c5o9iYCt5mIgqy4BX_fGh8V0N0EFP8t2qCUZKRD4FDg64dAhlre_vQcMSkSRcrPA_0c4DZo1xWdkcAUvtp5Mez6vtjWj0ZqfBR8NlqgmDee3xdaU-nCJ0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yainmarENXvD2XiIoenWsoIGYlcu1J2AsRenb_9sHpDprc3wRRwlodAFRvw_qEQAQ70NP_w3kNuLmF7ZRsX1ilsyV3duMUGpc2q4BhI-H3Tg_-kWPJtSs6fSh2E\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yX8s916YUbqTElXWp7DjD7SWGJNIz-7klZTr-Zn-tEtO8-PEw_ail95KXUxZYH1YnmqvLz5oz6afv4HkjFOTnVvPRFfE9c5EYU-GUaX_NofRDGlk6k7CVxfssiY\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-11-30",
+  "publisher": "Koch Media",
+  "developer": "Nine Dots Studio",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Local multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls"
+  ],
+  "notes": "©Nine Dots Studio, 2015. Published 2019 by Koch Media GmbH. Deep Silver is a division of Koch Media GmbH, Austria. Deep Silver and its respective logos are trademarks of Koch Media GmbH. Developed by Nine Dots Studio.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Partial Nudity",
+    "Violence Users Interact"
+  ]
+}

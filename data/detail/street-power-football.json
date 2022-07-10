@@ -1,0 +1,82 @@
+{
+  "title": "Street Power Football",
+  "url": "https://stadia.google.com/game/street-power-football",
+  "img": "https://lh3.googleusercontent.com/yRS9xVRUhZOKDo1o2c8eh2qxBSeV0ZQpGntsI-2-Lmn-rHQEZ76iqHFmTABGMzgsbGuxlMYZK62vML1eEAPE4Ss_rq73A0QK9688pQuzwatXj49fTF2tVD1Qx7FH\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy"
+  ],
+  "description": "Sick style and high-energy action come together in this arcade-style football experience. Face off against street football legends or friends in a variety of over-the-top game modes and playgrounds, unleashing tricks and crushing Super Powers as you grow your status to become Street King.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/DM8qPGWXWXR1LBmgvhkpWOsLrYvpxnERnJBNiAbK44t8DT3UZfHScd99j2jmfYdd2OcLiv0moT-TvJPuMupmjh9MbfHjApShUgKFJUlkPEDnr02bNsUWPdacuAo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/SGUwqHVv3qGpGMCf3VHcyedFmIEPa7VjIjuebh2UsRrQkdMWKLYPC2axgRPBV3kB9UySBWBGSUGZh4d-t9qL0DNK1LzKCFtAYrqu3IusnRUztBmUXvUgGDd_gRE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Ma_PNR9eMjL1UbDqDmf7JlkDFpeWFBdgF8mSVi1BexQPDxn6AG4o7PXAyCsZxg5w1Nh4QHkDnu9ntyAMkYIvut6nHgbjO9qoHqZn6PV2sCbHDHBw-L-NWEXOkcY2\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/PPlTXZiiysT3VeqhuT5tiNl_k5PrGc_ZgV6fvDROUnew-GAHkeu8pO8eoasdEHO4GyDB4ImAHHXy3BvLMi-B2qkQFUJQzA5LgnwhWQ8ckuZEp6DxD7Gv_SoHKA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/kRzhmml4Ccyl5cHs4FKi9mQmRlYmo0Kk6DK8-O3XNF6n69EdA87-Azmvc5HljmWkEQ93urmKvXXsyC7Dt_Awwy0FBTQL7k8IUk52KrP4KhhaPHsmoekhY2D-rtOC\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-05-11",
+  "publisher": "Maximum Games",
+  "developer": "Poppy Works",
+  "languages": [
+    "Chinese",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade",
+    "Casual",
+    "Sports"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local co-op",
+    "Local multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Difficulty levels",
+    "Training mode"
+  ],
+  "notes": "©2020 SFL Interactive. All rights reserved. Published by Maximum Games™. All rights reserved. All other trademarks or registered trademarks belong to their respective owners."
+}

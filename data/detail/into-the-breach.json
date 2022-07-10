@@ -1,0 +1,81 @@
+{
+  "title": "Into the Breach",
+  "url": "https://stadia.google.com/game/into-the-breach",
+  "img": "https://lh3.googleusercontent.com/jj0qRnG_asWpwVWA8pMdH8Jgt5HdbWLlGsqONQoyGIk4vwXUFuNdsn9hgiKzcQTieMIkeMj8QmXJFo0B4ENMbO4MNRdUukXpna5AGyFfIiRaM1pCGi8TD-B47Ts\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$14.99 Buy"
+  ],
+  "description": "The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/JRlH5G6cjXICNNGxNY67Mvh3og-C5xjwQs_6dYhNqUGfuKlbdd98x5HRnW2JpZOGYXUM4KEZeKW8d9nOKGEbX6D3qUSFIk39MQov6e2Wmj_1-yitKQCiq8Y1xMI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/BCqnnPvkQWyX_VURUoQvSGeWghjteaKdtrFFzaDJFemz9idFZ0QKehHba242QSn-EOEXQ6LbrK2-5-3lPvxwFbY1UKuIR8p8epzOfQTeWVQVmQFcnU3ICHeQ_aI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/J6kYn5a2OTQLfaEvBwCNIM8qGmEu04RzjuVO-UBAp7MvB5SewVGJHwSjsCVXqyx6gW0czYIXzZd4Z6t_6CVwKZx7KdXHoDsMKrVMR4SJqt_yFDu7fGf9KtHe7r4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/MRIBxNTkeD4DIhBNH2BM3SF25gJWOAR1txSSTEso92JojTOl1W8XhUZYht1mITBrMNcc16rjuG3sFEHaRgbWkNBR0i1EQOPIevphwSWUMRlTC1oaU9rd4zkpTmk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/MOs-FOGQv1nDIVmgjKP4F4Va8kt7pDjdf9PQ0R1hrkKwHqVm7herZv196U-Mqt7rdS9hQPX4z6eJORFEecHQ5ajN1K3xXz45hH2vDnArkA4-YYzlJ45GwC8l1Xg\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-12-01",
+  "publisher": "Subset Games",
+  "developer": "Subset Games",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Board games",
+    "Indie",
+    "Strategy"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable captions text size",
+    "Adjustable dialog text size",
+    "Colorblind modes",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "© 2020 Subset Games.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Animated Blood",
+    "Fantasy Violence",
+    "Language"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "SUPER BOMBERMAN R ONLINE",
+  "url": "https://stadia.google.com/game/super-bomberman-r-online",
+  "img": "https://lh3.googleusercontent.com/icXP0QVGbndr9WLtGpoSxj9DYnW8SBKJiAMLbN6jhF_CzGcYIJIdsjn_FPp3VzXY3s5kUfm3dDQi_ecO4GmQZb6pqo9qcck_I-xfaXtgO9IdCvRpBq8yCGZbCQ\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "Play"
+  ],
+  "description": "Drop bombs and collect power-ups to blast your way through SUPER BOMBERMAN R ONLINE! You can compete against up to 64 players from around the world in this explosive survival battle. With the new BATTLE 64 mode, move from one area to another and blast away your rivals in an epic online survival battle! Fight your way to the end and outlast all other players to be BOMBER ONE!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/slROBqzusuX2UaXvUiH4uL-0KpxmlCDdVPnfcdPCghTeLcwzEpotxT11NG_oZ8yKewREaRR9B6-eTzdJdxEvAODa6Pcrsje2KS3JnKdZrBVH-akg7PJvNyXLP947\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/7UIc9WFIq294AWyGtyJw87COOr5sw6Pd5jBnn9TcHd0STJsyfstCCk_L5E-oPnwFssOFtr1ZUkKJ7NT3bX7KD5WCnVFFhbltYoHKuzbus1k5ykw1WIEQB0HDyg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RatovPDrva5QK-h8M7ZKKjACaw61vCpyVLwBXNsYGAon09beiKu4GhhpzoqHo7bJiroXEmqIXyaGLWFs8pnr7yQ-IiN7GnOZgxAamqDXVppQSQ9KKX6i9mkiD60\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/x5gd1_0_RVIWxLnW2J89DpwY4yE6nHSZz6vjNhgSgv9AQOoCoiheh30jnxaHEqhHygRCkst5JUaAtcntAbVhFI12POWtgjyzRTGX-gjKYjs4z4dRwNMsW1dLoA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/2CGVOpz1pP6u6OjwNEqL78hGvIzFwKoqKwCwe1SJoRKzfDUtT3nifS9gr0ncPfx6DEhcHld-DGsyHq8tyrs7WbS5CPgDojtyAFJCioeTqnjvtGYICKQWBBA8-wk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/M_mMZ-RPZ0H-_cKQDk1dWpxrsh5ii7ffjMKyasaSK7IwciO_Ic_fBh2SCTG7LNrf1kvf_7Zj-rwpgTnisd8XLwMDi1Wp3VRkE6kLhUYtFQYmjXLyveYfw9jR1hU\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-09-01",
+  "publisher": "Konami",
+  "developer": "Konami",
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Casual"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online multiplayer"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Motion sickness options",
+    "Separate volume controls",
+    "Skip challenges"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "©Konami Digital Entertainment",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Cartoon Violence",
+    "Mild Blood",
+    "Mild Language In-Game Purchases"
+  ]
+}

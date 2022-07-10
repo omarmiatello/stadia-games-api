@@ -1,0 +1,81 @@
+{
+  "title": "HITMAN - Starter Pack",
+  "url": "https://stadia.google.com/game/hitman-free-starter-pack",
+  "img": "https://lh3.googleusercontent.com/4S58SngGKe5vy59cC4xqyB8g1myapimUnMjNq9xACf_VeqrhFqRdYTmKwPChXl9JK7sN4ze83LPOKUPuMBKlCWIdT9fQ4z5q6i3Cm5Gc302hilMV98Qn6ZM9kbCb\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "Play"
+  ],
+  "description": "Become Agent 47 and experience the start of the World of Assassination trilogy. Begin your journey as an initiate and meet your handler at the training facility to become an Agent of the ICA. Now, you\u0027re ready for action.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/XwSweFU2-V7I0Oj7hnSvW4MKgEuYUgcnQv9qxpW3UeoGVmY43A80iVdmLBHQ74ZDqiaJnQsR71O6bur8lfku0xoebquVN4JGDPA0ktBeRf45LgkTzx8NY3bexQRO\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/X902ZLq90vJnvce4XEBfCtJ0-p8Dr3xGb9huoU6II0V2D3GOCG-LRWkUaJ5UEJi1P9tldMNnmmxh9sWKAW27LQlJF9KQi8w-S5_dyzBUa9wHUyMAq4eWowPaTWw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/bmM8QwRVnuPdP1zn9ejxA_g88WfCDxWPko0inbEGwlUaSl_B1rkn98FBg6tk8EPLbrBkdW7GgWedx7e2K8U-JC2lvqjAybS7q_A5IJpE8p8XRFpWY4TV1ybK2Wk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/OhuTq5Gi4NtCXHzmOqYdJi-JCeXAXXX6gmWEs6hCcv-Ixx_dTkj8V_DJHpTWFMxys1dpRuAUwuUcwobMkMV5IB6-GZJA6UKca6NLlyY7Ky1MAHGshq8YwEJDEdk\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-03-30",
+  "publisher": "IO Interactive",
+  "developer": "IO Interactive",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "HITMAN WORLD OF ASSASINATION © 2020 IO Interactive A/S. IO Interactive, IOI logos, HITMAN, HITMAN logos, and WORLD OF ASSASSINATION are trademarks or registered trademarks owned by or exclusively licensed to IO Interactive A/S. All other trademarks are the property of their respective owners. All rights reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Intense Violence",
+    "Strong Language",
+    "Use of Drugs In-Game Purchases"
+  ]
+}

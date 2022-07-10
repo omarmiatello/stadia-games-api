@@ -1,0 +1,81 @@
+{
+  "title": "Serious Sam Collection",
+  "url": "https://stadia.google.com/game/serious-sam-collection",
+  "img": "https://lh3.googleusercontent.com/5MVUwrRdEdsPoJBtw-V9cxSQ_nEv5oMPUL5cZs9Menk6jUGkKoIY7seGOgg7rls-XISoAyyjWP3rc7_FBEm8dh0bZIWCoLPa-cJ-1QT3_7oUShGCMiNGlo1QJNE\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy"
+  ],
+  "description": "Step into the shoes of the legendary action hero Sam \"Serious\" Stone and experience one of the most explosive shooter game series of all time, as you save the world from a merciless alien invasion.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/NI8lvLo6Z-JRpjpI3xR-m-hpmWraux-Ce1SnwtR2haPxTCHESmYlaTgLZdz7eWIWqsG5p2x_oQmDP3-WRmi3Nn5g6kB82HHZYYTtuBjuChOzEVKfuDQSOGTf3pQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Mm3BM7uqg0NnuXwV5UPEXUxdO_whnlw5KctGC2VrTxcCh7wri-8P2LTeA-kWeOtVFCf8GVv69ZMWnJi6YdMC3_fZB6uNmDvW_7qBFdyqI9nLnqorAr6phK8-w_ZW\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wb4SpyhLd0a-LFrjXtrHXSmAY2LD_djeBec4vpilX9hwrpdbeOiawe8XpXVEZOu0tWZ33BkBpv2q7AEQJqYgXJG83qgx7tD7mXAbkyArq-naoa3_n_Ns3COWzTU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/o5wCoXlg70yNLut42Om57o7puLk9Wnpnqt8GYzJIUgKRbKjLXts9sly5o1XSXe-c7rbQwrYldUfCOSHqJdoN62FOyzbs0dH6CO0ZR8VWsFJnAg-u1zX4-ZuJ_aU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/9U4_6sFoa0DBOA3GOtlHQDl6b4VFwhPeO1WMy-9PYqTVh9E4T20fQPEYLxjlmDOnx8LboFcn5Fn8ag3394PFAX_BFB6a7rnE7DvwTZpPaVIjE_kzcR2LJTMvMNs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/h8uKMr4-6VLl0MfDPEn8Q_rcNGBjzop8nsKyZi5OAZku0ePmdm-thXxa7ksxpR8bfi_-ldku6FQMQpC0ia0UjujSibntdUEl-K0UjnbSHwTxBD9FmQtLX7SSMJIv\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Sw0ta4racg1q4vMsjX5xshx0l47dNWa9p-gM9liUnKWprBEMjcK3tbQ8Ch_XhlxvEzlxtJ7LLNrdMTjOTWIe_1VQFsd0G1KkzJwjgUx9dJ2SvBIX8t6x6ykGbKI\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-03-03",
+  "publisher": "Devolver Digital",
+  "developer": "Croteam",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Online co-op",
+    "Online multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Drug Reference",
+    "Intense Violence",
+    "Partial Nudity",
+    "Strong Language"
+  ]
+}

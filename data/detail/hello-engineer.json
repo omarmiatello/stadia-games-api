@@ -1,0 +1,78 @@
+{
+  "title": "Hello Engineer",
+  "url": "https://stadia.google.com/game/hello-engineer",
+  "img": "https://lh3.googleusercontent.com/zb-W8yyQDPnZvPy-kchjP7h3IQOG3P4HPZReHp5skqHTqNX0MUDlgWtdxzpg5RRPiRozp4YSM0xriEJovjpBMlCqvraJ-femvlPwbFGznZWRoMkUR1xvJb7yGAM\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Hello Engineer is a multiplayer machinery-building construction game set in the Hello Neighbor universe. Scavenge, craft, and overcome challenges in the sandbox world of a mysterious amusement park. Put together incredible machines built of scrap, and beware of the Neighbor!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/KfjCBMpb_GoPuGAkbFnLvZPIQkKGDqve3YHs9kPH8dakrAdJ4pVki3T1M7j-A85L2FK7tXQCQhd2H6IW7yF4-D0mJDUMRxzjQ7jKSvFet79-ZodLvzqwwZTNB9Rp\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/PA5FiVBtfIWRPIqaTRt7B2IhVrxSaOqD05pd1fGCUfCzY1dU1p2woEfR3sbXD5zKytsnzLxrYLc4ZDXuTp3pcTbvpgDjCbaVi0dgVMM-IxV343_vAgGQnFHC6SLP\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Q1nDtozmqACx07aD8SVppPvdB0H9ZiKfih6iNU31ahQCi6mEp4smhhTOAFPymgGGU5MW05TIQWQoqlU6Ls7e3CqFblSyXWLouXiQUIdpiIQe48DEC5kSn426N-E\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/sRYvdqSDRF3acIgKINaOBe4Tzjaf_DEIUCMjYziTRLmEfy_uq39CVULc_tsE-Kno2fTfAKUMt2_VnL5JCSYok-Iysj7qLp7KwPTAgPKpf6nehE-npp_Xz3OSr9k\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/d3f8SQCJnSVhekt6yeh6Bo34gnaU3BYl9Dw0TKtzOy0XKCg8ntG3uyIUAkp8UjVr_3Q_R2NkFFCLAFUZs4pkhj479WboFGQ9UJZvfTe4gEp27Tco2VyMowcS_A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/FaH99zy_ApI6f680cbGVHH4au1VDV2JgFqEUmp7f_amU8ERMOBhZl38WNDG2CwQi_EF8plf7dUW8_KNsAjtVJN5cuwvxj8dp2ufoYNwK5yHBvl5ErpFgiV2u9w\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/lo-E1hVdRIP411JKGBEss_E9_LhAgoWtlmaaqrPL6gOuJ0XypWg2JjSoGMLaIfru_aFnzDqa6jpfPSBH4LvRvIAdN4q6QWoswW3PVgq0r2SirMgu5pnbZWwGFEQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-10-26",
+  "publisher": "TinyBuild",
+  "developer": "TinyBuild",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Indie",
+    "Simulation"
+  ],
+  "game_modes": [
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Separate volume controls"
+  ],
+  "notes": "Developed and Published by tinyBuild Ⓒ 2021. All rights reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Mild Violence",
+    "Mild Blood"
+  ]
+}

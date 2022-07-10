@@ -1,0 +1,67 @@
+{
+  "title": "FLOOR KIDS",
+  "url": "https://stadia.google.com/game/floor-kids",
+  "img": "https://lh3.googleusercontent.com/Ij7dbdhzxMVo9m4FLz__daI5zAwi9bUCeakDNuBhxoGEuFmPepWKre686e_obn8Tm3nofOFZYgurW8aJq89lHbsY70FsZYB6oZ6SQpqD-821YK32J7InY9GG8A\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Floor Kids is a new breakdance battle game featuring unique freestyle gameplay, rhythm challenges, and multiplayer sessions. Discover stylized hand-drawn graphics by award-winning animator JonJon set to an original soundtrack by world-renowned scratch DJ/producer Kid Koala. Innovative controls allow you the freedom to play the way you like with a dynamic scoring system that rewards your moves based on musicality, originality, and style. Build up your crew of bboys and bgirls, unlocking new characters and locations as you cross the city, busting hundreds of different moves and countless combinations on your journey from the corner to the club. Bring Your Skills. Build Your Crew. Find Your Style.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/eS_ro0_ORSqTAq8GI7_VY54LJu3wUhshWlZQwxlhSUvBUwLOtsy4ZIHshC-xruq0oIxCvMdPk-mKS3aocH5ODu-MXuBitCveNpFvuZtz5APFqUF351XPKNZECMvo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/aHrbi-AeWueiFS24DJbyvKr_h8bMed8-nV0VtsxO2JIhVNsZOloHtL5bszeJEoqV0ZIZDISNky8bPB352TJyFOBROqF9KMnde9b-GNVTn_jtZamSNVOh05WVDr0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/WWgPfwky3E6wsKKFayEn4tCkI2hZpChE6MqiX5n7tyvwQjHaGu0F_SaRTSJkbmlNDyXsNFpzypMXHKnzJK7cR0dZtUP6s2VfxYVZl4Rrz-4R1MVcCna0z18qbtE\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-04-14",
+  "publisher": "MERJ Media",
+  "developer": "MERJ Media",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Indie",
+    "Music or rhythm",
+    "Sports"
+  ],
+  "game_modes": [
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Partial gamepad support"
+  ],
+  "accessibility_features": [
+    "Subtitle speed controls",
+    "Training mode"
+  ],
+  "notes": "Floor Kids™ is a trademark of MERJ Media, a division of 9420860 Canada Inc. © 9420860 Canada Inc., 2017."
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Mortal Kombat 11",
+  "url": "https://stadia.google.com/game/mortal-kombat11",
+  "img": "https://lh3.googleusercontent.com/9y9iWk3UTH8hEQFzBwPgJ2q_GMCxfLKZKCyrcweyf7zOGrSHlsRSWKodphAOq2GvwdWrk1SU-7XgYhgB0zndzNSDMNdH2rwRHRfYVvO7jkkMpdAT4vebrN3tH4Lj\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$49.99 Buy"
+  ],
+  "description": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/mJyGscPNW0SYMP9kOiBPF2aDiUIDPOrzImwk6s06QpKK7qHCUte3Ths32IFBq0daKiAsMjaYGGofWwU8440sGvcUFMNj_m9q4CLU9kaHBJt5u1eQLHSqle_L-YU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/8AoVAv75Yv7wzSIF9FPnjQHaguAueyU_7_fxrFmxvFbzKSKeSEWuhz3lfPG9_o4yptudc2fbQp2hoF85pQ2h1dVeSBMKixLgodaa-RXeSAyXuAbeqfa5XxWX9A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/v7-5i9g78n3iuPqeiZzm0nlWO7k6U26fdXiGvLWY9-cmNtNbO8i3wh6VC2nRTZp2jspfdeOynx1YeM78H3Q4H9XdLylu6lKi_3-9Nsi-TuCGPeSsdo-rJkYPXyQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/asDfARtvDLz2a3JppQRBExpV8zKb-6EFoTRthUnFj_y5-MqOvGgEctK2wHnn1d8LEyx0BgWane6aT2PBege21ol8WTzOg-eRH1F3R1yfQ6tX_iHbOWXWNuzsVLqq\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AH1oXiPkOJRhusYMsf_DxrXmFnwPFqwHSwXamEj12pFUxIT8oDBL3yVPyeET-2fiBDFVOLoI7534NYBSo7p_zzZx6K-H4Tx3wCunYxMD1GIIO5XmtuuAAk-RHKk4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/xdJoKZfJxe5VVRY1fFWJwxFvobKD7-kUN1aG1f9QKpqqByHhtcnMwPaLC8I9t4iU9S2TR9IhvokMj-u8r62o1rLxZNR4qLjW8RBDC8tLzowFIRr8O9ZasBgIcA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/7nZM7jcyBww7WJNpiZzWOJeOJz6Z5JoLL-H-8x3T2xUKhi92VidoRIuQ97U8mtIjTI2sAiC6bLbRI4mAef8HnfpKV_hKuokmwAXo7FUscmLha9eXuy4qxRU75dI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/d1Sq0D6n6AGJhK_19sK0KyPm5PLAnkAHSzpS2UDjmsn0F6beckFMjtpzeDxqwYXCKnah6BauED6Icfth_vtjW0Qn4pmf6v7GtPQ3wfner84C7MPkXSrlzuGDFLw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-11-19",
+  "publisher": "WB Games",
+  "developer": "QLOC",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Fighting"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Partial gamepad support",
+    "Peripheral controllers"
+  ],
+  "accessibility_features": [
+    "Adjustable game interface",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Colorblind modes",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Skip challenges",
+    "Training mode"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "MORTAL KOMBAT 11 software © 2019 Warner Bros. Entertainment Inc. Developed by NetherRealm Studios. All other trademarks and copyrights are the property of their respective owners. All rights reserved. WB GAMES LOGO, WB SHIELD, NETHERREALM STUDIOS LOGO, MORTAL KOMBAT, THE DRAGON LOGO, and all related characters and elements are trademarks of and © Warner Bros. Entertainment Inc.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Intense Violence",
+    "Strong Language Users Interact"
+  ]
+}

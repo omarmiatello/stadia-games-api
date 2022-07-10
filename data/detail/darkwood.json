@@ -1,0 +1,83 @@
+{
+  "title": "Darkwood",
+  "url": "https://stadia.google.com/game/darkwood",
+  "img": "https://lh3.googleusercontent.com/vPoyiI756t_bVbBfR29Cjjorq912QLt7bNFV3URVa6qit2aQ-Z80vurbeu-CxggMdOgp6KMScFAalOdi7iNClr8mPrSGkSl2POZVmc-arN8zxr_x6WmemQVu8CU\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$14.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Darkwood - a new perspective on survival horror. Scavenge and explore a rich, ever-changing free-roam world by day, then hunker down in your hideout and pray for the morning light.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/_lbaRyBbqtM9UaYc75yc7whE4FyddIU51oqfHlPJwCFM2YmbA2nnk7Z7GrVGx2Py1MFIGcJ8q7vAhyOMyu0dhN5yU7oHG2iilQ44XnKSL6lGHviLTM6GLGaFgqI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HV7jWKzATMFS9QwJSNG2_AzICIiGUn1yeh3Z4vLB7MnhEkIOUohUcdNHqoA0AlhhtaTEgDQ1TxzUjUNP6wmE4rbkrJnyYQ6JBX3OGBvf9EBdrxB8dSDav6WhXajX\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/pooaavRxy9He2Lpq-uRfHB8_PmRWRVhF7cOL3mtjuvlgTAt33lLTs3MLixxYPthw57M76gstDbjNmO-gN20yE6PY02ZrgsnYyuGuBWubTBqvVMtqHp5jB8VfMw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/EuKLuctA2uxP-0z_bEfVr8din-ZO-3cLQ6ZHUD2tn6GJXA6MmJSJOhgdU4h5xn8dvMDASGak_NFDTz8zAj2AZfUQ7D9Va2wFfQ-46MU1ngdQoLojPKslDJObvA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yHRTAJyZyDcHrWk-TJkZgwjLyAf-1M0Kr4rrOOaTkiJtk_rDQfDT0LTitfcl5zCN-Dqg1mgAA6i0COoe_WB723mgh3z5QCbmoEPPmRoR7QqhUfe0pS9BkEqvzBM\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-09-07",
+  "publisher": "Acid Wizard Studio",
+  "developer": "Acid Wizard Studio",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "Acid Wizard Studio All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Strong Language",
+    "Blood and Gore",
+    "Partial Nudity",
+    "Violence"
+  ]
+}

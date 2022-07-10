@@ -1,0 +1,82 @@
+{
+  "title": "HUMANKIND™",
+  "url": "https://stadia.google.com/game/humankind",
+  "img": "https://lh3.googleusercontent.com/mcjY1suc4i2D5iwaIT4QFHxWPDhD08L5TFM18UIOFqUltHepHM3t2d0UOPGNWW7jLkUZ5h3V34FDjOCi5qqg0DCWLrZVO5EAnfV3RZERDmngBihVTRscPIUyBQ\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 120 min",
+  "buttons": [
+    "Play for 120 min",
+    "$49.99 Buy"
+  ],
+  "description": "HUMANKIND™ is Amplitude Studios\u0027 magnum opus, a Historical Strategy game where YOU will re-write the entire narrative of humankind – allowing you to create a civilization that is as unique as you are. HOW FAR WILL YOU PUSH HUMANKIND?",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/tJqtuCjDsPCEiOqJwNKtqqQ3UPCM24K9njdIWNBeActTI1RXatBb7aSNtN0MvKeOYzBku9M6dmrOY1RLv9H9EpsJ8fDpK_KbaCANBVez6f7EsOdR-7Ml-VZe_sLa\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/V-zrqpJVSqroRxqKh0evRDS8waslen2l2XK1di-KVmqS_fBNbVQDflHBroS6YiO-epCe2nneHkb9AreNb-Sl6eH_PGDB-AiR_inoSYKL7H6HJ4EPUMLMc5II\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qH8J6oZfV2YyW0BE5JAY896-EvxUC8a8xKpCKj97BZc3c7nLgYYtGWULu9j5HgLMFTd2dcEm-8UCS8z3ZzSvi3e_Y34QTy3JVmoCV3Td5FO6ftmxbRcbcuHocWc\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-08-17",
+  "publisher": "Sega",
+  "developer": "Amplitude Studios",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Strategy"
+  ],
+  "game_modes": [
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Touch support"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "©SEGA. All rights reserved. HUMANKIND, the HUMANKIND logo, SEGA and the SEGA logo are either registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates. SEGA is registered in the U.S. Patent and Trademark Office. GAMES2GETHER, Amplitude Studios and the Amplitude Studios logo are either registered trademarks or trademarks of Amplitude Studios SAS. All other trademarks, logos and copyrights are property of their respective owners.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Alcohol Reference",
+    "Mild Language",
+    "Mild Violence Users Interact"
+  ]
+}

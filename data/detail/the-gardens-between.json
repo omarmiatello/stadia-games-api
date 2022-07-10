@@ -1,0 +1,72 @@
+{
+  "title": "The Gardens Between",
+  "url": "https://stadia.google.com/game/the-gardens-between",
+  "img": "https://lh3.googleusercontent.com/IxCDj7IdTIOMS_w7KXcGytbLsedQN5MirnaV51KLisbMvH01z1f09RXHtnEsEYnYZ83Qb-oMFUaOVluRdm6SFKioZNqh2jCNerzZ6G43iS3WlWNQRfL1_TVs9ntX\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Best friends Arina and Frendt fall into a series of vibrant, dreamlike island gardens peppered with everyday objects from their childhood. Together they embark on an emotional journey that examines the significance of their friendship: the memories they’ve built, what must be let go, and what should never be left behind. Lost in a mysterious realm where cause and effect are malleable, the friends find that time flows in all directions. Manipulate time to solve puzzles and reach the apex of each isle. Follow the duo as they unpack and explore their significant moments spent together, lighting up constellations and illuminating threads of a bittersweet narrative.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Q5XiQ_DoMXNb6fF7qpp8Q0BBwN0gec8vLuVTEn5Ljnu5IXIWTpAlmm1B2XJxPIcXDEpIYJua-ehItzbL_NZlUe5y_I9T9J4hhBo15BDybbF2PXE1UwgGKAl_plk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/z2x-OR8KZ63fmE7E9F_4Jg3R4itPTd-o-2MYceQ4EGL9ysyZqUaIiK73k6CLFSwxLRjmg4cdPVrQwCEIgGDQx3q1dWvH2gJmH98pGASH8RBjQdj7-Cr5pHaFjYU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/vjxK5qX7b1QUpGYXV8ALNZFdcVGtE50gkIV2XIi4igDoEl-gyhx-uUXMIBFWnACEEQQwNqqgKU0HLB9OJ7bFhUZG_0VspxY1nVORpVcSUGN7drhHeVpp6jR6JVzP\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/gr9cPqqOR51lKHsVkCnyAuKLqWWi9c1STG5z3zECvxbS7IaF6aA03qcsVZ8YFOjRNGUO61BwszAlYLhDfLkA14RA4Rlwfn8Ru91Z3cL0XPXJO-1jslf6pvSpBlw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/4Ws2D8_jMlBsY6WxCzBGKwtdNOaD6OD8aMbk6dgPkNBdCb2wpPHO1cN8qf2ijodaJ5l1gWnfidICxs5F8etw07UtEpv5TJERquXtGZolh_9s1S1r4jI22XLb61Y\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/rCnmKbbi28ab9RTstlmwmkvfhl0aJzueNzOviOIDLKKOuqHhf-FVTRrWwWhi3dqjUUYj62dnhjOEWITpWury34k5Ffb-vkuI81AJZsfmv6ik1bmRhtRsNs1ciFli\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZIw7C4cZQkLb0fc6I_DRfanlu7A2dqfaT7tQtx5JUQrafYu6A6_Ib-fJjxgF384WMqvXCJ_G27l80r2FG_7zpeSSvyApLN5LbuTIZ8TZUtY2QqXRzVfsWLGj6dw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/nFDdnKYhyR4--1xonyeKtT31R5Wsb8L7L20Q9pSV_Jemr3xlxVefkYXAYwGywILlSHdqOnlJztlJLS4o8B1se_2B6pI-KjXVT5R67L8x-U2-p3Rv0WxdvDSyqc8u\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-11-01",
+  "publisher": "The Voxel Agents",
+  "developer": "The Voxel Agents",
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Indie",
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Separate volume controls"
+  ],
+  "notes": "The Gardens Between © 2018"
+}

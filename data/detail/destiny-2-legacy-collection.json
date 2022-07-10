@@ -1,0 +1,86 @@
+{
+  "title": "Destiny 2: Legacy Collection",
+  "url": "https://stadia.google.com/game/destiny-2-legacy-collection",
+  "img": "https://lh3.googleusercontent.com/S981Nm3t8DJBXv3QfC1l_V2aFlqb6Z3J5AQBh42utcJw8-zs-og3kvPCozdRpz0vqkUNVnUs19Wf4H_XTXUQI1BTo8VCOJJsBUEHk0c1ie3zcyubi5xEmOADhQ\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$59.99 $23.99 Buy"
+  ],
+  "description": "Create your Guardian and embark on a cinematic story in an evolving universe filled with a variety of co-op missions and PvP modes. This edition includes Beyond Light, Shadowkeep, and the Forsaken Pack, which adds more than 20 Exotic weapons to collect. Unlock three instantly (excluding dungeon and raid weapons) and wield them with new elemental powers as you explore new destinations, dungeons, and raids.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/xK787UOtRS382gfqBnBQvxBBxCPaAIc57qfowUxLk9dTO2zR7iToiWpnk2JkMjKg_BbRnno9EHV85Cd_GMaegQROQ6tp3uFstI_n1TtHYbbaY1hr22TVquFlRUxg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5TRME1JA2BwDxzvuzx3Na8N6DaFh0J5XtAWu0rfiK2OxkEuVVEa_VpBwxxx9MsbiGTwWKxfT7cUeObe5WTfHyzDyshS1InT5-wH9C8J7BSkozrWsSfN4RakoZrA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/b4LIX2RzqxSKUQwZ1dkxtmTxsYvIFzPhJjexhi0rEKsgJ78hBz7mvt20UI2jeAB3yluRBKeA7GnR736yTTVZZcjyZmcqnsc6GYZNSWEm45HVcvi7nwfTUyLyET4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/FW-44jW4M6vqpb9EGRqbQ6eSE9QjQ-sOM1vS9I1EEjilCvMODHX3OIUdtqIrIF8IRHm0BuL0Rc0cHGZs7Ry3O_I6z34ruuxFWaFgupbQ3v0xzZWtWM7WCL5xJSY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/XVVaM9ADT5O1DjLAL_4f7VePxErxdTDM7p47YA1he1XLtLGXiA7Ko6V3slKhne-aq5JuJCzXhFwnhG87v-Ai_LERUz75NKhm8PYyudOElzuTjAJ9j1iIdipFEaA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qiH8J2Tex4EjNfX9tLorvfBw-jjqtAarn6MRp5_vtpcM_b1KxGrO9NjpPaeoak7EzuFWYKLwIc69Y4ZW4FjGjTxxkeoNnTTyUWikaiZ0MvnyWSIRp4D1YW1P0rZt\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/FX6QoQvpR_7rFXP1-lASITYd78irjib625rPVDcmnY9vkiVuVKj8PLN_oUKXmQBTDnW3SMEcu5ofr7qQgqvEPJPhouP4WtLSyrMNlGjaSqeFMgZGWdDRmEYeBds\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/U-T_wRqQ_O3yqBUHfo5KHoAnBr-QWH8MAtwOWr713hrf8lUWsV5SFhyyXQS4UJIe1J0O53lW6AFwDO6TrZI3-atiT6hQ51Wkwr5lCpgah7DlQ3eFgsnveEoEIjs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qswj89adV96fQHrDcP9Cn7tPuSnINboS1TEOU7DIr9OqU3kNmCQMEeAVYSDWAhpBEhJAUatMGNg8GBOt2zrroZBmigEyaY6M4rLgzMzPe_GSdW2NkQlqH_Bwpw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-01-18",
+  "publisher": "Bungie",
+  "developer": "Bungie",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Colorblind modes",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "Users responsible for fees for broadband internet, which is required. Destiny 2 may contain flashing patterns and images that may produce adverse effects for a small percentage of people sensitive to them. Additional charges may apply for online content and features. Using the software constitutes acceptance of the Destiny Software License Agreement at www.bungie.net/sla. Bungie may modify or discontinue online services without notice at any time. © 2021 Bungie, Inc. All rights reserved. Destiny, the Destiny Logo, Bungie and the Bungie Logo are among the trademarks of Bungie, Inc."
+}

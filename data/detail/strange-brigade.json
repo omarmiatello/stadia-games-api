@@ -1,0 +1,74 @@
+{
+  "title": "Strange Brigade",
+  "url": "https://stadia.google.com/game/strange-brigade",
+  "img": "https://lh3.googleusercontent.com/g77XxgGMPNr-A3Dc_uyDW_0DokLwH3RXc25bQ0hJfbHSxloWAg4vPB1E68Tx0MBiWtJ5IaOeN13nUxQp-3QyrUPI1Cz3HF70HLpb90aJgvGTqafX7Hya87fIbl0\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$49.99 Buy"
+  ],
+  "description": "Egypt, 1930\u0027s. Erased from ancient history and buried in a nameless tomb for 4,000 years, Seteki the Witch Queen has risen once again. Only one troop of daring heroes can stand against the fearsome power of Seteki and her army of mummified monstrosities: The Strange Brigade! Explore remarkable ruins, solve perilous puzzles and uncover tantalising treasure while blasting your way through an array of undead enemies in thrilling third-person action that’s certain to bring out your inner adventurer!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/B9WuXk9tKV62yOQnnNx8K9xtaatOZD9oVmOCn33L41xm4i_flFGn_0rjA3OZbDdX-qj7o0A-aX1gPeTFx-kRgMUc6j0f6MNgTW-O2-5v8OFZ2v7HGZwMb--ZZv8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/0TO96P0Wu6eCPl0Be9pM0h-ugSQlQXNq4Lghr7DGv6vlyBDMZc_kkgjUAuqd81Hz7yfj9IjstjZ9KUc9kJaqoTD2QlXQBYNA3XiIraSzRgIn8950TNyJvFvqv8eK\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/-E7GqbLR3TbL6clq8FPpHHNEWRQ8shUtET-JOoDTRDyyO5Wuezigc68jFePnXcLb_lSlnL2cmkPUW0kO-a9-bczCw-C1pjIfq5od78Bb27FHPAhtK57wTQqqsjk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Z5CBAWtFOLwNvBYsZXw96OTxvSCH9X0lXWZqnH2Uor2qlHtoDGNQpfTDwYUyTdgT_BZwLVYfEkzIJHVFN72UtPsKNIlsKgtEUit-SL29oxEYIWn2-JOJhY1mAsE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/XvlvUul1_f9isQ1-sakbNpJUloaogtnEs30bUokNdvmSe6WON9VcessclGhFkqQTfFWdOyu3ZnoKfwUM4I5C2PCy7scEhTt357fDVQhw5qxJmCN2J85ACxubVYQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HKNwuzMTeLPpk3WJpjrzRWUsmNmBn9yH_zoLeSOI-3-wqp09yL9-IgtvQkKU6VJs9g4V6jiCOl4hebNLikFkVMDK1wHSOkRoKlR7o-tWpwUrFRVFLp_vfEtlww\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1vGvwqE_Ghh1zI56YUBJKdl5OW8jqTTdMHg9NK-1C-fPpq0pQImMTPJPg3p1m21oSlD11cIlgavmPXuS-ZFouE-2l4x4ooE--AC7o68rJhz5NzQZg89L5NNra7w\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/IHui-vIS8oIeeQykBRcl8xFiSDGnDunGu-JvcIxPz0BHSR2gRqfYlSPx9Us_oClfr7ixMQEcpmyZgrOk6L45rX4QM0ND1UwAxS-iH-KDzQUKvTnFx3IxGqK9Q5v7\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-08-01",
+  "publisher": "Rebellion",
+  "developer": "Rebellion",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "game_modes": [
+    "Online co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Brightness constrast gamma adjustment",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "©2020 Rebellion. The Rebellion name and logo and the Strange Brigade name and logo are trademarks of Rebellion and may be registered trademarks in certain countries. All rights reserved."
+}

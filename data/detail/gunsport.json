@@ -1,0 +1,72 @@
+{
+  "title": "Gunsport",
+  "url": "https://stadia.google.com/game/gunsport",
+  "img": "https://lh3.googleusercontent.com/C9l-9DpAs52uwYP3IIxxz4rCVq5eJpT46zPzbkocC6psEpGckk_ytdFcuIx8qvjq0_0I0zuQxFzaJ0SV0PoOpYnNSqmxZcrmx5jGmL73UpeqCrYVKs_xpSxpSLI\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "CYBERPUNK VOLLEYBALL WITH GUNS • Online PvP • Solo Campaign • Local Co-Op • 5 teams/stages In the tradition of the great arcade titles, Gunsport is a game about precise action and timing. The aim of the game is to get the ball into the opponent\u0027s goal, making the best use of your limited shots. The only way to get the ball into the goal is by shooting it there, using of your team\u0027s unique special weapons and each stage\u0027s gimmicks or game-changing rulesets. Gunsport is familiar but different - this is Future Millennium Sporting Action!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/cNgtrT0G9qCQFIAOp4tXRMjGJ2JtdZ6dsjBvYuQO3vO1TQAAkTGWf4-1EYdjcK7py_sJ4Xi2o_ARM8wz-zgTlMYv6fCgnP9jDm74YEHKuGyopg12tUabkelh2xA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/_6m5SwNp4qNg1gm4wPMUuKW0kSFu5aHSc1aCbXIIiySRJBgiB0N2ZnMX9KOM_R7gJJy5QGLKqaHfeqD8RGwFNGRir9KjIoZ-mki08xWexMwsrX5llssfJBSHsw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5lVNJzlhtA9E2hwlz0BZ9GHFXd6SNFNY_hGzx81Wg2KWb_m1JcbyalPkg6_G9WZOzMFT0X66crfQr3kNPD56ujBwY8QarHClJjvwam1Xxvd2Km41dHnJlVbpOlI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/eYhs_9ww1rSESg1KcZ5bCWmjTfbOwBec91I8G4ljbkOaXPBWG4O4RFtKKjoH4RP81J7Q2hRrQxLRcECcMbeTHWcyt2r_gXCDn2N2hy-IuIf3iEN1GKz1KuR-uNs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/iHf2Zd8qhDza7NfuyRBnu1IEBnC3sXq0OPD834WM6emHoxS2Mjf-TNoSQiySVi9MxgqXkg8cubsSqLnm2E6RHf09ap407jPyYNtIZ_KF9aeTKLirwaFNCZZv5U0\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-09-01",
+  "publisher": "Necrosoft Games",
+  "developer": "Necrosoft Games",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade",
+    "Indie",
+    "Sports"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local co-op",
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "Copyright Necrosoft Games 2020, all rights reserved."
+}

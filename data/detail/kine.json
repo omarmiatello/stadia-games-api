@@ -1,0 +1,63 @@
+{
+  "title": "Kine",
+  "url": "https://stadia.google.com/game/kine",
+  "img": "https://lh3.googleusercontent.com/YYQSudTKp-W3MreZofvVcLptmN126EyTwinQO-hkRK3b7bo3oV_JCCH90ZmzP2OzJNI0a6UUajmcI4JvAbatDI3s3BL70CTb7BlygvTrbNKBePjYv34JQKHcuxU\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Kine is a 3D narrative puzzle game about three daring machines that aspire to be musicians. Embark across a theatrical dreamscape by solving a wide variety of increasingly difficult 3D puzzles. Guide Euler, Quat, and Roo as they struggle to form a band, build bonds, and find their big break!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/6NykOLSR9rV7uoFjmMXzxbOPVefMq6XxDd6cVfTWPWvfGI-L2Xftugh_MZn0Xp9ISGlaFVZABQ7JSA8Ro_LZAGYqLd9vxwQ_fYy046mr1Ffdn6VIF6-9u4VsjZWC\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/G8E-GvlHHSyJUE1Ra9XOeImifytp11B9Ee4CPyIQs-0XDnK5DyjfsDVQk9WLq6Ox6bzItge5H_tcXmfP_KxqEVZUo0svIN-MZbXpYp-xuGCpQCLvfYJC7ZwgEw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/8_QvJ55U5aNahHKBfXWEmojnLv3xbYoNsyqmAHPiOvPowU9W3piTxkh3sFEnikOHg38pSicj7FrYgMSiUczGiFSBvTjW893a8TZkIpyxlEMqphu_vefQRGA3nw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/cjorFvnSwqKxf6sqgdqVwVk_QgcXnWdRgk_B6UMnlkouVUr0Ujq2-lT35Ks1qb8y-6VNsZ76Q0FoonX0Upbtr7LsUB9PRhkkWbjc3SczbRZJPOiJVtsFmR1n3uU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/eoRELx5oJTYDedQJqeWVkYpsjnI1lhAodvWE3srnrEBiFt30O9wsCvzT9D7K2IiRIjAHKFrZlD9rIWOB0kPtIMrRCNc0tY_lrd4rNCGA20dg9KNtHE363KVdmhdD\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/GgNW3aECsLQ2qwm4B02iM_kCm6WUdK_jMDYBOEcKMDZC_dl2mzm1nrMvO8i-DolKHwB-kbsJ55LGBdZTGa16ZrgPntC8301iahQAUZUu0BAmXo61HTYke97Osws\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RTX4LVQSn6515L1h0abrb18ppBLmSZhay0dKq-EsSqMDQw4izHgqbPGJ7m7A1Gmdwcg0xfKvAlIB3LNudmYe2Lc5Dj-FHfGrlDQJa9ikDpLOA1zgmem3F5-hpKM\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-11-19",
+  "publisher": "Chump Squad",
+  "developer": "Chump Squad",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "notes": "© 2019 Chump Squad"
+}

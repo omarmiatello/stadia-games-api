@@ -1,0 +1,77 @@
+{
+  "title": "Unto The End",
+  "url": "https://stadia.google.com/game/unto-the-end",
+  "img": "https://lh3.googleusercontent.com/p-cvlRGAtvjechw061lwdDGAz0VSps-xeZ6vQTfAGfzajlETKTRfZTeeYREalbLqvwHnE1g2sWxB_lxWoXa1UJY-ka3ZYTvAugotI-q1tXm7pH_wb7u1bHT5lQ\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$24.99 Buy"
+  ],
+  "description": "Unto The End is a hand-crafted cinematic platformer about a desperate journey home. Master combat through improvisation and observation in intense sword fights. Spot opportunities to use artifacts and trade supplies. An adventure told through your actions, how will you make it home?",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/AGZjbtmScLUIh0yZa0k1ZqFm3o5lh4aFKJegG8SKzuMe6W-jnAjztWcN9_HJ7_mZvXju_8bEsi-3sgtA6yIwHmFaBiCTVZCIYptXwTUjJ3Qgtp8BHHSEp4Ob-I4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/abtkVU98N28YK7aM9t2_HEsOKDaQBp-e8rgcvrz-I71egeCxhKs0lc_TC04kgy-12Ma4NRPmwbTglAQUp7t-fsslPXat_Nv-FzPvuwEP852hv4mHcCqJWeeHug\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/YpOCNk7Pdosy1PKBY6JB_dKCj-llcIAbTuKczBYOupffAs3Y6P7nAW1GvnpeYf0mrQZHqBbC-9Xxw2SadKGu1DXD3-eFhaI8qKZNjF1ZpxXLFOp41-DbFE1b9g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/XWJmLZoEWGGd0CzrXXan_zovQgYZD2VxGpbOb9cfxlb1iMOKy_RQUUH-7qw1Z-e-F83MZndtsbr4SiP7pU09xuheS_nSypCajrVLI5cC-czoEsjTAxlvKihrMnI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/aZeZuZhyzyI2d03YPvAa1uDyHPEmeopAqRcE-iqRHfceAit2yVmfAVxZq6UPMJ7VltQenduTuHc0XhRJaoPsMKNw7MsDjzsiI3TW3qClAFJ_cGJJEWKsQ_jfEeM\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-12-09",
+  "publisher": "Big Sugar Games",
+  "developer": "2 Ton Studios, Kittehface Software",
+  "languages": [
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Italian",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Turkish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Difficulty levels",
+    "Training mode"
+  ],
+  "notes": "© 2 Ton Studios"
+}

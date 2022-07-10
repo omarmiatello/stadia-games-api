@@ -1,0 +1,81 @@
+{
+  "title": "Judgment",
+  "url": "https://stadia.google.com/game/judgment",
+  "img": "https://lh3.googleusercontent.com/wjFQ58S9faNCUJ4K8zpsDw0mqB7JbBOpMbWTKsTLEoHFCVpRh7SnhoDzq8Esbq3Ir5fugmaAR2zCgCaOF21qpPqmMNg2nzRmXeX1HuBZ_xdqYK8kRY6sEADS6Q\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy"
+  ],
+  "description": "From the team that brought you the Yakuza series comes Judgment, a gritty tale of disgraced attorney Takayuki Yagami in his quest for redemption. Haunted by his past, he takes up arms as a private detective, clawing his way through Kamurocho’s underground crime network to investigate a string of grisly murders. Track suspects, discover clues, and bring evidence to court - but be careful, there are dark characters at every turn. Take advantage of two unique battle styles to take down adversaries in electrifying encounters. Packed with Hollywood-worthy combat sequences and cinematic twists and turns, this mystery will surely keep you on your toes.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/eybPt6czOWjv6OvOjLVnr0R8K5s5ydiHQgr5piaYRx4hhg4wPDHasqbv3ex4C1R6JPNqmRWQ5cyzpcRvTh5gRMYqP1MZUn8MPmdnfQBPYtmfeZiC7bhaMJ6Lu1A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/KeO5q2WTs-gqqqooVZDMDeidIT_ZnCSuylOb-MuvbTd8R-ODYY7agx-9opEKYkDEso4UV1NVKefAvlbxMtp5-4IpvgUEYAb3dy1uxRWDqcNSs0nJkuehf4QOSw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/JcOyROhemtUNUL4TF7FXWLp3ol8PnL_dMmdk8plVyglUjNZZ1qI499tL52rOuz-96Ft79yhVs0dqUqgqJyvrJ6-XXbMpbsVy89IW59dHXvOYxG4Ysojmg_qxTg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Z6d-RO_A7Z2KpPCNqrmRpLrhoGX9aM0wGKdbgxC4SsVocm7fDARRU7psYfFTwf6z3lWJYNsP_-ztemlGMHXmCM2XOJ9ilhHyxGTtWyFSO6WsveuP3t4DTieipy1t\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UqkfzT9HbDrHG7ChFo6_rWU95sGTVByaLgNHfndNhUAg3XPbjzp59i2mW4H0tp7M5n13DRjAxNbOujZik5i8NGMva8clCz4PduLimF0YMpn8Xqs0EjaZ8NnYVYI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/xSzSHxH8mS_6kEpfONsRZZnufs1daKnUNE1xorDDfytoJQMl9Yeb_tWO3lsNiQ3u3uR5o6X1SqhRI_QAze6BI3G1EUjFHf748rgY54nQrRa2E2n6H3i2u97gKQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-04-23",
+  "publisher": "Sega",
+  "developer": "Sega",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action"
+  ],
+  "game_modes": [
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels"
+  ],
+  "notes": "© SEGA. SEGA, the SEGA logo and Judgment are either registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates. All rights reserved. SEGA is registered in the U.S. Patent and Trademark Office. All other trademarks, logos and copyrights are property of their respective owners.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Intense Violence",
+    "Partial Nudity",
+    "Sexual Content",
+    "Strong Language",
+    "Use of Alcohol"
+  ]
+}

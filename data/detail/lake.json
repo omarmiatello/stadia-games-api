@@ -1,0 +1,76 @@
+{
+  "title": "Lake",
+  "url": "https://stadia.google.com/game/lake",
+  "img": "https://lh3.googleusercontent.com/tRoEBJHOmHnuh2w7FlaJKn8DYOtOllvb3koZudPZBqWm8zZGBR38WK2FjL3FMn3NEHpzb0AgGRexYCbHNzSW69QYdjmF-3fCx6HaM0mpcrzhbb_8_KkJk5B4xK_H\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 90 min",
+  "buttons": [
+    "Play for 90 min",
+    "$19.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "It\u0027s September 1, 1986. You take on the role of forty-something Meredith Weiss, who returns from the big city to her quiet hometown. She exchanges her busy career at a software company to fill in for her dad, the local mail carrier. During her two-week stay in beautiful Providence Oaks, Oregon, she runs into a few familiar faces as well as plenty of new folk. As Meredith, you get to decide who to talk to, who to befriend and perhaps even start a romantic relationship with. Whatever happens, at the end of her stint she\u0027ll have to make up her mind: return to her demanding job in the big city, or stay in the town she grew up in?",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/wj-3Hh32xUbPH07rb6yY1fPdAQjuYezgQfB47M3xZywxz7bXz8gNY77wGNBbwwMSgKwHC7SplqTwetW7itlfAUI0Qe7byTQJJUFqD5t1DjsojVypj87c5NTRhVs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/aXAnc6lf2FLKxe1fypmS6Y3t_Nfsf04Z28VoHfKt6_ZJP5yLdzIRZVQRqKMuS3TWcYJgEhmvWHunvqWPCr8hb3HlOZFT01iilzBVVMVhCj9vB8uZuWdQ0PLzBqw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/tNP3Lm3ecRqJNt7RvORof98bgIDRC9LDM6rvOmuZOYZ4utbq8-qCWhX0nughuty8X1nLd0Ds2uWUKfY0wlHuKnXtbt9ekIGNTGF3dsnYBY9tCNRuCB7pwff0fyE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Ch6vbOW4IrWNqX008oVkME2hx6tW1GrpXk5TDvDWVs0r9Ou1YoVHhyXL-RYzpW1oLReLEaf2L3TzFm0S6Lfo3W9CL8XMwMt_ehF8i8iDemqJ5mEemlWAHuE3AIJg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/G0EDCMVkPU7AFi_AOPH1DRwRVd83PacpRfHnUyRnzgyAxoTlLEdmj2AdiOBv1ZqrGnoj4tEoe1uFTwtouNrJkfOlcDHYIGivUTMGKl3rhrfpyUwUYniZ5S8JHes\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-06-01",
+  "publisher": "Whitethorn Digital",
+  "developer": "Whitethorn Digital",
+  "languages": [
+    "English"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable captions text size",
+    "Adjustable dialog text size",
+    "Copilot mode",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Sound captions",
+    "Subtitle speed controls"
+  ],
+  "notes": "Whitethorn Digital \u0026 Gamious 2021",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Strong Language",
+    "Use of Drugs"
+  ]
+}

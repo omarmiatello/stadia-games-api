@@ -1,0 +1,78 @@
+{
+  "title": "Young Souls",
+  "url": "https://stadia.google.com/game/young-souls",
+  "img": "https://lh3.googleusercontent.com/D3rgr6WvSsZS2nmsTaGX7USgsdpSZaPXPDcSaV_0tC0reFVD6SH0HGvOLQgZ2BCyOwjAuzo5eJp_SOa5NbsAfkKvWnjddtQuw3Jo44ezUuO9g05euqaqbH-WYD8\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$24.99 Buy"
+  ],
+  "description": "Young Souls combines the beat‘em up and RPG genres in a world created with stunning art direction. Explore the world of humans and that of the goblins, both teeming with enemies but also full of unexpected and friendly encounters waiting to be discovered. Grab your weapons and set forth in search of your adoptive father through epic dungeons in the goblin realm. Arm yourself with the toughest armour and an arsenal capable of taking on the hordes of enemies and bosses that await on the other side of the portal. Your equipment is your most valuable ally in combat. Adapt your gameplay style to each dungeon by changing the items you take with you on to the battlefield.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Xhnd7nQ5ve7n_RD3dqoIUyNbfNb9c0zPIJr26PzR8T1Yc_arKWGtIv5Y2R94raN62ieiqQS0frh3O2fwkxMUrXFYtHXSEsTvbvSxMbNI61gToHSmLsgpGC2Q5-CK\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/XOHBGY61-MYEeHS-_nfBc2EvYy14QgLo4mVkpIumMLu2d4t9uEjtdRmhMEpAKmav6IoeOyudrlayTEYJklkrhS-jVgXZ5vNEjdKqPkYGANW7Zl1WynxUYgm0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/R44vJKinAFSpXkjc1JRM0p-sSK4VaE03LBEzrvy1EoBE-s8AIQ58gHZsSICDeaxMuQIzgGHwT3mo98AM3ZuYGt8SPewwAD5_BP4byusO_39uU3XbytOSmbgIjg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/58fynIdhG3dVUXoy2lazV-4yi-QqYkGo2KcCkoNAJCV1BFqgye1C-pPCXaHMwclos6OENNows7aTk_ATN2EK98i1epamkBaOqTQ-Mdibt5yNNgjW-8lRK_ttGUw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-08-17",
+  "publisher": "Societe Dotemu SAS",
+  "developer": "Societe Dotemu SAS",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Indie",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Copilot mode",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls"
+  ],
+  "notes": "©The Arcade Crew - 1P2P - 2020, all rights reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Fantasy Violence",
+    "Drug Reference",
+    "Strong Language"
+  ]
+}

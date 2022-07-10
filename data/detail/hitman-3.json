@@ -1,0 +1,82 @@
+{
+  "title": "HITMAN 3 - Standard Edition",
+  "url": "https://stadia.google.com/game/hitman-3",
+  "img": "https://lh3.googleusercontent.com/U5IVuY4Y4W2IQlLFWfWoMhNrqm-2lo8Nt3grmP5l4tFXLdZyvP1BRgTUgsAhWY5ZKwtA9PpSKqLmaGZuuomCeLpJ19N0n6ajQ4lKaYVaQzEmzyZFL54X5727AhU\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$59.99 Buy"
+  ],
+  "description": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Hd0GMuoFlAg7VXI7-7vXCfPaRlyKRIFN1pZ7Dz2ULJiFirH-y9WJdPmeFZHRC24e7u73B7jk_M-De72-qaxXxHXKng2zqz-YSX2UQI3FmHYS8FRL99K2pDColQnk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/cLjS6Xf0RE1yeIrpsF9yEDnUT8yh978lDAd6HwpmCiDuOnGeAX4DXQSF_4LFhuaAQdWuEn8x_XupyywIXh-WRkX1TyJhrk3EqQskxYCklah3Fr3L5qLNw5CBnQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5Fs2NJY_VPvKr700aUuYeuSkrjcpTUKGNYm3s6dKZoD7NSVeiuVDKjuinDCRkUOE_mltQhZuaJcKd4_RjIgtEh3QKOWC00YV891CkS-EOnwfkwBH74Lea1wq6QdE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/cNGXNZKAWmZy_70fsXW2o9miMW5wsb45Nh20CnOnoolf88BYWk5IyOXgIrlxsC8Was72Fvqqap1UHuXQlDqdSP3QUhWollgA2Nd_-eU3UHGgRj2p89E1ZjlD5IRZ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/XYaG6MWxcMJLeeJ5kxgCPhr3bxISIkTAsJxtHWIQTN8lDRKNgiFPTneLjbdhoMOYCgE-gcazZ2NFwzOXM66iOwKR8q05m6xNOoAAg92hW-v_OtV_vYFRHi7Nuw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-01-20",
+  "publisher": "IO Interactive",
+  "developer": "IO Interactive",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "HITMAN WORLD OF ASSASINATION © 2020 IO Interactive A/S. IO Interactive, IOI logos, HITMAN, HITMAN logos, and WORLD OF ASSASSINATION are trademarks or registered trademarks owned by or exclusively licensed to IO Interactive A/S. All other trademarks are the property of their respective owners. All rights reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Drug Reference",
+    "Intense Violence In-Game Purchases",
+    "Strong Language"
+  ]
+}

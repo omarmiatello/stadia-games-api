@@ -1,0 +1,82 @@
+{
+  "title": "DOOM Eternal (BATTLEMODE)",
+  "url": "https://stadia.google.com/game/doom-eternal",
+  "img": "https://lh3.googleusercontent.com/FHDhyh0NE3CvtOfxXqudhUkUrUAGnNsldoRa6f23RvKlpkkJgrHaOijoCEA1azjiL5S6K4qbRWOE53zB6jtApiZpDlNd7Y0K8piX2ZIjiPcTFhOBBHS2wZEs_Bw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "This is a standalone product for those who do not yet own the DOOM Eternal Standard or Deluxe Edition or DOOM Eternal: The Ancient Gods - Part One (Standalone). Includes DOOM Eternal (BATTLEMODE). The Ancient Gods – Part Two is the epic conclusion to the DOOM Slayer’s Saga and the second campaign expansion to the critically acclaimed DOOM Eternal. You denied the gods and awoke an ancient evil. Now rally the scattered Sentinel armies, lay siege to the last bastion of Hell, break through the fortress walls, and face the Dark Lord himself. The soul of the universe hangs in the balance. Your war against Hell ends here.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/AafB5qEnKtzcxfk9l7UB7BItiOJsDNpJsB9Ci8CBSSoXdpRJXIbKVUz_qrCx7b4DA4zk-zxr90HUI38Nz1GmR16axsyTeLErjM4LJjQkEBdqn7bF5upyt6doyEUH\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/LEOVgkPHtwNBRzHFvAp1fF106jOi681CyPJq_gaYcag66UNBPnr8t-WhoQJMOSHL6xy9zqDlv5uCDedNDXrykhr-3SobAk9FgBX5F5ICJZW0uZu8omf52QXcXQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RYpt9ApJwAuVLYtNmgivQ4sb-u-XNWtr40AOfr6Fntq2HODe598n-h62lCRS9ldEVMcd-JwWQBPbWSRAmAHygBrkDPVmuMi7NfFFGV6PZBfEIO4Tl_cZg0UiAxc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qXpl2x7l86jWCOIrYQwnod6s4yX_rP44HxtFI4OmkRhzuUISKdb99A9Myzm2_wCFHvxU1ALn8WkCpNdTDgWeBMoQOEiL8Kv4K_bqzmUhSqYUOSVlzAFPWypwkGw0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fUM8KFZyngfHraTGlvb-YDp3_kRxwfKtDIRi2QKwdE5hPz-IjJNOsWptRO5UV24jZcsffcB4ZkwVxSVVDhWG3OwA8PJRjCuTNuwUH1NkWoOMy-4jVPqVYgSu2bU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/BE_l-Wi8XPwgGXSne3KtTvcfMuZZOBF1fiy2QeqR3EL9e-4jQWXBlzAt0V035w4_4W4lFmE7Q2DImCqTXkAfO3tfypkPdIu9c7O_ViH6BUW5aVK-j03JzCiq_mo\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-03-18",
+  "publisher": "Bethesda Softworks",
+  "developer": "id Software",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Colorblind modes",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires third party account"
+  ],
+  "notes": "© 2021 id Software LLC, a ZeniMax Media company. All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Intense Violence Users Interact"
+  ]
+}

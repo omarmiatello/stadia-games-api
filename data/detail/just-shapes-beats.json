@@ -1,0 +1,83 @@
+{
+  "title": "Just Shapes \u0026 Beats",
+  "url": "https://stadia.google.com/game/just-shapes-beats",
+  "img": "https://lh3.googleusercontent.com/xG4MQ-qYb9sx8_CzvUUwSFm1laYg4Dg0pFbmbR5dlvO7phX0a1VGVjNqX53GEQiDCdPkFzXozMFcQ-mx7Fxd8H3h0q7gUQlX_k_lEVOGb5ltCyRsFJW5KXSXPVw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Just Shapes \u0026 Beats is a chaotic co-op musical bullet-hell based on three simple things: avoid Shapes, move to the rad Beats, and die, repeatedly. It’s a new spin on SHMUPs, adding a layer of coop that\u0027s at the core of the game: \u0027cause everything is better with friends.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/gEPV_FG17V9RbeCmoYgS22phlCeLgRJyxyVLGiBTIs_p-4RXVHSDVhLBXpyDGoWkTxzary1U0URlFlB4Ev30QGSMfJ5YAWSmU3s_szvsnfNqL1Q5-coHiNkAdkg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/vdB5Fmk88p1GTUwzg2Z_SbshpfNQ5Mb7ZYTl9l8NKtSy3l7XDNBmS3F3_bb60sIlHTJzhxcCW0RS6HftP6AvmatpDCeGKem0VEV01_D2tD-SO096NKat9z_GZwtj\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/uNuXLsnzi31ZBKv9yqiSpRSYIgOhfnfHj4Eg1QiSWQmr9fPk_59GmQisG8ApOoPeLF6919IMr5OXWJ_m4OpXtBzwHwPyb3YhKHGxAmTusIlDWEGwaXgErYGOoQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dMmtwpcYIH9Cs5a4OrqQMUEE9biCXYTLanRMvDFg2l0EqXQPOi0n0fpIepSlVev2qJRVdIA5kVeRsFzCb1OSE9yXRZy2PvDphfI3SmhS_hEZsuvYDpcok_1VDg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/esphGiWkq527f1x6JhWnkgqUlyIN4JT6BquqI71QlFG0a9HaTzvdXEqo2aV4ga0iL6b9yfrRWGgMXwh6kKeOy866WJiNI6inyZ1eXhxGzYzs32WXkrIN2WRhuA\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-06-30",
+  "publisher": "Berzerk",
+  "developer": "Berzerk",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Music or rhythm",
+    "Party"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Local multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Difficulty levels",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "© 2018-2020 Berzerk Studio. All Rights Reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence",
+    "Animated Blood"
+  ]
+}

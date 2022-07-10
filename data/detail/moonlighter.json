@@ -1,0 +1,72 @@
+{
+  "title": "Moonlighter",
+  "url": "https://stadia.google.com/game/moonlighter",
+  "img": "https://lh3.googleusercontent.com/gPHHVbHCw2NWogrfYlJlRCe0IMhVvvrNKFNBDWE6cXpkhJuN2SMHth8yO90unJL10OIbKx-Th8a4ZAmKrHuXbKyTOluhrBWzb_EwK47yw-KSiP-hBf26-4WLg2eW\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Moonlighter is an Action RPG with rogue-lite elements following the everyday routines of Will, an adventurous shopkeeper that dreams of becoming a hero. During a long-passed archaeological excavation, a set of Gates were discovered. People quickly realized that these ancient passages lead to different realms and dimensions – providing brave and reckless adventurers with treasures beyond measure. Rynoka, a small commercial village, was founded near the excavation site providing refuge and a place for adventurers to sell their hard-earned riches.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/b4-RgxUzL19zLAdmmDzGf9js8NY78hfEXIROVhWKShLvgSq-4rHU48498tMmRxbhsDyZtl9LvJwpDZiLFRFSbDPGR7VYKwzAGqpPVe_jineiJzh7nS0SjoBS5-E\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/bxYRgQKSlcsnQUTqXsXtKUA-MghB_V3tAO1oFeqSOKs89zQOP6u0QF3k7i40MGaCmAW4Ixj_Xwt_HCA-pC7XFjy_uVdWOF4mGuOWE7SUPytxwKhy0zmoz3FJ9A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/OqIcnHm5JbUOhBXz-cb2LnTusox4q2Hkg6vL5ePDYxUE58JeGdJ37pGtZPNypuTc8j3_m-E5aksxnB9i41juuSYnfhPKimUIVIQ5J5WPuj5KY2l5E3Tulz3gWMAd\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wZ7VBZ2idxe61mv63D20hMlj-ay5zlbstuLezb8rzvEW0_DPmpBwaxgPYrSX44A-GXmUHC-jkL9Ixtn0VXfcXFShHSlp5XcPcVTpaY6Ck8QzOgPLnXM56l8sEA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/mbt8Uojn_3n1WUMvFAfWUhrwGJu41fss9c-SH2-wIEIOOtzVm4i1evzT48y4QEKgN051FY5SzrGcXCqCQWFRvEalv0N_jODVBXx4cfnANN_qu5sFC-ZHc8s6Dg\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-07-01",
+  "publisher": "11-Bit Studios",
+  "developer": "11-Bit Studios, Crunching Koalas",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Subtitle speed controls"
+  ],
+  "notes": "All Rights Reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence In-Game Purchases"
+  ]
+}

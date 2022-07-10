@@ -1,0 +1,78 @@
+{
+  "title": "DOOM",
+  "url": "https://stadia.google.com/game/doom",
+  "img": "https://lh3.googleusercontent.com/fuP5DhQqdd_z9UuT6x7Ph_9MdQdedTzJFtREV8P9rI6lrsafMw8ldPHCnFwUPA5-pHF1OjL6Mg61nAJtMs9StXv_hBcTMi-wbtQ2ezQ2jdiuMrsNkVdjaMNJWyg\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Developed by id Software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, DOOM returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. Combine your arsenal of futuristic and iconic guns, upgrades, movement and an advanced melee system to knock-down, slash, stomp, crush, and blow apart demons in creative and violent ways.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/0ZLAGKQUtJfDYyzP1ijKCe5O-nMU5gcCtY8saYZwj-84piKoysBTIHJwk-AwpNhVgDgYTwFb_NLZrksyYBXDgR2R0HDDZsnccNXpex_L1kPoJgcBXHu8LMzGU7Y\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/XQtedUiMKHI-km1gOYp2TctevUvwaWuKoB8tCrmj2P9n527YMMGAV1clmdAsgHfqvutMWqHRCPWhEDc1sQqvHka20B1oofQFV5VVR85SMY5eiTa4x1YQnB9R-JI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/8X3xMD_iwJKcAcZa0qJ5VQYBAJ2qhoCylhVLZZkBIuKuiOnis_UaJPevS62eUKlQDsos6m3ACNVBvwCYi8mvB-kz-m59t9__lOJGiEg5U0RC_SRY7_-fuGrUZQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Ef_DRB_B-9LYOb9TjfQWycxdGN5pcigu0Krll2_WogY7PtQvZBzVqFiZ3AZMVhDOLgGqEVwqxD7KtzBefkBEfNa-WNEoxDbTYOABcigxhM2p2HejBLmk36yLgw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-08-18",
+  "publisher": "Bethesda Softworks",
+  "developer": "id Software",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Colorblind modes",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls"
+  ],
+  "notes": "© 2020 id Software LLC, a ZeniMax Media company. All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Intense Violence",
+    "Strong Language Users Interact"
+  ]
+}

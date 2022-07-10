@@ -1,0 +1,86 @@
+{
+  "title": "Hellpoint",
+  "url": "https://stadia.google.com/game/hellpoint",
+  "img": "https://lh3.googleusercontent.com/ozTX6ejR8HOs-NrvnUMS6Zrigoj2iyHDeMF37evHxmQj1_zylwFz6K7yWdMblgEaJ-bxh570cjW5Wlv2Zj1XyqTxnLe7i7yoWjIJkaBV_4S51eppt4XylKTokI4\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$34.99 Buy"
+  ],
+  "description": "Hellpoint is an Action RPG soaked in the intoxicating dark sci-fi horror atmosphere. Explore Irid Novo, a derelict space station, unravel its secrets and twisted history. Battle gut-wrenching creatures and almighty Cosmic Gods. Should the challenge be too great, play with a friend in local or online coop.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/n9lrbAif0re0vHSjuG7q0AYjGSnF3mftRC3vGxLNlSZST8vVUiNL-c2shAQcdAUq6860adSO1-F6OY07xQEsjWFszW_07v3RjUCFN559u0o1Z6wXOuETXqHeyQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/uUohJY_RtDpl9t4DOUL5sp6IMQ5ZpuexG5J0M4msrKiz0BKiHUBEdww_ftu5WcbkJ6f2-qzPWJm-rZA4KSaQpA00AgB8VgRW01-fhubY73nzbvAWjLAjiKUX7mc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QrEeEeRa3RXGn0K9puJpTr8ydnPu1isy6DcRPcTIGfRdXCecuocrIbnECb6EGsuG-W3PITLeGF6zzOhaKZ3lnTGpr7Xoy4PvNigda7EDH-5Off4ecbk46y_1Cw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/PYbBGHnpFot26-Dd_NVyQ3YqOOARFHhwvUsXC3vdjUhVfeyjo4MJa5jNKmvygdnL4mQOD6JsUuP7NWeKgYTqXYgxdKpItWnJME8so9lG6e53AtB12oqtuHf8kAw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AGRbhcdLDsyexfw9UEaSISheSK7m_zTG81wMPGfPd2miy875zIMVt8I_MgJNGRWtNM-mFG4pGrze70IIMa29L-xKBD78gbkdDy1HNvu1tsGvzr-NXzEPPMZ2kAg\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-02-25",
+  "publisher": "TinyBuild",
+  "developer": "Cradle Games",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local co-op",
+    "Local multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Copilot mode",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Subtitle speed controls"
+  ],
+  "notes": "Published by tinyBuildⒸ 2020. All rights reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Violence",
+    "Blood Users Interact"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Roguebook",
+  "url": "https://stadia.google.com/game/roguebook",
+  "img": "https://lh3.googleusercontent.com/haC21ruMQbZ7ZbppBIU-mOfVa6OPY-1s6Q17JJBrHCJEpsx8RxHUggyu3kWQ8PD7EAa_n3jPn4ECDbROvDJlsRbbKVJBRbcrjWjrwGLSDrUKrbldhjtAKMy4QQfM\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 90 min",
+  "buttons": [
+    "Play for 90 min",
+    "$24.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Embrace the challenge of a roguelike deckbuilder with unique mechanics from the developers of Faeria and Richard Garfield, creator of Magic: The Gathering™. Build a team of two heroes, unleash powerful combos and defeat the legends of the Roguebook!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/tuZSeMtivPpjJF9UowwaoqvhKziVIVhMoFZFtk84RgZ6rPc3Izyc8PlwRqi3axSnZi7VBYc_Y3wdTDDI94GQmb0bamVuCOhsKxeiiJ7FBxtJaUDiC2YV9998XDTl\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/hZd9rIowV6JGCnkG5IawIWNqklKNmV_Fk2Q7AXgDt2fMYxVoijNP8TtAc03m31ZhROyvtUIeazd6P24YtiSDNuhQHRlDNkUILVKlQml7dm_QfLaR2uVEnOyArovb\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/GWXZnyM5tZ7nMBo6_BgWu9gAp5CQ1e8hwpBk_EPZxN_oDqqqg-CwPJNfi4I2aX-LdhDcMsVy9ydKpT18MKi2jECTUvz4GvviBmJdH3EqJ88Wlilf1XL4G3qsd4I\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Og1fbroXi5TBLx1ngIzNpziVuYSvIUX67fU5zz-LRGGvdUAR5RtZz86Je04iKrvosU4OBAE4Pm8zZR1URijl8Vt0Deqgwn4sMAco650mIG2RyvZJLOevDg79TQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/o2VUAdVScRHUOYa3DQI63wUq-CBvm1TkbJp16qbB-Xt2PpaLFBkE0s7OmR3G_0XWHWQmd5z4sjofu5G-6jEmaBEHWUfcVXbgkf88IDy1VOAnvRmSaToKsMO9EDw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/aMfEqn9Nza7yytw65nL7UwL1-C--rUPNt7SbcqINPuF5U49hxUI3IPrpdvcEmO4n8Yz_zO0xbM-76_FRLaoZJVjvM0himsFu6ygXJbTO-rRB7VCi307gbhkwpiU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/E7_a0ZlgYLrbGunTofSvFEP0zEmWXcnu5y-ufKUfeaAH05xJE1PxGVl705LgkbI5qxWVm606n79fBvtupSJzjVAbZXNXXR4wlp_UWnXh4gLzfYgGO43_XLQQHGdX\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-07-01",
+  "publisher": "NACON",
+  "developer": "Abrakam",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "©2021 Nacon and Abrakam Entertainment SA. ©2021 Published by Nacon and developed by Abrakam Entertainment SA.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence",
+    "Mild Language"
+  ]
+}

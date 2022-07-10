@@ -1,0 +1,71 @@
+{
+  "title": "PIKUNIKU",
+  "url": "https://stadia.google.com/game/pikuniku",
+  "img": "https://lh3.googleusercontent.com/98zR2BFFVkN9D_rfumnfgeBo6pssq5r2ImTQz4GB1C8vTbuE4bsHf_cXG0Vx9a7CsJZUbeAgETlPpZ3_ZYXsJ3K4WMOYCqku8UebbPZmosxezERp4-8NCAzA1Uk\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$12.99 Buy"
+  ],
+  "description": "Pikuniku is an absurdly wonderful puzzle-exploration game that takes place in a strange but playful world where not everything is as happy as it seems. Help peculiar characters overcome struggles, uncover a deep state conspiracy, and start a fun little revolution in this delightful dystopian adventure!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/j8_PanVjmKGf74FszQkLtf-Dv3mLZQAQWYivVXCFXFVuEhA1u71yLWLut3pILgAArW_5dOlYvcVN8fIjTQDdfnrEjws_GlJPF_dchawUo76DVWokPcsqR-7s7Q\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/D1eIcHI2RXUDhEQVjFkBANaotZc4mQJZSipkB_TlXocFHSjBI-suWhCJTPTcXZjk6zAcd8queSdxXIzTC2sFSjKG_9qiyUd1hQZ4NLEbteJwap4QEvDNd8TEGg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/WKZHrX1HgKBbOoSODFEuaACHPoxUzXhtFg-_OwtMdO49hJj7c5TlJbKU-xDrjrRHX3tWJ2DmE-3e8O87rild-XC8ckM0EG6zmVy7hdMXDSPx0u6Fj5cXv-M4h_c\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/J087GMYLGG0lh645dREKa0Y9MgivZPfC2r0soygOLGDfjTp7V4MphBIgNwirnaTAKHAqeRq56zlQXmxzbhqfcD6Ajl8-iQaqlrs6cfHn-_G7CIF9mDXB4BfR5dw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AhwDqOlNXY3Vw0bWMMpdpiDPj_4l_kBrG9zB-DUm2-Cl0KFAHFvZ3yJWT_5AZFsH1OEgRB_F8nvRUtqpgNZIcIv_BKkgE_Z6JnSn0schYdrFTggXfS-nI_7nPrY\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-02-09",
+  "publisher": "Devolver Digital",
+  "developer": "Sectordub",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Kids \u0026 family",
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Separate volume controls"
+  ],
+  "notes": "Copyright 2020 Sectordub. All Rights Reserved"
+}

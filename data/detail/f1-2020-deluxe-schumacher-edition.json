@@ -1,0 +1,81 @@
+{
+  "title": "F1® 2020 Deluxe Schumacher Edition",
+  "url": "https://stadia.google.com/game/f1-2020-deluxe-schumacher-edition",
+  "img": "https://lh3.googleusercontent.com/12uWM8oUgZ6mqMcnMhDkrF-EwDjM2R6j_ibgrWWrpoJYQkORXNZBgHRqqQnRD-hrUhtyC_KxSOup7GCzjV7_OGaTw7DwbhCiHPDKcBlFSCPrjlEyfm-W3hw88g\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$69.99 Buy"
+  ],
+  "description": "Celebrate the record-breaking F1® career of the legendary Michael Schumacher. Take to the circuit in four of his most iconic cars and receive exclusive content including Michael Schumacher-themed multiplayer car liveries, helmets, race suits, and a podium celebration emote. You can also embark on your career using a Michael Schumacher driver model. The entire F1® 2020 game and the “Seventy Edition” AOC Content. x4 iconic Michael Schumacher cars: 1991 Jordan 191, 1994 Benetton B194, 1995 Benetton B195, 2000 Ferrari F1-2000. Exclusive Michael Schumacher in-game model, race suits, helmet designs and podium celebration emote. Unique Schumacher-inspired multiplayer car liveries.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/LWzsOTq498SRFilbDhS127vLUlk69rOtKKfcL_6MFmPEz8pFHEk4DAW7SA1L89p0gijnMPW-ISUl8hYCM4y7ODdzRdsSOXAPwvmpfGPTzQwVoUnqS6lgF8ipZUQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/64PGQEip6lZhCV56fiAiVnjU6m4cVbYuMh3Xtr8NozFO9lwnpaqWZ-TEmqnFPcoyv63Uzr831UKtYVHHZnBszXzc1wgTKicDvfIhlYA4FQ08jyqRgeXNrMNL_a8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/c59BJw3A3SugiGp6vovDctPNHcfngFBGCWwh8jJkqiWKzMQ4A3kLtQnH8mNBlUbdDujo93TrVmqonaL51-dgC1FGrIesvabea7ip9OjU-e-zYoxiFyjZPyqpG2PS\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/calGNw22UO2Vb6bOtQmZcZoQ7S2FQwSkYF5d5ffGAblqE4XXlvoi-brvS_uNBrQg4-SsavZPV3jSNrGcp80KxORGKXXjJ-64xnXJjIg2fp1RZpxvipEX8xXPxYc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/JpYpQzT6AkwJRVGjqOjH12aY4earRzzQ1Nn_kYjjNco_YJZoJbTTc33qtCmyJaGIdY40BkT6ulB72miATGbPenLG1LKwtHXjBnT3Wgy04QukAqNpW4LboeJt0g4\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-07-05",
+  "publisher": "Electronic Arts Inc",
+  "developer": "Codemasters",
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Racing",
+    "Simulation",
+    "Sports"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad"
+  ],
+  "accessibility_features": [
+    "Adjustable game interface",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls",
+    "Skip challenges",
+    "Sound captions",
+    "Training mode"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ]
+}

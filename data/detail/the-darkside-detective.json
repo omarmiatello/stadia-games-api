@@ -1,0 +1,69 @@
+{
+  "title": "The Darkside Detective",
+  "url": "https://stadia.google.com/game/the-darkside-detective",
+  "img": "https://lh3.googleusercontent.com/ure_oK6Ozhq_khhSsbM6OCNbZS9VX8pKV5zEV_12-Dn0sDh77rC_9eU5sqzBXjDEwOjTODJ_nQgJ5yI4Y2DKXCyoRSYSr8iPxzJuvOTOt2a6-NNZY9Fof98DbdY\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
+  "buttons": [
+    "Play for 60 min",
+    "$12.99 Buy"
+  ],
+  "description": "Grab your trench coat, tune your sixth sense and join the Darkside Division as they investigate the outright bizarre, the downright dangerous and the mildly confusing cases of Twin Lakes. Flesh-hungry tentacles, mafian zombies, and the occasional missing sock are no match for The Darkside Detective.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/DMqoIxfPkHZVk2R6qGMMNHusgAQDUyF32hc98dg4xVG0OP3BQjdO7ekApiB8xNYRCMWuJhGP7VhClTIzanGtchXlm7-mE8NJ24p7oAl67Gfaoaq_iDbG2p0bk0kl\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/o9Wn5Wsk_-AA1A5a7f8_5YFw7J3mRC_pFrkzSZ75DEn7kSBz0N1Qea-11osdPp4ZmVw9bJeYLdfeXRV-XtXGq94TW2m3_uYQ16f-r8r8MOL5h4_3cEqLMzMVGQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/M85tgweq71v83pv-Mspw0qydEnFRAvQ38VhYVjRtc8p3OzKq4wznzTby0zUc-eQkuUBgG54rSbb-wdE2fc1HE9zrEvK6my14lQh4whllZjRHWy4sbRgCaYhGWg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/hwj1L5wECD3vD9zRlEaTAoNUGaP8k_-camGrkNDq8rhdZJrNeyuRRlB2W5j9XMnqZyF159TK3N4Y99oosgJLXHatdZD61gmj_rvDQ672dUclLQSrx2sMfIlvQuw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/iPX0IZLriLgiQ06hZ11IQLvMqNxVAIqjEeI2MiaRRkFMwP_NIa1SI-mkU2SB86pYc0uVk3E3wIgQ-3mqM6Dq86Ld5pSCWKygfJrVi4kQsE1Wl66K8u0I0fvJgtI\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-04-08",
+  "publisher": "Akupara Games",
+  "developer": "Spooky Doorway",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Sound captions"
+  ],
+  "notes": "© 2017 Spooky Doorway"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "The Falconeer: Warrior Edition",
+  "url": "https://stadia.google.com/game/the-falconeer-warrior-edition",
+  "img": "https://lh3.googleusercontent.com/gL5HGok4CXf70ckzU4XxL1ldnEf-gmHK_gyzdgTtdkb3NFlTW219VOldux9lclVxS-oQ5tUUePVh0UcKITD4Q_wcRxlCUAqAXt7KRIE20L8bOQyjQy9Ezj9XVw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy"
+  ],
+  "description": "The Falconeer: Warrior Edition includes the fully updated game, plus \u0027The Hunter\u0027 AOC, adding a new player class with a flyable Ormir dragon and a set of pyro pot guided rockets, and the new \u0027Edge of the World\u0027 AOC, containing 3 additional side quests and new boss encounters. Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/zWG2aBWIdpHj4TRhXx37hiwb3ift-zVacEsdL-HtO3zye93Lw31r07J27uY8zRAHnXqXFeXQ8F2p411DflIFkr2NtG-yOOlj1po7WqvZ5mlxyDfmpUybITuEpx8j\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/mbgaxdkdCthye9-sxifVFVzNp_QX2tAklAULtX1RzNUxVgyp9n6aIj9PUP-ufYm5t18yxcRm5LUbn_Zuu0qO4beNsJGtcG13r8hht-8oxJ7nV2MQVwO0QhP3z6oq\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/8_x9qeaW_8qNrTjn7XKQJ5wsKd0Nr49XHrb_yTpj4lqil9YKWOkCEAXwl-eHRR0VH32awRORPBLnlkwk8v7vT62AFF9Ol3NhW22fa4qbh9RBcZihdRo47voTIFYQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/YplZ62hAV7t67Grj9CN5p3_3XJ-ORdhLGdx_1yeZJYSeSFBHcUwON2y2mpv7vfOg9zN_5b3rTSuEN9Llk-Gtemsup1OWxTBRA2DCD89n7YEAVFs1fq7p26eGgQyA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fbvdhXsvnYdciCmNJGLFPGT3_ZE9IFZVkN_wfU--memWYJntYKm8zim6J6LooukyxcAE6jTc76u6knSmVCDeyzpPF1hosrmnIxi06FnV7FZDJ_OQyYUyvNFyZw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-10-05",
+  "publisher": "Wired Productions",
+  "developer": "Wired Productions",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Indie",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Peripheral controllers"
+  ],
+  "accessibility_features": [
+    "Adjustable captions text size",
+    "Adjustable game interface",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "The Falconeer © 2021 Tomas Sala. Published by Wired Productions Ltd and developed by Tomas Sala. All Rights Reserved."
+}

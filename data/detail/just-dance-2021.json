@@ -1,0 +1,86 @@
+{
+  "title": "Just Dance® 2021",
+  "url": "https://stadia.google.com/game/just-dance-2021",
+  "img": "https://lh3.googleusercontent.com/C6NFoQ2TvNrJRet5aLBubb8t1c7v-9ejLzCQI_XxoLoYNjI8dtatqXpFaSfRufIFHL2yjhTL-SDfve9u8gz6fhH0FP5Vdjnfnq9Jarcv6piB5pJJEroZqimfvgxc\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$49.99 Buy"
+  ],
+  "description": "Just Dance 2021 is the ultimate dance game, with 40 hot new tracks like “Don\u0027t Start Now” by Dua Lipa, “Feel Special” by TWICE, and “Señorita” by Shawn Mendes \u0026 Camila Cabello. Start a dance party your friends and family can enjoy! Just Dance Unlimited subscription streaming service lets you dance to over 550 songs! One month FREE included with the game. Play with friends and share the fun with co-op mode! Create your own personalized custom playlists. Enjoy eight new kid-friendly tracks for a family-fun experience. Use your smartphone to track moves with the Just Dance Controller app. Up to six players can join!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/BonR474tx_RSedc84k_NT_VBeixdk04scUQvce-k28nD0JnV6yoy4aEcPn7nkqr_Q3fAYbwuzjuziEDkPTWdVGCtBv9EbdUsRG5hCm1N_GdC2keQCGX_gIekwtw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Dob7VZRnxxGnZ4coSxL68HRSHEd8nMaDfNh9JdhuEwMhd--ukKNMdg1h3yGcxG0bsjcmLqyB4OFXJYD7x3vnxGjdzrF3Evcq1M7bgpbiOPWvZqRutt4sPuo1uaU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HHNjBmd1j8QAskphoxDy0imib5umxRl4EZAeXkugL-dd8Nx6VoDvWrEOkDZg1LVo97tE2J9JEDOTadT6vVJw8Ngc5nUU-DcRX4i53RUuZC-51WaxEugenLxuVAc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/czVZrCWjy37_c6mWsWujEts9uVTlbGpC2AwmtjXsubsoIK_fR2Pz1iFdRiUxFWWN-4c5mNR2W8ukiimBShSFQIUrWxO74r0YZJ0NeEjS1G55cWxR9rA6WSzzJl8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/02C7mIGeYBlgcxD6aokHnYIJwT3u3XhbgEl1DYnqfU544NDIc_YPRngI3Ko9H3DscfU9VxInAgcYUwnhUU-zkFkh9uA1Hoi89HA9i0SxcTebHrnRFLF30ff7cyNF\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-11-12",
+  "publisher": "Ubisoft",
+  "developer": "Ubisoft",
+  "languages": [
+    "Chinese",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Music or rhythm",
+    "Party"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Cross-platform multiplayer",
+    "Local co-op",
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Keyboard/mouse",
+    "Partial gamepad support",
+    "Peripheral controllers"
+  ],
+  "accessibility_features": [
+    "Dialogue subtitles",
+    "Skip challenges"
+  ],
+  "disclosure_details": [
+    "Requires EULA",
+    "Requires third party account"
+  ],
+  "notes": "© 2020 Ubisoft Entertainment. All Rights Reserved. Just Dance, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries."
+}

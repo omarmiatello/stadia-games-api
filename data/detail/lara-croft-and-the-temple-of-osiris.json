@@ -1,0 +1,80 @@
+{
+  "title": "Lara Croft and the Temple of Osiris",
+  "url": "https://stadia.google.com/game/lara-croft-and-the-temple-of-osiris",
+  "img": "https://lh3.googleusercontent.com/hp9jS5HGtaUM0WV1Xy_khI0RfAsc8BgKOHqJVsWNA83-8lFRRkVtBAFqgpiOsY3SIGM6L_5noWCK0vDaXDtuPOlx_XYwcaBD8V40FUBumv4QqMZNq9uXDgmejvwD\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/SalXanrciRGsFPQp1kBb5O867HXED9rD3SF4-z6rSrrxgo1Y7eJ6XZyyRWwUgyuNKWcF4cQNQyLVCBdeZDqfWeYNGhtihdfBpTlh7IPQhfSrRCV1Yh7uaI4wsvnK\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/eDB7GOeeQrWtcwKvkWH8GeO1IHaVzafPt3TINTnlb-3cX0aens5Aee4cA8kBkF3Za3b0ZC8KwBLxkPZrpGRF3cB5UM59xVcQJa34RdcSdzPRb1u7gxGyJWYbfA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QkSqulOIl_ef4uQbZLQk8lFRzD4NTQaXoQ-3YYmP4hfnghNIHC-DH9rOJ3d5affJvJqy2TtKYbfsYBg8wouzbJTeoY2wTR4_qcgtJyzU768fodtpr13Rwl5lLuXH\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZYcZYIZ2PksegLqik0bLzPlTKG9euvj6v088N6oEMVu_1Aat6aFoWy0pgJriM8Hj4spC3X21Sqesw1EZQ2f6dpo0vZlm8TPLfnjw6DUHZFwZV57CuWdcWDyg_oH8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RbdCGLVJsSMM8SxJW4vKv-1zq8QBIIJCqkd6tw6OkRdOiAjOa7wSODtuM3pA-MtRDURMa1pk0QPWjarZ_fvpU9duB0IbqGF7LxpSymgHaTlwXk69rjzdCfX9zPg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/mmat69QXBudNh-js-rlo9llV2PmOQpmM86-MP2aMfVExrkLoEffp91GZcgK7T33SfvcvZfkaqtfh4am2G5ikTonnXKdyxt7Px4vDdnIgqAScrkTeIJSvLvkjcBmg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wG8vZALAkUFkPxPzXIqw-VZCOEfgDQ1vaxCa-2Xp78taJbm4EY5IQ40nZI7WULtFbssGKLKcaLldqKcOxQ_GObY-rqzm57CQ4E5t4g-Cx17oKLifNr1fYA1K665v\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/6mGMeo9HxW2ABPl10vFx9A515nV6e0auPtupBeu4VBWbOnDxzYVsX-VM0vJtbiRpxYcoVUDgoAzFrUWlL0XpggzIt4NiBvRvaCDm-DjGpbA-mhUkENpRFML2MOc\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-07-15",
+  "publisher": "Square Enix",
+  "developer": "Nixxes",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Sound captions"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "© 2014, 2020 Square Enix Limited. Developed by Eidos Interactive Corporation."
+}

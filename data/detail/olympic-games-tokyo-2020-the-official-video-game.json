@@ -1,0 +1,84 @@
+{
+  "title": "Olympic Games Tokyo 2020 – The Official Video Game™",
+  "url": "https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game",
+  "img": "https://lh3.googleusercontent.com/Nn-jFmhPX1xfi2L3Y28Hw5UiES-8VFom0By89DFiIvln71Vhz3TEmkv2o14m5TUTogP49O805ANDVAQxAXTrg1rl2C8Z7EUP3N7Z-50_UbhaQoPfrZ6RH3MnxQ\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy"
+  ],
+  "description": "The Olympic Games are back, and this time it\u0027s your chance for glory! Whether you play with friends, family, or go for gold on the global leaderboards, this is a party game that anyone can pick up and enjoy. Prepare to unleash the competitor within as you create your athlete, customize their skills and pick the perfect costume. Why settle for standard sportswear when you can take centre stage as a pirate, astronaut or cowboy? Choose between 18 fun-fueled sporting events—from Tennis and Football to the 100m, Basketball and Boxing—there’s always a record to beat and a score to settle. Going for gold has never been this much fun!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/VP3IFeY3eMwW5SenkZoG-XYlEkcP5kzA8Y9Z4v_LgspnQ17Yfb8Q7oJrQByNMK_LzwStq9Fo0v01fNoaUHyS671GU0WcIiw4wupJPjpCfqe3FwMLmlUEfbvwysI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/e6bu96tMubTJpIP4Diy6bJKmCOIrZECfgOh_rzN73cFXYLigTmlFKr3c_PDUJaLHaSyF-ZYxdZ7p-Tvg08sd25WuQjhtvUiZdCmD2rmL5gnkk8mCFgAqFEf4jw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/sK3I6nBbdU9hdvqchuiOqaqVc0PZWnDVTkLgNm9RFj9VXITKyYSVUC2R9HOGL5KfE4WJEAvK3s06KNxxD0m7U2Hk6Edvw2ed7KcfBfAmW61A9pebDsK4wm3x14yh\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RFNCdZVfWjG_CjhRdLBgDVMk9BexP06oxVN2CfTEVb2pTetYwxRfGFIxOARv_BIDD8BZxgrqf08hA0UGWwvjApsaGqPM4yw3SgF_D2TtALIfNHvHF5Lk2r4mluk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/YoHhDR6spt94z8RTVuA1A7W6M9VWU0f5r4UGT9iYeFwi-Cofu0sVGyk9jc8B_A9n_SwNePlu9rqZ2A9HBbchp2PkrD_3NWhMInrszCiXFmyPmdIsiKQBAaIfq5A\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-06-22",
+  "publisher": "Sega",
+  "developer": "Sega",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade",
+    "Party",
+    "Sports"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local co-op",
+    "Local multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Difficulty levels",
+    "Training mode"
+  ],
+  "notes": "TM IOC/TOKYO2020/USOPC 36USC220506. © 2021 International Olympic Committee (\"IOC\"). All rights reserved. SEGA and the SEGA logo are either registered trademarks or trademarks of SEGA CORPORATION or its affiliates.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Mild Violence"
+  ]
+}

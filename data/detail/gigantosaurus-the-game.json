@@ -1,0 +1,72 @@
+{
+  "title": "Gigantosaurus The Game",
+  "url": "https://stadia.google.com/game/gigantosaurus-the-game",
+  "img": "https://lh3.googleusercontent.com/HHI-QZkBCpBmU_R0ZfS3rYcXhMVzqciOsj28fRCeqWP8a_Of7MnynyjPrzOL4A27uOFst6m_ibu7Xp1b4ffj1ha2NLI6ZuFMbm5KTF7LpjZuL1jE5iy8yF3ITLg6\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$29.99 Buy"
+  ],
+  "description": "Explore and race across the prehistoric world of Gigantosaurus. This Disney dino tale is part saving the world, part super race, and all giant fun! Rocky, Tiny, Mazu and Bill have scary problems – like the meteor that’s blocked up Giganto’s volcano! Only you and your dino friends can dare to solve puzzles and save the day – but you might need Giganto’s powers too! And the end of each story is the start of a super rally to the next zone. Will you be the most roarsome adventurer or the fastest racer?",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/cQrQw8gMJePmLUHXLio7W9f4d87tE8hN4iontuyMRPF5JwFW6V15JN48ZZkgNUW3kN5mcgvbMLkWuU0p8ReKchcs6ss5XsENk_ZAjbwFbhpDNtB5Mpd7UwKfnzdO\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/aRJtA16YkOlhmZlH48NP59BKKPCsBCLqpIUi3FSa57iT0WfzHXxqF5xufrl0yQXQynrosbaK9OlmS08XVcZz-AdQs-kKPK8Kgl3jbNyCSsGw0xUyVOYRGoyaRgs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/JfX0bpM-hzd1cKrDR_SiMiTmxvX6ZMmymJbfAo2JJskOYXLMPegWLEy6_m8rNFHvTiCkwm61R7sf1-t2ahc018zUAPlaiezMwYnt_SJQyMF90eeaS4HLwnEEYYI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ukAlDYDDQIBDqcX2LZtcSN2kU-5TkCFxoakMmCRM2TDV8LXuMbSYlR14vMN3ZVEVX2kMJ5wUQpy4DJ16aJG7gXydO9R0GrSglmHV_tJfgNDklHY2SuiwCoiz8dM\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-08-13",
+  "publisher": "Outright Games",
+  "developer": "Climax Studios",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Local multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Subtitle speed controls",
+    "Training mode"
+  ],
+  "notes": "© CYBER GROUP STUDIOS – 2020. Published by Outright Games Limited. Software © 2020 Outright Games Limited. All Rights Reserved."
+}

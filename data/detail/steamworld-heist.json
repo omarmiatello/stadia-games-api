@@ -1,0 +1,76 @@
+{
+  "title": "SteamWorld Heist",
+  "url": "https://stadia.google.com/game/steamworld-heist",
+  "img": "https://lh3.googleusercontent.com/6IbS13oB1SQ3cnR736l8cvquKJCiFOFIK-XHHLjXB6nLSFfps3kqozXB-2Vf7u-xXy-oGm8-8Xqjn9Ykvc2PeMoxcH8_fochPkeLt1r7woD8pqmNcAfMjk2MLyYI\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "In SteamWorld Heist, you command a steam-driven pirate crew in a series of epic tactical shootouts. It’s turn-based strategy with a twist: You manually aim the guns of your robots, allowing for insane skill shots and bullet-bouncing action! As the captain you will board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your recruits with unique abilities, weapons – and even stylish hats!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/_qyai6TH-UlS3mEOZLgGijurasf01XFkfPALIjfMF5t5QNJ3h3HdXKMmzbM3kjnlkXLJYHrZ5URgIOgABkoYRD_zDzteOsb2RjybCRGDFLQ2TonGUE7qgLAvJpM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ThOut0FkucY1WxyFx6YBbZ4H0ic6O-Dft4rnk1hLhMYwWprLHhTSoJ6rD4YWi9p6wsd7JfMzQr-LFS06MEUViZZkEOpQLZcxmEGid0wgGCC0_ZWRWBOUmh4IUA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZP_MLWduphm1HJX_k2bHcgFGxlQJy_A7y1uC4SA2WljWJG6lrF-_8uYpowQdW3Z-hxmjfE3asVx4RnX0VA-MRlTOh6rZIjLir0tx8jzHoWI20vNe9AEWDW9ZVb8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ztNmsnhVlbIsz3jyAYiYanKBM23pYYLbAjukSjy_uGgtIjmJ5n34N3INiAils91PCsrigBXi9pGR_tgsYnfRfU52ENuBAx_cuhbgmCtUUmb0SzA9UJKkfCQsuA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ISmnjuTb4bbwsuDOa9lS3csKMu6LOBeRlGMxb7KVt10JtormR_fqfRLiH_tOMGgcXC866IHeOvdYqu8eWIvW8hPqMs8ho7O1D5su6zxwhS-NaXAwUW0iO9RcCDY\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-03-10",
+  "publisher": "Thunderful Publishing AB",
+  "developer": "Thunderful Publishing AB",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Strategy"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© Image \u0026 Form International AB",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence",
+    "Mild Language",
+    "Use of Tobacco"
+  ]
+}

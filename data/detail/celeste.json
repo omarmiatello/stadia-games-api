@@ -1,0 +1,76 @@
+{
+  "title": "Celeste",
+  "url": "https://stadia.google.com/game/celeste",
+  "img": "https://lh3.googleusercontent.com/jB6OQNYr8b6A8u10iFmAdoqOiW6kJgoH8vnzktwbjMwo0LUAynbLU6XandQaInK9j7l1j_k74b-Oo3mQdIWp7q26npXjsC_ig4hhmCUgsrjqkE2ErHHfhauWiys\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/4M4FW8BUjasm_9BYldQMe7fuJ7VAbbYhRjJKwDVWZdfIyYt_FdfidVa5p_yvWIB6T1NLK-pkv9ahUteu1VsXOpNCh_t4tu1-7ToCtbfAq3j5yYY2daScjIcMOhE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AcD7pvqIF71Er48JGrIEJ31Stbj8sKkwtG-8hL2QryXsK8p-GZBxOdtmZgvGVRVEEam6QSdaiW_PdaqJ1qczDThWmTfLlZOnglmePQ4mgCp6jwVCLmYqf-S-qhI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/3LDYGnpIR0BLVdB0yetphbHy9-_VZD9SxmLQtHrVzMcqXup372rDg1q6w9HpL2ut2oBG0HhB0GZlWUNJDD68MEky26MOMncIV6qsZv26uzI76TNKrRmV9P-4GKE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/y7FvyzPSN1J7J2rvnpfUFlx2orvpz7M6DfarJ0V615FpB24XPGu3yxybG9cwLxsGrlgo-oei6M8iSTJON061rRsmDZfA9tXdPHu0b4QIf8ITpMbV_u2TYiTuQqkM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/TaZfaMP8oU3y0bFgT5sv4T--g5BTkPFsiAzeqXBheqggPU2EKHNtZ8XN9lgnCxdxHoKk5dHm_tP0VxJdqtxX_LwAE8-Oz50AsAnxtxl0GYAdJF3FX78YCdC4tlk\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-07-28",
+  "publisher": "Matt Makes Games",
+  "developer": "Matt Makes Games",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Skip challenges",
+    "Training mode"
+  ],
+  "notes": "Copyright © Matt Makes Games, Inc.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence",
+    "Alcohol Reference",
+    "Mild Language"
+  ]
+}

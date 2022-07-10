@@ -1,0 +1,73 @@
+{
+  "title": "DOOM 64",
+  "url": "https://stadia.google.com/game/doom-64",
+  "img": "https://lh3.googleusercontent.com/cnIdTgXDSnSKM1GFV5YWmjrL2y53YpbOkr6igQwqUodGX5cA7VEbB6qQgc42rOnTS34CEohvp-pMefTkC-am78GUUPlF4XtPT9jls-t8MH4Wn7_MmEPk_gnjIkE\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$4.99 Buy"
+  ],
+  "description": "Celebrate DOOM\u0027s 25th anniversary with the release of DOOM 64, originally released on the Nintendo 64 in 1997, and now available for the first time on Stadia. Fight against demons in your crusade to hunt down the Mother of Demons and stop Hell\u0027s invasion. As you battle through more than 30 action-packed levels, be on the lookout for enhanced weapons and secrets to help you put an end to the demonic threat.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/R4QQ5xR5vQXcow1VTaxCY8gstN5v-NY2DEtAVo01j5hIdR_aspz360pbWRx2sYM4fGFikml-5GM04Timhi7MbeJc5ppgd6RBsRjr1PFE1Yrho-dNUS-IbgxtcMpz\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZXVnLTf2Yoy-6-mhGj8DPo_1Wwghi2kMIhFbHyHQF0mYup6gZOQX9_JVT4PI_s9ZignmeeLuz3Xc4gB0OT7pfa4zB9gzbP7WUwW3FVtifxd-GtL_WM-3sxGHml8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/w__8A4NSOKyYoPXnKvdIEMq0UsfDhuXktzqAW_JEwwUW5cU5F5Ky-TnO8fF9ojMoVundg48ox8chV8uRwQ-e4m9Z70BqlOSb0WcY7ilNN4qeREa7QgoVtbI9DA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/o3_v77YxY4wyamPzh3ndJ17C-ozNnYy_1flaTNjyp4FTWbd0QK9EKKCmso0xd0owcQeIX4iFVy_iZ5y2y1IJ-5GzOV9s3eDljVb-ngar42E19BR9yJjMPERrhQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/lcdwEx0nFO_-Ba8HRhZ5otmaIJRk2afv2fD41FzdCS3myLIxmt3QqBRh-Ly5av8LkELbNOGZ1HTOrKhBCepr4Pyd7498HK0loDflmC-cDPL8I-qfp5tW-S3FFs0\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-05-12",
+  "publisher": "Bethesda Softworks",
+  "developer": "Nightdive Studios",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2020 id Software LLC, a ZeniMax Media company. All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Violence"
+  ]
+}

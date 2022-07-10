@@ -1,0 +1,60 @@
+{
+  "title": "Trails of Cold Steel IV Digital Deluxe Edition",
+  "url": "https://stadia.google.com/game/trails-of-cold-steel-iv-digital-deluxe-edition",
+  "img": "https://lh3.googleusercontent.com/o-lp5Ymr_OBMuD9juwTdEi4OW5BsnePgVgYtk41DxoHY0pdRDJ9QpxzwG_7GC4XoTb1A8Mq3IVFS88EVRdFhm4cC_0751S6kHlnwMIiHAmB6KjRo39e7SyGE2ww\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$79.99 Buy"
+  ],
+  "description": "The Digital Deluxe Edition includes the full game and 3 costume bundles.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/s6-_rfX9iXlRuIso0Z8VXHGy2MMqhSlcOPM9SKIDUWzxYB4VctQNVHeoUC9oPLz4zTWt4G1kZwhLIXPVuU0M5dWTeZSp7sSRp94rE3C6w3ddZP08ZBNrNg0wpJt9\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-04-09",
+  "publisher": "NIS America",
+  "developer": "Reactor SC, Engine Software",
+  "languages": [
+    "English"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Skip repeated button presses"
+  ],
+  "notes": "© Nihon Falcom Corporation. All Rights Reserved. Licensed to and published by NIS America, Inc."
+}

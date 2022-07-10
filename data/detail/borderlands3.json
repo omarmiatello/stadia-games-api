@@ -1,0 +1,89 @@
+{
+  "title": "Borderlands®3",
+  "url": "https://stadia.google.com/game/borderlands3",
+  "img": "https://lh3.googleusercontent.com/PqXrKXXNpcK7H13kCdux7RP_PIZLzmXs_oS12zba4qBKJzbTzaoAEkig8jkB9NeB604QQQQ3tkkSXQaaLtOM0ySl02ewt_85VVJq_3S6hbkNJkYLCSkpytRIYcZM\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$59.99 Buy"
+  ],
+  "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/r7Q25Z3pJwBfBJwcJXGpcCv1rXIoYModH2aksdYzyij3Pa0QvLRY2ZEdY2edjGY-WGMzrKJYmK1yyZ7lIQ-vQAEVbTIUwlP3vAIqwQgA1VYL4ZthZheUwMYwv7av\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qZRk7OhAS1y0uLYIcJy2ZquuA4aDiRK9OVfKIQ7IvQJ_UXCDwR2p-WV1HaECkNoOF1fALrfz8YsjXCrtmvtM6mtsHpX9VdFkTaSvbNLcp_Dn6Unu95YegHUasw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/PZqbuwCXx3BxjbG8hZUqJ8soE7UfYaEhT8EqV-qAt-WFNlT1Rl_v2-XjKs3k-57b-7UIW2uHaAruyjFjbWh-QHnw-RbWnZIDYWP-GhD9nZ3t6_-mjiXovnkxk397\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/7VgoASu9SrgvHzaju7znnV6DAjlk843-QT_ukgyVlgnQy1Dy8oeHNdFjVKlzevUIqqBJQvTPCjVvRv2xdifzL3evxtBc1KcbRFyGMBGsbKubYf3SMEvopaWYLQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/83_37CicSMSn5lWED6iqQcNhUXcgl5heBn8XOmS6S3LqcYhChqn6RSYgzmrhVgRkHQA6klZ2kkGKjPUb4_w0Jifgj4pB_CKZYGoC6wZXJyu9SN-HPYBdFfVOjg\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-12-17",
+  "publisher": "2K",
+  "developer": "Gearbox",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Role-playing game",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Cross-platform multiplayer",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable captions text size",
+    "Adjustable dialog text size",
+    "Adjustable game interface",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls",
+    "Sound captions"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "© 2019 Gearbox. Published and distributed by 2K Games, Inc. Gearbox and Borderlands, and the Gearbox Software and Borderlands logos, are registered trademarks of Gearbox Enterprises, LLC. 2K and the 2K logo are trademarks of Take-Two Interactive Software, Inc. All rights reserved. All other trademarks are property of their respective owners. Unreal® Engine, Copyright 1998 - 2019, Epic Games, Inc. All rights reserved. Uses Simplygon™, Copyright © 2016 Donya™ Labs AB. Facial animations generated with FaceFX. ©2002-2010, OC3 Entertainment, Inc. and its licensors. All rights reserved. Powered by Wwise © 2006-2019 Audiokinetic Inc. All rights reserved. ©2019 Advanced Micro Devices, Inc. All rights reserved. AMD, the AMD Arrow logo, Radeon, Ryzen and combinations thereof are trademarks of Advanced Micro Devices, Inc.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "In-Game Purchases",
+    "Intense Violence",
+    "Sexual Themes",
+    "Strong Language Users Interact"
+  ]
+}

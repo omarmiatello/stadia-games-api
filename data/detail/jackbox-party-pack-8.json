@@ -1,0 +1,88 @@
+{
+  "title": "The Jackbox Party Pack 8",
+  "url": "https://stadia.google.com/game/jackbox-party-pack-8",
+  "img": "https://lh3.googleusercontent.com/lAbmK0I2LmkI8u-3x2EnhkSPoU5WFwADHrcQgg_IKb6A4CqoKG5kPYgdocGYRKUq_9nBscyAqhniGc-7BKWZK2yU3_ztcuZ9BKxQR2XpsVAyoZZ75ol-Sw5jUD8\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$29.99 Buy"
+  ],
+  "description": "The eighth installment of the beloved Jackbox Party Pack franchise is here! Five hilarious new games will energize your next game night, holiday party, happy hour, or video call. No extra controllers needed – players use their phones or tablets to play along! Got a bigger group? Play with up to 10 players and up to 10,000 audience members. The Jackbox Party Pack 8 is currently in English only. This game does not support online matchmaking but can still be enjoyed remotely using livestreaming services or video conferencing tools.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/X4INHo_SZ7SOXqSVxidNFdZaDO7Q9nwv4Tu3wquwl57vol4z9_fvO7MqgVi_nF4H7nuqAtRkK3KUQyd7_ytIoNYmjXUBThFmxvmZOvHATVaqabecRNeCRnxGukU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qadSAfTfFZNSzbSAGGJIt1VRX4MSATGplfgV9leKULgyDUBlm1m4KBcDp-72I_uFZMrLYTT51WzwrBMso-AZVL90Qjw3xRn8-aiiQOEW_2cpxj_VEm14AeJc2lwF\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HTpWxuGDFcnUi4OpOfTMp594XPYqQK3rhT7il-7uuNC6qnW0GkdO1amyWF-UIPX5vOKh-tmq-om9Ho7Yj1ZSxZ3hxTAj7FnZblVzanNx0kq_nMhlFXJlpKU4QQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/zx2F48VjIOMow_lOnNgSEQcq0dZW24XKUevlex60KuGU0kCV3UpIaGBO-01EhNPsp_LQfkF1ixDV405fKCBpwS0gYJP62XuMNGHUaG7cAmI5HBZM2_snz4fV2g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5NGjjKTNmRxq1WpLxuC9mOv4MNaxHrn3Ou16SzJYX7_0Ja6yWnfezfhG3KMPSgfh9Gi-D8CBNUQb8hlBwpRSWOHzDUP5PilM4LwU_U07BKwIUKieSoGevWRsG3c\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ogcQ9TzXHZsKN3H2lNq_P4zf8-_1naRpbzdi8RyUo5Hxr9FBoK-zb6NCdTJGrhpadnav9ADhzE0UI3-EPO4lTQJvCtagfW2-xjzYI5EbtCjxranxhnEf6Fu0OzU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/zmIySjgf5qBXSkYrHh12DxkqjRAqnu5aPnPJMv1m9DX69WwNZecOqMgAbiS9e6eBdakpVHafB1nyVfNgivsL0yf58J9dgqhGqOZVPf099BehkPURl9RTj_mEPQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/BqT7wQi3Qkd4CXTKefi_OXxOHPSrE4I8pVvGYL7STpI9LImlTf0QdGbnt-L2fB4EgwMqGGaEX_YNwyEqmZTcuN05H5_PF0F1ga1faXzzOE5SqCkpn2CXpDAuXjA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QtjTGSocB9LE51-YOtQMCTO63f1S1HB-wm313Hp42jduNJG_gLdiW7LRGLByf1Q8_EdYV2fCisg636sFXV5lMibsrpZ7yoY9GVOttnl3XLYgoErNYqV4foIDuQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/mHbwy4Ni-bjbdRAgkMZKxV8IiDBcnZ3KRu1Tp4UpvMulmwE6aLiSsrlviy9djBd3wBdeMIw_Pc04FOKGFJDEWVhAqAJxh1a78_9ypgXEswN2z8UMTLOCjdFcRCo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/7fkXMFY2y7BpEOrpeZGwVpJkIdyUqpZPTcdoRt_FUHqV-QHbcVFKNF_7UR7bLaMeaHwIb2a55E_1Gggj06YGAvD_wnJtv3jI6MTEc8Y2FB4kBAPli_zRKsSbMeM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5SFVJChAiqA0XKRPQ81M2swLtXwq1pfDJsZXP5NgWwJpeRAlbBmwkkdSHvs5fsH6VMC20sl1J9hxaz5N2ocn9BOMAtjVAOcr3Gg9wfjrSVH8tmysQiPS_lfk7A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/EmJTrXZgIiZ7pWkTTFrQuBJlnQKgFbJIddjbHoNosLs3zfPBePGC1F05F80VDHhiWBjbnvgitzBmuA_eArJLw23id7GpbYO5rPuHWr1DVwJ6CNB6yQQyzLrG6g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/L7VF26ZsD6sVzM9x_T1aDKXmGTBvTsz9FUrLHO-0LLK7FeqqxR-9H1Hujgf9v4X2oCez7VHqEzPJDrFBxJ7MVFL63TDH3CMR2wsS_s_xLpzez0JugxJyrz_Eg-kL\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/4Fq11urUuB8DNdKq3NymdLCj7kIGU8M4X8NMbnaXhR_v87tWkssZkGAycK6HQVskAAQZZtaYN_ofgYiBwT_T6O0qW6Tu8H_6z3PAyy78hYvqgj2ztqUDOLj3aeM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1d-5dpsurOMEgBiG0zqogzdUF0OTHQRl77lZ0JZNWqW5It0xrUAHfs4R-LsggXoryxel_38VlXYLLqAgukD3PrM80UuUYzH4NRKohOBcjmZXDysXNfDn0IKd9R1y\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-11-16",
+  "publisher": "Jackbox Games",
+  "developer": "Jackbox Games",
+  "languages": [
+    "English"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Party"
+  ],
+  "game_modes": [
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Touch support"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Motion sickness options",
+    "Separate volume controls"
+  ],
+  "notes": "Created \u0026 Developed by Jackbox Games, Inc. Game and Software © 2021 Jackbox Games, Inc. All rights reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence",
+    "Alcohol Reference",
+    "Comic Mischief Users Interact",
+    "Language",
+    "Mild Blood",
+    "Suggestive Themes",
+    "Tobacco Reference"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Disco Elysium - The Final Cut",
+  "url": "https://stadia.google.com/game/disco-elysium-the-final-cut",
+  "img": "https://lh3.googleusercontent.com/pYF7upwgEHCo_vyA9VmQTGoDxK1jaI4gGa4sYBDHv4ZuQw8wEbikMSSxe98myX0kMfrc8sj3AE7mUFmJ9c0WPLaOJRWWUG0QtsiIYgkMwVPGzXR_vogP73Tihghb\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy"
+  ],
+  "description": "A groundbreaking role playing game. Become a hero or an absolute disaster.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/efg5ltElcNK-dTw1SvFzYJTMndUzq2yecJ1u2tt8orIKePBdk9ccN57EtYDiBUzhjZsrTAadhNPlEMGYy0D1VEOp9xTaZULsFcJUHVYWxz06vkWivsUOAm0Paci7\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/PGmfQZ-OTLxDR3t45hke9pxgZBE_66AbQK8zX6zm7jLCBAp3SsfMfQnSqqZK3JGn8pe3dIp9MBLYOIU6YRO9vQbNgHv2hDWZuVS8hZooSazbyVEmo4rxY9xRSg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1TS16EUEVfank9784NzcAuVsS3oTFbmVoZaRCTigmBL3jjT1CepoenB_FILjSUBcZQ3e9SQMKlVW7xRcW-A6ykmYTnuNF7AjtNDXg4Tbq1Qbd-R5Je6Ntmzx4wU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qq-GNnpIL_hUss5roaeZPJp71CSULan5wp6UluuS32dyRei3oXYQXntDT3lf6kn6-J0nFowRPmfL5CmCTOMDhGAiCZugQ1K43ENxRL-0JhXkj-49-mLjlN3EALM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/DRg5oMN-z9P4YCfd5P9NunQtm-FMKUFFu7G5Ev61JHR2YRwiEvYCg3TEzcn-Ob7MOFQKTqj5fB58CIvPsl4uHe0rQ35TZyBk0VkRaLjzPCTs-g5aVrUcjaHfUw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fG3yI5eDmp_qrXd47lfpEsUf3c58Tzgnv0C49kyyvcMi25NLSHmy40515fKwZeeITE_mG7lxbBLsCIqDxq_x-EcxqHnHkrb5kdmkojfYoUbPrTnP3aC8jtE7YV8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AvGatQc0LGDiuR3zwDMuwsjtZ6bt6QSN6rmcxlp4NQNTwtGwAb4VVISBUVImPSGGQNk0gfNm0TEuEPF_Y6AO6SoChLNjn6Wr6O90z9JsBwZVRzIu3ODKFYVTZQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AY6JCGwvHvN9mPQSnNuFmi1ed73TlbJwgNwofK1sMzcqh3g4reqJxN6U21OflEqfs55dmrVlVBzC0Q_CctoX6IEFrety5pyuuu2c1daQOOnNG-eMYqTlBeaLfOU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/6XK-W9lTH0BCPZWdb6l_x0hCvwX_TmxTQItNzh6qmEhVswJ6_HEjtskHIrtkQ7H44V9v6FDD-PJfxf8eEz1wkib586dgyFgjuXhObFOuAivwKlkc6lhPLTKNxA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qJ7zi95u3weVLPozh7xFZ0M_u9PD8dD8AJcRfQNu0VZ8y_I_uexMsr03dLZuKDbRIqPacbvftYbjIlA_ERhoN7oGbtiJP8tZWWoMpg_0-dGXML9CHZ0S3h_s97c\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-03-30",
+  "publisher": "ZAUM",
+  "developer": "ZAUM",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Adjustable game interface",
+    "Brightness constrast gamma adjustment",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "Copyright 2019 ZAUM",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Violence",
+    "Blood",
+    "Sexual Themes",
+    "Strong Language",
+    "Use of Drugs"
+  ]
+}

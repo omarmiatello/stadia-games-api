@@ -1,0 +1,80 @@
+{
+  "title": "Assassin\u0027s Creed III Remastered",
+  "url": "https://stadia.google.com/game/assassins-creed-iii-remastered",
+  "img": "https://lh3.googleusercontent.com/Wysb-jkAQ63KqM2p_uNTP4SsvV2bXUub78L_McRIXC-oiLnTXobqCIe-UMVS1ieNoxN_iQ-rWUUmHRNDyhwwbtyLE-3c02YOUIVT2vjmz-39G_8Uao8xOgbOEWBR\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy",
+    "Get with Ubisoft+"
+  ],
+  "description": "Relive the American Revolution or experience it for the first time in Assassin\u0027s Creed III Remastered, with enhanced graphics and improved gameplay mechanics. Also includes Assassin\u0027s Creed Liberation remastered and all solo expansions content. FIGHT FOR FREEDOM 1775. The American Colonies are about to revolt. As Connor, a Native American Assassin, secure liberty for your people and your nation. From bustling city streets to the chaotic battlefields, assassinate your foes in a variety of deadly ways with a vast array of weaponry. ADDITIONAL CONTENT Also includes all the original solo expansions, including The Tyranny of King Washington, and the full game: Assassin\u0027s Creed Liberation Remastered.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Ntwk1k-n2Cmp0xCDBQNhYX4VADw5CZ4QH3bW8LvyulG0yUoxrNvJbQTGkKO3eK-lbv6SIeV8PGF8o30iOiRqx3fNmFgjC4c45xBFMwd3uH4-vyGwYlP-gsrmk7hU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/EYdxQ94aaUkrSG-CRp15Uu-YoiX-gG8GLAj2O93Osyfdn45AL_BhHBdIgf0rIBCaJjoL4cHsH-9DTCR98MfSKrBrJa-RcRRqKnRMko7vQBat71tgIjbIKqCu3w\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/kQt9CBEUUJYLLUwOut5u97-Ui7zLvBBzsIpZGZY208rQdaRN-rexY-oYP6ZMFs4rcq0IC7HHXesvHbe3DZkkl9noG-nEdn8Pxov1NSrjkK7NVz9mBSliO9ZsvA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/GG6qZNYJPTmEuFomqb9NuV8-qysd3oStdus2igGGs8-BBsBt76j9qw74iP2VqCORWu4Bo6FDmFlK6y31VwaaoZgZVPMZmDgf47FkJ1MIbgZmy4PpsKZyobdAjQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/OdKSoi8xCTMxBDVcBEMAhZivzAF5_MMNxFqWJT0IY-eg51isUZ8GcPLPz97TOvMwFeyN5h8ueXQjSWZvuCceyHE9ili2w21tgBJVoEN3u090LafzNQjpJ3CNiIM\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-12-14",
+  "publisher": "Ubisoft",
+  "developer": "Ubisoft",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA",
+    "Requires third party account"
+  ],
+  "notes": "© 2014 Ubisoft Entertainment. All Rights Reserved. Assassin’s Creed, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Intense Violence",
+    "Sexual Themes",
+    "Strong Language"
+  ]
+}

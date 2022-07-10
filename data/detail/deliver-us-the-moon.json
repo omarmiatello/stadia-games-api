@@ -1,0 +1,70 @@
+{
+  "title": "Deliver Us The Moon",
+  "url": "https://stadia.google.com/game/deliver-us-the-moon",
+  "img": "https://lh3.googleusercontent.com/vjdMqwmkm0Pnl8idor5umdZ-SmI9uirGozA_VNg_SI7CqbUK3DtknLA5QTyn71b0iklRkUjd-u3zz1FEUQmEybDOgwD4_uRjSpRnc_pHdxdouLntGnv9o5AE3_0\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$24.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Deliver Us The Moon is a Sci-Fi thriller set in an apocalyptic near future, where Earth\u0027s natural resources are depleted. A lunar colony providing a vital supply of energy has gone silent. A lone astronaut is sent to the moon on a critical mission to save humanity from extinction. Will you save mankind or be forgotten in the dark abyss of Space?",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/VLWJQlZrBvLrvqixy2d6oK1XwcNlMj6zpGveBu3R6S6nzLb-7rlCb4SekvHEp_Byw97PB1fx_fNlqnrIR7sL_yZH12gAz6NbMKcvYRDZjzWR2AZpvI8-ziiw5PA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Q3_pJsRYK9tL0GTe1vnChqPng7YwBC0dHr9p31P8lwpYwKMNYOg_lQX_daxJbA1fqsbsvwiiAPi6B_OuvkgH9zujHrODJXCfo0RLerR-Gw_l_s5pzD8D-baM-77l\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AF54PnZOC_faG56PsKCUUDhyTCVOhkX7svxtj5zkZRYuV01wDlF5EtMqQRs25FNJSI1z7VWKxj6H80bqawW9SKB3zVAoaY4mIrHlRXQOdq3pl3jYhY-XAAJYrkY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/mrKePRAnJqRnU1i3rYgNDaL8EQyn2XbExQzPAqM8z26IJfyaWnT9oA6kj3Hrjmg11SkdkIQHDWjOEWTzy6SscMUGLJ7EjjFGgqHte8wNAjNWhzECSEYRJTojMVE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/OVMdJALMQtyUYF5jYPMk22L6rSDsR-BMZIbfvggdFuo_8eP2-QRM3tkXPy3b4TbnCg7w3wESAUpgNw_Hech-lPihmlk_LuQYnk5Hsxjg83CxsH81xWNcPyF-nQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-06-01",
+  "publisher": "Wired Productions",
+  "developer": "KeokeN Interactive",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "Deliver Us The Moon © 2022 KeokeN Interactive. Published by Wired Productions Ltd and developed by KeokeN Interactive. All Rights Reserved."
+}

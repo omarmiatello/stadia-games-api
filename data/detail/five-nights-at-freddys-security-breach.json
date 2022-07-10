@@ -1,0 +1,69 @@
+{
+  "title": "Five Nights at Freddy\u0027s: Security Breach",
+  "url": "https://stadia.google.com/game/five-nights-at-freddys-security-breach",
+  "img": "https://lh3.googleusercontent.com/lC0Hd_iVoaYqnLiOwrVdQit5hnQrmjB4OT18pyDTb9zMac-ka2b7FCPp9qM8_nd094BLrPDxcdN-64DHKFt0WDngdqkgjZJpETK62j5AFvi4P-pQRlYzl0-_6A\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "THE NEXT CHAPTER IN FEAR - Five Nights at Freddy’s: Security Breach is the latest installment of the family-friendly horror games loved by millions of players from all over the globe. Play as Gregory, a young boy trapped overnight in Freddy Fazbear’s Mega Pizzaplex. With the help of Freddy Fazbear himself, Gregory must survive the near-unstoppable hunt of reimagined Five Nights at Freddy’s characters - as well as new, horrific threats.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/ZWFCfoJoZXU4V1g2COsWnlhXVUmYWbfLshjPSAgOBL-OWPHruccCB-LAJm65a_a546g84SJA0Tm6AZ-QtdpxRf9cHlT-2n1kIctcgbHmgWvmms-flq8ONkrep6BS\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/d3pRIyX0BonoW3hOrjK9is96Q3HPzd2kas-gkY3fIgTtJSdccgBOMBEnpmeI9HJpdrgwA5Hmb2Ji_OIFOj7Z7P2l_BGXbkhxSUt38z5ZyOXBCe7BbS-IrZQHUKw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/_7gVg5kfBxS93IwiKLS1Er1e4FDfkm61SeQxwjLoUT_b2i2zEUsJjY4SvXcqkfv7L4m8mGhBQbsdPJbGa5H3JuSwMkZBwdrh3mQTv9hQLuc01q3CkDmmCa36pqH2\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1yAxK7nO_6TEnCL3zbNwqPOI3PxDCqvbVJT7vwRl7wP5Is565kY96gnzU3ba7MHpq0dBBpyMUgDr6AcLcKq0ASrHidfKRUNsbEBl0RYNjSBrISF-Ziz8X0nVXUA\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-07-01",
+  "publisher": "Steel Wool Studios",
+  "developer": "Steel Wool Studios",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Colorblind modes",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "© 2021 Scott Cawthon. Five Nights at Freddy\u0027s; Five Nights at Freddy\u0027s: Security Breach and related logos are registered trademarks or trademarks of Scott Cawthon in the United States and/or other countries. All Rights Reserved."
+}

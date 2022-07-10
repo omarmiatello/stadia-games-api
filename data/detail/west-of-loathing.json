@@ -1,0 +1,62 @@
+{
+  "title": "West of Loathing",
+  "url": "https://stadia.google.com/game/west-of-loathing",
+  "img": "https://lh3.googleusercontent.com/kHXQpS0x6tGYw35tNhFigejMQcAZO1Ee3kpdlonhWqJSYq99MjdajZ69NaHXxrKsultbCwSnyj5sw7Jpa8Dml5qmryAAIYHGd6JhBpHKOJYKgPVGrEz1pzlYAd4\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$10.99 Buy"
+  ],
+  "description": "Say howdy to West of Loathing -- a single-player slapstick comedy adventure role-playing game set in the wild west of the Kingdom of Loathing universe. Traverse snake-infested gulches, punch skeletons wearing cowboy hats, grapple with demon cows, and investigate a wide variety of disgusting spittoons. Talk your way out of trouble as a silver-tongued Snake Oiler, plumb the refried mysteries of the cosmos as a wise and subtle Beanslinger, or let your fists do the talking as a fierce Cow Puncher. Explore a vast open world and encounter a colorful cast of characters, some of whom are good, many of whom are bad, and a few of whom are ugly.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Pjzl1WVorOjFmcYX9s8vbdhCKUwjt5uV2fFjQBEmy8Md6LT6DepAbv40GNmFCyNuW6xvwYT5d1uUzoEgC3gyIQp1v7hN7SUdncWL5uTB0BrxfZYxyhRBiiCGkK4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QJ6pV4Ra22K9ofstvqTlqnIxkVCAYLh0Q0M1n1TZadeREb1y3IOYGVbBYAp39SFmBGtGGF_4Db1w6ZlSyPeLf8G5Vuv0YocNsvfvW6ineuFof0ETyl-pG7-EbTs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/KmglVaOyvsKIltBbVsLgYjeJmPbdb8TRzNTx2TdxfNZ0GOc5lCPbTePKs-P7kTCL5L-PjUoGohWJd__X1wt9yKMVv_vKiufgbcFy6TJAOzVZ9AnOE6rl-cbNK0k\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fzqaCsMiMOXmTDwF29o8MZ7dRvDPU0XyQaTJWRvQNpYynuimHR-2h4EbNWjjYsjiCYpmBXHMIcbvQdTyhxtZQkQaSIKl17NiwINijAjkUN_iqMqYWx8gZF-0FzM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/2mkO45dEv_fOx_ofRC4XuyhUeNIhG1DyDwlzQEglmO2JL-v_AEhsxOrAdDf3A8npQwzuUTLSshx55vdKY-p8FiBUyFlwhevtLHlJPtoHQ9AjYdVsiuHX0MqXxeg\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-07-01",
+  "publisher": "Asymmetric",
+  "developer": "Asymmetric",
+  "languages": [
+    "English"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Indie",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Keyboard/mouse",
+    "Partial gamepad support"
+  ],
+  "accessibility_features": [
+    "Separate volume controls"
+  ],
+  "notes": "Copyright 2020 Asymmetric Publications, LLC. ‘West of Loathing’ is a trademark of Asymmetric Publications, LLC."
+}

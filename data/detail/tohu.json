@@ -1,0 +1,78 @@
+{
+  "title": "TOHU",
+  "url": "https://stadia.google.com/game/tohu",
+  "img": "https://lh3.googleusercontent.com/4cLOrmmOeCkvR0tiiY-gv4rGadeo6U_6e0pdcFL5YIgI9kUsskLOhNOj5fNExqGuVQJZM5Uep4r55jbJcXSCbDs4_ZEG61gaKpf9mW_CpvIUukpVM1QNKspfRek\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$14.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Experience a brand new adventure game set amongst a world of weird and wonderful fish planets. Explore beautiful environments, solve intricate puzzles and discover the truth about a mysterious little girl and her mechanical alter-ego, Cubus. Adventure as a little girl Explore vivid and atmospheric locations, meet intriguing characters, and solve elaborate puzzles - all on your quest to repair the Sacred Engine. As The Girl you are light and nimble, and so can reach areas of the world that others can\u0027t. Utilise the might of Cubus At any time you can transform into The Girl’s mechanical friend, Cubus. Need something heavy lifting? Cubus has you covered. Solve intricately crafted puzzles You\u0027ll need your wits about you to solve TOHU’s unique and wacky conundrums.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/ALcvYpway56Ezcy3a_uh0auHbK6sSG7a8KRRrYPt2WsGeebpsecoUQEr6U7Bl76t13nGXLDXv2034WqR582EKlrhjR67V5kmFkkBVAWPihf6Cv9wznV-1sp-sqc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Ffr949CJXYdxUq3HDquXVWDqF0YVEo6LhRnn-eMnfIzg3n1SRE1uk87hnb0StaR1sn49zPbZ6k5cILQSeJM3vsAKBKoGZfRelKSu_0tw6BnjuGmFIJepfYul8Qc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UCjiuneSu4gTZK_7PulqTxtgcbFrWM4u1OSscP-y0xosogO-KdTN8HGMk41TyheZfYv1TsilaxL2XRwrh-DJtQulaU8RbAMGU-whrWnjQ4iy8XWl6KRcF13S0lw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/6I9olFfkzsyIRw9Ao0K4mZ0FPdPQz9lcndKQg-joZlzUMQiDhLMZlJBklwB_a9CxODk-xVzm-bCt5NIjdfku3eUpEjz-BJyhGu9lgtRIqvTFov8I0KTcdXHUU5I\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qTAP_tD7-kr5hPrCsvfYQ2aXM_OVDTU-qudTBnnKJcsdBUFLNeZePptb0U-jj_zmqZfm71VUOeSLHWXazMrCX48-H88ejq2J7BI8Xdd28iKwjJYNnjs0wCWzVAQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-01-28",
+  "publisher": "Irregular Corp",
+  "developer": "Irregular Corp",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Kids \u0026 family",
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Sound captions"
+  ],
+  "notes": "©2021 The Irregular Corporation"
+}

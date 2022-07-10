@@ -1,0 +1,76 @@
+{
+  "title": "Little Big Workshop",
+  "url": "https://stadia.google.com/game/little-big-workshop",
+  "img": "https://lh3.googleusercontent.com/yKQW3asHqALn8jqQ17xXeVPR8anLHIyGeCugRKGwbGsqUngGszwT3rsguGcqshjQhYXd1zGZputDKB0NxTjyWzjr5ldrcw8Y5lzGnN6vBfYGXRiCH6Pi12IXSBQ\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$19.99 Buy"
+  ],
+  "description": "Imagine a magical factory, appearing right in your living room. A carefully planned masterpiece, where diligent workers throw together anything customers want. Rubber ducks and dressers, drones and electric guitars, scooters and other wonderful goods can be created from many different materials and sold for hard cash – cash you invest right back into your factory to get more machines, more workers and grow your business. In Little Big Workshop you become a factory tycoon!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/nM2sq36xttd5FxX0kXxCHVo9UwH3pG4zGERaiaZfWuOGBDREMDUxJsqtLc_s_Ki6CcDepyuuAgpsQiCf851aOUKBSnxVW4CV2A_XWjSja2U7na8DwzWBWhqFB7k\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/t5JsMCVz7iE7mHJnxAmflpMhGEEjuuJbJ2olyF9jyX_sKGS6HbV-T__O7IUFXYZCk7WXtxId7mwySVRWdawqJpFEjM_b6J2IliT4-2ArugujVDPRjrZSC6X3s7O7\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/y4x19iVgnHZyJvyJF3l5PZtnPj1ZPcaFePE-NXmeNUfouCNSm8LtkpcLVsTnmMo1jPWThpwVK2dvOLCXATfEswg8vEP4HhxMV6CVj6fY3DKmdHhc0KAqOU3jBeo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wWBKxxu5tScELEoizq2b2Zx2NDq9004ijLBpVZLnD8GvN0ePfl9HGxdLsrsoD5s1UgNzjmigl3-X5mGg-TKAoVSu5_jYGLtnfODy190KSDtIYt3Al6Xp3IT3efI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/CfOGFuUHLZQdpg19TMmcd-D4XNAYDGscFTmqA3vC8UtCy17O__Si2aLp1ghzdBKrlknryVI30yHv1ySYkG71KhIi9nPct0TM8CKtoDzHM0gd4NkliEn3rCbuuiw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/f4Akk-tczxXG1B8vhfv44pi08jNPbxKH5Y2rI-J7SnvNy501DSkE9Q5McdJdd7VLHPRk_o8BRJOQ5zj2y_9sajURpVzcPrxIzSjYHNvffDQGGxVFgCzaxN2M9w\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1LCQi-o4PUFcaKzETx_9tpcT8W0hFSAbezWjZ4n6lf-iDfogutdz4JGkwsMakTSEu93e3fcWdyg2kz01weRgaoOnBDQFzFd1OyuMSxQdn8Lpp2CmmX7BSkb_O94\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-11-05",
+  "publisher": "Handy Games",
+  "developer": "Massive Miniteam",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Simulation",
+    "Strategy"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Separate volume controls",
+    "Skip challenges"
+  ],
+  "notes": "© 2020 THQ Nordic AB. Developed by Mirage Game Studios AB, Sweden. Published \u0026 Distributed by HandyGames, Germany. All other brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved."
+}

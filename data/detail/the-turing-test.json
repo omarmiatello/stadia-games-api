@@ -1,0 +1,69 @@
+{
+  "title": "The Turing Test",
+  "url": "https://stadia.google.com/game/the-turing-test",
+  "img": "https://lh3.googleusercontent.com/xvJYiKs8S_X0rrMr5Tv2iutBO8T3POg-0LHVcVFFdDhIEPCB0dHXjjwFmduKwARKL_qe83pwTnUM3bBVPDFqBBvAkthlPihWARQoyB6P7I9SE5j77EdgJCQ6O7W8\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "The Turing Test is a challenging first-person puzzle game set on Jupiter’s moon, Europa. You are Ava Turing, an engineer for the International Space Agency (ISA) sent to discover the cause behind the disappearance of the ground crew stationed there. Upon arrival a series of puzzles awaits you – tests which, according to the station’s AI, Tom, can only be solved by a human. These puzzles have apparently been set by the missing ground crew – but why have they created them and what are they hiding from?",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/20q3JXgnDfFJ2opElc8xkG0If88nZTOMgC4gwgMMUOafKww03B_IAMKhmAm7kDbvEHeptYPRXG-c63HyUgtfA2HxSjj_huPE8lzUJhecgCZDgTwQ0gJCpVmgjR4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/LWZuGLyGS9ZDMtTDJ-lmyn0YKvDbJPhGJ2uKxE-AWDxJdwRdPRslNMbAjlgajpcYrW2gCREe7irU8BtasGqyt5zjSA2tUytYfSFB-hwKwGRU-r11zVys9rfeJe9i\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/I-33JJxJCgEG3LqT4vblOYOtUhI9ppGFnTrP3tSB_uSI1sBeEp_w_ApJrZGqfaoe5ENtg2VH_pF8pcMwmJfCOlLId2mj_E8EzgZGXfjANsznUwK1_ehhSrl9X3E\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dLDELTPu6EGZ7JsHmdlafqvP2iOSfh3SfNnUtkTbaNBpcxRze9wFJl2f5Pr3dZjKIlfSjIovmTkyJWUt7WQ8bmI0BhFOND2VyqHBT_vZpBX6KKv9_YDhk0ibYv45\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/6a9Lbp6vmCSDOqurlYIIX1XjFqsqlWur8I14R6A06EnGhHb70IUiK7aDGNjIB-eZlxnSFB411DCVzLzz4Tw1ntdWdz1NLybrmxxFyYHgcZujf7gxrLjOhIEFNR8q\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-05-01",
+  "publisher": "Bulkhead Interactive",
+  "developer": "Bulkhead Interactive",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "The Turing Test © 2016 Bulkhead Interactive Ltd. All rights reserved. Developed by Bulkhead Interactive Ltd. THE TURING TEST, BULKHEAD INTERACTIVE and the BULKHEAD INTERACTIVE logo are trademarks of Bulkhead Interactive Limited. All other trademarks are the property of their respective owners."
+}

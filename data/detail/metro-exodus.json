@@ -1,0 +1,88 @@
+{
+  "title": "Metro Exodus",
+  "url": "https://stadia.google.com/game/metro-exodus",
+  "img": "https://lh3.googleusercontent.com/o5w6Q3NAF1A0-beDBBA-0ylZEa9WKB1zMgK7_C57Z9H198QR5pQBjNZlOhWtTOOjLelDOploO6TXXszAhmHPs5NAjJeDnC8HtjBGbOMqf7g2pvinUophhApqc9E\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy"
+  ],
+  "description": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created. Flee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet. Explore the Russian wilderness in vast, non-linear levels and follow a thrilling story-line inspired by the novels of Dmitry Glukhovsky that spans an entire year through spring, summer and autumn to the depths of nuclear winter.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/FrxyKdT_kuQxN01YbRk_6Hbajw0s0LzcA-4qLTySVMyAhxQ8-e_MjiJUWuNncsvVf6-HyY-Ut9TArJZUdOOGacPCAI8AgPxiQZjsiVLvy1RIqEVLR4vMR6hVVWY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/_KEPtZffs_MIP2tzkPbK4IlK_Y5vCQ3JWyK47H6faNWtzfPCCnTgCbeCEJrm1VgmW8eb9MOWOwMKmJXG7aORLPHJlDykseViJ_MWJl-MnKwR854eUp2L4_d6yg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/O7QHG0TRROjVOIKrOlMbosqATNWGPVFOFa1k8Rko5zXSPoW1j2oQNwLusm5MEuK-gfVnAjZc_NQrlu8pOaiaSq-_oss93au-NejTjqZgq35Bte0oxloaTYyp0g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/27ppkESl3Q1RJS1P-71wWxjEjjrnrVXzNp-7-SEaugfV72x4_wqLFNVDEf_jy6FVGPXGVNyx0px4dz7gBFYy60dNHBPSsL8KalwyXs4z-5bfHQXK0neVw5VRvg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/peAAYG2J48hRKoy_TS8yXbxtZNF2hqh4-qboMK3Qw57Mp4_51duq-LOVY4e2AQYn0GK-DAo7wluAQaqwtFZT7qfNxiJHm1qcL00RJ8Sh40k0WESFFbFwkY2ZkBQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qiCxR0ObFdG0tySnafpcTvUi_ndGOFMUoReSBtDqst1x2GItcdPQjbiVVgkrP1_fbeILUU50dT-2j7DQmQJ4wq3o--jw61Xdc2huNZCQeav4xH2XnI6Iz8DSFBs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/018NymVEQDZvIwyRXfw9gyWpPEbtEDzgFHDi-ldh4tJpXN3-Dlte0whXTXV8Ft_g5uhKwPCGdrOfJmOPxvGAKdv6ASeww4YPFGDnz-d-dfwrF7tkmzybqoTvyA\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-11-05",
+  "publisher": "Koch Media",
+  "developer": "4A Games",
+  "languages": [
+    "Chinese",
+    "Czech",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Brightness constrast gamma adjustment",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Sound captions"
+  ],
+  "notes": "© 2019 and published by Deep Silver, a division of Koch Media GmbH, Austria. Deep Silver and its respective logos are trademarks of Koch Media GmbH. Developed by 4A Games. 4A Games Limited and their respective logo are trademarks of 4A Games Limited. Inspired by the internationally best-selling novel METRO 2035 by Dmitry Glukhovsky. Stadia, the Stadia beacon, and related marks and logos are trademarks of Google LLC. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Intense Violence",
+    "Partial Nudity",
+    "Sexual Themes",
+    "Strong Language",
+    "Use of Drugs"
+  ]
+}

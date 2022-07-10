@@ -1,0 +1,73 @@
+{
+  "title": "SteamWorld Dig",
+  "url": "https://stadia.google.com/game/steamworld-dig",
+  "img": "https://lh3.googleusercontent.com/oR-LiZvNtgJEaOriU3spBJioVaCpI5gHbEO5D5bjZ91nVmmtNOGfwWVLZwWtqyxPuFmZmoByeQ3_pk7MJb7OH78kRF9WqjRHHM0tsAaH8ctujRU6DCttC073L3YJ\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$9.99 Buy"
+  ],
+  "description": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below...",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/s9LRWXrFoxLj-Bndj6U_zQO-R0mPrH9MlCitq_0ccSnpB-uuHDKy2pioW-0MWLb4tbIHkb3q-XeAaYKENPLAIwQ7eliOPjxS9uky53FJ_Bqp-pyG58uPhutmbjY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/zugXImrm3X36z79IKkbPJFoRu6DyhvFafU5qiz8_uccdM9RqfL-xh1JdPZHRniqQxRNtERi8M00Jus-WtgPH50TqC0WMKm6Xy_nuq3UX_8tiB3eNMGJBYJUg-ew\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/VDC53acnBZocrEKX1rykO4zXbbYcNkZ4U6FPWaC09h5t8u4c5WWy4UVLP1FyfgKEB8joBBQIAbKpiqfriXcazc2dx6beh8ZzbCYPL2qKfkUmRcEspGbA39w2WOdx\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/VpKvsLno44FFwe_4Y5qWiwLzI-JmNp_Ow9Cih-DwBruXpEteXDjv3WVcvWW3HoLnRce0NEBYWqyPhYOZ2TfB2jsXEk3q7xBTivwsM2P2AfOneAB3n71euMGyg8s\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/4lgwhon5wR5_bmg53KK7ECEKLVOa1IBE4PjL4msT8mk5iUt1YIYvupSqxRTv9DUFkA9DmDShc0KZx_3i4wEIaYmfqVsiPVJ5-1LzSGWyBCXn3u_hYBiFdqMOKA\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-03-10",
+  "publisher": "Thunderful Publishing AB",
+  "developer": "Thunderful Publishing AB",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Separate volume controls"
+  ],
+  "notes": "© Image \u0026 Form International AB",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence"
+  ]
+}

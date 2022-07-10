@@ -1,0 +1,85 @@
+{
+  "title": "Sundered: Eldritch Edition",
+  "url": "https://stadia.google.com/game/sundered-eldritch-edition",
+  "img": "https://lh3.googleusercontent.com/FXUDcnGp6OzwRiIheMWEQFNZqsrFFMUx8QDV8k8hFIuAgqOM4zjcv9iMMD7D9rRBJYAgifVFkcLjrOXTFjKxnbLjMeFDh6sN-p1dlytztios7u9B8plAmUHFvQ\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$19.99 Buy"
+  ],
+  "description": "Sundered is a chaotic hand-drawn metroidvania where you resist or embrace ancient eldritch powers. Confront hordes of terrifying enemies in an ever-changing world inspired by the works of H.P. Lovecraft. Sundered is a challenging and unique take on a classic genre from the creators of Jotun, now with local co-op! You play Eshe, a wanderer in a ruined world, trapped in ever-changing caverns filled with hordes of terrifying enemies. Harness the power of corrupted relics to defeat gigantic bosses, at the cost of your humanity. Resist or embrace.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/qJDBIlJ7VBWJAEtxu3bWvL8uvwlc4MlucghFMDVPqpr4SubGrhSm2GDKcWNaRxJzQAMr7gVuAeLAkUJkl2ZSP19OKW-rnAsYrWos64QXYnZMz-lOgeh4dSoOA7y_\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/6cFmsNSEF7karJo3rGsKabKbObnx9A2gv7HJIfjdvBio7qtZ89mN_q8WwY79WxWmiUZqkHmlba1SRgN6qWNtqx5RjrXUvNjx3NzvOOTmU4C0VrDhw4ucZdHdfQOh\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dYkALqHU7A5v_BYf-kQg3nGfHgmMLdVRqmqObUklvvP3LCHOK-T-5yXS4Jk0I2KluzS62QhX9eg-BRIqPStL1n6jiRa-JfCcfNA_egCbuh9n06xLBu7H-3ZDLZk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/LR5hSj1K8GTh0eiMk1rAv30QBDoEnbwMKQFf5fcJs_umxXSSxXC5slUlk5-bLQCkv9BMrXkiZrn3ZeO0oO92BuDa3mQzYJlAn2AIZHLwt6mv6wR2ezIemN089g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ESgKdGixrU3BNmCtq2fhqeLfryJLlAbGinD3Ur5hevsBIyGE8Ctk8R9ZNR3kcPRh9Kql5q60znzwxB6-uskabQ8eGJZVTNy2_8VCJScQ1N0d3WPftk3hnsJB83-k\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-05-26",
+  "publisher": "Thunder Lotus Games",
+  "developer": "Thunder Lotus Games",
+  "languages": [
+    "Chinese",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "©2020 Thunder Lotus. All Rights Reserved. Sundered and Thunder Lotus are registered trademarks of Thunder Lotus in the U.S. and in other countries.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence"
+  ]
+}

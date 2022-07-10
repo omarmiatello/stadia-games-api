@@ -1,0 +1,75 @@
+{
+  "title": "Terraria",
+  "url": "https://stadia.google.com/game/terraria",
+  "img": "https://lh3.googleusercontent.com/yLrHDgwq3fMllMG0tufcqIQ8lmBcdtYMtQUkNWhVhDoNnXd_qloo0V_P9-o46uqUtwhyIY4q4pLvwY-AJGr92-C-UADpzXxBDQ_TOjI3hm6AHh31fejoH9W0oBo\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$9.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "The world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours! Blending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are completely in the player’s control. Terraria offers more content than ever - including the brand new \"Journey\u0027s End\" Update! Presenting an impressive catalogue of 5,000+ items, 25+ NPCs, and 400+ enemies and blending elements of classic action games with sandbox-style creativity, Terraria is truly a unique adventure!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/8ywV-nP0iTtBM8jO7G0bbw74KplZgnxE4k1qihD9XoNxdviTDFYuBBml8RD-0MbEmozHizu8xaSUdNrt7APMNTb6-vNHjsdf7IeJdFdMZf9H0SY02jIALv-JIw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/FZQaDwEJ7KNd2ZMtl0tMHpgyvmWcNcKAZJ05T0LmNV13wgos0lPFPLdkuOfSYzmNnx17w0FfVNCuqw1HnD3X1YkLfjFu-dLMzTgEk41iU3yXazP37meZ3KkkAA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UZmaVkvn_HHXm-msO0P7AY8498firrwJ6al9wyGm9YLFkM4oHXssb5LDfcFqtoa15Matu5Mid2bNvxbaw48Vo81f2BVsA2UAJMjXskq4KYYf5aAXgR7Vht0hcuY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Sciv9LtqXpgyKYewkG7Q5cbnN5geKKbTDm6Vr3yM3zV0A6HtgtInaBmUj_UWFPQhIckI-oP8PPWawD213zGBzqCF7ZzDu1vYRzGKoAW6m1-rlIxU6N-mJhiK5A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dNH_auLWh1ySJZ_u5BW460p_xhO_laMoJbehwlsw4yy5Z1KZWnAd0pyr-ILzp8FTBJogkJ9waaUwK_Lvtqm6G0PBS_JMqxPs-9TceZl_3HwpGD8JsDHAtV3W3w\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5mMD0u5xF7C5S_dg-6V5sz3_gwlbrShfD8UZPM-iCQLLKmsqbNCa-kF2aj08rciMayhhElU-lSXaszw00uB_43NQIiwX9JLipNFCFz3ONuc1fL3-pcR_kZP8AA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/aUxfpF1Tn2OxXnAkc1CV5heitBgpk-jfTRf82M3Yov45eA3aqdMjXUr7qpYzMK-P6gCo2xnltYtF0dIXc2E_K1nes6sRM8dootN0lMabWKf7TX2uSfrMSGiEGDY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QbjnZ0RLMpCCnmgRHxSkAopysVklTOk5dsb0_KBO-hnTGEYp_p0knFA0iOKsWqrdTP-nx3ea6D6XWEjlXz58Jrw2VmLnv9pTnVaEdx4b0TmElgF9ekF04lZWF4l5\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-03-18",
+  "publisher": "505 Games",
+  "developer": "Re-Logic, DR Studios",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable game interface",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Skip repeated button presses"
+  ],
+  "notes": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved."
+}

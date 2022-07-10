@@ -1,0 +1,72 @@
+{
+  "title": "Lumote: The Mastermote Chronicles",
+  "url": "https://stadia.google.com/game/lumote-the-mastermote-chronicles",
+  "img": "https://lh3.googleusercontent.com/2HGWhFOVYh9KbILjlVvnQx3SU7or2dfiYOy3L71cBeF2LXe8EGnJc9ns0KBllUsdK2exFSwaz7_NlU2vz-q3Ebtb4edPQgTFiiAR8W4GtgECTwZoF1f252PNncdc\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$19.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Squish, bop and bounce through the Great Depths, an underwater world filled with Motes; bioluminescent creatures who spend their lives deep in the Bioverse, living on the rhythms of an electronica soundscape. Lumote is a Mote different from others; inquisitive, and with an \"eye\" on power. When the shift causes the Great Depths to turn red, Lumote sets out on an epic quest to return the world to Blue. To do so, Lumote must learn to take control of the Great Depths inhabitants and gain mastery of it\u0027s puzzles in order to defeat the greatest Mote of them all… the Mastermote!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/AJ6JcA_TFMsSWj64YfZTqZO2SNvF8wFoKO9Gpka7bR4hl9ndVZaJ-BMLx2TDDU-tGrBUrYLueM1ibnBZvvWb5Iqp1iTKmfawdAAar4dHiyJggcBCazjKSZYGaHh3\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/O69d5okkRkOpraGlBwg0K-iEGQFJQvBAv0K6xoEIewQnSacyT9D0QJ0HS0FWpqvNvqdskPGgBCkYO-vyOJLzyVMGmxkqKPT5WWeP6qttT7GXbyRRUC9SJ5vLZYEK\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wui3HJJfn4iEXaPCfmtHytfT0ynj13AYvnxBRBXD57Hp7fjL1CPmGJhfMpyx5KurNralWjxG5BVrvpNsaRy8BLQcvog-o6VW1zefPLGIjIJ2seehGlgClxGTuOo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/irUr7Jz8Ag6IaIoWHguERTmgfq5j3MbrChYNrmZa66Wuj__OhG3V8ahsd-hiEA8kZjF6mpAb8k_4WgoxjJV1S7ILYv8ARdtODA9H8akurmQO7SWFZ9PxORmioQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/i54xWLft1cgCBTwobXDo-7q9NPdP0jk04sC_zPE0Hksj6ljUTTSwPPkSQLni2aTTrVwyE0O3Q8qGvfJpENrLhPGq2oPGek3tho1M_XQ0dAzpgFJQdizaeo9meA\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-05-01",
+  "publisher": "Wired Productions",
+  "developer": "Wired Productions",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Indie",
+    "Kids \u0026 family",
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse",
+    "Partial gamepad support"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Separate volume controls",
+    "Skip repeated button presses"
+  ],
+  "notes": "Lumote © 2022 Lumote Digital Media Ltd. Published by Wired Productions Ltd and developed by Luminawesome Games Ltd. Lumote and The Lumote logo are trademarks of Lumote Digital Media Ltd. All rights reserved."
+}

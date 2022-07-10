@@ -1,0 +1,76 @@
+{
+  "title": "SteamWorld Quest: Hand of Gilgamech",
+  "url": "https://stadia.google.com/game/steamworld-quest-hand-of-gilgamech",
+  "img": "https://lh3.googleusercontent.com/GQlD_rgDQ-d-PV9D9-EYkjtdvMv1iqmVqkV_S9gjLSGxeEwUT-kC0uYk_Dbz08l44apHXO4Xjtn0TaGohaJvv4FFJtXaJDoS0o1ffKRs5Zy2tN1rQSwoGXh0gXY\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$24.99 Buy"
+  ],
+  "description": "Triumph over evil with the hand you’re dealt! SteamWorld Quest is the roleplaying card game you’ve been waiting for! Lead a party of aspiring heroes through a beautifully hand-drawn world and intense battles using only your wits and a handful of cards. Take on whatever threat comes your way by crafting your own deck choosing from over 100 unique punch-cards! What awaits you is a luscious treasure chest filled with gold, dragons, vivid worlds, magic, knights in shining armor as well as XP, turn-based battles and all that good RPG stuff! The game’s humorous mix of traditional fantasy and steampunk robots makes for an unforgettable experience with lots of laughs.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/jn9_cAez41qEbPcjyRgGtRXa01v2BcT1vybHPx8CewgVsWtd3ClGpLG0nG98DDWZ4jLmPka7cf14vmHucDZnAqtJX8Sr3RO_FSEkK0reE8tVzBDUMYfBTjKFyW6s\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/_Pn4_hkLVLDQ9dWh4cYcjdZTKUZypgrAF1RozK3cztRC_ii5unPipCTN9OnBrdls5D0StMyzR-c5et3LQFRiQqaMSp_acI6gV-8qoB0zIYWy9TadAgENpvv_MA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/sNO_c5Ur6d-NXDCUihqwawR6k1nYcgxN4w1q7gYOsAqsBWpmTDkv8EcCIUnN8rSqZWHaOteU6hQNfPE4Y1vvfykSeOkpBVe0NR2jGG7YaYP32oistqyHxoPxS2Rt\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/WqBokMFCktvWWXqTDPtSs9il6LLTnVhcMv15e3mdQo9TT3A82xH_zv21hKxhJaPlQAO4MmFZxOs5rs43bYZ2gKcVBdw6xmNSDdARjTG_0zRS5i1Qmo1xjxgypw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/9a_rLPBPwOAdb5KXNWdOcc3nqJot2NUIjg1WpQgIjsTT3V__El9Yl3O322lNrjyn3MZEl1_LJkprTN1NW-qo4gZcVPl30u2YwdY7CAFFkmK-ucxbHur0Ds5Stw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-03-01",
+  "publisher": "Thunderful Publishing AB",
+  "developer": "Thunderful Publishing AB",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Colorblind modes",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© Image \u0026 Form International AB",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Fantasy Violence",
+    "Mild Language"
+  ]
+}

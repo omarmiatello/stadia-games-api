@@ -1,0 +1,80 @@
+{
+  "title": "Relicta",
+  "url": "https://stadia.google.com/game/relicta",
+  "img": "https://lh3.googleusercontent.com/Ua3KR1QQ2xiPPhKUveWwRKJM6uV_XPwV8ABIKq-5k5_nIRMq0nE9A2XRx_hh28hW-3awIi3_C6YV4B-o_DW5R0bUPc0PsABIxcl17BxsiH2k6pTe3RzeoWgCibV6\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy"
+  ],
+  "description": "Relicta is a first-person physics-based puzzle game where you need to creatively combine magnetism and gravity to unravel the secrets of Chandra Base. Alone in the depths of the Moon, your scientific mind is the only thing that can keep your daughter alive… Play as a physicist stranded on a derelict Moon base and bend gravity and magnetism to your will. Will you rush straight ahead or will you take your time to unravel the intrigues of 22nd century orbital politics? Buried in the eternal darkness lies a secret that might claim your daughter’s life - or change the fate of humanity. Are you ready to face the consequences of your research?",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/DJzSFTZQH99DCjTgjEGLRxa0T8OMT9AAxBsAHc7ZZhZNnH4yeSGrmZWrOM1qr_HojMc2jfpPXjPRzpsBgPqHGnlgqR0QVAvydxcjUUsEnx4tt1R_5jj3sJov-J5r\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/6fdXhStgNFp8EQjgolLHhzwCOBMesOe0jP-iB3qooF83AqLf-7yX477FY0UPpNE1-tcj-WhoV1kxMA5O4N8Q8w_lMkeNd4DshMdvDYtdNxwiyUk6IEHvyiQ01g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/YlqhnmzpdFPQG_1F_V9IWTeFTlMe8oVPwCFsmBf5DMT99KJ1iJESk38XDvE9ydoFY0hrkhdm0M2fV4helaWIfegRi7C3UlpDw5aJT0oIzXwfjkSUThnHvfThBDE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/xMVtsZpUdQlcqc07QO8C7Q74JB8ZGiRduuzCCYe7-AQOBazfKwGcr8K1TJXWGsgwJ6KjKAw27AQSx-bjWUsrrlXCKnfTOOZEhl4UZvtzyJ_yYe7ZfgEfdWqzh82W\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/-78A7WDQXB22H7L_L9rp9vW_laZk_Xeqg3gM0IKEmNKEX8SNcY2qv3-vcYU9-GGkrNAP3gmAT9pe3sRK-d2amQvVGCVkdhTVZfSw3bkDvIQvSditA2_5d_-2sk9j\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-08-04",
+  "publisher": "Koch Media",
+  "developer": "Mighty Polygon",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable dialog text size",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Motion sickness options",
+    "Separate volume controls"
+  ],
+  "notes": "© Mighty Polygon, S.L. 2020. Developed by Mighty Polygon. Published by Koch Media GmbH. Ravenscourt is a division of Koch Media GmbH, Austria. Ravenscourt and its respective logos are trademarks of Koch Media GmbH. All rights reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Drug Reference",
+    "Strong Language"
+  ]
+}

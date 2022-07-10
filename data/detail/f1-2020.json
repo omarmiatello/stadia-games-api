@@ -1,0 +1,82 @@
+{
+  "title": "F1® 2020",
+  "url": "https://stadia.google.com/game/f1-2020",
+  "img": "https://lh3.googleusercontent.com/i6-4sIhOx8QqvG8ZLXRToavWDpp4Q7DC17CuhY21wLunPJuEPkffrzsI7-wpjWiipE_YsEwUzXZpoLF4rb0G6iO8Y8YmmYLmwml7nqDGx3R443j5wX5sA5pe9z4\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$59.99 Buy"
+  ],
+  "description": "F1® 2020 allows you to create your F1® team for the very first time and race alongside the official teams and drivers. Alternatively, challenge your friends in new split-screen with casual race options for more relaxed racing. Compete on 22 circuits, with current and classic content.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/g4GPuuUBOq6_auAsK4nl87DbWeLdEdEGSgtMl7jo1TGnOmByXERQvE5spUMJrVWKqkgBCciqN9BaKvr7_xDh3osbYesjGlvkAeUW4ZH9fkbvKJG_LJbed5O1_J8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1jXYyjyS4OxUFwx80Hl55rtsTPiO7kDGPhtq26BE8lta8H3S2WdHg-zdLEE-yozXxDLNBRFA3oTuOxBWsoNbCkODjTYR1xAZSdZhuihjZnk3CCumABlbzSDeBg4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/6SA-fi67Iuje8udZQbppdvIzKgE4mcE2Wtyn6q72IN8Tll9MaaUeIw9sqbNn5yWBvNoaYHDaXULLa8miYrCV_0gqiG30Hv1ejMZ9HjVrnBIsBL9B1NbkgmGURgw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/hYyD7LroGEu6SmxqKfzd_EwgkqYO8RaKqk12wtD7YIljM-DQQDnQyCMPKhDx0VzVMFI55ZR_lKNOhA8W3oWGC4Kr0fsJLaqzVwo3OPHTxkIZKwj1Q4sKS4GNaZk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/FAnJNAjzymIit2HdqvHvNymQPGCVlnNlHdbVH-y2ZaUo5flzlkcmQkhJkgs8d83FAjfDLKQn8-mCDqUOVDqrcHzUiFxTd6a6abvZZvuKjbi_w-5K8cTRhhlXuE8\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-07-05",
+  "publisher": "Electronic Arts Inc",
+  "developer": "Codemasters",
+  "languages": [
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Racing",
+    "Simulation",
+    "Sports"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad"
+  ],
+  "accessibility_features": [
+    "Adjustable game interface",
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls",
+    "Skip challenges",
+    "Sound captions",
+    "Training mode"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "F1 2020 Game - an official product of the FIA FORMULA ONE WORLD CHAMPIONSHIP. © 2020 Codemasters. The F1 logo, F1, FORMULA 1 and related marks are trade marks of Formula One Licensing BV, a Formula 1 company. Licensed by Formula One World Championship Limited. The F2 FIA FORMULA 2 CHAMPIONSHIP logo, FORMULA 2, F2 and related marks are trade marks of the Federation Internationale de L’Automobile and used exclusively under licence.  All rights reserved"
+}

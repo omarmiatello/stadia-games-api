@@ -1,0 +1,71 @@
+{
+  "title": "Cris Tales",
+  "url": "https://stadia.google.com/game/cris-tales",
+  "img": "https://lh3.googleusercontent.com/KZBekny3ov9TbqMa0x8Ax6RHNRWlLe_pQEH-JnRQb8R_KWIFJ1fA4xaM4H05SuPXJa2mB2fb422gpo6H5bkWAaKym-0DY1wVFkMi5NLnF0fkcnRa_RphPP6dDQ\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
+  "buttons": [
+    "Play for 60 min",
+    "$39.99 Buy"
+  ],
+  "description": "Cris Tales is a gorgeous, indie love letter to classic JRPGs with a new perspective. Peer into the past, act in the present, and watch as your choices dynamically change the future -- all on one screen as you play! Beautifully hand-drawn 2D animations bring to life a world where your choices will change both the present and the future across more than 20 hours of gameplay.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/HzOTflPW7bbOQ0J-142I7Hq_VQ1lGn0vlHxePP9JZfrDaMrs0oV25KfJ9a6TT93uOZW_JqfU8gy2dd20FDKts3shHJHD-a_1o18MZLDcmq_uUmsoJrwEGg14Gl8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/whT9-_fLMkB6DxwYm6Lzlz2d5z6smk5AlvnfCf1qPBfkIyZlndakH9VmHQ_L0SYJ5zxG6CD9nffjKfiISQfTuZXFPUDfSYPcpnMas0W1kJmejrC4UCEw5zlJDWY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AGYiD8vmq50_fgmLYSv8lirYC9rSmi436YKF3Q_kJezMqqe5Xs5JlTmPyPoC6SBY7HeVljIQZ2A9F0b3cMs7OXVuwoUEzWj-6yhcRgSnXy8S0vmufeHoREoQOJM\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dc7R2nvkVhb-Leg1iVVs8cDXerIbdjBDTXjwpU0r8s0crwYUa-Ux5hG5yD3cEAN8UA3WOOC6DyYG2PFdAUGYbpBZwP2vinYM5VNTlr3bYmfBRDF18R3M150mDDnX\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ED0HuhFT9AIS4rl_LTRoL-RyNV7ukW9gBHaQA5_RCEJMwnoQMWT4TcZeh7EcsRlkJ4MStqCKM8l7YkJy3sbvPlOV8vz36g0riWmjZZcUF27cRs-QgiGxYyc4bQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-07-20",
+  "publisher": "Modus Games",
+  "developer": "Poppy Works",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Subtitle speed controls"
+  ],
+  "notes": "©2020-2021 Dreams Uncorpored LLC. Published by Modus Games™. Modus Games™ and the Modus™ logo are trademarks of Modus Games, LLC. All rights reserved. All other trademarks or registered trademarks belong to their respective owners."
+}

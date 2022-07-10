@@ -1,0 +1,74 @@
+{
+  "title": "Chorus Demo",
+  "url": "https://stadia.google.com/game/chorus-demo",
+  "img": "https://lh3.googleusercontent.com/hUXprV-syeHbzrmYlQIU_o4wi6WwhFKKLLnta4GCRBVyu_rCt73f1EpcwmvZ3lrVFYwy9D-CDOiOJjXUw24QbT2PGfngPQh89uxJBqT7I0MhRJ-9Ekd4a83US14\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "Try demo"
+  ],
+  "description": "She was once the Circle’s deadliest warrior – now she’s their most wanted fugitive. Take control of Nara and her sentient starfighter, Forsaken, on a quest to destroy the dark cult that created her. A JOURNEY OF REDEMPTION – Fight to unite resistance forces against the Circle and their leader. VENTURE BEYOND THE VOID – Enter a dark new universe, teeming with mystery and rife with conflict. ONE PILOT, ONE SHIP, ONE LIVING WEAPON – Attain powerful, distinct weapons and combat upgrades.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/gf-tNQm_EHliChFnwWAGO_3PGWgutiI2vaA_7c6n7Qlnn3t0SE1mKSUCTvslcgZhHjnRczjVmyCdxaWXIem5XSkVo67WLWsRSW4Eeq7wfIx-24erdSq3VxkIs-PP\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/F0tVk7zEAHFpAENSxbQ8rgd9zC6CRNkAO8oFoWRY9UwP1fP8oDDEUb6OLGaAaHJBWttZdFjFcThXA3913xF05D6TFUXbS1J1iVHsL83p7w7i_1B8TaxLG5M0q8M\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Rz35femJVHV7XnliUaPViC1FRVucslOcYisW-ooSRHzvSK1-FtFCEi7loxpJ0LCfA2krJx9fTcB55GFnqECIdGUxJTkrGvXej9aeFhYLIGhcyryO4HNuVdpf9bA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/z_lVC-viFiP_zvz43FnDZYjlNBzRwcaKPZxkNqrH7Bnk-WTE4-hTpxzUgeXUubGJgIPHXtqimN0oZMzqdt6EvV699WqDYTVEgy_MtVfeRJcTWxhAjV-xclN4V6IC\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/LoVwjIszwGKRklktx7yMWX8flfOgHnGSDGx--memoLwebrvGNtkN8EE-Qbaq-3LHduVWXCWyxqC0JUVFLEGAy4lkfyDQQMPN3WVwzqDJkk5-kZa3WZCwiaWsqQU\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-02-17",
+  "publisher": "Koch Media",
+  "developer": "Koch Media",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2021 and published by Deep Silver, a division of Koch Media GmbH, Austria. Chorus, Deep Silver, Deep Silver Fishlabs and their respective logos are trademarks of Koch Media GmbH."
+}

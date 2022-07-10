@@ -1,0 +1,73 @@
+{
+  "title": "DYNASTY WARRIORS 9 Empires",
+  "url": "https://stadia.google.com/game/dynasty-warriors-9-empires",
+  "img": "https://lh3.googleusercontent.com/l8cnJNueLC1W8hqcYx8KR0pizSA9lxaPXzpQ1SZTlwiiW7JjpNZGsm-dPQ5hpMSpisB3H2OAqZg9woOPOeLXtiMQTzUo-xGbgOnWP1rWoEgTKvCwqHXV6OTtDw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$59.99 Buy"
+  ],
+  "description": "A new release in the Empires series, featuring a mix of thrilling action and country capturing simulation. Experience the human drama of the Three Kingdoms in a way only Empires can provide. Fight exciting Castle Sieges that envelop an entire region, and manipulate the country\u0027s Politics, where an officer\u0027s personality and trust determine the strength of the country. Welcome to the Empires experience!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/OXBRpetBSU_sCOKQJpubUlWGYTGyUTeWceSj4hOAYTZKkKKWubK_Ouj7ZROUvLLj_ZR0wn1Y75cpny9g2ynF_LvarmbtvwrCZp9lF7p-JFBGmOmscdmnwREk80k\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/EZpB4Vr4Ml4GTF3iZDpXWT-NpVpbXuhch3Kujrx3r72ryAH3g70SLhqP9EYnTli5Z7UFW_1I7_lPOlDm03pIKRoLjvNskJNam23LYLze5U2n3NIacl2LztPD3s7c\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yYSvJOGuD0YDCvBCTrD1qlKdqZLIFT92JO3ET8xsEz3zirxXnTQ8AnFgvdyFeBXGKkjk8uLpKfX9vOYcSqu4IMCEyMFiSm7iiG1UQ0sxGgT4GPgFk63nAXSqYew\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/OzbCo0by5qvIwE4M5azkbeEfcC-BROZULiqMcrztuQfXfxrVSLKjsckVnDlCzpSoL8hpxP7I6JJDgnS6Um_4Jjmn8_On6a23R_RpDVtYaa0KOXvzPRzXt1MSurk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/FdIpLyoV_Ds_FzdYZRJAaPHJulGyokEMDDdfB5mIZ7QOeW-7qsNKvkFsg-ErBmSga1INQ6gQDxHtnHA2S3urGl8rpgd72oVLZ22JVy3muzX2JZcKcnVg2jIFu1k\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/c4Wba8AumwhStmUYDdGJ2rPeTVCOOqkwHCM_F01ebiOcXrTf8Y5a5Hvcc5Wb8gisVwV1onugxYT6_D57caJEthDDxc1SBMhhF66y6uDcTBeQKEaUv3cnaSrg3ls\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-02-15",
+  "publisher": "KOEI TECMO GAMES CO., LTD.",
+  "developer": "KOEI TECMO GAMES CO., LTD.",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Simulation",
+    "Strategy"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "©KOEI TECMO GAMES CO., LTD. All rights reserved."
+}

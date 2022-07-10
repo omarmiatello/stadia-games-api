@@ -1,0 +1,62 @@
+{
+  "title": "Ys IX: Monstrum Nox Digital Deluxe Edition",
+  "url": "https://stadia.google.com/game/ys-ix-monstrum-nox-digital-deluxe-edition",
+  "img": "https://lh3.googleusercontent.com/QmUhHS1znC4mPK3vYGjDhJ89x3LkAivgdHy2DS4OaG4SpMhl_hbYWlesGPyspoo48mxemBYujQ9hAuWEmNiWVgbIXDArSUACo7AuYWgM73KrLvDrApjl_TvekXE\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$74.99 Buy"
+  ],
+  "description": "The Digital Deluxe Edition of Ys IX: Monstrum Nox includes the full game and a trove of 25 AOCs, including costumes, attachments, materials, and consumable items.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/4ICMtz8kbLiSNiUrCf5txztwBjJIyXCvJoXWQqYEvAVrp0n2Uz21MLY9EWsWpTTY5IJ2coUiwYY_sGlNeh8tfeNszi7_mrOlHJIcJZJCdLjC1cv7OAKCkbruhLo\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2021-07-06",
+  "publisher": "NIS America",
+  "developer": "PH3 GmbH",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Skip repeated button presses"
+  ],
+  "notes": "© Nihon Falcom Corporation. All Rights Reserved. Licensed to and published by NIS America, Inc."
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Stacks On Stacks (On Stacks)",
+  "url": "https://stadia.google.com/game/stacks-on-stacks",
+  "img": "https://lh3.googleusercontent.com/AYVJsnupXSLLN0FY92XV1eH6uppOcaLfki34Nu5Hf5A1dCMpwm0waRuL8v8nygF3AQ3_vIeEfGPcUt0PmCFPnCidgy1szSZZ0lJqY1FKhJ95Xt0opCLY6469MXm2\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$12.99 Buy"
+  ],
+  "description": "Stacks On Stacks (On Stacks) is a zany 3D tower builder. Play as the Master Stacker, Rockit, who must use her psychic helmet to stack the colorful bricks falling all over her madcap world. BUILD stable towers by executing architectural feats of balancing. INCORPORATE mixed-up materials into your towers: works of art, aquariums, magnets, and more. DEFEND your towers against invading ghosts, a fireball-breathing dragon, and other outlandish hazards. KNOCK your finished towers back down with a wrecking ball.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/6pMECQdQDi-PBK9dZFs7LNPMoQqyxgMLkCl5z319oK2Q5NLAdUpH96Z0NnVCHtj37K8LLCj_FS3wVohYMbCUhNRM4olM7jIuYAfKC_YEy2bV_4BkPJhbt_KLNg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/E_isaw0ZVn-GCz1Vv511Gfcp01K3jV3EbessSj9j7sVxDIJaqqi0Z5kmZ_q3qltTWtMgaWO2TXUC21-WxhlUD-Vwgt6RSCgCmhGp_ZLG8d41zXIWv5iQzr4JTiI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/OHNbIypnx0_AUid0rrYsMDexGSpilN36kmZ-UTyrk4tQbgKPh4WParj8RiE6ZkXapmUROckddjZ6RQRWpWfzS3GP_NvggDm2EWikGGR7pTYnGyo3c5O8dJF5tg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qllxTipKKP3dm1_f_-9iKGCOQgeeMOs00sKEVw2jswYtuqyRqyMxvmH-T8y20KGKEj4XGouX8gyP4D0GY3hvZnBtR0fWSa9ZV0QbtR2syM3Jmug4PyLdKrKsevI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/m3wOBHWQSngJhLK7xGg0oHNOLueH93XrZOHcM4nBDLjr-IqmFIbOAWW4uxw6TreQ8Gb5AlURC4qNZTAeLRy1VLNcdic28N9I7s1WupKTIuu2LOQUVs7SIhy6eBSz\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-04-01",
+  "publisher": "Herringbone Games",
+  "developer": "Herringbone Games",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade",
+    "Casual",
+    "Kids \u0026 family"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local co-op",
+    "Local multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Motion sickness options",
+    "Separate volume controls",
+    "Subtitle speed controls"
+  ],
+  "notes": "Copyright Herringbone Games LLC 2020. All Rights Reserved."
+}

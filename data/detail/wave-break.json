@@ -1,0 +1,82 @@
+{
+  "title": "Wave Break",
+  "url": "https://stadia.google.com/game/wave-break",
+  "img": "https://lh3.googleusercontent.com/H3lQ6Eo2aw2LNyiMmSOr7QW1rZA91LEN88dBAdc_wOVfioNzX3dJ7piIPBhsnB8WE-f4N5trTBdsvkvdvJjOFc2dz2-Al0hvOmQOJkQUrWH78ZHfrhNe14T0cbg\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$19.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Wave Break is a classic arcade-style skate tricking game, with a splash of water, guns and explosions - set in an 80s crime-filled Miami Vice themed world. Score massive points with massive combos, play with friends online, or enjoy the single player campaign mode.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/h1lrf7dLbquJ6SjUZDFKMMG3XPJO4D6b-7qYDOll7CC4Ic2DR7pOF7iWk8UUvZTynC-FdD9yHyeUzpibVHkQwork5nhgMXe2uvVGcOApbRx3B4SQAxCOOJLf9lc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AwBT3oS6Jd_D2xjqlfyK7reBPMi8ptPfcBRWCbAmHVY4A77SfnePYyZCLv92s3E5R00nCXEi1QSVLMLFxxSYMqarTfTAGPNsdSOG2_UDjZwHa36opuaBZzK0oM4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/uYmhIPswbf9kPaLILc-1JQ63BvSdEMX8wqojcvZ5k2C264b935wVlRgDqSuK14gghIURTUsMKjN4yAOpf0ZK29g2qNsQkrHlHFqyP8m6AhFAqSuKtVuOPCCImA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AK0v4Q_XL12akjdFZ0rla25VRAkg06kwMPsXsYdftx-3HJrlwSbIGIB8r1lwNShsVtE9oy06qPa_WYXHmCioCHVpMHg5RlAYEFKgjcRu8gfvTito5gBwmTYWBeko\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/hDIek6MxbirgxNA28p_rfc5BAUExIWFaw1OI-ECKyBgvLbMGgw3CU8Td1iBkDFhlnEKHUDFOMk7ChRjVNrBPdacdl7JqJQRfJ3MWAUcUyM4w_ae5bUY6ViZhnt0\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-06-23",
+  "publisher": "Funktronic Labs",
+  "developer": "Funktronic Labs",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade",
+    "Sports"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online co-op",
+    "Online multiplayer",
+    "Single player",
+    "Split-screen"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Colorblind modes",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "© 2020 Funktronic Labs, Inc.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Drug Reference",
+    "Strong Language",
+    "Violence"
+  ]
+}

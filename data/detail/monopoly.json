@@ -1,0 +1,76 @@
+{
+  "title": "Monopoly",
+  "url": "https://stadia.google.com/game/monopoly",
+  "img": "https://lh3.googleusercontent.com/NiwQVsuwndhIqO5gWGp2ao9zpFMNG_RRLuebPmn5bkDCkbv3KBgNtn9mWOjInkQdlgg6ZeU1H_afmjNpGyitf_k5cQ6s6ToJh8LDIQHLJwwdbz1QqVxD22T1Ztk\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy",
+    "Get with Ubisoft+"
+  ],
+  "description": "Grow your empire anywhere, anytime, with MONOPOLY for Stadia! Immerse yourself in a mix of the original family-favorite board game enriched with new ways to play: • Choose among three lively 3D boards • Play on-the-go, with up to 6 players • Not enough time for a full game? Enjoy new modes for faster sessions • Select your own rules and spice things up with the new Action Cards Trading your way to success has never been so fun!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/2wnuL7J4wDgHH4AUmOJTsc2B-rHDQYaGa0FedoEzlIPrzEVGqFmnd7pE4CVtqG7S1WIQZwhPB5b8g927WmE1meUIAOEiDVWNu9fju5EIJOMcDllLPsLNTB7ctSHE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/BuMBGhjGczLCizJKkqdA3EsFGYjp4nC2vFXE9bH05FLbbPtFFrhvnt2KMpeLxTY599GtuOYRXxv7B6PtGqFDNA9lH0V6ERryo6AuRHBGh__olUaU0kmN5l-wr7_K\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/vkdoQbvL4-wXjLUY5q673Gb_g_TanM5E2Zj7j-8IUhNkBmQQv3aWfThHAzbT-q51aHwvQccU3cuEQX1wRXAeR29KfgSY6GZWxmxItPpvlST3LsCI1W18ipz9eF0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/g83qHiAox7PYQguJjAv0CEkLTmYGdYL17NdAVv4qExezBrh1cn_T9ldv3EasJ_M0sIw_hxfZ0Z_BC9Q1Qd-isOBzNwHWIDMqf_3cIdu8NpEDjIdND3V_IJ1U2g\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-04-28",
+  "publisher": "Ubisoft",
+  "developer": "Engine Software",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Board games",
+    "Kids \u0026 family"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Local multiplayer",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Adjustable game interface",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA",
+    "Requires third party account"
+  ],
+  "notes": "The MONOPOLY name and logo, the distinctive design of the game board, the four corner squares, the MR. MONOPOLY name and character, as well as each of the distinctive elements of board and playing pieces are trademarks of Hasbro for its property trading game and game equipment and are used with permission © 2020 Hasbro. All Rights Reserved. Licensed by Hasbro to Ubisoft Entertainment. Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries. Games software © 2020 Ubisoft Entertainment. All Rights Reserved."
+}

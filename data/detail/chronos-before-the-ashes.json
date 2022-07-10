@@ -1,0 +1,73 @@
+{
+  "title": "Chronos: Before the Ashes",
+  "url": "https://stadia.google.com/game/chronos-before-the-ashes",
+  "img": "https://lh3.googleusercontent.com/i5ljF7eJmFyq5lggHvorEG1YTBx8yjxkIGx3oOyAKgR-__T_4H3aCLfm77NRy5aaSsKwZjnZSdfBSj7I0H-R6RenfwpVGINwgTkv-aiiMtM71jFrrUkzMZSLpA\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$29.99 Buy"
+  ],
+  "description": "Chronos: Before the Ashes is an atmospheric RPG that chronicles a hero’s lifelong quest to save their homeland from a great evil. Grow wiser, stronger and more powerful as you explore the depths of the mysterious labyrinth. But beware, the labyrinth takes a heavy toll – each time your hero dies, they lose a year of their life!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/rxXlsASeXcg7sL2n_V0bAJ8iGLM7n5QNVG4zSIdOGRamj3tE0I1REeOupBu4n5J_4g0M6psR4IlN9Jl6XETRWWFFrOUcX0XnS4OKPDcogTz0ecPHjxktkXLNpDQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/tSQRUuc7C_uwtg-ppft3ubDuA11UpQ1GyAVxrGlTjFO3iCLfr-bDtXfa6oppcttD3VdsNc3eKUm6mTVmZRFO79HUL80xjx-13sP1HmzfpwKWoV2aaN1EHVWryJI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HlWRBs_O0lmS1anhoFUHzbrjFIfqcVH5gEaXuonIwXECbtoWjroPDWDJ9tZhyh_fnEnTbgAccr7uD2oMbuYugd1_kTHBCECChq4Am-OLFn54v6IHLbri4uw9wlI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/CUbmzNO5fzjuyfYK-OFDScBGlYP_wS-ysqnxnrocL4CUQjMf9qlXD24kD9S8iWeQFMGPqYOwqcXa6PAeSmTavmD98BXIOwcKAO0hDLC0mk0234mseXdnD1-BFqI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/0CjWkKEs4X1nEPrdsFG6z9NoZ8puYsir6LOX9y6B6Rd2OlBxjBlA-AuB-D1PIP7XLwwZjmqlHOMfWig8FoLYqYqhc4GxpL_HQhMc5KQLwsvv0Wc_7PJDEN3r6w\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-12-01",
+  "publisher": "THQ Nordic",
+  "developer": "THQ Nordic",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2020 THQ Nordic AB, Sweden. Developed by Gunfire Games \u0026 THQ Nordic. Published by THQ Nordic GmbH, Austria. Chronos, THQ and their respective logos are trademarks and/or registered trademarks of THQ Nordic AB. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners."
+}

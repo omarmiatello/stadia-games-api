@@ -1,0 +1,87 @@
+{
+  "title": "Serious Sam 4",
+  "url": "https://stadia.google.com/game/serious-sam-4",
+  "img": "https://lh3.googleusercontent.com/VVSG-2M1KOxbuEbfpfGq1RaAHQ9J-RoF2T6KIWyTMDhsR1JsRCRskP-oj__Fn9yYyhRDBAPwsT2bWrmTh0-HC-r6c7pQY4Le-c-37ZHD5t9KJKyfisUBzZp4wFEd\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy"
+  ],
+  "description": "Serious Sam 4 reignites the classic FPS series in a high-powered prequel loaded with an explosive arsenal, intergalactic carnage, and perfectly timed one-liners.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/Q7QkwnkqEqYNJgy4yfTHxNbl9Fgdo_VY8rUyaDTAyZbARRw_zNf4m_6s5gUHLrlvuTHGYgbQVqOnlV0bcRLbFsVqOy1gpNsAb3O0U3zloXUSSWSAocTRabkyGlEZ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dYIBPmd5rAH00CRtmUEVFP3Z4MlVs2I74iCTPJU10imrNYvW9dJwGOeQez6EByKnodEWwhOjDJP8Wr-PBOqm0VtKMM_OkGj8SV2nDXcyMR7o8gl-hb2tUrXtNrn0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dvn7dgJkxXO-Mx76F9gSwM_ipPlt0wKx52xd9kRVNvsMwIIjFF0bbE6YgjvMc4mzi5q89CrX6-HtOW-NNz7oJDTWttSRVNVrdaSHJh1eiQXkRBRG3yqS75spJSLJ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/riFUmWXZluxj770khYvz9GJiy9KMG0LYyhskrvhJFZ3ZMthBEAU91-2wleLGxCJzkuccZGiJ8AyZ7T8sV_anLBeWaq5yc032d8cDD8dc4uA3lV3n0ouucV_Frks\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wtwDP0s3TeLHTwhQVF-Vdpp9JhWJbKAL69ZwIBG8UVBX4pqdZdZLSxn1hXggKCbgG04AVvoERE4SNsbgkrZnoWrjoZcR2Jo_SI3hNS8q58vGqFv2WABcoLBKlw19\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AKOmXwbcmCl2ed4B7lmL47d2Ta8yNVoZhy5fLM4aYWf6Fg9rKA0-Kk8BlWv8DBil6ErwUV_CFnjcoG6zQ1btSwBRIh7NUyW0KiovBhQKOiTI8fjFGjOfltkL06M\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/2WHeCZf2XKdTSW4wklMo6Ltc5K7vf3BjJ4bN1M8p2SIeLZg-gesoQX4L1RivMeiAZ1nezeYXzb3SDkycVLABwtfTGIx3ia_VGItSsu3lunBFGNpB9vY9pGObt50\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZTBDTrLeHFnvyfEmmlqjC09diqAO8Wjx68BNbHe0vVpUSuP71bXn5mTkPbWqT2ZcrjDpMkk0igh0tMRZwl_cB7goKyXmOuz0TYg2DRi24zzIqqX0ELvdBpiJwEe_\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-09-24",
+  "publisher": "Devolver Digital",
+  "developer": "Croteam",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Turkish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Online co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "All Rights Reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Drug Reference",
+    "Intense Violence",
+    "Partial Nudity",
+    "Strong Language"
+  ]
+}

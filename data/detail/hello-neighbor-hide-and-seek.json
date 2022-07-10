@@ -1,0 +1,71 @@
+{
+  "title": "Hello Neighbor: Hide and Seek",
+  "url": "https://stadia.google.com/game/hello-neighbor-hide-and-seek",
+  "img": "https://lh3.googleusercontent.com/hUBcZmSJaSFUzCjhy9SXGf71v958YJq4VugVPWsrIVZtdJhAJV7pAfmAI7GAcYMol5nhMq_fyTx1zkQFHvyCOTnA1CITeTENtnT4AG7S1D9MFU4lFJzpBbFEKDk\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$29.99 Buy"
+  ],
+  "description": "Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor’s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with the loss of a family member. The game explains events that lead up to the original Stealth Horror hit Hello Neighbor.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/tVq8RO8WbrzJ8uA4EwhdEEgo-LJnQdsWnEklhn79UCAUNVnDMIWYb1_2DikxSa7PZAoO1AKvX8S-OQdmmvl47RWu95rx2xQyPrBOGI4XpJtaTU1eR9KOOSg8G88\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/EBfxrXPNqXdNEzhvukLFh_0CPPdDFzw84ZAiZxGdryIne0VIstBnXP_2Cykzt01wWdaWKVSQuefKriwf29AbYUAhMY_b1_kEyN9SNaQR-8KGvLuI-L_rRPkIuF_p\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/3jx4DbwoBNRtYCZgxB6jE60q-tnrwwjNE8pYzxXKP9-n30uE77YZ3MYN-itPLGHkmrqBEqqv-iHYtkUExDh4-EZTGXKsXBHDMgQv4KJPePzIqrWyCYhGl7uqYqqO\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/L2TwoSK7uZOGe4_ryq9VusUwjuhPBArHWjtd0qw8Mni2kVZpDyfRxO0hAYkfXFQbrT99Xoow5xgKaM6kMJSW92Wuo6Hp4BlFn-GahVfc00OC7Fib6GP4P2LQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/rRpcFiwgiO0rGl56k-UudVaShKzf0mgef3MN2c4zEvkjpzHCvDxyZbx0SdrOLJX6w1J9emGYkK9QtHbTaQvoaeJfqB9tE2S0cghtHPc11oPaU2-AlYCdE5_cM-s\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-11-01",
+  "publisher": "TinyBuild",
+  "developer": "TinyBuild",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Separate volume controls"
+  ],
+  "notes": "Developed and Published by tinyBuild Ⓒ 2020. All rights reserved.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Mild Violence"
+  ]
+}

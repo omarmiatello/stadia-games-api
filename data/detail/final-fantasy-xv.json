@@ -1,0 +1,65 @@
+{
+  "title": "FINAL FANTASY XV",
+  "url": "https://stadia.google.com/game/final-fantasy-xv",
+  "img": "https://lh3.googleusercontent.com/HLfdhEEpbJr_QgkIoeZdPemWzVju9XvXGPhwRvz2yOaa3WdmfQZClNz9oR4fRIfwei3B9fwKl93sNesarMO3d6eNBRCuJkwY7u6I7jupsakKBZjXfYo3tGyJrLw\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$39.99 Buy"
+  ],
+  "description": "Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/vY9Zwm9rYg3GX6fXHNuy_80FrmH-sLduQa2n0CN2jBt4ajoXWe_oywXlELnuubzqFaSf6TSzLwLd1gYzMQFyP2Pe-UEm_vwLKHz3mq-RSV2iD19gHCYW5hitsTc\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2019-11-19",
+  "publisher": "Square Enix",
+  "developer": "Square Enix Japan",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Role-playing game"
+  ],
+  "game_modes": [
+    "Online co-op",
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Brightness constrast gamma adjustment",
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Training mode"
+  ],
+  "notes": "© 2016-2019 SQUARE ENIX CO., LTD. All Rights Reserved. MAIN CHARACTER DESIGN:TETSUYA NOMURA"
+}

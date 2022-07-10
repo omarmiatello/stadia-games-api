@@ -1,0 +1,71 @@
+{
+  "title": "PAC-MAN™ Mega Tunnel Battle",
+  "url": "https://stadia.google.com/game/pac-man-mega-tunnel-battle",
+  "img": "https://lh3.googleusercontent.com/czFCd0bc8yQK8igpSHVJq_ATY4uT5jrYgFrnWB96G5Ym4R8Hm-0skxfgY_qevaECcUgNOKBweZfjC9sBFIj2fmrZXyB7M6pGchU8UPdgy2VnMKVC2-BGgMrP1A\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$19.99 Buy"
+  ],
+  "description": "Prove your mettle in the world’s biggest simultaneous multiplayer PAC-MAN experience! Jump into 64-player games and show everyone who\u0027s the leader of the PAC! Invade other players\u0027 mazes, eat their dots and power ups - even other players! - and dominate the mazes! But watch out: viewers can vote on power-ups that can cause you - or your opponents! - to stumble on the field and be eliminated from battle! Invade, defend, and rack up high scores across a field of 64 interconnected mazes. Take advantage of brand-new power-ups, spy on neighboring boards, and much more! Spectator interactivity means even viewers are part of all the thrilling action! And customize your PAC-MAN and your home maze with fun skins to show off unique looks!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/XMjkfMxdK0iurh6Rrb-A7IBqR_o-I5FOaZEvpRc6Yoe9vlGQuXgTAytRSrPz3pUZIj7GyX3IbLsUsseczx1KLCJptNi-n8giKc2KS6t8H1sdA8MW_jbs0z3-GwQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/jGMShB21GFxYwOB8PKpnILO3Rswma4lDQZzSRqYMfy4Byjqb2lXtiiApkOWvhq5AoMnslwdYq0xsTs04cKhn-wSOeS23NEhRfNordfrz_zsbCfPF_D_eZECnxONt\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/eACnvE4PEiitQI6GwOb_FNOkt0D9uZgwsxlpIU4xJ6ViYpsQ3KWVeHuVacZfVuO6eRqE4dMPKM6exOKBWzDSTvxccnbr9454t_eLWJbH3I74i-WX8Uq0ycfJSy7u\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/VDAiCEJqSMfWipiBJwClroC2xyszGSrxf-BdihFoE4QK1TFD6vYJVRnWIqC0p7Ip6AK_jGX7heduz3ZPH9krlteuQxO-gPTJnaHx9vNj18KbKCA_aOI2aQ58l3E\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/VtZB1gNY-YSqrLNrEdCgio-QzDhsAML40hDnPCrhp6AQRGbvS_t6S1or_AocnMTB4pYULUaN8K1z7lEjzRHvZFE_To93dEr-rX9Sxclr2ldKnLWpJzKvdFWViGw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2020-11-17",
+  "publisher": "BANDAI NAMCO Entertainment America Inc.",
+  "developer": "Heavy Iron",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade",
+    "Casual"
+  ],
+  "game_modes": [
+    "Competitive",
+    "Online multiplayer"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
+  ],
+  "notes": "PAC-MAN™ Mega Tunnel Battle \u0026 ©2020 BANDAI NAMCO Entertainment Inc."
+}
