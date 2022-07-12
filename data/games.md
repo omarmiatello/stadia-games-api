@@ -337,6 +337,7 @@
 1. [Those Who Remain](https://stadia.google.com/game/those-who-remain) - Play for 30 min
 1. [Through the Darkest of Times](https://stadia.google.com/game/through-the-darkest-of-times) - Play for 30 min
 1. [Thumper](https://stadia.google.com/game/thumper)
+1. [Time on Frog Island](https://stadia.google.com/game/time-on-frog-island)
 1. [Tom Clancy's Ghost Recon Breakpoint](https://stadia.google.com/game/tom-clancys-ghost-recon-breakpoint)
 1. [Tom Clancy's Ghost Recon Breakpoint - Gold Edition](https://stadia.google.com/game/tom-clancys-ghost-recon-breakpoint-gold-edition)
 1. [Tom Clancy's Ghost Recon® Breakpoint Deluxe Edition](https://stadia.google.com/game/tom-clancys-ghost-recon-breakpoint-deluxe-edition)
