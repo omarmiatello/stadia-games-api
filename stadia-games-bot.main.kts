@@ -29,17 +29,6 @@ fun List<String>.toCleanListOrNull() =
 data class GameListResponse(val api_version: Int, val count: Int, val games: List<Game>)
 data class Game(val title: String, val url: String, val img: String, val button: String?) {
     fun urlSlug() = url.takeLastWhile { it != '/' }
-
-    fun toMarkdown() = buildString {
-        append("[$title]($url)")
-        if (button != null) append(" - $button")
-    }
-
-    fun toPlainText(withButton: Boolean = true, withUrl: Boolean = true) = buildString {
-        append(title)
-        if (withButton && button != null) append(" - $button")
-        if (withUrl) append(" $url")
-    }
 }
 
 data class GameDetail(
@@ -66,6 +55,41 @@ data class GameDetail(
     val pegi_notes: List<String>?,
 ) {
     fun urlSlug() = url.takeLastWhile { it != '/' }
+
+    fun isPro() = "Claim with Pro" in buttons.orEmpty()
+    fun isUbisoftPlus() = "Get with Ubisoft+" in buttons.orEmpty()
+    fun hasLocalCoop() = "Local co-op" in game_modes.orEmpty()
+    fun hasLocalMultiplayer() = "Local multiplayer" in game_modes.orEmpty()
+    fun hasDirectTouch() = "Touch support" in supported_input.orEmpty()
+
+    fun toMarkdown() = buildString {
+        append("[$title]($url)")
+        if (button != null) append(" - $button")
+        listOfNotNull(
+            "#StadiaPro".takeIf { isPro() },
+            "#UbisoftPlus".takeIf { isUbisoftPlus() },
+        ).joinToString().also { services ->
+            if (services.isNotEmpty()) append(" - available also with $services")
+        }
+        if (hasLocalCoop()) append(" #LocalCoop")
+        if (hasLocalMultiplayer()) append(" #LocalMultiplayer")
+        if (hasDirectTouch()) append(" #DirectTouch")
+    }
+
+    fun toPlainText(withButton: Boolean = true, showDetails: Boolean = true, withUrl: Boolean = true) = buildString {
+        append(title)
+        if (withButton && button != null) append(" - $button")
+        listOfNotNull(
+            "#StadiaPro".takeIf { isPro() },
+            "#UbisoftPlus".takeIf { isUbisoftPlus() },
+        ).joinToString().also { services ->
+            if (showDetails && services.isNotEmpty()) append(" - available also with $services")
+        }
+        if (showDetails && hasLocalCoop()) append(" #LocalCoop")
+        if (showDetails && hasLocalMultiplayer()) append(" #LocalMultiplayer")
+        if (showDetails && hasDirectTouch()) append(" #DirectTouch")
+        if (withUrl) append(" $url")
+    }
 }
 
 launchKotlinScriptToolbox(
@@ -94,19 +118,17 @@ launchKotlinScriptToolbox(
         .distinctBy { it.title }
         .sortedBy { it.title }
 
+    // # Game Details API
+    val allGameDetails = allGames.map { game ->
+        readJsonOrNull<GameDetail>("detail/${game.urlSlug()}.json")
+            ?: Jsoup.parse(URL(game.url), 10000)
+                .parseGameDetail(game)
+                .also { gameDetail -> writeJson("detail/${game.urlSlug()}.json", gameDetail) }
+    }
+
     // # Update API (in `/data/` folder)
     writeJson("games.json", GameListResponse(api_version = 1, count = allGames.size, games = allGames))
-    writeText("games.md", allGames.toMarkdownNumberedList())
-
-    // # Game Details API
-    val urlToGameDetails = allGames
-        .map { game ->
-            readJsonOrNull<GameDetail>("detail/${game.urlSlug()}.json")
-                ?: Jsoup.parse(URL(game.url), 10000)
-                    .parseGameDetail(game)
-                    .also { gameDetail -> writeJson("detail/${game.urlSlug()}.json", gameDetail) }
-        }
-        .associateBy { it.url }
+    writeText("games.md", allGameDetails.toMarkdownNumberedList())
 
     // # Find old games
     if (oldAllGames != null) {
@@ -114,26 +136,26 @@ launchKotlinScriptToolbox(
         // 1. Find new games
         val oldGamesTitles = oldAllGames.map { it.title }.toSet()
         val oldGamesUrls = oldAllGames.map { it.url }.toSet()
-        val newGames = allGames.filter { it.title !in oldGamesTitles && it.url !in oldGamesUrls }
+        val newGames = allGameDetails.filter { it.title !in oldGamesTitles && it.url !in oldGamesUrls }
 
         // 2. Send notifications
-        newGames.toTelegramMessages(singular = "A new game", plural = "new games")
+        newGames.toTelegramMessages(singular = "a new game", plural = "new games")
             .forEach { msg -> sendTelegramMessage(text = msg) }
         newGames.toTwitterMessages(singular = "A new game", plural = "new games")
             .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
 
         // ## New demos: assuming `it.button != null` means "has demo"
         // 1. Find new demos
-        val newGamesDemo = oldAllGames
+        val oldGamesDemosMap = oldAllGames
             .filter { it.button != null }
             .associate { it.title to it.button!! }
-            .let { oldGamesDemosMap -> allGames.filter { it.button != null && oldGamesDemosMap[it.title] != it.button } }
+        val newGamesDemo = allGameDetails.filter { it.button != null && oldGamesDemosMap[it.title] != it.button }
 
         // 2. Send notifications
         val newGamesFiltered = newGamesDemo.filter { it !in newGames }      // to reduce noise
         newGamesFiltered.toTelegramMessages(singular = "a new demo", plural = "new demos")
             .forEach { msg -> sendTelegramMessage(text = msg) }
-        newGamesFiltered.toTwitterMessages(singular = "a new demo", plural = "new demos")
+        newGamesFiltered.toTwitterMessages(singular = "A new demo", plural = "new demos")
             .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
 
         // ## Update changelog (in `/data/` folder)
@@ -165,14 +187,14 @@ launchKotlinScriptToolbox(
 }
 
 // Set up: Games converter
-fun List<Game>.toTelegramMessages(singular: String, plural: String) = when (size) {
+fun List<GameDetail>.toTelegramMessages(singular: String, plural: String) = when (size) {
     0 -> emptyList()
     1 -> listOf("There is *$singular*: ${first().toMarkdown()}")
     in 2..5 -> listOf("There are *$size $plural*: ${first().toMarkdown()}") + drop(1).map { game -> game.toMarkdown() }
     else -> listOf("There are *$size $plural*: ${joinToString("\n") { it.toMarkdown() }}")
 }
 
-fun List<Game>.toTwitterMessages(singular: String, plural: String) = when (size) {
+fun List<GameDetail>.toTwitterMessages(singular: String, plural: String) = when (size) {
     0 -> emptyList()
     1 -> listOf("$singular on #Stadia\n\n${first().toPlainText()}")
     in 2..5 -> map { game -> "$size $plural on #Stadia, including\n\n${game.toPlainText()}" }
@@ -201,7 +223,7 @@ fun List<Game>.toTwitterMessages(singular: String, plural: String) = when (size)
     }
 }
 
-fun List<Game>.toMarkdownNumberedList() =
+fun List<GameDetail>.toMarkdownNumberedList() =
     joinToString("\n") { game -> "1. ${game.toMarkdown()}" }
 
 fun Document.parseGameDetail(
