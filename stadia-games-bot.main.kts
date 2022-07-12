@@ -139,8 +139,12 @@ launchKotlinScriptToolbox(
         val newGames = allGameDetails.filter { it.title !in oldGamesTitles && it.url !in oldGamesUrls }
 
         // 2. Send notifications
-        newGames.toTelegramMessages(singular = "a new game", plural = "new games")
-            .forEach { msg -> sendTelegramMessage(text = msg) }
+        try {
+            newGames.toTelegramMessages(singular = "a new game", plural = "new games")
+                .forEach { msg -> sendTelegramMessage(text = msg) }
+        } catch (e: Exception) {
+            println(e.stackTraceToString())
+        }
         newGames.toTwitterMessages(singular = "A new game", plural = "new games")
             .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
 
@@ -153,8 +157,12 @@ launchKotlinScriptToolbox(
 
         // 2. Send notifications
         val newGamesFiltered = newGamesDemo.filter { it !in newGames }      // to reduce noise
-        newGamesFiltered.toTelegramMessages(singular = "a new demo", plural = "new demos")
-            .forEach { msg -> sendTelegramMessage(text = msg) }
+        try {
+            newGamesFiltered.toTelegramMessages(singular = "a new demo", plural = "new demos")
+                .forEach { msg -> sendTelegramMessage(text = msg) }
+        } catch (e: Exception) {
+            println(e.stackTraceToString())
+        }
         newGamesFiltered.toTwitterMessages(singular = "A new demo", plural = "new demos")
             .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
 
