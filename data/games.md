@@ -25,7 +25,7 @@
 1. [Baldur's Gate 3 Early Access](https://stadia.google.com/game/baldurs-gate-3)
 1. [Ben 10: Power Trip](https://stadia.google.com/game/ben-10-power-trip) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Blaze and the Monster Machines: Axle City Racers](https://stadia.google.com/game/blaze-and-the-monster-machines-axle-city-racers) - Play for 60 min #LocalMultiplayer
-1. [Bloodstained: Ritual of the Night](https://stadia.google.com/game/bloodstained-ritual-of-the-night) - available also with #StadiaPro
+1. [Bloodstained: Ritual of the Night](https://stadia.google.com/game/bloodstained-ritual-of-the-night) - Play for 60 min - available also with #StadiaPro
 1. [Blue Fire](https://stadia.google.com/game/blue-fire) - Play for 60 min
 1. [Borderlands®3](https://stadia.google.com/game/borderlands3)
 1. [Borderlands®3: Super Deluxe Edition](https://stadia.google.com/game/borderlands3-super-deluxe-edition)
@@ -88,8 +88,8 @@
 1. [EVERSPACE™](https://stadia.google.com/game/everspace)
 1. [El Hijo - A Wild West Tale](https://stadia.google.com/game/el-hijo-a-wild-west-tale) - Play for 30 min
 1. [Elemental War 2](https://stadia.google.com/game/elemental-war-2)
-1. [Embr](https://stadia.google.com/game/embr)
-1. [Enter The Gungeon](https://stadia.google.com/game/enter-the-gungeon) #LocalMultiplayer
+1. [Embr](https://stadia.google.com/game/embr) - Play for 60 min
+1. [Enter The Gungeon](https://stadia.google.com/game/enter-the-gungeon) - Play for 30 min #LocalMultiplayer
 1. [Epistory - Typing Chronicles](https://stadia.google.com/game/epistory-typing-chronicles) - available also with #StadiaPro
 1. [F1® 2020](https://stadia.google.com/game/f1-2020) #LocalMultiplayer
 1. [F1® 2020 Deluxe Schumacher Edition](https://stadia.google.com/game/f1-2020-deluxe-schumacher-edition) #LocalMultiplayer
@@ -103,7 +103,7 @@
 1. [FIFA 22 Ultimate Edition](https://stadia.google.com/game/fifa-22-ultimate-edition) #LocalCoop #LocalMultiplayer
 1. [FINAL FANTASY XV](https://stadia.google.com/game/final-fantasy-xv)
 1. [FLOOR KIDS](https://stadia.google.com/game/floor-kids) #LocalMultiplayer
-1. [FORECLOSED](https://stadia.google.com/game/foreclosed)
+1. [FORECLOSED](https://stadia.google.com/game/foreclosed) - Play for 60 min
 1. [Family Feud®](https://stadia.google.com/game/family-feud) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
 1. [Far Cry 5](https://stadia.google.com/game/far-cry-5) - available also with #UbisoftPlus
 1. [Far Cry 5 Ultimate Edition](https://stadia.google.com/game/far-cry-5-ultimate-edition) - available also with #UbisoftPlus
@@ -142,14 +142,14 @@
 1. [HUMANKIND™](https://stadia.google.com/game/humankind) - Play for 120 min #DirectTouch
 1. [HUMANKIND™ - Digital Deluxe Edition](https://stadia.google.com/game/humankind-digital-deluxe-edition) #DirectTouch
 1. [Heist Simulator Early Access](https://stadia.google.com/game/heist-simulator)
-1. [Hello Engineer](https://stadia.google.com/game/hello-engineer)
-1. [Hello Neighbor](https://stadia.google.com/game/hello-neighbor)
-1. [Hello Neighbor: Hide and Seek](https://stadia.google.com/game/hello-neighbor-hide-and-seek)
+1. [Hello Engineer](https://stadia.google.com/game/hello-engineer) - Play for 30 min
+1. [Hello Neighbor](https://stadia.google.com/game/hello-neighbor) - Play for 60 min
+1. [Hello Neighbor: Hide and Seek](https://stadia.google.com/game/hello-neighbor-hide-and-seek) - Play for 60 min
 1. [Hellpoint](https://stadia.google.com/game/hellpoint) #LocalCoop #LocalMultiplayer
-1. [Hotline Miami](https://stadia.google.com/game/hotline-miami)
-1. [Hotline Miami 2:Wrong Number](https://stadia.google.com/game/hotline-miami-2wrong-number)
+1. [Hotline Miami](https://stadia.google.com/game/hotline-miami) - Play for 30 min
+1. [Hotline Miami 2:Wrong Number](https://stadia.google.com/game/hotline-miami-2wrong-number) - Play for 30 min
 1. [House of the Dead - Remake](https://stadia.google.com/game/house-of-the-dead-remake) #LocalCoop #LocalMultiplayer
-1. [Human: Fall Flat Stadia Edition](https://stadia.google.com/game/human-fall-flat-stadia-edition) #LocalCoop #LocalMultiplayer
+1. [Human: Fall Flat Stadia Edition](https://stadia.google.com/game/human-fall-flat-stadia-edition) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Hundred Days - Winemaking Simulator](https://stadia.google.com/game/hundred-days-winemaking-simulator) - available also with #StadiaPro #DirectTouch
 1. [Hunting Simulator 2 Elite Edition](https://stadia.google.com/game/hunting-simulator-2-elite-edition)
 1. [Ice Age: Scrat's Nutty Adventure](https://stadia.google.com/game/ice-age-scrats-nutty-adventure) - Play for 30 min
@@ -166,7 +166,7 @@
 1. [Just Shapes & Beats](https://stadia.google.com/game/just-shapes-beats) #LocalCoop #LocalMultiplayer
 1. [Katamari Damacy REROLL](https://stadia.google.com/game/katamari-damacy-reroll) #LocalMultiplayer
 1. [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks) - available also with #StadiaPro
-1. [Kemono Heroes](https://stadia.google.com/game/kemono-heroes) #LocalCoop #LocalMultiplayer
+1. [Kemono Heroes](https://stadia.google.com/game/kemono-heroes) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Killer Queen Black](https://stadia.google.com/game/killer-queen-black) - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Kine](https://stadia.google.com/game/kine)
 1. [Kona](https://stadia.google.com/game/kona)
@@ -203,14 +203,14 @@
 1. [Metro Last Light Redux](https://stadia.google.com/game/metro-last-light-redux)
 1. [Monopoly](https://stadia.google.com/game/monopoly) - available also with #UbisoftPlus #LocalMultiplayer
 1. [Monster Boy and the Cursed Kingdom](https://stadia.google.com/game/monster-boy-and-the-cursed-kingdom)
-1. [Monster Energy Supercross - The Official Videogame 3](https://stadia.google.com/game/monster-energy-supercross-the-official-videogame-3)
-1. [Monster Energy Supercross - The Official Videogame 4](https://stadia.google.com/game/monster-energy-supercross-the-official-videogame-4)
+1. [Monster Energy Supercross - The Official Videogame 3](https://stadia.google.com/game/monster-energy-supercross-the-official-videogame-3) - Play for 60 min
+1. [Monster Energy Supercross - The Official Videogame 4](https://stadia.google.com/game/monster-energy-supercross-the-official-videogame-4) - Play for 60 min
 1. [Monster Jam Steel Titans](https://stadia.google.com/game/monster-jam-steel-titans) - Play for 30 min #LocalMultiplayer
 1. [Monster Jam Steel Titans 2](https://stadia.google.com/game/monster-jam-steel-titans-2) - Play for 30 min #LocalMultiplayer
 1. [Moonlighter](https://stadia.google.com/game/moonlighter)
 1. [Mortal Kombat 11](https://stadia.google.com/game/mortal-kombat11) #LocalMultiplayer
 1. [Mortal Kombat 11 Ultimate](https://stadia.google.com/game/mortal-kombat11-ultimate) #LocalMultiplayer
-1. [MotoGP™20](https://stadia.google.com/game/motogp20)
+1. [MotoGP™20](https://stadia.google.com/game/motogp20) - Play for 60 min
 1. [MotoGP™21](https://stadia.google.com/game/motogp21) - Play for 60 min
 1. [Murder by Numbers](https://stadia.google.com/game/murder-by-numbers) - Play for 60 min
 1. [My Friend Peppa Pig](https://stadia.google.com/game/my-friend-peppa-pig) - Play for 30 min
@@ -228,7 +228,7 @@
 1. [Olympic Games Tokyo 2020 – The Official Video Game™](https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game) #LocalCoop #LocalMultiplayer
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min - available also with #StadiaPro
 1. [Orcs Must Die! 3](https://stadia.google.com/game/orcs-must-die-3)
-1. [Outcasters](https://stadia.google.com/game/outcasters)
+1. [Outcasters](https://stadia.google.com/game/outcasters) - Play for 60 min
 1. [Outward](https://stadia.google.com/game/outward) #LocalCoop #LocalMultiplayer
 1. [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/game/pac-man-mega-tunnel-battle) - Play for 30 min
@@ -237,7 +237,7 @@
 1. [PGA TOUR 2K21](https://stadia.google.com/game/pga-tour-2k21) #LocalMultiplayer
 1. [PGA TOUR 2K21 Digital Deluxe](https://stadia.google.com/game/pga-tour-2k21-digital-deluxe) #LocalMultiplayer
 1. [PHOGS!](https://stadia.google.com/game/phogs) - Play for 60 min - available also with #StadiaPro #LocalCoop
-1. [PIKUNIKU](https://stadia.google.com/game/pikuniku) #LocalCoop
+1. [PIKUNIKU](https://stadia.google.com/game/pikuniku) - Play for 30 min #LocalCoop
 1. [PJ MASKS: HEROES OF THE NIGHT](https://stadia.google.com/game/pj-masks-heroes-of-the-night) - Play for 30 min
 1. [PUBG: BATTLEGROUNDS](https://stadia.google.com/game/pubg)
 1. [Panzer Dragoon: Remake](https://stadia.google.com/game/panzer-dragoon-remake)
@@ -257,7 +257,7 @@
 1. [Rayman Legends](https://stadia.google.com/game/rayman-legends) - available also with #UbisoftPlus #LocalCoop
 1. [Red Dead Redemption 2](https://stadia.google.com/game/rdr2)
 1. [Red Dead Redemption 2:  Ultimate Edition](https://stadia.google.com/game/rdr2-ultimate-edition)
-1. [Reigns](https://stadia.google.com/game/reigns)
+1. [Reigns](https://stadia.google.com/game/reigns) - Play for 30 min
 1. [Relicta](https://stadia.google.com/game/relicta)
 1. [Resident Evil 7 biohazard Gold Edition](https://stadia.google.com/game/resident-evil-7-biohazard-gold-edition)
 1. [Resident Evil Village](https://stadia.google.com/game/resident-evil-village)
@@ -284,10 +284,10 @@
 1. [Saints Row IV: Re-Elected](https://stadia.google.com/game/saints-row-iv-re-elected) - available also with #StadiaPro
 1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered)
 1. [Scott Pilgrim vs. The World™ - Complete Edition](https://stadia.google.com/game/scott-pilgrim-vs-the-world-complete-edition) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
-1. [Secret Neighbor](https://stadia.google.com/game/secret-neighbor)
+1. [Secret Neighbor](https://stadia.google.com/game/secret-neighbor) - Play for 60 min
 1. [Sekiro™: Shadows Die Twice](https://stadia.google.com/game/sekiro-shadows-die-twice)
-1. [Serious Sam 4](https://stadia.google.com/game/serious-sam-4)
-1. [Serious Sam Collection](https://stadia.google.com/game/serious-sam-collection)
+1. [Serious Sam 4](https://stadia.google.com/game/serious-sam-4) - Play for 30 min
+1. [Serious Sam Collection](https://stadia.google.com/game/serious-sam-collection) - Play for 30 min
 1. [Shadow of the Tomb Raider Definitive Edition](https://stadia.google.com/game/shadow-of-the-tomb-raider-definitive-edition)
 1. [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition)
 1. [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/game/shantae-riskys-revenge-directors-cut)
@@ -311,7 +311,7 @@
 1. [TOHU](https://stadia.google.com/game/tohu) - Play for 30 min - available also with #StadiaPro
 1. [TRANSFORMERS: BATTLEGROUNDS - Complete Edition](https://stadia.google.com/game/transformers-battlegrounds-complete-edition) - Play for 30 min #LocalMultiplayer
 1. [TRIVIAL PURSUIT Live! 2](https://stadia.google.com/game/trivial-pursuit-live-2) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer #DirectTouch
-1. [Terraria](https://stadia.google.com/game/terraria) - available also with #StadiaPro
+1. [Terraria](https://stadia.google.com/game/terraria) - Play for 90 min - available also with #StadiaPro
 1. [The Addams Family: Mansion Mayhem](https://stadia.google.com/game/the-addams-family-mansion-mayhem) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [The Crew 2](https://stadia.google.com/game/the-crew-2) - available also with #UbisoftPlus
 1. [The Crew 2 Gold Edition](https://stadia.google.com/game/the-crew-2-gold-edition) - available also with #UbisoftPlus
@@ -337,7 +337,7 @@
 1. [Those Who Remain](https://stadia.google.com/game/those-who-remain) - Play for 30 min - available also with #StadiaPro
 1. [Through the Darkest of Times](https://stadia.google.com/game/through-the-darkest-of-times) - Play for 30 min - available also with #StadiaPro
 1. [Thumper](https://stadia.google.com/game/thumper)
-1. [Time on Frog Island](https://stadia.google.com/game/time-on-frog-island) - available also with #StadiaPro
+1. [Time on Frog Island](https://stadia.google.com/game/time-on-frog-island) - Play for 60 min - available also with #StadiaPro
 1. [Tom Clancy's Ghost Recon Breakpoint](https://stadia.google.com/game/tom-clancys-ghost-recon-breakpoint) - available also with #UbisoftPlus
 1. [Tom Clancy's Ghost Recon Breakpoint - Gold Edition](https://stadia.google.com/game/tom-clancys-ghost-recon-breakpoint-gold-edition)
 1. [Tom Clancy's Ghost Recon® Breakpoint Deluxe Edition](https://stadia.google.com/game/tom-clancys-ghost-recon-breakpoint-deluxe-edition)
@@ -384,6 +384,6 @@
 1. [Ys IX: Monstrum Nox](https://stadia.google.com/game/ys-ix-monstrum-nox) - Play for 120 min - available also with #StadiaPro
 1. [Ys IX: Monstrum Nox Digital Deluxe Edition](https://stadia.google.com/game/ys-ix-monstrum-nox-digital-deluxe-edition)
 1. [Ys IX: Monstrum Nox Digital Ultimate Edition](https://stadia.google.com/game/ys-ix-monstrum-nox-digital-ultimate-edition)
-1. [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/game/ys-viii-lacrimosa-of-dana)
+1. [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/game/ys-viii-lacrimosa-of-dana) - Play for 120 min
 1. [Zombie Army 4: Dead War](https://stadia.google.com/game/zombie-army-4-dead-war)
 1. [Zorro The Chronicles](https://stadia.google.com/game/zorro-the-chronicles)
