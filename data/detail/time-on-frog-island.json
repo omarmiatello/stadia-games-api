@@ -2,7 +2,9 @@
   "title": "Time on Frog Island",
   "url": "https://stadia.google.com/game/time-on-frog-island",
   "img": "https://lh3.googleusercontent.com/01RmO1Kes1vsHcRg18dLs95XLGeqMTCy2vaPSD4AWJM50EiGA6e2YY94HCc5UXTxU8OMGnGlkQfQJHgyHb5USBjj9mDJtkAVVIY2CJSL-1hXqGdEXJCClL0txVI\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
+    "Play for 60 min",
     "$24.99 Buy",
     "Claim with Pro"
   ],

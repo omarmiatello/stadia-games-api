@@ -2,7 +2,9 @@
   "title": "Hello Neighbor",
   "url": "https://stadia.google.com/game/hello-neighbor",
   "img": "https://lh3.googleusercontent.com/k0ZpnilJN1ripUZesB7C-Bei0ARIkSNk1R7kM54JqdD8tlOdZHLPf78IlmyqvykfmBwXffQY931shJAaVUweJQ-n0f6ylVi2aC3Px7OncxhmF5bpuv9Z_C9p3xI\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
+    "Play for 60 min",
     "$29.99 Buy"
   ],
   "description": "Hello Neighbor is a stealth horror game about sneaking into your neighbor\u0027s house to figure out what horrible secrets he\u0027s hiding in the basement. You play against an advanced AI that learns from your every move. Really enjoying climbing through that backyard window? Expect a bear trap there. Sneaking through the front door? There\u0027ll be cameras there soon. Trying to escape? The Neighbor will find a shortcut and catch you.",

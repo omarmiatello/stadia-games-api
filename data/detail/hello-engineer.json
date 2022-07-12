@@ -2,7 +2,9 @@
   "title": "Hello Engineer",
   "url": "https://stadia.google.com/game/hello-engineer",
   "img": "https://lh3.googleusercontent.com/zb-W8yyQDPnZvPy-kchjP7h3IQOG3P4HPZReHp5skqHTqNX0MUDlgWtdxzpg5RRPiRozp4YSM0xriEJovjpBMlCqvraJ-femvlPwbFGznZWRoMkUR1xvJb7yGAM\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
   "buttons": [
+    "Play for 30 min",
     "$19.99 Buy"
   ],
   "description": "Hello Engineer is a multiplayer machinery-building construction game set in the Hello Neighbor universe. Scavenge, craft, and overcome challenges in the sandbox world of a mysterious amusement park. Put together incredible machines built of scrap, and beware of the Neighbor!",
