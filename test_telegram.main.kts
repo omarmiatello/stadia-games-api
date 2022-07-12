@@ -1,6 +1,6 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.3")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.4")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
 import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
@@ -13,7 +13,7 @@ data class GameListResponse(val api_version: Int, val count: Int, val games: Lis
 data class Game(val title: String, val url: String, val img: String, val button: String?)
 
 launchKotlinScriptToolbox(
-    scope = ZeroSetupScope(baseScope = BaseScope.fromDefaults(filepathPrefix = "data/")),
+    scope = ZeroSetupScope(baseScope = BaseScope.from(filepathPrefix = "data/")),
 ) {
 
     val telegramChatIds: List<String> = (readSystemProperty("TELEGRAM_CHAT_ID_LIST").split(",") +

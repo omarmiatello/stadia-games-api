@@ -1,6 +1,6 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.3")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.4")
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
@@ -16,7 +16,7 @@ data class GameListResponse(val api_version: Int, val count: Int, val games: Lis
 data class Game(val title: String, val url: String?, val img: String, val button: String?)
 
 launchKotlinScriptToolbox(
-    scope = ZeroSetupScope(baseScope = BaseScope.fromDefaults(filepathPrefix = "data/wayback-machine/")),
+    scope = ZeroSetupScope(baseScope = BaseScope.from(filepathPrefix = "data/wayback-machine/")),
 ) {
     val dir = File("/Users/omarmiatello/Desktop/waybackpack-0.4.0/build/lib/waybackpack/stadia2")
     dir.walkTopDown().filter { it.name == ".DS_Store" }.forEach { it.delete() }

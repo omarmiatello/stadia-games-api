@@ -1,6 +1,6 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.3")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.4")
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
@@ -51,7 +51,7 @@ data class Game(
 }
 
 launchKotlinScriptToolbox(
-    scope = ZeroSetupScope(baseScope = BaseScope.fromDefaults(filepathPrefix = "data/")),
+    scope = ZeroSetupScope(baseScope = BaseScope.from(filepathPrefix = "data/")),
     scriptName = "Update for Stadia Games API",
 ) {
     val gameDetails = readJson<GameListResponse>("games.json").games

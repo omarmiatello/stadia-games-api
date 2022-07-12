@@ -1,6 +1,6 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.3")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.4")
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
@@ -93,7 +93,7 @@ data class GameDetail(
 }
 
 launchKotlinScriptToolbox(
-    scope = ZeroSetupScope(baseScope = BaseScope.fromDefaults(filepathPrefix = "data/")),
+    scope = ZeroSetupScope(baseScope = BaseScope.from(filepathPrefix = "data/")),
     scriptName = "Update for Stadia Games API",
 ) {
     val now = LocalDateTime.now()
@@ -139,12 +139,8 @@ launchKotlinScriptToolbox(
         val newGames = allGameDetails.filter { it.title !in oldGamesTitles && it.url !in oldGamesUrls }
 
         // 2. Send notifications
-        try {
-            newGames.toTelegramMessages(singular = "a new game", plural = "new games")
-                .forEach { msg -> sendTelegramMessage(text = msg) }
-        } catch (e: Exception) {
-            println(e.stackTraceToString())
-        }
+        newGames.toTelegramMessages(singular = "a new game", plural = "new games")
+            .forEach { msg -> sendTelegramMessage(text = msg) }
         newGames.toTwitterMessages(singular = "A new game", plural = "new games")
             .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
 
@@ -157,12 +153,8 @@ launchKotlinScriptToolbox(
 
         // 2. Send notifications
         val newGamesFiltered = newGamesDemo.filter { it !in newGames }      // to reduce noise
-        try {
-            newGamesFiltered.toTelegramMessages(singular = "a new demo", plural = "new demos")
-                .forEach { msg -> sendTelegramMessage(text = msg) }
-        } catch (e: Exception) {
-            println(e.stackTraceToString())
-        }
+        newGamesFiltered.toTelegramMessages(singular = "a new demo", plural = "new demos")
+            .forEach { msg -> sendTelegramMessage(text = msg) }
         newGamesFiltered.toTwitterMessages(singular = "A new demo", plural = "new demos")
             .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
 

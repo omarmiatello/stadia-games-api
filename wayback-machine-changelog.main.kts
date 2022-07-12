@@ -1,6 +1,6 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.3")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.4")
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
@@ -24,7 +24,7 @@ data class Game(val title: String, val url: String?, val img: String, val button
 }
 
 launchKotlinScriptToolbox(
-    scope = ZeroSetupScope(baseScope = BaseScope.fromDefaults(filepathPrefix = "data/wayback-machine/")),
+    scope = ZeroSetupScope(baseScope = BaseScope.from(filepathPrefix = "data/wayback-machine/")),
 ) {
 
     fun List<Game>.toMarkdownNumberedList() =
