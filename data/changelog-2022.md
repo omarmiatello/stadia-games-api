@@ -1,5 +1,8 @@
 ## 2022-07-12
 
+### 1 new game
+1. [Time on Frog Island](https://stadia.google.com/game/time-on-frog-island) - Play for 60 min - available also with #StadiaPro
+
 ### 23 new demos
 1. [Bloodstained: Ritual of the Night](https://stadia.google.com/game/bloodstained-ritual-of-the-night) - Play for 60 min - available also with #StadiaPro
 1. [Embr](https://stadia.google.com/game/embr) - Play for 60 min
@@ -24,13 +27,6 @@
 1. [Terraria](https://stadia.google.com/game/terraria) - Play for 90 min - available also with #StadiaPro
 1. [Time on Frog Island](https://stadia.google.com/game/time-on-frog-island) - Play for 60 min - available also with #StadiaPro
 1. [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/game/ys-viii-lacrimosa-of-dana) - Play for 120 min
-
-## 2022-07-12
-
-### 1 new game
-1. [Time on Frog Island](https://stadia.google.com/game/time-on-frog-island)
-
-## 2022-07-09
 
 ## 2022-07-08
 
