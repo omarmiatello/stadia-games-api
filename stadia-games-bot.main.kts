@@ -120,10 +120,11 @@ launchKotlinScriptToolbox(
 
     // # Game Details API
     val allGameDetails = allGames.map { game ->
-        readJsonOrNull<GameDetail>("detail/${game.urlSlug()}.json")
+        val detail = (readJsonOrNull<GameDetail>("detail/${game.urlSlug()}.json")
             ?: Jsoup.parse(URL(game.url), 10000)
                 .parseGameDetail(game)
-                .also { gameDetail -> writeJson("detail/${game.urlSlug()}.json", gameDetail) }
+                .also { gameDetail -> writeJson("detail/${game.urlSlug()}.json", gameDetail) })
+        detail.copy(title = game.title, url = game.url, img = game.img, button = game.button)
     }
 
     // # Update API (in `/data/` folder)
