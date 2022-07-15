@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 390,
+  "count": 391,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -10,7 +10,7 @@
     {
       "title": "ARK: Survival Evolved",
       "url": "https://stadia.google.com/game/ark-survival-evolved",
-      "img": "https://lh3.googleusercontent.com/UY6CXzQADX00itHqd525khCHvv8h96FXpK0fR3eKsC89973XpkU4mSUbRT6x1rpnn9N2rDJaBptfH6MyQb926HS0_tdSFgjkU-jVG74ogFMXy-RHXgrv4SrExTI\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/K-S-M77cV8igFRwnPBg5WpiCtILZg6g3bDuoAZwwVe_k8o6XVxOiKULIWKLcb_f8dBTVVLQMY36YfdbaH3nPLDr08MGJZYdbFDOiG5GvR8D5NkoxaoGLvaj6bZs\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "AVICII Invector",
@@ -254,7 +254,7 @@
     {
       "title": "Crayta",
       "url": "https://stadia.google.com/game/crayta",
-      "img": "https://lh3.googleusercontent.com/13zL3lWwqT1BFoVvi9cUU1doxjMORH0frFkHoF17iah6gaSYH1WA86D3mczGp5FRCBKwC1TAAVbKv7X41PszveKkVNz1PmoVRlWUgITD19j3kIaoQwBayb8WK1LD\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/cOXiRG_cZKzPfRfSr8AZoC5gpQ19nrppkIg94eC3P5qH10A-RH4-BjbXC7X1R5gwfQzCxGZRc10QlAAt_rU5CRn_8pUSDdKfNTlrjhtWjiCzLmHzLp4rLOUpLkhB\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Cris Tales",
@@ -271,6 +271,11 @@
       "title": "Cyberpunk 2077",
       "url": "https://stadia.google.com/game/cyberpunk2077",
       "img": "https://lh3.googleusercontent.com/my4ViQkAJRJfXqpbOLlvSqmdTQyDeUFwTtimm5Qbr-zNt9vfMXiGG3rA9LEICgLD8zpPxFZvW2VPFOJYlE7QA69_hDJK_Cjd9ffcUeJOHiIO87-XLSRhUQWcLp7h\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "DC League of Super-Pets: The Adventures of Krypto \u0026 Ace",
+      "url": "https://stadia.google.com/game/dc-league-of-super-pets-the-adventures-of-krypto-ace",
+      "img": "https://lh3.googleusercontent.com/1-QTDrzDmh08CaJvSFHfCIi6Bri0hGjaH7UnNhfHPU-LNZd7ao_bK50nbhL2eHU-_lSMpCUUbim_YgaZ5kopKQ_4w1Gu0y_bPXdCOPqnJDTrhtguUI2zSRu9zO_2\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "DEATHRUN TV",
@@ -1820,12 +1825,12 @@
     {
       "title": "Tom Clancy\u0027s Rainbow Six Siege",
       "url": "https://stadia.google.com/game/rainbow-six-siege",
-      "img": "https://lh3.googleusercontent.com/QRnTNxzyGXxi3EM-i5JBmsow8E4PVlUcIgHvmnxb0yM4qPozlyfef53ss6c8N741RLT-HosNiejZqZRfs1aP5EcU1IVJZzOCuh9nZAcD0R-gwE2iubbXSEk40oE\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/bxr1MUv2LBidEqtP5ouFQtDmBlmWAui4DBRxOwHcd2mRSiUgh_2jaelOQxThKlsHw8eiAX4hpsDCjucqKQP2nA67kMTM88zoipXhY0HZxZ9wVKlq7J8xQQRLmxg\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Tom Clancy\u0027s Rainbow Six Siege Ultimate Edition",
       "url": "https://stadia.google.com/game/rainbow-six-siege-ultimate-edition-bundle",
-      "img": "https://lh3.googleusercontent.com/6CmkPEwRhzFwtdtCHsnOtvPWx42VaYkcaTMVXYkqaeq-cIFpJC7B5GcO3Gkmz8aO_kyYve5Yqc-xtWiVgtF1AmqugdU8n5CzxVNT5j0X_A7wu2qPqGjdqLzAfaE\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/cotloNq9tORvi0_719efV1hzMITurjyLgYVxPHo7xwDVKCyDlpG2OUrFtFyOEWQNqrhLlHezbDZAuE7M_cPgXA3cPVps37N-73LPdnHqdT7BlotXhqdEUtyFSf8\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Tom Clancy\u0027s Rainbow Six® Extraction United Bundle",
@@ -1835,17 +1840,17 @@
     {
       "title": "Tom Clancy\u0027s Rainbow Six® Siege Deluxe Edition",
       "url": "https://stadia.google.com/game/rainbow-six-siege-deluxe-edition-bundle",
-      "img": "https://lh3.googleusercontent.com/LiACYW8suMvYbKFWr_zZNzZiIenFFE-FGMK2mOu_eMrHu9HRbjgHBB5kTBu1xTJdwPAqgnmjeWJiFbwJO7g19XUn9AEyfNDzrd8kx2T_kMX0v6rTcg9__Ru1pg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/c9fVPyOR8fNRibuVs9_Z3aXGujJKmyWwGKNU072EZBIt-fz2y8cluRKqMvde-dL5v0cZ1JSi9d6doVv7XEKQyLdiwcb27KfovdT9DkaOkS3oj4r-TwozGtkrdA\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Tom Clancy\u0027s Rainbow Six® Siege Operator Edition",
       "url": "https://stadia.google.com/game/rainbow-six-siege-operator-edition-bundle",
-      "img": "https://lh3.googleusercontent.com/ftY6uykQ_veg1LiehcHJJXUY4UODupBUl3WG9dJhKc6V5RHT7fQF9SOHH6X2E_Tpy26Nqt0sRSMGkyw1eXAcMaDLoRAezmBIbj7JwZnlz2hgwaW7f3pR5MRS8A\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/qn4MfIpAkw6VQ2-4C4e8AJ8Gp4FOyVsmWc8sEEZJVpadZAt7CDdPlu4LaFtaRSUsSZHti4nF4l9lGPvVjTc96n3aLodNHD1W3jjie_21qM13o28JYF_toJHUJw\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Tom Clancy\u0027s Rainbow Six® Siege Ultimate Edition",
       "url": "https://stadia.google.com/game/rainbow-six-siege-ultimate-edition",
-      "img": "https://lh3.googleusercontent.com/_PKXQ4FNW3_uK2gHtXd3Q2Ffo1o0q9XVb9GeBcn99in4QamTl21Dxf-WwkKXdl0GhjWziyjztGLFxD9zZ8Y0LBMh7UF6qJsNzj9tETkwzY3Zl4QY2Df1Bh7n3us\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/bAwh3LuCM2TfFYWHFDQZ5K6KL4u5ghpNcmaLuvO3urWkhPd0a-xuMoAZ8Cv0PobHIsldFRTrN9HtZ7WudaqfxzbzTrh-AZUTnH3UB0PYPMPhZcOtRjL6GpG-cts\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Tom Clancy’s Ghost Recon Wildlands - Standard Edition",

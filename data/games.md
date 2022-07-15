@@ -49,6 +49,7 @@
 1. [Cris Tales](https://stadia.google.com/game/cris-tales) - Play for 60 min
 1. [Cthulhu Saves Christmas](https://stadia.google.com/game/cthulhu-saves-christmas)
 1. [Cyberpunk 2077](https://stadia.google.com/game/cyberpunk2077)
+1. [DC League of Super-Pets: The Adventures of Krypto & Ace](https://stadia.google.com/game/dc-league-of-super-pets-the-adventures-of-krypto-ace)
 1. [DEATHRUN TV](https://stadia.google.com/game/deathrun-tv) - Play for 30 min - available also with #StadiaPro
 1. [DIRT 5](https://stadia.google.com/game/dirt-5)
 1. [DIRT 5 Year One Edition](https://stadia.google.com/game/dirt-5-year-one-edition)
