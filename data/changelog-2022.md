@@ -1,3 +1,8 @@
+## 2022-07-15
+
+### 1 new game
+1. [Valiant Hearts: The Great War®](https://stadia.google.com/game/valiant-hearts-the-great-war) - available also with #UbisoftPlus #DirectTouch
+
 ## 2022-07-12
 
 ### 1 new game

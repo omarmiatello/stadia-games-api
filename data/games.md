@@ -359,6 +359,7 @@
 1. [UNO®](https://stadia.google.com/game/uno) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
 1. [UNO® Ultimate Edition](https://stadia.google.com/game/uno-ultimate-edition) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
 1. [Unto The End](https://stadia.google.com/game/unto-the-end)
+1. [Valiant Hearts: The Great War®](https://stadia.google.com/game/valiant-hearts-the-great-war) - available also with #UbisoftPlus #DirectTouch
 1. [Valkyria Chronicles 4 Complete Edition](https://stadia.google.com/game/valkyria-chronicles-4-complete-edition)
 1. [WATCH_DOGS 2 ULTIMATE EDITION](https://stadia.google.com/game/watch-dogs-2-ultimate-edition) - available also with #UbisoftPlus
 1. [WATCH_DOGS COMPLETE EDITION](https://stadia.google.com/game/watch-dogs-complete-edition) - available also with #UbisoftPlus

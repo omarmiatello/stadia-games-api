@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 389,
+  "count": 390,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -1902,6 +1902,11 @@
       "title": "Unto The End",
       "url": "https://stadia.google.com/game/unto-the-end",
       "img": "https://lh3.googleusercontent.com/p-cvlRGAtvjechw061lwdDGAz0VSps-xeZ6vQTfAGfzajlETKTRfZTeeYREalbLqvwHnE1g2sWxB_lxWoXa1UJY-ka3ZYTvAugotI-q1tXm7pH_wb7u1bHT5lQ\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "Valiant Hearts: The Great War®",
+      "url": "https://stadia.google.com/game/valiant-hearts-the-great-war",
+      "img": "https://lh3.googleusercontent.com/rSTy2yHP_TP-Y0470dvv0CK2_ftm4mbKsWSWLCc8PS-fcjYngrir9pJrT--kOmjUkuzZ4Iqoi6SgIgoSEfAS_DQyrKmL4kkW9d0uVt2XsrereYPUlJnktuzWNUNz\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Valkyria Chronicles 4 Complete Edition",
