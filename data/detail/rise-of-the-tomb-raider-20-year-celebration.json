@@ -3,7 +3,7 @@
   "url": "https://stadia.google.com/game/rise-of-the-tomb-raider-20-year-celebration",
   "img": "https://lh3.googleusercontent.com/7EeX5bOtYi0sz_FzQO4KE8Xc5D1JAojWrziIXlv4QLBd93_JNd48OoSmEdsR15XPbSjQ2mvpj0-znKbT70pj8XaW6e7WynE_UkwfXhf7WgLF7VB3CAvUxvRgWsA\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$29.99 Buy"
+    "$29.99 $5.99 Buy"
   ],
   "description": "Rise of the Tomb Raider: 20 Year Celebration includes the base game and Season Pass featuring all-new content. Explore Croft Manor in the new \"Blood Ties\" story, then defend it against a zombie invasion in \"Lara’s Nightmare\". Survive extreme conditions with a friend in the new online Co-Op Endurance mode, and brave the new \"Extreme Survivor\" difficulty. Also features an outfit and weapon inspired by Tomb Raider III, and 5 classic Lara skins.",
   "image_urls": [
@@ -40,6 +40,7 @@
     "Hungary",
     "Ireland",
     "Italy",
+    "Mexico",
     "Netherlands",
     "Norway",
     "Poland",
@@ -49,6 +50,7 @@
     "Spain",
     "Sweden",
     "Switzerland",
+    "Turkey",
     "United Kingdom",
     "United States"
   ],

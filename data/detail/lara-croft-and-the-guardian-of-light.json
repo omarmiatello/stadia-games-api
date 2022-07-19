@@ -3,7 +3,7 @@
   "url": "https://stadia.google.com/game/lara-croft-and-the-guardian-of-light",
   "img": "https://lh3.googleusercontent.com/OspAVFzDwGgXmcdpPVBaYcy9HeldrwIcQPT9gg0tMBkBQ3-DxP5QmYC19DeaxuiMCcVeWew6QUidz5dfb-3bPQpG3GqanbTJEQMPTflLLW9O9UwG85N-DiC4Phy6\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$14.99 Buy"
+    "$14.99 $2.24 Buy"
   ],
   "description": "Lara Croft and the Guardian of Light is an action/adventure game featuring Lara Croft. This brand extension combines the hallmarks of the Tomb Raider franchise including exploration \u0026 discovery, platforming, and puzzle solving combined with character progression, fun fast-paced combat, and elements of human cooperation and competition.",
   "image_urls": [
@@ -42,6 +42,7 @@
     "Hungary",
     "Ireland",
     "Italy",
+    "Mexico",
     "Netherlands",
     "Norway",
     "Poland",
@@ -51,6 +52,7 @@
     "Spain",
     "Sweden",
     "Switzerland",
+    "Turkey",
     "United Kingdom",
     "United States"
   ],

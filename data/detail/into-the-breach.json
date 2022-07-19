@@ -1,32 +1,37 @@
 {
   "title": "Into the Breach",
   "url": "https://stadia.google.com/game/into-the-breach",
-  "img": "https://lh3.googleusercontent.com/ckBiCtmcFjuBYG5npPThH3NStpo2vXo6b6WCa4cKatrCwWAhQnmDM-dZ7gXnTiA4L9vPnoKwhg5DbZ3TBCJWBc7QQO3iXXniyN_hfVHihb20RVWRep96fknGh3Q\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/erxkb41eGVb6NW_SxzDCaAY_M61y-BEdAxYhtiKKKZFZEnvKA--YTMRojTtPG_WNV_NUwTdpHwKw4T8amRzqDq4a-SzGV_92y8bJjjao_LdNrz8aPvJdCaXqPFE\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
     "$14.99 Buy"
   ],
   "description": "The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/L7XdJnqUXIQ6giTjoSdzfI_e0UQUDQZlejdBKu1yqAAQ8INuq74ZDsxoILkblKCcv4EYIyj0S6rK4wL2j4onxv2VzbAh13cc1Zfef9uWTlV0RMNUXF12XSh6dMQ\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/Hiimi4PS4fefUC5G9vh-LSchhXDJoG-5G6SmI3fBBa8tv0lK2vQFYa7xDRtZ8hGtFooVh_s-9JCmmk20Yhnq56kYWH-C3MR2EZBwtgdxs7JD2_ZN0A_aFKdgiHg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/YA758fDlrG_pxYhgDLjz6CrxX189rlr_WT65yyztWAYpGB7pSgOZjb-4rbtY9CY2Ex75RHjmdIOwok2Q6MwNN5R2FRzCBz6AWERdHRhCJ2Pu8C4XJCUhvTrdpXE\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/czSWdzUs8Afpjd_c-RfWycre2Zz5prM7N5XE_yAFDlW7qlInnAe_dowOjhdJBUMi1-NEiTnjFX6V4_XgeLsMAMFvVxvBFM1-MeykdcDZh6toTPEu9chdNw8HMBc\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/87db10phrLIKqNhfTmzHvmIUI28Pa675oRe6fqsHZgkZar5ami7_NFKtJXlAYXui_eYDK6CbAPJrpWRiGUNCQBE2Iv9QMOxYogJ9mtbdtt53p09sKk3777Ei5m4\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/aG_gx1HKcnQ4UvGkpW84bfDMoXcHyJRfADgGal41_2tBtkyrukgbC9tM3xc_k7MzQG0Xwd_geeHbZweNOh1uSfbAL6_S3U9MeSJ8Xi34v0vMhIzZ_xjgwmTs924\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Un4ABB9FpMJYQXb5-bEzaRQc3m55IFzMgwrSe5bkdoGPQwxlVcMX0d5NPAmP9Dakst1YYy1tI9vpfBpwgug96zMDb_NNoVg9OwbuAyca-0UZJ-ozKE0bgz_tn5U\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ec4CofYR_Gp8-uf0MDQfU0bsCxT8eIsV76KDF-DxgUmS-rTc7aX6SLFRnPlzIG_uWS_a54CMWFUbxOZRR4WlhmKF2Qfhc5RbrLmF2rcydgSml0mB2cbZLJrprxU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/pkfiao7sPHk4D1Q4bb47W5aY5YShZKcsqjVE9kiihNcokoyD2P1d4bTxmmeTpzIvmqiozF08KivhKkvbVmDCtWrWhC1b9bz1Kkwv7fVKgeNbzyb99J5ZMRhbtWw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/-aNF_sriLTQBl17i0ny06suCfCAvGSD9D2K6sk-1-3U0QZwo0NaRQulC7zUQN2mIul1gqaQHUtq8sGOhO36Qifzvfq_SDNjiZ7XBKDy6Fp-I7u-bjoqGk_ONPKc\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-12-01",
   "publisher": "Subset Games",
   "developer": "Subset Games",
   "languages": [
+    "Arabic",
     "Chinese",
     "English",
     "French",
     "German",
     "Italian",
     "Japanese",
+    "Korean",
     "Polish",
     "Portuguese",
     "Russian",
-    "Spanish"
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish"
   ],
   "available_country": [
     "Austria",
@@ -67,6 +72,7 @@
   "accessibility_features": [
     "Adjustable captions text size",
     "Adjustable dialog text size",
+    "Button remapping",
     "Colorblind modes",
     "Separate volume controls",
     "Training mode"
