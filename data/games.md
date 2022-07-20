@@ -86,6 +86,7 @@
 1. [Discovery Tour: Viking Age](https://stadia.google.com/game/discovery-tour-viking-age) - available also with #UbisoftPlus
 1. [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/game/dreamworks-dragons-dawn-of-new-riders) - Play for 30 min
 1. [DreamWorks Spirit Lucky's Big Adventure](https://stadia.google.com/game/dreamworks-spirit-luckys-big-adventure) - Play for 30 min
+1. [EA SPORTS™ FIFA 23 Standard Edition](https://stadia.google.com/game/fifa-23-standard-edition-preorder-product)
 1. [EVERSPACE™](https://stadia.google.com/game/everspace)
 1. [El Hijo - A Wild West Tale](https://stadia.google.com/game/el-hijo-a-wild-west-tale) - Play for 30 min
 1. [Elemental War 2](https://stadia.google.com/game/elemental-war-2)
@@ -102,6 +103,7 @@
 1. [FIFA 21 Ultimate Edition](https://stadia.google.com/game/fifa-21-ultimate-edition) #LocalCoop #LocalMultiplayer
 1. [FIFA 22](https://stadia.google.com/game/fifa-22) #LocalCoop #LocalMultiplayer
 1. [FIFA 22 Ultimate Edition](https://stadia.google.com/game/fifa-22-ultimate-edition) #LocalCoop #LocalMultiplayer
+1. [FIFA 23 Ultimate Edition + Limited Time Bonus](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-early-product)
 1. [FINAL FANTASY XV](https://stadia.google.com/game/final-fantasy-xv)
 1. [FLOOR KIDS](https://stadia.google.com/game/floor-kids) #LocalMultiplayer
 1. [FORECLOSED](https://stadia.google.com/game/foreclosed) - Play for 60 min

@@ -1,3 +1,9 @@
+## 2022-07-20
+
+### 2 new games
+1. [EA SPORTS™ FIFA 23 Standard Edition](https://stadia.google.com/game/fifa-23-standard-edition-preorder-product)
+1. [FIFA 23 Ultimate Edition + Limited Time Bonus](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-early-product)
+
 ## 2022-07-15
 
 ### 1 new game
