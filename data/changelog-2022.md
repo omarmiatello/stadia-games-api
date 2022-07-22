@@ -1,3 +1,11 @@
+## 2022-07-22
+
+### 1 new game
+1. [Phoenix Point: Complete Edition](https://stadia.google.com/game/phoenix-point-complete-edition) - Play for 120 min
+
+### 1 new demo
+1. [Phoenix Point: Complete Edition](https://stadia.google.com/game/phoenix-point-complete-edition) - Play for 120 min
+
 ## 2022-07-20
 
 ### 2 new games

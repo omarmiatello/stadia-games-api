@@ -245,7 +245,7 @@
 1. [PUBG: BATTLEGROUNDS](https://stadia.google.com/game/pubg)
 1. [Panzer Dragoon: Remake](https://stadia.google.com/game/panzer-dragoon-remake)
 1. [Phoenix Point](https://stadia.google.com/game/phoenix-point)
-1. [Phoenix Point: Year One Edition](https://stadia.google.com/game/phoenix-point-year-one-edition)
+1. [Phoenix Point: Complete Edition](https://stadia.google.com/game/phoenix-point-complete-edition) - Play for 120 min
 1. [PixelJunk Raiders](https://stadia.google.com/game/pixeljunk-raiders) - available also with #StadiaPro
 1. [Power Rangers: Battle for the Grid](https://stadia.google.com/game/power-rangers-battle-for-the-grid) #LocalMultiplayer
 1. [Power Rangers: Battle for the Grid Collector's Edition](https://stadia.google.com/game/power-rangers-battle-for-the-grid-collectors-edition) #LocalMultiplayer
@@ -264,7 +264,6 @@
 1. [Relicta](https://stadia.google.com/game/relicta)
 1. [Resident Evil 7 biohazard Gold Edition](https://stadia.google.com/game/resident-evil-7-biohazard-gold-edition)
 1. [Resident Evil Village](https://stadia.google.com/game/resident-evil-village)
-1. [Resident Evil Village Deluxe Edition](https://stadia.google.com/game/resident-evil-village-deluxe-edition)
 1. [Resident Evil Village Gameplay Demo](https://stadia.google.com/game/resident-evil-village-demo)
 1. [Riders Republic](https://stadia.google.com/game/riders-republic) - available also with #UbisoftPlus
 1. [Riders Republic Gold Edition](https://stadia.google.com/game/riders-republic-gold-edition-bundle)
