@@ -1,3 +1,8 @@
+## 2022-07-23
+
+### 1 new demo
+1. [Welcome to Elk](https://stadia.google.com/game/welcome-to-elk) - Play for 60 min
+
 ## 2022-07-22
 
 ### 1 new game

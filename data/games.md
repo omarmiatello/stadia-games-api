@@ -376,7 +376,7 @@
 1. [Watch_Dogs® 2](https://stadia.google.com/game/watch-dogs-2) - available also with #UbisoftPlus
 1. [Wave Break](https://stadia.google.com/game/wave-break) - available also with #StadiaPro
 1. [Wavetale](https://stadia.google.com/game/wavetale) - available also with #StadiaPro
-1. [Welcome to Elk](https://stadia.google.com/game/welcome-to-elk)
+1. [Welcome to Elk](https://stadia.google.com/game/welcome-to-elk) - Play for 60 min
 1. [West of Loathing](https://stadia.google.com/game/west-of-loathing)
 1. [Windbound](https://stadia.google.com/game/windbound)
 1. [Wolfenstein: Youngblood](https://stadia.google.com/game/wolfenstein-youngblood)
