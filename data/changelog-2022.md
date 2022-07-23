@@ -8,9 +8,6 @@
 ### 1 new game
 1. [Phoenix Point: Complete Edition](https://stadia.google.com/game/phoenix-point-complete-edition) - Play for 120 min
 
-### 1 new demo
-1. [Phoenix Point: Complete Edition](https://stadia.google.com/game/phoenix-point-complete-edition) - Play for 120 min
-
 ## 2022-07-20
 
 ### 2 new games
@@ -19,12 +16,8 @@
 
 ## 2022-07-15
 
-### 1 new game
+### 2 new games
 1. [DC League of Super-Pets: The Adventures of Krypto & Ace](https://stadia.google.com/game/dc-league-of-super-pets-the-adventures-of-krypto-ace)
-
-## 2022-07-15
-
-### 1 new game
 1. [Valiant Hearts: The Great War®](https://stadia.google.com/game/valiant-hearts-the-great-war) - available also with #UbisoftPlus #DirectTouch
 
 ## 2022-07-12
