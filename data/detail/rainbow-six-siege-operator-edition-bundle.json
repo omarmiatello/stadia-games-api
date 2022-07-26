@@ -1,15 +1,16 @@
 {
   "title": "Tom Clancy\u0027s Rainbow Six® Siege Operator Edition",
   "url": "https://stadia.google.com/game/rainbow-six-siege-operator-edition-bundle",
-  "img": "https://lh3.googleusercontent.com/qn4MfIpAkw6VQ2-4C4e8AJ8Gp4FOyVsmWc8sEEZJVpadZAt7CDdPlu4LaFtaRSUsSZHti4nF4l9lGPvVjTc96n3aLodNHD1W3jjie_21qM13o28JYF_toJHUJw\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/X_wxoeefIVEoYTABTriF4GpHUUmEj22siISlv-1I2-Vbz8XvGg5sNvjm4rUq8z9_uonqBLrJg0XiHZE8q6SYin1piS3Lwm6Efhq1RbXVNTELTqGbzQyGcRau3A\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$79.99 Buy"
+    "$79.99 $43.99 Buy",
+    "$31.99 Buy"
   ],
   "description": "Start your Siege adventure with the new Operator Edition, now including the full game plus all 42 operators from Years 1 to 6. Dive into explosive 5v5 gameplay, high stakes competition, and thrilling PVP team battles. Tom Clancy\u0027s Rainbow Six® Siege features an ever-expanding experience with limitless opportunities to perfect your strategy and help lead your team to victory. Rainbow Six Siege is constantly evolving. Each new season brings brand new content, game-changing Operators and abilities, in-game events, weapons, and maps.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/Z8_yeW65M90G0mdiVBS4fQ4bQC4QTrNs2eyLXBykrI-sw2nq26kzFlXQIMF0vgkYweuH9A24r9c82OoJ8y0lZpb6Gciqqu6hQI-gvkAQJ4wsFJFRciEpLOAA_A\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/a2AbheWKqKbe0BMTYgqlI8LopS824lL_ATf0uKCFIa88kAb5hu_PJEONwhvAu0qTP02QRoITpE2Z1gkoeMYGc7b0zycFRb46BC7ZObfevDqrkCCAzzt5A1Ce1A\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/cikRxAB76ZjTG7e1eoOAEaEsNFvDhVQJ0iWBcSnAn8JDT0619PWTpDTTHnIFSSJZ1vgazO8xkwFxehwzH_DKIdFSI0z9Ca--Q-HoKyzUQ9eZWfY-FAUvter0Ljw\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/1WdTTZ8rfNKF6G9ZwGFpdQUM-hxn8vKBuLENfAyNWV78U2WSkgD4POo6twAVSGd01UROeyt3R1Unz-sY6LAgHzBSFfSDz_S4CSonZKRaT_LDDh5AT-CnpneVqg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yGju8NLTJJx2MAoiOazEv3Tz3bHJD3Ft23On18fby1muZLe49-P1umoJE6rzxvGyRHqBqSGmcIyYT5EFtaitsehGsa9_TW9CEeFqmSLoWzXThTv7VXatXH6JJA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QRigRiDVviA5RNDIN-9ZDGcRjwSPyV-UDUtIBQXEyHvqi-BYlhQkGGZwzt8BlN5z6dx0D2qO7NrpuY6p2cSRGw3lgj3rWlTm-PhkGFkgSrERl4KuB9wYVxE3cWM\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2022-03-08",
   "publisher": "Ubisoft",
@@ -81,8 +82,8 @@
   "pegi_notes": [
     "+ Blood",
     "Drug Reference",
+    "In-Game Purchases",
     "Strong Language",
-    "Users Interact",
-    "Violence In-Game Purchases"
+    "Violence Users Interact"
   ]
 }
