@@ -1,3 +1,23 @@
+## 2022-07-26
+
+### 16 new demos
+1. [Dawn of the Monsters](https://stadia.google.com/game/dawn-of-the-monsters) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [EVERSPACE™](https://stadia.google.com/game/everspace) - Play for 120 min
+1. [Farming Simulator 22](https://stadia.google.com/game/farming-simulator-22) - Play for 180 min
+1. [Figment](https://stadia.google.com/game/figment) - Play for 30 min
+1. [Hundred Days - Winemaking Simulator](https://stadia.google.com/game/hundred-days-winemaking-simulator) - Play for 60 min - available also with #StadiaPro #DirectTouch
+1. [Mad Streets](https://stadia.google.com/game/mad-streets) - Play for 60 min #LocalCoop #LocalMultiplayer
+1. [Merek's Market](https://stadia.google.com/game/mereks-market) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Power Rangers: Battle for the Grid Super Edition](https://stadia.google.com/game/power-rangers-battle-for-the-grid-super-edition) - Play for 60 min #LocalMultiplayer
+1. [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/game/shantae-riskys-revenge-directors-cut) - Play for 30 min
+1. [SteamWorld Dig](https://stadia.google.com/game/steamworld-dig) - Play for 60 min
+1. [SteamWorld Heist](https://stadia.google.com/game/steamworld-heist) - Play for 60 min
+1. [SteamWorld Quest: Hand of Gilgamech](https://stadia.google.com/game/steamworld-quest-hand-of-gilgamech) - Play for 60 min
+1. [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iii) - Play for 120 min
+1. [The Legend of Heroes: Trails of Cold Steel IV](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iv) - Play for 120 min
+1. [Trine 4: The Nightmare Prince](https://stadia.google.com/game/trine-4-the-nightmare-prince) - Play for 30 min #LocalCoop #LocalMultiplayer
+1. [Wave Break](https://stadia.google.com/game/wave-break) - Play for 60 min - available also with #StadiaPro
+
 ## 2022-07-23
 
 ### 1 new demo
