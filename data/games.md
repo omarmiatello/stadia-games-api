@@ -276,8 +276,8 @@
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [République](https://stadia.google.com/game/republique) - available also with #StadiaPro
 1. [SAMURAI SHODOWN (Standard Ver.)](https://stadia.google.com/game/samurai-shodown) #LocalMultiplayer
-1. [SKULL AND BONES™](https://stadia.google.com/store/details/46c25c54db99408e8dee0ffb94eaa64arcp1/sku/89a1b792e66d4c58b3e460ef693ef7d2p)
-1. [SKULL AND BONES™ PREMIUM EDITION](https://stadia.google.com/store/details/46c25c54db99408e8dee0ffb94eaa64arcp1/sku/c2e138bf388744a6ae5e557e0dfe54fdp)
+1. [SKULL AND BONES™](https://stadia.google.com/game/skull-and-bones-pre-order)
+1. [SKULL AND BONES™ PREMIUM EDITION](https://stadia.google.com/game/skull-and-bones-premium-edition-preorder)
 1. [STAR WARS Jedi: Fallen Order™](https://stadia.google.com/game/star-wars-jedi-fallen-order)
 1. [STAR WARS Jedi: Fallen Order™ Deluxe Edition](https://stadia.google.com/game/star-wars-jedi-fallen-order-deluxe-edition)
 1. [SUPER BOMBERMAN R ONLINE](https://stadia.google.com/game/super-bomberman-r-online)
