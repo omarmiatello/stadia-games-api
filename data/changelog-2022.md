@@ -1,3 +1,8 @@
+## 2022-07-28
+
+### 1 new game
+1. [The Forgotten City](https://stadia.google.com/game/forgotten-city)
+
 ## 2022-07-26
 
 ### 16 new demos

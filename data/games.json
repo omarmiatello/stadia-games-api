@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 392,
+  "count": 393,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -146,7 +146,7 @@
     {
       "title": "Bloodstained: Ritual of the Night",
       "url": "https://stadia.google.com/game/bloodstained-ritual-of-the-night",
-      "img": "https://lh3.googleusercontent.com/8IbuBdISGYyjnRSwZUDu7MaLYeZxo18yOJyO_9b1RKrp_FGe7V8rzNKVm7QNhlnHXiKiD1lGOWv-Vl4mreb4QkWu4UckK_n_tg6T9VXBmvFEoagB8HtvYqnUIoM\u003dw300-h400-rw-no-v1-nu",
+      "img": "https://lh3.googleusercontent.com/PbqYZrZ5tlA4x5e3xyGFRD-i3-lFDmXkkbfcsjZZzkFq4l1ae81pfDb3BvcoEGlMgHi7ZbzjM0hSdswmNJfjlHYMYGSzqPdbOG3lyZAfj7V1MpUm1MASQoaIPPk\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 60 min"
     },
     {
@@ -1645,7 +1645,7 @@
     {
       "title": "Submerged: Hidden Depths",
       "url": "https://stadia.google.com/game/submerged-hidden-depths",
-      "img": "https://lh3.googleusercontent.com/BlfJYhPRASCS1ieAWjtu52gNruZ-WHQNaiCsa38GcZunQqFsTCQftavSWB7lPZeD3Wh6-Io0WHJTIqIgZ4g_RFT5QxIYnsNOvWSZ9N8K0_Zl7FUaAncnxq_3bA\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/stQoo4Yazl3iYQ3pPvh07mp59GfTPrz-4YKQKjq1xcn_4FRtt8n7FgMeUv_h-HYf6HTYdRNDwX4HVt740CFHWHtoHJqpR-RRH60DLgx0-zqVtgPgjvOKiiLMSg\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Sundered: Eldritch Edition",
@@ -1759,7 +1759,12 @@
     {
       "title": "The Falconeer: Warrior Edition",
       "url": "https://stadia.google.com/game/the-falconeer-warrior-edition",
-      "img": "https://lh3.googleusercontent.com/gL5HGok4CXf70ckzU4XxL1ldnEf-gmHK_gyzdgTtdkb3NFlTW219VOldux9lclVxS-oQ5tUUePVh0UcKITD4Q_wcRxlCUAqAXt7KRIE20L8bOQyjQy9Ezj9XVw\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/7PuUsUM87y8NXJksQe1uJcwwJmEfQ7qJQPQeJkpqZhYwpwZC0xngmwr1kX3TI6CPG2X6Yrup3jZQNxC944Y0ekmemGjbI7ay9i_bgqLrJwiflMEBxmXaNfFN6Q\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "The Forgotten City",
+      "url": "https://stadia.google.com/game/forgotten-city",
+      "img": "https://lh3.googleusercontent.com/LlYE5M7K2FpM2zdg3lIO1CF5LPnyQ8dvzMR7OjPvFpBKy9u6epnbZRyDvq5Aq-wB8meIAQpQ5eIT51QC3AevmnESZvVPzvV1bbGYpzncsM5UVXKLY2NBqXwMcOU\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "The Gardens Between",

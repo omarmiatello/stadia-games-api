@@ -329,6 +329,7 @@
 1. [The Elder Scrolls Online: Tamriel Unlimited](https://stadia.google.com/game/eso)
 1. [The Falconeer](https://stadia.google.com/game/the-falconeer) - Play for 60 min
 1. [The Falconeer: Warrior Edition](https://stadia.google.com/game/the-falconeer-warrior-edition)
+1. [The Forgotten City](https://stadia.google.com/game/forgotten-city)
 1. [The Gardens Between](https://stadia.google.com/game/the-gardens-between)
 1. [The Jackbox Party Pack 6](https://stadia.google.com/game/the-jackbox-party-pack-6) #LocalMultiplayer #DirectTouch
 1. [The Jackbox Party Pack 7](https://stadia.google.com/game/the-jackbox-party-pack-7) #LocalMultiplayer #DirectTouch
