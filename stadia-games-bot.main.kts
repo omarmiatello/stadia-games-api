@@ -160,6 +160,43 @@ launchKotlinScriptToolbox(
                 }
             )
         }
+
+        // # Update stats  (in `/data/` folder)
+        writeText(
+            pathname = "stats.md",
+            text = buildString {
+                appendLine("# Stadia games stats")
+                appendLine("## Overview")
+
+                appendLine("| Stats | # of games |")
+                appendLine("| --- | --- |")
+                appendLine("| Stadia games | ${allGameDetails.size} |")
+                appendLine("| Stadia demos | ${allGameDetails.filter { it.button != null }.size} |")
+                appendLine("| Games on Stadia Pro | ${allGameDetails.filter { it.isPro() }.size} |")
+                appendLine("| Games on Ubisoft+ | ${allGameDetails.filter { it.isUbisoftPlus() }.size} |")
+
+                fun gamesBy(attrName: String, attrValues: (GameDetail) -> List<String>) {
+                    appendLine()
+                    appendLine("## Games by **$attrName**")
+                    appendLine("| $attrName | # of games |")
+                    appendLine("| --- | --- |")
+                    allGameDetails.flatMap(attrValues)
+                        .groupingBy { it }
+                        .eachCount()
+                        .toList()
+                        .sortedWith(compareBy({ it.second }, { it.first }))
+                        .reversed()
+                        .forEach { (attrVal, stats) -> appendLine("| $attrVal | $stats |") }
+                }
+
+                gamesBy(attrName = "Genre", attrValues = { it.genre.orEmpty() })
+                gamesBy(attrName = "Game modes", attrValues = { it.game_modes.orEmpty() })
+                gamesBy(attrName = "Supported input", attrValues = { it.supported_input.orEmpty() })
+                gamesBy(attrName = "Language", attrValues = { it.languages.orEmpty() })
+                gamesBy(attrName = "Available country", attrValues = { it.available_country.orEmpty() })
+                gamesBy(attrName = "Accessibility features", attrValues = { it.accessibility_features.orEmpty() })
+            }
+        )
     }
 }
 
