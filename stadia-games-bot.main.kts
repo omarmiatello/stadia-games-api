@@ -1,14 +1,14 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.4")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.5")
 @file:DependsOn("org.jsoup:jsoup:1.15.1")
 
-import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
-import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
+import com.github.omarmiatello.kotlinscripttoolbox.core.*
 import com.github.omarmiatello.kotlinscripttoolbox.gson.readJsonOrNull
 import com.github.omarmiatello.kotlinscripttoolbox.gson.writeJson
-import com.github.omarmiatello.kotlinscripttoolbox.twitter.TwitterScope
+import com.github.omarmiatello.kotlinscripttoolbox.twitter.twitterUrl
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.ZeroSetupScope
+import com.github.omarmiatello.telegram.ParseMode
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import java.net.URL
@@ -61,35 +61,6 @@ data class GameDetail(
     fun hasLocalCoop() = "Local co-op" in game_modes.orEmpty()
     fun hasLocalMultiplayer() = "Local multiplayer" in game_modes.orEmpty()
     fun hasDirectTouch() = "Touch support" in supported_input.orEmpty()
-
-    fun toMarkdown() = buildString {
-        append("[$title]($url)")
-        if (button != null) append(" - $button")
-        listOfNotNull(
-            "#StadiaPro".takeIf { isPro() },
-            "#UbisoftPlus".takeIf { isUbisoftPlus() },
-        ).joinToString().also { services ->
-            if (services.isNotEmpty()) append(" - available also with $services")
-        }
-        if (hasLocalCoop()) append(" #LocalCoop")
-        if (hasLocalMultiplayer()) append(" #LocalMultiplayer")
-        if (hasDirectTouch()) append(" #DirectTouch")
-    }
-
-    fun toPlainText(withButton: Boolean = true, showDetails: Boolean = true, withUrl: Boolean = true) = buildString {
-        append(title)
-        if (withButton && button != null) append(" - $button")
-        listOfNotNull(
-            "#StadiaPro".takeIf { isPro() },
-            "#UbisoftPlus".takeIf { isUbisoftPlus() },
-        ).joinToString().also { services ->
-            if (showDetails && services.isNotEmpty()) append(" - available also with $services")
-        }
-        if (showDetails && hasLocalCoop()) append(" #LocalCoop")
-        if (showDetails && hasLocalMultiplayer()) append(" #LocalMultiplayer")
-        if (showDetails && hasDirectTouch()) append(" #DirectTouch")
-        if (withUrl) append(" $url")
-    }
 }
 
 launchKotlinScriptToolbox(
@@ -97,6 +68,7 @@ launchKotlinScriptToolbox(
     scriptName = "Update for Stadia Games API",
 ) {
     val now = LocalDateTime.now()
+    val isSilentNotification = now.hour in 0..7
     val changelogFilename = "changelog-${now.year}.md"
     // val changelogUrl = "https://github.com/omarmiatello/stadia-games-api/blob/main/data/$changelogFilename"
     val oldAllGames = readJsonOrNull<GameListResponse>("games.json")?.games
@@ -140,10 +112,12 @@ launchKotlinScriptToolbox(
         val newGames = allGameDetails.filter { it.title !in oldGamesTitles && it.url !in oldGamesUrls }
 
         // 2. Send notifications
-        newGames.toTelegramMessages(singular = "a new game", plural = "new games")
-            .forEach { msg -> sendTelegramMessage(text = msg) }
-        newGames.toTwitterMessages(singular = "A new game", plural = "new games")
-            .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
+        sendTelegramMessages(
+            messages = telegramMessages(games = newGames, singular = "a new game", plural = "new games"),
+            parse_mode = ParseMode.Markdown,
+            disable_notification = isSilentNotification,
+        )
+        sendTweets(messages = twitterMessages(games = newGames, singular = "A new game", plural = "new games"))
 
         // ## New demos: assuming `it.button != null` means "has demo"
         // 1. Find new demos
@@ -154,10 +128,12 @@ launchKotlinScriptToolbox(
 
         // 2. Send notifications
         val newGamesFiltered = newGamesDemo.filter { it !in newGames }      // to reduce noise
-        newGamesFiltered.toTelegramMessages(singular = "a new demo", plural = "new demos")
-            .forEach { msg -> sendTelegramMessage(text = msg) }
-        newGamesFiltered.toTwitterMessages(singular = "A new demo", plural = "new demos")
-            .forEach { msg -> sendTweet(msg, ignoreLimit = true) }
+        sendTelegramMessages(
+            messages = telegramMessages(games = newGamesFiltered, singular = "a new demo", plural = "new demos"),
+            parse_mode = ParseMode.Markdown,
+            disable_notification = isSilentNotification,
+        )
+        sendTweets(messages = twitterMessages(games = newGamesFiltered, singular = "A new demo", plural = "new demos"))
 
         // ## Update changelog (in `/data/` folder)
         if (newGames.isNotEmpty() || newGamesDemo.isNotEmpty()) {
@@ -188,44 +164,137 @@ launchKotlinScriptToolbox(
 }
 
 // Set up: Games converter
-fun List<GameDetail>.toTelegramMessages(singular: String, plural: String) = when (size) {
-    0 -> emptyList()
-    1 -> listOf("There is *$singular*: ${first().toMarkdown()}")
-    in 2..5 -> listOf("There are *$size $plural*: ${first().toMarkdown()}") + drop(1).map { game -> game.toMarkdown() }
-    else -> listOf("There are *$size $plural*: ${joinToString("\n") { it.toMarkdown() }}")
+fun MessageL1Scope.gameAsMarkdown(game: GameDetail) {
+    text("[${game.title}](${game.url})")
+    if (game.button != null) text(" - ${game.button}")
+    listOfNotNull(
+        "#StadiaPro".takeIf { game.isPro() },
+        "#UbisoftPlus".takeIf { game.isUbisoftPlus() },
+    ).joinToString().also { services ->
+        if (services.isNotEmpty()) text(" - available also with $services")
+    }
+    if (game.hasLocalCoop()) text(" #LocalCoop")
+    if (game.hasLocalMultiplayer()) text(" #LocalMultiplayer")
+    if (game.hasDirectTouch()) text(" #DirectTouch")
 }
 
-fun List<GameDetail>.toTwitterMessages(singular: String, plural: String) = when (size) {
-    0 -> emptyList()
-    1 -> listOf("$singular on #Stadia\n\n${first().toPlainText()}")
-    in 2..5 -> map { game -> "$size $plural on #Stadia, including\n\n${game.toPlainText()}" }
-    else -> {
-        val message = "$size $plural on #Stadia\n${
-            groupBy({ it.button }, { it.toPlainText(withButton = false, withUrl = false) })
-                .toList()
-                .joinToString("\n") { (button, games) ->
-                    buildString {
-                        if (button != null) appendLine("$button:") else appendLine()
-                        append(games.joinToString("\n"))
-                    }
-                }
-        }"
-        var suffix = "\nFull changelog: "
-        var maxLen = TwitterScope.MESSAGE_MAX_SIZE - suffix.length - TwitterScope.URL_MAX_SIZE
-        listOf(
-            if (message.length <= maxLen) {
-                "$message$suffix"
-            } else {
-                suffix = "...$suffix"
-                maxLen = TwitterScope.MESSAGE_MAX_SIZE - suffix.length - TwitterScope.URL_MAX_SIZE
-                "${message.take(maxLen)}$suffix"
-            }
-        )
+fun MessageL1Scope.gameAsTwitterText(
+    game: GameDetail,
+    withButton: Boolean = true,
+    showDetails: Boolean = true,
+    withUrl: Boolean = true
+) {
+    text(game.title)
+    if (withButton && game.button != null) text(" - ${game.button}")
+    listOfNotNull(
+        "#StadiaPro".takeIf { game.isPro() },
+        "#UbisoftPlus".takeIf { game.isUbisoftPlus() },
+    ).joinToString().also { services ->
+        if (showDetails && services.isNotEmpty()) text(" - available also with $services")
+    }
+    if (showDetails && game.hasLocalCoop()) text(" #LocalCoop")
+    if (showDetails && game.hasLocalMultiplayer()) text(" #LocalMultiplayer")
+    if (showDetails && game.hasDirectTouch()) text(" #DirectTouch")
+    if (withUrl) {
+        text(" ")
+        twitterUrl(game.url)
     }
 }
 
-fun List<GameDetail>.toMarkdownNumberedList() =
-    joinToString("\n") { game -> "1. ${game.toMarkdown()}" }
+fun telegramMessages(
+    games: List<GameDetail>,
+    singular: String,
+    plural: String,
+): Messages = buildMessages {
+    when (games.size) {
+        0 -> {
+            /* do nothing */
+        }
+
+        1 -> {
+            addMessage {
+                text("There is *$singular*: ")
+                gameAsMarkdown(game = games.first())
+            }
+        }
+
+        in 2..5 -> {
+            addMessage {
+                text("There are *${games.size} $plural*:\n")
+            }
+            games.forEachIndexed { index, game ->
+                addMessage(appendIf = AppendNever) {
+                    text("${index + 1}. ")
+                    gameAsMarkdown(game = game)
+                }
+            }
+        }
+
+        else -> {
+            addMessage {
+                text("There are *${games.size} $plural*:\n")
+            }
+            games.forEachIndexed { index, game ->
+                addMessage {
+                    text("${index + 1}. ")
+                    gameAsMarkdown(game = game)
+                }
+            }
+        }
+    }
+}
+
+fun twitterMessages(
+    games: List<GameDetail>,
+    singular: String,
+    plural: String,
+): Messages = buildMessages {
+        when (games.size) {
+            0 -> {
+                /* do nothing */
+            }
+
+            1 -> {
+                addMessage {
+                    text("$singular on #Stadia\n")
+                    gameAsTwitterText(game = games.first())
+                }
+            }
+
+            in 2..8 -> {
+                addMessage {
+                    text("${games.size} $plural on #Stadia\n")
+                }
+                games.forEachIndexed { index, game ->
+                    addMessage(appendIf = if (index == 0) AppendIfNotDivide else AppendNever) {
+                        text("${index + 1}. ")
+                        gameAsTwitterText(game = game)
+                    }
+                }
+            }
+
+            else -> {
+                addMessage {
+                    text("${games.size} $plural on #Stadia\n")
+                }
+                games.forEachIndexed { index, game ->
+                    addMessage {
+                        text("${index + 1}. ")
+                        gameAsTwitterText(game = game)
+                    }
+                }
+            }
+        }
+    }
+
+fun List<GameDetail>.toMarkdownNumberedList(): String = buildMessages {
+    forEach { game ->
+        addMessage(appendIf = AppendIfNotDivide) {
+            text("1. ")
+            gameAsMarkdown(game)
+        }
+    }
+}.toStrings(Int.MAX_VALUE).firstOrNull().orEmpty()
 
 fun Document.parseGameDetail(
     game: Game,

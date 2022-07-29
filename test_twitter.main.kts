@@ -1,10 +1,13 @@
 #!/usr/bin/env kotlin
 @file:Repository("https://repo.maven.apache.org/maven2")
-@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.4")
+@file:DependsOn("com.github.omarmiatello.kotlin-script-toolbox:zero-setup:0.1.5")
 
+import com.github.omarmiatello.kotlinscripttoolbox.core.AppendNever
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
+import com.github.omarmiatello.kotlinscripttoolbox.core.buildMessages
 import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
 import com.github.omarmiatello.kotlinscripttoolbox.gson.readJson
+import com.github.omarmiatello.kotlinscripttoolbox.twitter.twitterUrl
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.ZeroSetupScope
 import kotlin.system.exitProcess
 
@@ -15,8 +18,15 @@ data class Game(val title: String, val url: String, val img: String, val button:
 launchKotlinScriptToolbox(
     scope = ZeroSetupScope(baseScope = BaseScope.from(filepathPrefix = "data/")),
 ) {
-    val game = readJson<GameListResponse>("games.json").games.random()
-    sendTweet("Have you tried ${game.title}? ${game.url}")
+    val games = readJson<GameListResponse>("games.json").games.shuffled().take(3)
+    sendTweets(buildMessages {
+        games.forEach { game ->
+            addMessage(appendIf = AppendNever) {
+                text("Have you tried ${game.title}? ")
+                twitterUrl(game.url)
+            }
+        }
+    })
 }
 
 exitProcess(status = 0)
