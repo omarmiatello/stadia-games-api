@@ -21,6 +21,10 @@ val langRegex = "\\(.*?\\)".toRegex()
 val pegiRegex = "(\\d+(?: \\(PROVISIONAL\\))?) ?(.*)".toRegex()
 val dateParser = DateTimeFormatter.ofPattern("MMMM d, yyyy", Locale.ENGLISH)
 val dateFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd")
+val now = LocalDateTime.now()
+val isSilentNotification = now.hour in 0..7
+val changelogFilename = "changelog-${now.year}.md"
+val changelogUrl = "https://github.com/omarmiatello/stadia-games-api/blob/main/data/$changelogFilename"
 
 fun List<String>.toCleanListOrNull() =
     map { it.trim() }.filter { it.isNotEmpty() }.distinct().sorted().takeIf { it.isNotEmpty() }
@@ -67,10 +71,6 @@ launchKotlinScriptToolbox(
     scope = ZeroSetupScope(baseScope = BaseScope.from(filepathPrefix = "data/")),
     scriptName = "Update for Stadia Games API",
 ) {
-    val now = LocalDateTime.now()
-    val isSilentNotification = now.hour in 0..7
-    val changelogFilename = "changelog-${now.year}.md"
-    // val changelogUrl = "https://github.com/omarmiatello/stadia-games-api/blob/main/data/$changelogFilename"
     val oldAllGames = readJsonOrNull<GameListResponse>("games.json")?.games
 
     // # Parse games from https://stadia.google.com/games
@@ -240,6 +240,9 @@ fun telegramMessages(
                     gameAsMarkdown(game = game)
                 }
             }
+            addMessage {
+                text("\nThere are ${games.size} $plural on #Stadia - Full changelog: $changelogUrl")
+            }
         }
     }
 }
@@ -282,6 +285,10 @@ fun twitterMessages(
                         text("${index + 1}. ")
                         gameAsTwitterText(game = game)
                     }
+                }
+                addMessage(appendIf = AppendNever) {
+                    text("There are ${games.size} $plural on #Stadia - Full changelog: ")
+                    twitterUrl(changelogUrl)
                 }
             }
         }

@@ -5,7 +5,8 @@
 
 import com.github.omarmiatello.kotlinscripttoolbox.core.BaseScope
 import com.github.omarmiatello.kotlinscripttoolbox.core.launchKotlinScriptToolbox
-import com.github.omarmiatello.kotlinscripttoolbox.gson.*
+import com.github.omarmiatello.kotlinscripttoolbox.gson.readJson
+import com.github.omarmiatello.kotlinscripttoolbox.gson.writeJson
 import com.github.omarmiatello.kotlinscripttoolbox.zerosetup.ZeroSetupScope
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
