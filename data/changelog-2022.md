@@ -1,11 +1,7 @@
 ## 2022-07-28
 
-### 1 new game
+### 2 new games
 1. [Neighbours back From Hell](https://stadia.google.com/game/neighbours-back-from-hell)
-
-## 2022-07-28
-
-### 1 new game
 1. [The Forgotten City](https://stadia.google.com/game/forgotten-city)
 
 ## 2022-07-26
