@@ -25,6 +25,8 @@ val now = LocalDateTime.now()
 val isSilentNotification = now.hour in 0..7
 val changelogFilename = "changelog-${now.year}.md"
 val changelogUrl = "https://github.com/omarmiatello/stadia-games-api/blob/main/data/$changelogFilename"
+val milestones =
+    listOf(5, 10, 20, 50, 100, 150, 200, 250, 300, 350, 400, 500, 600, 700, 800, 900, 1000, 1337, 1500, 2000)
 
 fun List<String>.toCleanListOrNull() =
     map { it.trim() }.filter { it.isNotEmpty() }.distinct().sorted().takeIf { it.isNotEmpty() }
@@ -34,6 +36,20 @@ data class GameListResponse(val api_version: Int, val count: Int, val games: Lis
 data class Game(val title: String, val url: String, val img: String, val button: String?) {
     fun urlSlug() = url.takeLastWhile { it != '/' }
 }
+
+data class Stats(
+    val overview: Map<String, Int>,
+    val games_by: StatsGamesBy,
+)
+
+data class StatsGamesBy(
+    val genre: Map<String, Int>,
+    val game_modes: Map<String, Int>,
+    val supported_input: Map<String, Int>,
+    val languages: Map<String, Int>,
+    val available_country: Map<String, Int>,
+    val accessibility_features: Map<String, Int>,
+)
 
 data class GameDetail(
     val title: String,
@@ -162,41 +178,88 @@ launchKotlinScriptToolbox(
         }
 
         // # Update stats  (in `/data/` folder)
+        val oldStats = readJsonOrNull<Stats>("stats.json")
+
+        fun statsGamesBy(attrValues: (GameDetail) -> List<String>) = allGameDetails.flatMap(attrValues)
+            .groupingBy { it }
+            .eachCount()
+            .toList()
+            .sortedWith(compareBy({ it.second }, { it.first }))
+            .reversed()
+            .toMap()
+
+        val stats = Stats(
+            overview = mapOf(
+                "Stadia games" to allGameDetails.size,
+                "Stadia demos" to allGameDetails.filter { it.button != null }.size,
+                "Games on Stadia Pro" to allGameDetails.filter { it.isPro() }.size,
+                "Games on Ubisoft+" to allGameDetails.filter { it.isUbisoftPlus() }.size,
+            ),
+            games_by = StatsGamesBy(
+                genre = statsGamesBy { it.genre.orEmpty() },
+                game_modes = statsGamesBy { it.game_modes.orEmpty() },
+                supported_input = statsGamesBy { it.supported_input.orEmpty() },
+                languages = statsGamesBy { it.languages.orEmpty() },
+                available_country = statsGamesBy { it.available_country.orEmpty() },
+                accessibility_features = statsGamesBy { it.accessibility_features.orEmpty() },
+            ),
+        )
+
+        writeJson("stats.json", stats)
         writeText(
             pathname = "stats.md",
             text = buildString {
-                appendLine("# Stadia games stats")
-                appendLine("## Overview")
-
-                appendLine("| Stats | # of games |")
-                appendLine("| --- | --- |")
-                appendLine("| Stadia games | ${allGameDetails.size} |")
-                appendLine("| Stadia demos | ${allGameDetails.filter { it.button != null }.size} |")
-                appendLine("| Games on Stadia Pro | ${allGameDetails.filter { it.isPro() }.size} |")
-                appendLine("| Games on Ubisoft+ | ${allGameDetails.filter { it.isUbisoftPlus() }.size} |")
-
-                fun gamesBy(attrName: String, attrValues: (GameDetail) -> List<String>) {
-                    appendLine()
-                    appendLine("## Games by **$attrName**")
-                    appendLine("| $attrName | # of games |")
-                    appendLine("| --- | --- |")
-                    allGameDetails.flatMap(attrValues)
-                        .groupingBy { it }
-                        .eachCount()
-                        .toList()
-                        .sortedWith(compareBy({ it.second }, { it.first }))
-                        .reversed()
-                        .forEach { (attrVal, stats) -> appendLine("| $attrVal | $stats |") }
+                fun appendTable(name: String, valuesMap: Map<String, Int>) {
+                    appendLine("| $name | # of games | Milestone reached | Next milestone |")
+                    appendLine("| --- | --- | --- | --- |")
+                    valuesMap.forEach { (key, value) -> appendLine("| $key | $value | ${value.currentMilestone()}+ | ${value.nextMilestone()}+ |") }
                 }
 
-                gamesBy(attrName = "Genre", attrValues = { it.genre.orEmpty() })
-                gamesBy(attrName = "Game modes", attrValues = { it.game_modes.orEmpty() })
-                gamesBy(attrName = "Supported input", attrValues = { it.supported_input.orEmpty() })
-                gamesBy(attrName = "Language", attrValues = { it.languages.orEmpty() })
-                gamesBy(attrName = "Available country", attrValues = { it.available_country.orEmpty() })
-                gamesBy(attrName = "Accessibility features", attrValues = { it.accessibility_features.orEmpty() })
+                appendLine("# Stadia games stats")
+                appendLine("## Overview")
+                appendTable("Stats", stats.overview)
+
+                fun gamesBy(name: String, valuesMap: Map<String, Int>) {
+                    appendLine()
+                    appendLine("## Games by **$name**")
+                    appendTable(name, valuesMap)
+                }
+
+                gamesBy(name = "Genre", valuesMap = stats.games_by.genre)
+                gamesBy(name = "Game modes", valuesMap = stats.games_by.game_modes)
+                gamesBy(name = "Supported input", valuesMap = stats.games_by.supported_input)
+                gamesBy(name = "Languages", valuesMap = stats.games_by.languages)
+                gamesBy(name = "Available country", valuesMap = stats.games_by.available_country)
+                gamesBy(name = "Accessibility features", valuesMap = stats.games_by.accessibility_features)
             }
         )
+
+
+        if (oldStats != null) {
+            sendTelegramMessages(
+                messages = buildMessages {
+                    milestonesFor("*Stadia games*", AppendIfNotDivide, oldStats, stats) { it.overview - "Games on Stadia Pro" }
+                    milestonesFor("*Genre*", AppendIfNotDivide, oldStats, stats) { it.games_by.genre }
+                    milestonesFor("*Game modes*", AppendIfNotDivide, oldStats, stats) { it.games_by.game_modes }
+                    milestonesFor("*Supported input*", AppendIfNotDivide, oldStats, stats) { it.games_by.supported_input }
+                    milestonesFor("*Languages*", AppendIfNotDivide, oldStats, stats) { it.games_by.languages }
+                    milestonesFor("*Available country*", AppendIfNotDivide, oldStats, stats) { it.games_by.available_country }
+                    milestonesFor("*Accessibility features*", AppendIfNotDivide, oldStats, stats) { it.games_by.accessibility_features }
+                },
+                parse_mode = ParseMode.Markdown,
+                disable_notification = isSilentNotification,
+            )
+
+            sendTweets(buildMessages {
+                milestonesFor("Stadia games", AppendNever, oldStats, stats) { it.overview - "Games on Stadia Pro" }
+                milestonesFor("Genre", AppendNever, oldStats, stats) { it.games_by.genre }
+                milestonesFor("Game modes", AppendNever, oldStats, stats) { it.games_by.game_modes }
+                milestonesFor("Supported input", AppendNever, oldStats, stats) { it.games_by.supported_input }
+                milestonesFor("Languages", AppendNever, oldStats, stats) { it.games_by.languages }
+                // milestonesFor("Available country", AppendNever, oldStats, stats) { it.games_by.available_country }
+                // milestonesFor("Accessibility features", AppendNever, oldStats, stats) { it.games_by.accessibility_features }
+            })
+        }
     }
 }
 
@@ -289,47 +352,47 @@ fun twitterMessages(
     singular: String,
     plural: String,
 ): Messages = buildMessages {
-        when (games.size) {
-            0 -> {
-                /* do nothing */
-            }
+    when (games.size) {
+        0 -> {
+            /* do nothing */
+        }
 
-            1 -> {
-                addMessage {
-                    text("$singular on #Stadia\n")
-                    gameAsTwitterText(game = games.first())
-                }
+        1 -> {
+            addMessage {
+                text("$singular on #Stadia\n")
+                gameAsTwitterText(game = games.first())
             }
+        }
 
-            in 2..8 -> {
-                addMessage {
-                    text("${games.size} $plural on #Stadia\n")
-                }
-                games.forEachIndexed { index, game ->
-                    addMessage(appendIf = if (index == 0) AppendIfNotDivide else AppendNever) {
-                        text("${index + 1}. ")
-                        gameAsTwitterText(game = game)
-                    }
-                }
+        in 2..8 -> {
+            addMessage {
+                text("${games.size} $plural on #Stadia\n")
             }
-
-            else -> {
-                addMessage {
-                    text("${games.size} $plural on #Stadia\n")
-                }
-                games.forEachIndexed { index, game ->
-                    addMessage {
-                        text("${index + 1}. ")
-                        gameAsTwitterText(game = game)
-                    }
-                }
-                addMessage(appendIf = AppendNever) {
-                    text("There are ${games.size} $plural on #Stadia - Full changelog: ")
-                    twitterUrl(changelogUrl)
+            games.forEachIndexed { index, game ->
+                addMessage(appendIf = if (index == 0) AppendIfNotDivide else AppendNever) {
+                    text("${index + 1}. ")
+                    gameAsTwitterText(game = game)
                 }
             }
         }
+
+        else -> {
+            addMessage {
+                text("${games.size} $plural on #Stadia\n")
+            }
+            games.forEachIndexed { index, game ->
+                addMessage {
+                    text("${index + 1}. ")
+                    gameAsTwitterText(game = game)
+                }
+            }
+            addMessage(appendIf = AppendNever) {
+                text("There are ${games.size} $plural on #Stadia - Full changelog: ")
+                twitterUrl(changelogUrl)
+            }
+        }
     }
+}
 
 fun List<GameDetail>.toMarkdownNumberedList(): String = buildMessages {
     forEach { game ->
@@ -379,6 +442,40 @@ fun Document.parseGameDetail(
         pegi_min_age = pegi.getOrNull(1),
         pegi_notes = pegi.getOrNull(2)?.split(",")?.toCleanListOrNull(),
     )
+}
+
+fun Int.currentMilestone() = milestones.lastOrNull { it <= this }.takeIf { it != milestones.last() }
+    ?: ((this / 1000) * 1000).coerceAtLeast(1)
+
+fun Int.nextMilestone() = milestones.firstOrNull { it > this }
+    ?: ((this / 1000 + 1) * 1000)
+
+
+fun MessagesScope.milestonesFor(
+    title: String,
+    appendTitle: MessageAppendStrategy,
+    old: Stats,
+    new: Stats,
+    onStats: (Stats) -> Map<String, Int>,
+) {
+    var found = false
+    val oldStats = onStats(old)
+    val newStats = onStats(new)
+    oldStats.forEach { (key, value) ->
+        val currentValue = newStats.getValue(key)
+        val previousMilestone = value.nextMilestone()
+        if (currentValue >= previousMilestone) {
+            if (!found) {
+                found = true
+                addMessage(appendIf = appendTitle, joinGroups = "\n\n") {
+                    text("New milestones for $title!\n")
+                }
+            }
+            addMessage {
+                text("$key: $currentValue games, reached ${currentValue.currentMilestone()}+!")
+            }
+        }
+    }
 }
 
 exitProcess(status = 0)

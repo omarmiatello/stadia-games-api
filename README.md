@@ -3,12 +3,15 @@ This repository runs a bot that sends a daily recap of the new games/demos avail
 
 ## Features
 - Daily automatic update of this repository
-- Send notification for new games/demos on Telegram - [https://t.me/stadiadaily](https://t.me/stadiadaily) ([Preview](https://t.me/s/stadiadaily))
-- Send notification for new games/demos on Twitter - [@stadia_daily](https://twitter.com/stadia_daily)
+- Send notification for new games/demos/milestones
+- Send notification on Telegram - [https://t.me/stadiadaily](https://t.me/stadiadaily) ([Preview](https://t.me/s/stadiadaily))
+- Send notification on Twitter - [@stadia_daily](https://twitter.com/stadia_daily)
 - `data/games.json` [View](data/games.json)/[Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/games.json) - Full list in Json
 - `data/games.md` [View](data/games.md)/[Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/games.md) - Full list in Markdown
 - `data/changelog-2021.md` [View](data/changelog-2021.md)/[Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/changelog-2021.md) - Changelog for 2021 in Markdown (thanks to [Wayback Machine](https://web.archive.org/web/*/https://stadia.google.com/games))
 - `data/changelog-2022.md` [View](data/changelog-2022.md)/[Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/changelog-2022.md) - Changelog by year in Markdown
+- `data/stats.json` [View](data/stats.json)/[Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/stats.json) - Stats for Stadia games in Json
+- `data/stats.md` [View](data/stats.md)/[Raw](https://raw.githubusercontent.com/omarmiatello/stadia-games-api/main/data/stats.md) - Stats for Stadia games in Markdown
 
 ## Upcoming features
 - ...
