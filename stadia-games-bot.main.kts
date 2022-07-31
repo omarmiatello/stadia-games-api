@@ -25,8 +25,10 @@ val now = LocalDateTime.now()
 val isSilentNotification = now.hour in 0..7
 val changelogFilename = "changelog-${now.year}.md"
 val changelogUrl = "https://github.com/omarmiatello/stadia-games-api/blob/main/data/$changelogFilename"
-val milestones =
-    listOf(5, 10, 20, 50, 100, 150, 200, 250, 300, 350, 400, 500, 600, 700, 800, 900, 1000, 1337, 1500, 2000)
+val statsUrl = "https://github.com/omarmiatello/stadia-games-api/blob/main/data/stats.md"
+val milestones = listOf(5, 10, 20, 50, 100,
+    150, 200, 250, 300, 350, 400, 500, 600, 700, 800, 900, 1000,
+    1337, 1500, 2000)
 
 fun List<String>.toCleanListOrNull() =
     map { it.trim() }.filter { it.isNotEmpty() }.distinct().sorted().takeIf { it.isNotEmpty() }
@@ -234,30 +236,54 @@ launchKotlinScriptToolbox(
             }
         )
 
-
         if (oldStats != null) {
+            fun MessagesScope.milestonesFor(
+                title: String,
+                appendTitle: MessageAppendStrategy,
+                onStats: (Stats) -> Map<String, Int>,
+            ) {
+                var found = false
+                val old = onStats(oldStats)
+                val new = onStats(stats)
+                old.forEach { (key, value) ->
+                    val currentValue = new.getValue(key)
+                    val previousMilestone = value.nextMilestone()
+                    if (currentValue >= previousMilestone) {
+                        if (!found) {
+                            found = true
+                            addMessage(appendIf = appendTitle, joinGroups = "\n\n") {
+                                text("New milestones for $title!")
+                            }
+                        }
+                        addMessage {
+                            text("$key: $currentValue games, reached ${currentValue.currentMilestone()}+!")
+                        }
+                    }
+                }
+            }
+
             sendTelegramMessages(
                 messages = buildMessages {
-                    milestonesFor("*Stadia games*", AppendIfNotDivide, oldStats, stats) { it.overview - "Games on Stadia Pro" }
-                    milestonesFor("*Genre*", AppendIfNotDivide, oldStats, stats) { it.games_by.genre }
-                    milestonesFor("*Game modes*", AppendIfNotDivide, oldStats, stats) { it.games_by.game_modes }
-                    milestonesFor("*Supported input*", AppendIfNotDivide, oldStats, stats) { it.games_by.supported_input }
-                    milestonesFor("*Languages*", AppendIfNotDivide, oldStats, stats) { it.games_by.languages }
-                    milestonesFor("*Available country*", AppendIfNotDivide, oldStats, stats) { it.games_by.available_country }
-                    milestonesFor("*Accessibility features*", AppendIfNotDivide, oldStats, stats) { it.games_by.accessibility_features }
+                    milestonesFor("*Stadia Games*", AppendIfNotDivide) { it.overview - "Games on Stadia Pro" }
+                    milestonesFor("Games by *Genre*", AppendIfNotDivide) { it.games_by.genre }
+                    milestonesFor("Games by *Game modes*", AppendIfNotDivide) { it.games_by.game_modes }
+                    milestonesFor("Games by *Supported input*", AppendIfNotDivide) { it.games_by.supported_input }
+                    milestonesFor("Games by *Languages*", AppendIfNotDivide) { it.games_by.languages }
+                    milestonesFor("Games by *Available country*", AppendIfNotDivide) { it.games_by.available_country }
+                    milestonesFor("Games by *Accessibility features*", AppendIfNotDivide) { it.games_by.accessibility_features }
                 },
                 parse_mode = ParseMode.Markdown,
                 disable_notification = isSilentNotification,
             )
 
             sendTweets(buildMessages {
-                milestonesFor("Stadia games", AppendNever, oldStats, stats) { it.overview - "Games on Stadia Pro" }
-                milestonesFor("Genre", AppendNever, oldStats, stats) { it.games_by.genre }
-                milestonesFor("Game modes", AppendNever, oldStats, stats) { it.games_by.game_modes }
-                milestonesFor("Supported input", AppendNever, oldStats, stats) { it.games_by.supported_input }
-                milestonesFor("Languages", AppendNever, oldStats, stats) { it.games_by.languages }
-                // milestonesFor("Available country", AppendNever, oldStats, stats) { it.games_by.available_country }
-                // milestonesFor("Accessibility features", AppendNever, oldStats, stats) { it.games_by.accessibility_features }
+                milestonesFor("#Stadia Games", AppendNever) { it.overview - "Games on Stadia Pro" }
+                milestonesFor("#Stadia by Genre", AppendNever) { it.games_by.genre }
+                milestonesFor("#Stadia by Game modes", AppendNever) { it.games_by.game_modes }
+                milestonesFor("#Stadia by Supported input", AppendNever) { it.games_by.supported_input }
+                milestonesFor("#Stadia by Languages", AppendNever) { it.games_by.languages }
+                // milestonesFor("#Stadia by Available country", AppendNever) { it.games_by.available_country }
+                // milestonesFor("#Stadia by Accessibility features", AppendNever) { it.games_by.accessibility_features }
             })
         }
     }
@@ -449,33 +475,5 @@ fun Int.currentMilestone() = milestones.lastOrNull { it <= this }.takeIf { it !=
 
 fun Int.nextMilestone() = milestones.firstOrNull { it > this }
     ?: ((this / 1000 + 1) * 1000)
-
-
-fun MessagesScope.milestonesFor(
-    title: String,
-    appendTitle: MessageAppendStrategy,
-    old: Stats,
-    new: Stats,
-    onStats: (Stats) -> Map<String, Int>,
-) {
-    var found = false
-    val oldStats = onStats(old)
-    val newStats = onStats(new)
-    oldStats.forEach { (key, value) ->
-        val currentValue = newStats.getValue(key)
-        val previousMilestone = value.nextMilestone()
-        if (currentValue >= previousMilestone) {
-            if (!found) {
-                found = true
-                addMessage(appendIf = appendTitle, joinGroups = "\n\n") {
-                    text("New milestones for $title!\n")
-                }
-            }
-            addMessage {
-                text("$key: $currentValue games, reached ${currentValue.currentMilestone()}+!")
-            }
-        }
-    }
-}
 
 exitProcess(status = 0)
