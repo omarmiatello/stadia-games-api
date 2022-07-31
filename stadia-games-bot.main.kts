@@ -195,7 +195,7 @@ launchKotlinScriptToolbox(
                 "Stadia games" to allGameDetails.size,
                 "Stadia demos" to allGameDetails.filter { it.button != null }.size,
                 "Games on Stadia Pro" to allGameDetails.filter { it.isPro() }.size,
-                "Games on Ubisoft+" to allGameDetails.filter { it.isUbisoftPlus() }.size,
+                // "Games on Ubisoft+" to allGameDetails.filter { it.isUbisoftPlus() }.size, // allGames does not contain everything
             ),
             games_by = StatsGamesBy(
                 genre = statsGamesBy { it.genre.orEmpty() },
@@ -246,7 +246,7 @@ launchKotlinScriptToolbox(
                 val old = onStats(oldStats)
                 val new = onStats(stats)
                 old.forEach { (key, value) ->
-                    val currentValue = new.getValue(key)
+                    val currentValue = new[key] ?: 0
                     val previousMilestone = value.nextMilestone()
                     if (currentValue >= previousMilestone) {
                         if (!found) {
