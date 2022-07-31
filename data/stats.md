@@ -5,7 +5,6 @@
 | Stadia games | 394 | 350+ | 400+ |
 | Stadia demos | 119 | 100+ | 150+ |
 | Games on Stadia Pro | 52 | 50+ | 100+ |
-| Games on Ubisoft+ | 15 | 10+ | 20+ |
 
 ## Games by **Genre**
 | Genre | # of games | Milestone reached | Next milestone |
