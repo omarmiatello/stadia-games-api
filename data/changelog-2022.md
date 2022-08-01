@@ -1,3 +1,8 @@
+## 2022-08-01
+
+### 1 new game
+1. [Calico](https://stadia.google.com/game/calico) - available also with #StadiaPro
+
 ## 2022-07-28
 
 ### 2 new games

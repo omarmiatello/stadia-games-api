@@ -1,0 +1,65 @@
+{
+  "title": "Calico",
+  "url": "https://stadia.google.com/game/calico",
+  "img": "https://lh3.googleusercontent.com/k9hIGn8xBQp6KIsl-w0aw0MAM6Y7QuE1vYAaAyAWPdSl7ZbuC7uIFSyKLHYSQAzTpxQni-lhhbxtzV-TsAk9OvAmOrg7OfPKhCOrHQ_J8ritHucHYup0jQN1IQY\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$11.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Calico is a day-in-the-life community sim game where you are given an important and adorable task: rebuild the town’s cat café and fill it with cute and cuddly creatures! Build up your café by filling it with cute furniture, fun decorations, yummy pastries, and get it bustling with animals again!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/UeLmKdhQdS6IzMf7iax_7wzonRdWDJgNBdlMyPNDlKRVNEuABA8YJ3cdchYaU4QkjKYmU6_fo1hc871c3YLjP67iw3nUCBQ5ZKj2YixSNu5T6oOdJn8hX8acM54\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/3kp4oKgRk8nLt8zsJE-kNYvyYSPZYUp9Xqbj_HweFjHjl9OrVUimHXCxjayhEXQ7PvqFkWmKtT8F5jta4rlZ0gqLAhjT3gTUjb0xBUIm2Y-Q0shmU5JJm84GlsFs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/2wwi_CrSXvMDgSUtBJ9mTL5Va59t8TAymuaTAR5ythPO5nw_hZN3fLmc6ligMqifHRTrNgWs3Io-jE0MBghI13CvT4H5FpvRvNlLPpbcz2DitPB-Qs_XKeZcCM0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/w1J5-LSW31NWXuwXTySpOwcmzb5wSJg-92EYTnEF305cljKKPFmONjZGrFoy3J8zf8g8D-7VNxlCaGzmGI6uC3G66jr7eDu5Log4IxBFO8Q4s31CHtUwmjDwo04\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/kxsQElD_3DhCRqUNfnVjKcE1JQ7wODycA2cDQfD4h1wmA6LvT-jDCoEZMYnNxfivEIMxhFp9bNH3I9L-lwVzbc09gQJDWg18DNrGuG2EuwscUukqvqoQirmuHQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-08-01",
+  "publisher": "Whitethorn Digital",
+  "developer": "Whitethorn Digital",
+  "languages": [
+    "English"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Casual",
+    "Indie",
+    "Kids \u0026 family"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Dialogue subtitles",
+    "Separate volume controls"
+  ],
+  "notes": "Whitethorn Digital \u0026 Peachy Keen Games"
+}

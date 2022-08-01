@@ -31,6 +31,7 @@
 1. [Borderlands®3: Super Deluxe Edition](https://stadia.google.com/game/borderlands3-super-deluxe-edition)
 1. [Borderlands®3: Ultimate Edition](https://stadia.google.com/game/borderlands3-ultimate-edition)
 1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 60 min - available also with #StadiaPro #LocalMultiplayer
+1. [Calico](https://stadia.google.com/game/calico) - available also with #StadiaPro
 1. [Celeste](https://stadia.google.com/game/celeste)
 1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min - available also with #StadiaPro

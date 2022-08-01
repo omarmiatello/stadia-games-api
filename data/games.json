@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 394,
+  "count": 395,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -175,6 +175,11 @@
       "url": "https://stadia.google.com/game/cake-bash",
       "img": "https://lh3.googleusercontent.com/uSglN31OEXdkbnUUlELLVWpYwnqPhys1IQ701Cn_7vEv_fYeTHv5jXI8yRPe3026_JINmNRfiIN1Nvy6afNPxAdH45bP2w7ybAQYfopdG7INMTtLlGFb-NpTsn1R\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 60 min"
+    },
+    {
+      "title": "Calico",
+      "url": "https://stadia.google.com/game/calico",
+      "img": "https://lh3.googleusercontent.com/k9hIGn8xBQp6KIsl-w0aw0MAM6Y7QuE1vYAaAyAWPdSl7ZbuC7uIFSyKLHYSQAzTpxQni-lhhbxtzV-TsAk9OvAmOrg7OfPKhCOrHQ_J8ritHucHYup0jQN1IQY\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Celeste",
