@@ -31,7 +31,7 @@
 1. [Borderlands®3: Super Deluxe Edition](https://stadia.google.com/game/borderlands3-super-deluxe-edition)
 1. [Borderlands®3: Ultimate Edition](https://stadia.google.com/game/borderlands3-ultimate-edition)
 1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 60 min - available also with #StadiaPro #LocalMultiplayer
-1. [Calico](https://stadia.google.com/game/calico) - available also with #StadiaPro
+1. [Calico](https://stadia.google.com/game/calico) - Play for 60 min - available also with #StadiaPro
 1. [Celeste](https://stadia.google.com/game/celeste)
 1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min - available also with #StadiaPro
@@ -286,14 +286,14 @@
 1. [SUPERHOT](https://stadia.google.com/game/superhot)
 1. [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/game/superhot-mind-control-delete)
 1. [Saints Row IV: Re-Elected](https://stadia.google.com/game/saints-row-iv-re-elected) - available also with #StadiaPro
-1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered)
+1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered) - Play for 60 min
 1. [Scott Pilgrim vs. The World™ - Complete Edition](https://stadia.google.com/game/scott-pilgrim-vs-the-world-complete-edition) #LocalCoop #LocalMultiplayer
 1. [Secret Neighbor](https://stadia.google.com/game/secret-neighbor) - Play for 60 min
 1. [Sekiro™: Shadows Die Twice](https://stadia.google.com/game/sekiro-shadows-die-twice)
 1. [Serious Sam 4](https://stadia.google.com/game/serious-sam-4) - Play for 30 min
 1. [Serious Sam Collection](https://stadia.google.com/game/serious-sam-collection) - Play for 30 min
 1. [Shadow of the Tomb Raider Definitive Edition](https://stadia.google.com/game/shadow-of-the-tomb-raider-definitive-edition)
-1. [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition)
+1. [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition) - Play for 60 min
 1. [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/game/shantae-riskys-revenge-directors-cut) - Play for 30 min
 1. [Sniper Elite 4](https://stadia.google.com/game/sniper-elite-4)
 1. [Sniper Elite 4: Deluxe Edition](https://stadia.google.com/game/sniper-elite-4-deluxe-edition)

@@ -1,5 +1,12 @@
 ## 2022-08-01
 
+### 3 new demos
+1. [Calico](https://stadia.google.com/game/calico) - Play for 60 min - available also with #StadiaPro
+1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered) - Play for 60 min
+1. [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition) - Play for 60 min
+
+## 2022-08-01
+
 ### 1 new game
 1. [Calico](https://stadia.google.com/game/calico) - available also with #StadiaPro
 
