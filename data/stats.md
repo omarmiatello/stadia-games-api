@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | Stadia games | 395 | 350+ | 400+ |
 | Stadia demos | 122 | 100+ | 150+ |
-| Games on Stadia Pro | 53 | 50+ | 100+ |
+| Games on Stadia Pro | 52 | 50+ | 100+ |
 
 ## Games by **Genre**
 | Genre | # of games | Milestone reached | Next milestone |
@@ -36,7 +36,7 @@
 | Online co-op | 113 | 100+ | 150+ |
 | Local multiplayer | 89 | 50+ | 100+ |
 | Local co-op | 65 | 50+ | 100+ |
-| Cross-platform multiplayer | 52 | 50+ | 100+ |
+| Cross-platform multiplayer | 53 | 50+ | 100+ |
 | Split-screen | 23 | 20+ | 50+ |
 
 ## Games by **Supported input**
@@ -115,8 +115,6 @@
 | Hungary | 392 | 350+ | 400+ |
 | Czechia | 392 | 350+ | 400+ |
 | Austria | 392 | 350+ | 400+ |
-| Turkey | 27 | 20+ | 50+ |
-| Mexico | 27 | 20+ | 50+ |
 
 ## Games by **Accessibility features**
 | Accessibility features | # of games | Milestone reached | Next milestone |

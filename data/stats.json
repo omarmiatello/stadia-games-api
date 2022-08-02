@@ -2,7 +2,7 @@
   "overview": {
     "Stadia games": 395,
     "Stadia demos": 122,
-    "Games on Stadia Pro": 53
+    "Games on Stadia Pro": 52
   },
   "games_by": {
     "genre": {
@@ -31,7 +31,7 @@
       "Online co-op": 113,
       "Local multiplayer": 89,
       "Local co-op": 65,
-      "Cross-platform multiplayer": 52,
+      "Cross-platform multiplayer": 53,
       "Split-screen": 23
     },
     "supported_input": {
@@ -103,9 +103,7 @@
       "Poland": 392,
       "Hungary": 392,
       "Czechia": 392,
-      "Austria": 392,
-      "Turkey": 27,
-      "Mexico": 27
+      "Austria": 392
     },
     "accessibility_features": {
       "Separate volume controls": 338,
