@@ -1,0 +1,76 @@
+{
+  "title": "Outbreak: Shades of Horror Playable Teaser",
+  "url": "https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser",
+  "img": "https://lh3.googleusercontent.com/aI1FBCvKNRLQfagWWrBiEpv9_MYC7TZEzNoIMbwfnoe5rJ0yNJHAq-80pDYzvxje9e7FiN6MAUoabPmcAdeFbNxhK5wNgjw1LEpyfwPggKfPbU53zX0iS2eLxsM\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
+  "buttons": [
+    "Play for 60 min"
+  ],
+  "description": "After surviving a gruesome accident, you awake in a city overrun with the undead. Find a way to escape before the infection consumes you in this next generation survival horror experience. The Outbreak: Shades of Horror Playable Teaser is designed to be an atmospheric demonstration of the tone and story of a single survivor. This demo is only playable in first person view, but the full release will feature a large cast of survivors, and your choice of playing in retro fixed camera, over-the-shoulder or first person shooter view alone or with up to three friends as you try to escape from the city.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/whZ4HyxIU86vJPclPLMgc-fnKU5mIZ6juOrzAHx7-sR9Yt391H7xeZBpnR5pX0sdr8kV3j2LQHV65QSDKnNAiRtzlX6F4MB-4UC3QWfGvV0oGCIUTBZPCl-lvJoT\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/HmmcQYSrWYDzP6R__dN1ENmrC8hBS3LvReDpXznLWCuIwNL65HsfJn9MfK5yEzqAoHjMS0iuuQaVksVR0KaPrT4QxXFQz50W2v9Qcjkr0HUYRj6lofGshfcvRA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/OqdAS3ZTCX4w05DdGrDEavzrD6O6yMj0XUXlgvcz-X3sBLLtQBRxEbJbneiHyj1CgXKtk19KVyIiAq_b3Fe6DfkqNwoG2cKpwn6Gt2AW8M4BLVP3f0-zC-tmxmY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/qDuLZLjcXhhXMPw1LRLtTF_HTYTJty-RP12X_yNrpnxWIqPemQk-voMKQ8jNkU4oEfRjznXdUXV9_Y0HVP0-H-P--fFQ2xARhIM07hW8LW9T7FBS5DFI9nhGTw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/f0UFM-vdekFqN0frZb36kgx4hbfAmkS1NJacElL5ce3Vue03lm2Kf0QH3E-pFu1nuQvwijDbrEQd0vHdTreqXlV34thluep0CKwFeCSeFXSHOisJg1R0FCavEhY\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-08-02",
+  "publisher": "Dead Drop Studios LLC",
+  "developer": "Dead Drop Studios LLC",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Indie"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Difficulty levels"
+  ],
+  "notes": "Copyright Dead Drop Studios LLC",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood",
+    "Strong Language",
+    "Violence"
+  ]
+}

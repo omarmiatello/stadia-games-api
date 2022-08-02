@@ -233,6 +233,7 @@
 1. [Olympic Games Tokyo 2020 – The Official Video Game™](https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game) #LocalCoop #LocalMultiplayer
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
 1. [Orcs Must Die! 3](https://stadia.google.com/game/orcs-must-die-3)
+1. [Outbreak: Shades of Horror Playable Teaser](https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser) - Play for 60 min
 1. [Outcasters](https://stadia.google.com/game/outcasters) - Play for 60 min
 1. [Outward](https://stadia.google.com/game/outward) #LocalCoop #LocalMultiplayer
 1. [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat) - Play for 30 min #LocalCoop #LocalMultiplayer

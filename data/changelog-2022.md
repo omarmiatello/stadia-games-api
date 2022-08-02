@@ -1,3 +1,11 @@
+## 2022-08-02
+
+### 1 new game
+1. [Outbreak: Shades of Horror Playable Teaser](https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser) - Play for 60 min
+
+### 1 new demo
+1. [Outbreak: Shades of Horror Playable Teaser](https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser) - Play for 60 min
+
 ## 2022-08-01
 
 ### 3 new demos
