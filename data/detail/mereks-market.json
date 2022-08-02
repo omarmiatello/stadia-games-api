@@ -2,8 +2,10 @@
   "title": "Merek\u0027s Market",
   "url": "https://stadia.google.com/game/mereks-market",
   "img": "https://lh3.googleusercontent.com/LtnvOXyPAwtAtq9taZS8mAFITTZgCAtPWlTVOgFUxaxAXcvnwnmni5RBxd3WQryZaRWbuDdhnkRRq86d7p8Tdknkx6AlatXc3DJjA6kTsypKqMd4brCra_4Er4w\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
-    "$19.99 Buy",
+    "Play for 60 min",
+    "$11.99 Buy",
     "Claim with Pro"
   ],
   "description": "A chaotic crafting game about running a medieval shop. Take ownership of a small shop as you haggle, barter and craft your way through a comical single player campaign or team up with friends to supply the whole town.",

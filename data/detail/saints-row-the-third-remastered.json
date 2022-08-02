@@ -2,8 +2,11 @@
   "title": "Saints Row®: The Third™ - Remastered",
   "url": "https://stadia.google.com/game/saints-row-the-third-remastered",
   "img": "https://lh3.googleusercontent.com/BhVFhHCCyO7w6jPuG_oQ2_1gWWlz2B4Fewmf0e6c4XGPz6bjl3_puSuu1W6orfxopSdlN596fq0eNwkzYBystTr8ACnXEWEQ8kin6NIcpPa_7pSndG-q80L1lbc\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
-    "$39.99 Buy"
+    "Play for 60 min",
+    "$39.99 Buy",
+    "Claim with Pro"
   ],
   "description": "Saints Row®: The Third™ - Remastered gives you control of the Saints at the height of their power, and you live the life to show for it. This is your City. These are your rules. Remastered with enhanced graphics, Steelport the original city of sin, has never looked so good as it drowns in sex, drugs and guns. Take a tank skydiving, call in a satellite-targeted airstrike on a Mexican wrestling gang, and fight against a highly-trained military force by your lonesome in the most outlandish gameplay scenarios ever seen.",
   "image_urls": [
@@ -38,7 +41,6 @@
     "Hungary",
     "Ireland",
     "Italy",
-    "Mexico",
     "Netherlands",
     "Norway",
     "Poland",
@@ -48,7 +50,6 @@
     "Spain",
     "Sweden",
     "Switzerland",
-    "Turkey",
     "United Kingdom",
     "United States"
   ],

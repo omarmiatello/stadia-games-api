@@ -1,18 +1,18 @@
 {
   "title": "Super Animal Royale",
   "url": "https://stadia.google.com/game/super-animal-royale",
-  "img": "https://lh3.googleusercontent.com/Zg8dRfdUqUESU5hIsP7qxh-OyNIyLynNkd1O6nAWQsbBpK7cEDGMcUv-mmMYr9JMbu7yPeqNfrioO-oiJZz2bOakyp3MyEBJwob134Lx2bdYC2E2C5NFOlTnWA\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/t3MPw19Joruxw5hkEeDRxH7yut3KkP_Zbw9841Hgi42nPObQKcWXgOnUKPY8-dRa_CRAQVoPquh7ZP7vvYhL8lr6dPCwpCeo_Gp9iPoE7BOfLbENLfl-cjAd4g\u003dw300-h400-rw-no-v1-nu",
   "button": "Play for 60 min",
   "buttons": [
     "Play"
   ],
   "description": "It’s fight for furvival! Super Animal Royale is a 64-player, frenetic, top-down 2D battle royale where murderous animals fight tooth, claw, and machine gun across an abandoned safari park. Collect and customize your favorite critters and weapons, then put them to work in solo matches or team up as a squad of up to four players!",
   "image_urls": [
-    "https://lh3.googleusercontent.com/APSlLuo8SXjoXRdfOIccdHTaRQ-4medqhZNpYQg1N6ShX750DqjIk5eYQoc3b9kzVx_JvcHKnMG4agcQJ0BqyCAG89gT4ukTDjlFv0fU_W2c8Y8wqZHto_kgZd_D\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/60w5xWbmOzuR9N79Q78MJR0KJFEOvhRmjLLAp9LIlXzq8DONl1DxmAYcm8_h6J6izGoWd88Xv-0SwUhz3X3_n1lGk0Jo_D5sVpdF5tx91XJz_JLaAnrn9OD6mc0\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/shN3AOmEUHqg9KVRpH-pXZmhxGgLV9kSSQuTzUWFQTTaGHnMD3fZnvWFKNJwehQxKQlyAgyE7YcjEJ_r6UZk2ay_5dKWKvWQLirj797wBQmINtbLBH2YCwndhkM\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/nBnH6O7jM557sQvHJcNbpb115ZxSCNlrKwkhq1rS4DBUT53STA3wxTEBp6jO1dey1RHPdluJ5gCGca9ezHy4cKLBaIHtANULhNF6YfvpTfnoTaqTtl75O6-vyw\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/7BOoxEqsSTLiBrpFclmvYyA0CoS-gyyte9LQik28qehAqZTaWAxta2V5Pt3N-cBB7zD6_i7bkafi5TdrHyVGm2mS0tTdqgxkTyj6V4WsHYZfBC_g_dJu_8JHRA\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/5RIDr48LZEDL3OQdPW7zh996FVV1EO1XxOLNlX3RXdoFxFN5_gLhT1SccTS9k6Q1fD20uSUQVMRZvbWffw4YALmPJKa0IWv3n7ScpfTaT6FGdPrwmD7rXQej8QsS\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5q_GT4BUtWQWMkPcA7mEFoiGRkpkPHnwc7FrNwyI4ZRLkLaznf5quSms04fK8wElxfb5KJ2sGQfJ3sLXD0eQIfqEA9t45gvcgUVkJJNKeT4vEfWTpSUKGi_htmA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dPEopDM5V0IO9UMB9OkI658zJM-FSwjN8WD-84Ek7Lpo_gy_zbJODrw18hx6VZC26oLHmXKnWDAsvK-ZWB0Vj7jmoOO46BwzwVfY-zOslHz0BZ445gf5UBjWBDA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/mrWBeQr0fLOniVOnXSYwzlIG9h9vn5_t6PbzbaqL2gO-oz1OWa8KgqD4phxW2ffPlIW6cNK5I9SZaOgjqBaN9CmLh-HVID2dVgtjbn7szxL9TRthAw0z23cPCg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/2pvtFXvHAUXpguxqVswumXsb_ieKkePncUEww9_WEZkUN-EFhPoWNSzJ1BlR6zjQ0VCkNKlU9fqv9H_JcVfVwKBpZGFuRo_4soIxwp2gGnZirb6tOB4vqNNWGQ\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2021-12-14",
   "publisher": "Modus Games",
@@ -68,6 +68,9 @@
     "Dialogue subtitles",
     "Separate volume controls",
     "Subtitle speed controls"
+  ],
+  "disclosure_details": [
+    "Requires EULA"
   ],
   "notes": "©2020 Developed by Pixile Studios. All Rights Reserved. Published by Modus Games™. Modus Games™ and the Modus™ logo are trademarks of Modus Games, LLC. All rights reserved. All other trademarks or registered trademarks belong to their respective owners.",
   "pegi_min_age": "10",

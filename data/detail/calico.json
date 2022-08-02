@@ -2,7 +2,9 @@
   "title": "Calico",
   "url": "https://stadia.google.com/game/calico",
   "img": "https://lh3.googleusercontent.com/k9hIGn8xBQp6KIsl-w0aw0MAM6Y7QuE1vYAaAyAWPdSl7ZbuC7uIFSyKLHYSQAzTpxQni-lhhbxtzV-TsAk9OvAmOrg7OfPKhCOrHQ_J8ritHucHYup0jQN1IQY\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
+    "Play for 60 min",
     "$11.99 Buy",
     "Claim with Pro"
   ],

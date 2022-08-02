@@ -2,7 +2,9 @@
   "title": "Wave Break",
   "url": "https://stadia.google.com/game/wave-break",
   "img": "https://lh3.googleusercontent.com/H3lQ6Eo2aw2LNyiMmSOr7QW1rZA91LEN88dBAdc_wOVfioNzX3dJ7piIPBhsnB8WE-f4N5trTBdsvkvdvJjOFc2dz2-Al0hvOmQOJkQUrWH78ZHfrhNe14T0cbg\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
+    "Play for 60 min",
     "$19.99 Buy",
     "Claim with Pro"
   ],
