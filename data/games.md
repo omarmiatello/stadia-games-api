@@ -44,11 +44,11 @@
 1. [Cities: Skylines - New Player Bundle](https://stadia.google.com/game/cities-skylines-new-player-bundle)
 1. [Cities: Skylines - Stadia™ Edition](https://stadia.google.com/game/cities-skylines-stadia-edition) - Play for 60 min - available also with #StadiaPro
 1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min - available also with #StadiaPro #DirectTouch
-1. [Control Ultimate Edition](https://stadia.google.com/game/control) - available also with #StadiaPro
-1. [Cosmic Star Heroine](https://stadia.google.com/game/cosmic-star-heroine)
+1. [Control Ultimate Edition](https://stadia.google.com/game/control) - Play trial - available also with #StadiaPro
+1. [Cosmic Star Heroine](https://stadia.google.com/game/cosmic-star-heroine) - Play for 60 min
 1. [Crayta](https://stadia.google.com/game/crayta)
 1. [Cris Tales](https://stadia.google.com/game/cris-tales) - Play for 60 min
-1. [Cthulhu Saves Christmas](https://stadia.google.com/game/cthulhu-saves-christmas)
+1. [Cthulhu Saves Christmas](https://stadia.google.com/game/cthulhu-saves-christmas) - Play for 60 min
 1. [Cyberpunk 2077](https://stadia.google.com/game/cyberpunk2077)
 1. [DC League of Super-Pets: The Adventures of Krypto & Ace](https://stadia.google.com/game/dc-league-of-super-pets-the-adventures-of-krypto-ace)
 1. [DEATHRUN TV](https://stadia.google.com/game/deathrun-tv) - Play for 30 min - available also with #StadiaPro
@@ -155,21 +155,21 @@
 1. [House of the Dead - Remake](https://stadia.google.com/game/house-of-the-dead-remake) #LocalCoop #LocalMultiplayer
 1. [Human: Fall Flat Stadia Edition](https://stadia.google.com/game/human-fall-flat-stadia-edition) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Hundred Days - Winemaking Simulator](https://stadia.google.com/game/hundred-days-winemaking-simulator) - Play for 60 min - available also with #StadiaPro #DirectTouch
-1. [Hunting Simulator 2 Elite Edition](https://stadia.google.com/game/hunting-simulator-2-elite-edition)
+1. [Hunting Simulator 2 Elite Edition](https://stadia.google.com/game/hunting-simulator-2-elite-edition) - Play for 60 min
 1. [Ice Age: Scrat's Nutty Adventure](https://stadia.google.com/game/ice-age-scrats-nutty-adventure) - Play for 30 min
 1. [Immortals Fenyx Rising™ Demo](https://stadia.google.com/game/immortals-fenyx-rising-demo)
 1. [Immortals Fenyx Rising™ Gold Edition Stadia](https://stadia.google.com/game/immortals-fenyx-rising-gold-edition) - available also with #UbisoftPlus
 1. [Immortals Fenyx Rising™ Stadia](https://stadia.google.com/game/immortals-fenyx-rising) - available also with #UbisoftPlus
 1. [Into the Breach](https://stadia.google.com/game/into-the-breach)
-1. [It Came From Space And Ate Our Brains](https://stadia.google.com/game/from-space) #LocalCoop #LocalMultiplayer
+1. [It Came From Space And Ate Our Brains](https://stadia.google.com/game/from-space) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Jotun: Valhalla Edition](https://stadia.google.com/game/jotun-valhalla-edition) - Play for 30 min
-1. [Journey to the Savage Planet](https://stadia.google.com/game/journey-to-the-savage-planet) - available also with #StadiaPro
+1. [Journey to the Savage Planet](https://stadia.google.com/game/journey-to-the-savage-planet) - Play for 60 min - available also with #StadiaPro
 1. [Judgment](https://stadia.google.com/game/judgment) #LocalMultiplayer
 1. [Just Dance® 2021](https://stadia.google.com/game/just-dance-2021) #LocalCoop #LocalMultiplayer
 1. [Just Dance® 2022](https://stadia.google.com/game/just-dance-2022) #LocalCoop #LocalMultiplayer
 1. [Just Shapes & Beats](https://stadia.google.com/game/just-shapes-beats) #LocalCoop #LocalMultiplayer
 1. [Katamari Damacy REROLL](https://stadia.google.com/game/katamari-damacy-reroll) #LocalMultiplayer
-1. [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks) - available also with #StadiaPro
+1. [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks) - Play for 30 min - available also with #StadiaPro
 1. [Kemono Heroes](https://stadia.google.com/game/kemono-heroes) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Killer Queen Black](https://stadia.google.com/game/killer-queen-black) #LocalCoop #LocalMultiplayer
 1. [Kine](https://stadia.google.com/game/kine)
@@ -284,8 +284,8 @@
 1. [STAR WARS Jedi: Fallen Order™](https://stadia.google.com/game/star-wars-jedi-fallen-order)
 1. [STAR WARS Jedi: Fallen Order™ Deluxe Edition](https://stadia.google.com/game/star-wars-jedi-fallen-order-deluxe-edition)
 1. [SUPER BOMBERMAN R ONLINE](https://stadia.google.com/game/super-bomberman-r-online)
-1. [SUPERHOT](https://stadia.google.com/game/superhot)
-1. [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/game/superhot-mind-control-delete)
+1. [SUPERHOT](https://stadia.google.com/game/superhot) - Play for 30 min
+1. [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/game/superhot-mind-control-delete) - Play for 30 min
 1. [Saints Row IV: Re-Elected](https://stadia.google.com/game/saints-row-iv-re-elected) - available also with #StadiaPro
 1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered) - Play for 60 min - available also with #StadiaPro
 1. [Scott Pilgrim vs. The World™ - Complete Edition](https://stadia.google.com/game/scott-pilgrim-vs-the-world-complete-edition) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
@@ -296,7 +296,7 @@
 1. [Shadow of the Tomb Raider Definitive Edition](https://stadia.google.com/game/shadow-of-the-tomb-raider-definitive-edition)
 1. [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition) - Play for 60 min - available also with #StadiaPro
 1. [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/game/shantae-riskys-revenge-directors-cut) - Play for 30 min
-1. [Sniper Elite 4](https://stadia.google.com/game/sniper-elite-4)
+1. [Sniper Elite 4](https://stadia.google.com/game/sniper-elite-4) - Play trial
 1. [Sniper Elite 4: Deluxe Edition](https://stadia.google.com/game/sniper-elite-4-deluxe-edition)
 1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min #LocalCoop
 1. [Spitlings](https://stadia.google.com/game/spitlings) - Play for 30 min #LocalCoop #LocalMultiplayer
@@ -306,7 +306,7 @@
 1. [SteamWorld Dig 2](https://stadia.google.com/game/steamworld-dig-2) - Play for 30 min
 1. [SteamWorld Heist](https://stadia.google.com/game/steamworld-heist) - Play for 60 min
 1. [SteamWorld Quest: Hand of Gilgamech](https://stadia.google.com/game/steamworld-quest-hand-of-gilgamech) - Play for 60 min
-1. [Strange Brigade](https://stadia.google.com/game/strange-brigade)
+1. [Strange Brigade](https://stadia.google.com/game/strange-brigade) - Play for 60 min
 1. [Strange Brigade Deluxe Edition](https://stadia.google.com/game/strange-brigade-deluxe-edition)
 1. [Street Power Football](https://stadia.google.com/game/street-power-football) #LocalCoop #LocalMultiplayer
 1. [Streets of Rage 4](https://stadia.google.com/game/streets-of-rage-4) #LocalCoop #LocalMultiplayer
@@ -392,5 +392,5 @@
 1. [Ys IX: Monstrum Nox Digital Deluxe Edition](https://stadia.google.com/game/ys-ix-monstrum-nox-digital-deluxe-edition)
 1. [Ys IX: Monstrum Nox Digital Ultimate Edition](https://stadia.google.com/game/ys-ix-monstrum-nox-digital-ultimate-edition)
 1. [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/game/ys-viii-lacrimosa-of-dana) - Play for 120 min
-1. [Zombie Army 4: Dead War](https://stadia.google.com/game/zombie-army-4-dead-war)
-1. [Zorro The Chronicles](https://stadia.google.com/game/zorro-the-chronicles)
+1. [Zombie Army 4: Dead War](https://stadia.google.com/game/zombie-army-4-dead-war) - Play for 60 min
+1. [Zorro The Chronicles](https://stadia.google.com/game/zorro-the-chronicles) - Play for 60 min

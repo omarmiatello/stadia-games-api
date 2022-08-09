@@ -1,3 +1,20 @@
+## 2022-08-09
+
+### 13 new demos
+1. [Control Ultimate Edition](https://stadia.google.com/game/control) - Play trial - available also with #StadiaPro
+1. [Cosmic Star Heroine](https://stadia.google.com/game/cosmic-star-heroine) - Play for 60 min
+1. [Cthulhu Saves Christmas](https://stadia.google.com/game/cthulhu-saves-christmas) - Play for 60 min
+1. [Hunting Simulator 2 Elite Edition](https://stadia.google.com/game/hunting-simulator-2-elite-edition) - Play for 60 min
+1. [It Came From Space And Ate Our Brains](https://stadia.google.com/game/from-space) - Play for 60 min #LocalCoop #LocalMultiplayer
+1. [Journey to the Savage Planet](https://stadia.google.com/game/journey-to-the-savage-planet) - Play for 60 min - available also with #StadiaPro
+1. [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks) - Play for 30 min - available also with #StadiaPro
+1. [SUPERHOT](https://stadia.google.com/game/superhot) - Play for 30 min
+1. [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/game/superhot-mind-control-delete) - Play for 30 min
+1. [Sniper Elite 4](https://stadia.google.com/game/sniper-elite-4) - Play trial
+1. [Strange Brigade](https://stadia.google.com/game/strange-brigade) - Play for 60 min
+1. [Zombie Army 4: Dead War](https://stadia.google.com/game/zombie-army-4-dead-war) - Play for 60 min
+1. [Zorro The Chronicles](https://stadia.google.com/game/zorro-the-chronicles) - Play for 60 min
+
 ## 2022-08-02
 
 ### 1 new game
