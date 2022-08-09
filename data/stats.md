@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | Stadia games | 396 | 350+ | 400+ |
 | Stadia demos | 123 | 100+ | 150+ |
-| Games on Stadia Pro | 52 | 50+ | 100+ |
+| Games on Stadia Pro | 51 | 50+ | 100+ |
 
 ## Games by **Genre**
 | Genre | # of games | Milestone reached | Next milestone |
@@ -19,7 +19,7 @@
 | Strategy | 27 | 20+ | 50+ |
 | Racing | 26 | 20+ | 50+ |
 | Kids & family | 25 | 20+ | 50+ |
-| Arcade | 23 | 20+ | 50+ |
+| Arcade | 22 | 20+ | 50+ |
 | Casual | 17 | 10+ | 20+ |
 | Puzzle | 16 | 10+ | 20+ |
 | Party | 15 | 10+ | 20+ |
@@ -31,7 +31,7 @@
 | Game modes | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
 | Single player | 380 | 350+ | 400+ |
-| Online multiplayer | 162 | 150+ | 200+ |
+| Online multiplayer | 165 | 150+ | 200+ |
 | Competitive | 125 | 100+ | 150+ |
 | Online co-op | 113 | 100+ | 150+ |
 | Local multiplayer | 89 | 50+ | 100+ |

@@ -2,7 +2,7 @@
   "overview": {
     "Stadia games": 396,
     "Stadia demos": 123,
-    "Games on Stadia Pro": 52
+    "Games on Stadia Pro": 51
   },
   "games_by": {
     "genre": {
@@ -16,7 +16,7 @@
       "Strategy": 27,
       "Racing": 26,
       "Kids \u0026 family": 25,
-      "Arcade": 23,
+      "Arcade": 22,
       "Casual": 17,
       "Puzzle": 16,
       "Party": 15,
@@ -26,7 +26,7 @@
     },
     "game_modes": {
       "Single player": 380,
-      "Online multiplayer": 162,
+      "Online multiplayer": 165,
       "Competitive": 125,
       "Online co-op": 113,
       "Local multiplayer": 89,
