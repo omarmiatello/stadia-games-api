@@ -76,6 +76,9 @@
     "Difficulty levels",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "TM IOC/TOKYO2020/USOPC 36USC220506. © 2021 International Olympic Committee (\"IOC\"). All rights reserved. SEGA and the SEGA logo are either registered trademarks or trademarks of SEGA CORPORATION or its affiliates.",
   "pegi_min_age": "10",
   "pegi_notes": [

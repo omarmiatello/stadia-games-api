@@ -5,7 +5,7 @@
   "button": "Play for 30 min",
   "buttons": [
     "Play for 30 min",
-    "$39.99 $21.99 Buy",
+    "$39.99 Buy",
     "Claim with Pro"
   ],
   "description": "More Trucks! New Worlds! Play with your friends in brand new online and split-screen multiplayer modes! Explore 5 huge outdoor worlds and unlock their secrets! Choose from 38 official trucks and upgrade them over the course of your career! Compete in authentic stadium events and race in various modes to become the ultimate champion!",
@@ -74,5 +74,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 THQ Nordic AB. Developed by Rainbow Studios. Published and Distributed by THQ Nordic GmbH respectively THQ Nordic Inc. THQ, THQ Nordic and Rainbow Studios are trademarks of THQ Nordic AB, Sweden. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners.© 2021 Feld Motor Sports, Inc. “Gas Monkey™ ,” “Gas Monkey Garage™” and the Gas Monkey Logo are trademarks and service marks owned and licensed by Gas Monkey Holdings LLC. © 2021 Gas Monkey Holdings, LLC. The Bakugan and Dragonoid Logos are trademarks of Spin Master LTD., used under license.Unreal Engine, Copyright 1998 - 2021, Epic Games, Inc. All rights reserved. Uses Bink Video. Copyright © 1997-2021 by RAD Game Tools, Inc. FMOD Sound System, copyright © Firelight Technologies PTY, Ltd., 1994-2021. Uses Scaleform GFx © 2021 Autodesk Inc. All rights reserved. Uses Megascans ®, Copyright © - 2021 Quixel AB.Unreal, Unreal Technology and the Powered by Unreal Technology logo are trademarks or registered trademarks of Epic Games, Inc. in the United States and elsewhere. All other trademarks, logos, and copyrights are property of their respective owners."
 }

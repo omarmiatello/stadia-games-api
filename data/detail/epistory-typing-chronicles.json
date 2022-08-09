@@ -61,5 +61,8 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "All Rights Reserved."
 }

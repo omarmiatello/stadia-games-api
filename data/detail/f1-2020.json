@@ -78,5 +78,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "F1 2020 Game - an official product of the FIA FORMULA ONE WORLD CHAMPIONSHIP. © 2020 Codemasters. The F1 logo, F1, FORMULA 1 and related marks are trade marks of Formula One Licensing BV, a Formula 1 company. Licensed by Formula One World Championship Limited. The F2 FIA FORMULA 2 CHAMPIONSHIP logo, FORMULA 2, F2 and related marks are trade marks of the Federation Internationale de L’Automobile and used exclusively under licence.  All rights reserved"
 }

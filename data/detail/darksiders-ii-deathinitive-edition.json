@@ -73,6 +73,9 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web"
+  },
   "notes": "Copyright © 2021 THQ Nordic AB, Sweden. Developed by THQ Nordic. Originally Developed by Vigil Games \u0026 Gunfire Games (Deathinitive Edition). Darksiders, Vigil Games, THQ and their respective logos are trademarks and/or registered trademarks of THQ Nordic AB. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners.",
   "pegi_min_age": "17",
   "pegi_notes": [

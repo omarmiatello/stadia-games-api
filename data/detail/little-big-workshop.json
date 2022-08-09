@@ -72,5 +72,8 @@
     "Separate volume controls",
     "Skip challenges"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 THQ Nordic AB. Developed by Mirage Game Studios AB, Sweden. Published \u0026 Distributed by HandyGames, Germany. All other brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved."
 }

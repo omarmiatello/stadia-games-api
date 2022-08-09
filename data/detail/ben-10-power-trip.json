@@ -1,7 +1,7 @@
 {
   "title": "Ben 10: Power Trip",
   "url": "https://stadia.google.com/game/ben-10-power-trip",
-  "img": "https://lh3.googleusercontent.com/HvwxnuVx13uD0l3Na14N16gRyVLvHbt-WRB7qecoHibvJA8VTxShB4jY6jRY-zrvh5rifRUriRIuHBT2O3M1Pd1GoBKK56mCtMqWGbs7G3vCvZnPdrU_9dxHGjQ\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/CEdKolskeLhCe-180lmq--ZpmdOSCxWrX1zN1o7d-pZ3pp_G1Vhsd660ouh7OQf8_I0oH-VYHt2es8c96e1BttWixEu9Gj1c8ozGLW4a8ABT0miEEGyjAqNAbBk\u003dw300-h400-rw-no-v1-nu",
   "button": "Play for 30 min",
   "buttons": [
     "Play for 30 min",
@@ -77,6 +77,9 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile"
+  },
   "notes": "Ben 10, Cartoon Network, the logos, and all related characters and elements are trademarks of and © Cartoon Network, a WarnerMedia company. All Rights Reserved. Published by Outright Games Limited. Software © 2020 Outright Games Limited.",
   "pegi_min_age": "10",
   "pegi_notes": [

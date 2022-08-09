@@ -67,5 +67,8 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "CONDITIONS AND RESTRICTIONS APPLY. SEE https://www.easports.com/madden-nfl/game-disclaimers FOR DETAILS."
 }

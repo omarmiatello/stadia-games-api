@@ -9,7 +9,7 @@
   "image_urls": [
     "https://lh3.googleusercontent.com/0vRA63MV5-e2Kn1H5UpLcvLuw1mxvI8QpIlNnNMjLuMvSSI08tqX5bOanfmRtQz7f2aERrb97Gj4oSgFhX8orTuGEHtQf7almYxSRnNR3iEam6zJc3lOZGC2O7s\u003dw588-h384-rw-no-v1-nu"
   ],
-  "release_date": "2021-08-17",
+  "release_date": "2021-08-16",
   "publisher": "Electronic Arts Inc",
   "developer": "Electronic Arts Inc",
   "languages": [
@@ -67,5 +67,8 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "CONDITIONS AND RESTRICTIONS APPLY. SEE https://www.easports.com/madden-nfl/game-disclaimers FOR DETAILS."
 }

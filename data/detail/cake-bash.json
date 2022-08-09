@@ -81,5 +81,8 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Cake Bash - ©High Tea Frog Ltd 2020 - Published under license by Coatsink Software Ltd. All other trademarks are the properties of their respective owners"
 }

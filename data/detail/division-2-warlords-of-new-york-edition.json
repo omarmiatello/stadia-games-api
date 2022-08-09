@@ -1,16 +1,15 @@
 {
   "title": "The Division 2 - Warlords of New York Edition",
   "url": "https://stadia.google.com/game/division-2-warlords-of-new-york-edition",
-  "img": "https://lh3.googleusercontent.com/DeRy2R4nSIbxbzyLRFibMrxb3NbCH7Ewi_f_xIeS0O2aTiS7pdPONes5mzY2pLq3DfnIDpynYNzSPVGmDJ5Hh5w1SbUQQIs_Te3x0xN5nbVt1Gz_TWhpNVYaJU8c\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/ww0AJJo4DIdJvKCqgAsr21kFVOKqNMM34911zmbwP1F8DuD3q-s83gzl6Y_2B_edbhgYKYEz1dOCsFE1HEzGg8dhNzqQo8nM5I1C7EIy6fKPyRKRTBEHCwfoXW3J\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$59.99 $26.99 Buy",
-    "$14.99 Buy"
+    "$59.99 Buy"
   ],
   "description": "INCLUDES THE DIVISION 2 + EXPANSION. In the Warlords of New York expansion, hunt down your nemesis, Aaron Keener, a former Division Agent who has taken control of New York. Trained by The Division but disavowing its ideals, he is now the highest authority in town. Includes a level 30 boost, allowing you to jump right into the Warlords of New York campaign. Play solo or online co-op. Experience a gripping story set in a post-pandemic country. Explore two open worlds: Washington, DC, and New York City. Create and level up your own Division Agent. Play intense PvP in the Dark Zones. Enjoy an extended endgame, including thematic three-month seasons",
   "image_urls": [
-    "https://lh3.googleusercontent.com/O1deVh4joC6lQX5bF2mCtbP-mVFutcKESdNdMxNPZekXDoVPKKEe8gN4HcKPuSqWqPVHbVHlBnHmj8ol8-9ZlrtYMnpgWR99p9k9V2ndT__GMaRRxLKoc-JcAQ8\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/6BJ9VLAubu-VmZYuz0NdDv5AsZjB6vez_OsKzBH7wtaQpxx5YT2Dq5I0pU6EFPCcrS5Io3hNnM6xBObul3M3M1ksQ9XwABJ6xwBbk1tsJMQvFEdcPCOkcw9zb6M\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/n0bUK9nfACsSqYSTzDGU5cqpp4F1oBob5tUHI1eA-DsxbufRKwjPSKlxxdCEVaiQnOkd9gsinInK_YK0OCiVH5lKyqFAevqDYUkAdQSAuwWbyWqcBVhSgr8mmMI\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/sDrWSefVQeN4Rt5Z6BKVQMRa3jEqY7oqejYM47wcrnHvycL3DJQ1VfKOgAZDZyNoanWgITH4g7fclIVKjsbH73mNdWrVlEg4AuapezReraVXDtlQtkQw5DYVeas\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QHkKjDypT70HuhI6oXnUZzAxcJ0exVu5cmFflAUJdBzp1JrNadsvFvp0VtkrJr3ah0fOWHuBk9bhibctvcDarBgYl7PDVluT32dmBHOIFJbQOB0HDoFvgamTh0M\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZKOkSHw_vZ6BXsU6sfYpdUT9x7sLIoe5B0084e3vbVKbxhNuBjp0154-haYJOh5L_7DihVk9x_zCTDJvaiAF2TClGNyslqd7YmXttZxSPIKTh5oGdEOwF48EqFw\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-03-17",
   "publisher": "Ubisoft",
@@ -80,6 +79,9 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, The Division logo, the Soldier Icon, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [

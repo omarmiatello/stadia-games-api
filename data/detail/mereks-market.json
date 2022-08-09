@@ -1,7 +1,7 @@
 {
   "title": "Merek\u0027s Market",
   "url": "https://stadia.google.com/game/mereks-market",
-  "img": "https://lh3.googleusercontent.com/LtnvOXyPAwtAtq9taZS8mAFITTZgCAtPWlTVOgFUxaxAXcvnwnmni5RBxd3WQryZaRWbuDdhnkRRq86d7p8Tdknkx6AlatXc3DJjA6kTsypKqMd4brCra_4Er4w\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/OO21BBdYpIvJcLmcVOyu9mTJhpL59hy_VqSdQOStlcO_8B_sfArgSirVNm01Jz1jY1t5lqtP-D918POcdPhbfnLXiw_vxZIkQGT88Osk_SEtfehB0wZtRBhVP3E\u003dw300-h400-rw-no-v1-nu",
   "button": "Play for 60 min",
   "buttons": [
     "Play for 60 min",
@@ -70,5 +70,8 @@
     "Button remapping",
     "Dialogue subtitles",
     "Separate volume controls"
-  ]
+  ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web, TV"
+  }
 }

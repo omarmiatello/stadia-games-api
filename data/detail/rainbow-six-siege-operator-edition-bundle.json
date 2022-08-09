@@ -1,16 +1,15 @@
 {
   "title": "Tom Clancy\u0027s Rainbow Six® Siege Operator Edition",
   "url": "https://stadia.google.com/game/rainbow-six-siege-operator-edition-bundle",
-  "img": "https://lh3.googleusercontent.com/X_wxoeefIVEoYTABTriF4GpHUUmEj22siISlv-1I2-Vbz8XvGg5sNvjm4rUq8z9_uonqBLrJg0XiHZE8q6SYin1piS3Lwm6Efhq1RbXVNTELTqGbzQyGcRau3A\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/aHaGnraVcAes7BwTPIlVlT5hVwEE4UGlm8o-goBqawhKglB9Od6OwASqwtEN3LMDqhOIXu5Yo1ebsAB-49iauis3LT5nrVIyM1BnH4-1LiVWy-CgKZ_3T5cMvg\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$79.99 $43.99 Buy",
-    "$31.99 Buy"
+    "$79.99 Buy"
   ],
   "description": "Start your Siege adventure with the new Operator Edition, now including the full game plus all 42 operators from Years 1 to 6. Dive into explosive 5v5 gameplay, high stakes competition, and thrilling PVP team battles. Tom Clancy\u0027s Rainbow Six® Siege features an ever-expanding experience with limitless opportunities to perfect your strategy and help lead your team to victory. Rainbow Six Siege is constantly evolving. Each new season brings brand new content, game-changing Operators and abilities, in-game events, weapons, and maps.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/1WdTTZ8rfNKF6G9ZwGFpdQUM-hxn8vKBuLENfAyNWV78U2WSkgD4POo6twAVSGd01UROeyt3R1Unz-sY6LAgHzBSFfSDz_S4CSonZKRaT_LDDh5AT-CnpneVqg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/yGju8NLTJJx2MAoiOazEv3Tz3bHJD3Ft23On18fby1muZLe49-P1umoJE6rzxvGyRHqBqSGmcIyYT5EFtaitsehGsa9_TW9CEeFqmSLoWzXThTv7VXatXH6JJA\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/QRigRiDVviA5RNDIN-9ZDGcRjwSPyV-UDUtIBQXEyHvqi-BYlhQkGGZwzt8BlN5z6dx0D2qO7NrpuY6p2cSRGw3lgj3rWlTm-PhkGFkgSrERl4KuB9wYVxE3cWM\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/xcDOV_5jdY3TiwqANmACqvCctV2Ry81PfAJbOBf85M3PP4XlqoUIWTsPuj4uWtQugnnCDwbVBvpXH-yEhQ_sn2DQpoLawG8snstBd8Q1iYFE7ItutLkOZHctFg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/9CZDfdg_-pcwv4vArQC47gLmaAzAK5YDZt_PusLvvQrp70tZIyHT1o34His-XNGAVfV2N28veoJeeOz3-rXJpszIHc8nUdt_qv6ocJm_tKUtFZS-2NGIgSkQmA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/MDdWaMd0m324kcs6wjOztn-jntQGSNRi5lsRdaapKoXqO3I2we_zF4miq_I4y39BIn_-3stEVKEfGhGNy4kP1d12MAg4c2VayZScP5mHUNJcJ1RoHOKBPq2ws3c\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2022-03-08",
   "publisher": "Ubisoft",
@@ -77,6 +76,9 @@
     "Button remapping",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Web, TV, Mobile"
+  },
   "notes": "© 2021 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, Rainbow Six, the Soldier Icon, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [

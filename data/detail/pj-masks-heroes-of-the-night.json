@@ -67,5 +67,8 @@
     "Separate volume controls",
     "Skip QuickTime events"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, TV"
+  },
   "notes": "PJ MASKS and all related trademarks and characters TM \u0026 © 2021 Frog Box and/or Entertainment One UK Limited. Les Pyjamasques by Romuald © 2007 Gallimard Jeunesse. HASBRO and all related logos and trademarks TM \u0026 © 2021 Hasbro. All Rights Reserved. Used with Permission. Published by Outright Games Limited. Software © 2021 Outright Games Limited. Developed by Petoons Studio Ltd. All Rights Reserved."
 }

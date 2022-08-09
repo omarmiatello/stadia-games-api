@@ -88,5 +88,8 @@
     "Button remapping",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 Honig Studios. Developed by Honig Studios, co-developed by Quantumfrog and published by www.Handy-Games.com GmbH, Germany. Honig Studios, El Hijo and their respective logos are trademarks and/or registered trademarks of Honig Studios. All other brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved. Funded by nordmedia - Film- und Mediengesellschaft Niedersachsen/Bremen mbH."
 }

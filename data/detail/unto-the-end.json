@@ -73,5 +73,8 @@
     "Difficulty levels",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2 Ton Studios"
 }

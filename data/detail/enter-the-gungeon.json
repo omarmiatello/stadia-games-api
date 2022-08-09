@@ -67,5 +67,8 @@
     "Button remapping",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Copyright Dodge Roll 2020. All Rights Reserved"
 }

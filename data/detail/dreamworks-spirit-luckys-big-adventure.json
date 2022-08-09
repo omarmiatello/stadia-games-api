@@ -68,5 +68,8 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "DreamWorks Spirit Lucky’s Big Adventure © 2021 DreamWorks Animation LLC. All Rights Reserved. Published by Outright Games Limited. Software © 2021 Outright Games Limited. Developed by aheartfulofgames S.L. All rights reserved."
 }

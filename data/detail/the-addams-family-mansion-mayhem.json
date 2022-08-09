@@ -66,6 +66,9 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "THE ADDAMS FAMILY © 2019 MGM and BRON Creative MG1, LLC. THE ADDAMS FAMILY 2 © 2021 MGM. THE ADDAMS FAMILY TM Tee and Charles Addams Foundation. THE ADDAMS FAMILY: MANSION MAYHEM © 2021 MGM. ARR.",
   "pegi_min_age": "10",
   "pegi_notes": [

@@ -67,5 +67,8 @@
     "Separate volume controls",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2020-2021 Dreams Uncorpored LLC. Published by Modus Games™. Modus Games™ and the Modus™ logo are trademarks of Modus Games, LLC. All rights reserved. All other trademarks or registered trademarks belong to their respective owners."
 }

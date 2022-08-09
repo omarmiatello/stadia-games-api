@@ -67,6 +67,9 @@
     "Separate volume controls",
     "Skip QuickTime events"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web, TV"
+  },
   "notes": "©CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED. RESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. in the U.S. and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [

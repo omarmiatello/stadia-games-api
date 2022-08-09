@@ -14,8 +14,8 @@
     "https://lh3.googleusercontent.com/LoVwjIszwGKRklktx7yMWX8flfOgHnGSDGx--memoLwebrvGNtkN8EE-Qbaq-3LHduVWXCWyxqC0JUVFLEGAy4lkfyDQQMPN3WVwzqDJkk5-kZa3WZCwiaWsqQU\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2022-02-17",
-  "publisher": "Koch Media",
-  "developer": "Koch Media",
+  "publisher": "PLAION",
+  "developer": "PLAION",
   "languages": [
     "Chinese",
     "English",
@@ -70,5 +70,8 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 and published by Deep Silver, a division of Koch Media GmbH, Austria. Chorus, Deep Silver, Deep Silver Fishlabs and their respective logos are trademarks of Koch Media GmbH."
 }

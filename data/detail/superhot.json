@@ -70,5 +70,8 @@
   "accessibility_features": [
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 SUPERHOT Sp. z o.o.. All rights reserved. SUPERHOT logo is a trademark or registered trademarks of SUPERHOT company. All other trademarks are property of their respective owners."
 }

@@ -71,5 +71,8 @@
     "Dialogue subtitles",
     "Difficulty levels"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Web, Mobile"
+  },
   "notes": "Developed by ArtPlay, Inc. Published by 505 Games, S.p.A. \"505 Games\", “ArtPlay, Inc.” logos are the trademarks and/or registered trademarks of 505 Games S.p.A. and ArtPlay, Inc. All rights reserved."
 }

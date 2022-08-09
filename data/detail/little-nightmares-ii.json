@@ -13,7 +13,7 @@
     "https://lh3.googleusercontent.com/sUSqdE0xuHNVyCsCt6QkW_H8IjZzdrdt_yYaYZq0j6V7Nlr8-VGiYV0fORgbYHL_ED2u0gNLxKtvLtQWk5WS8u29FuOMKRHlkcov3Zwv-WJ-lY7uYHr1CXU2lg\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/EozANN_ZPe9WKDLOhssv7JW7aDz5rlvSw7ZlA4Kqq2DyFDauXKc9nHhKoYfbei_zM2wwJRiT86dzxqSjivcAG30_wHt8JJNCUF1FRpkY0T9rC9H5zfBx60roAA\u003dw588-h384-rw-no-v1-nu"
   ],
-  "release_date": "2021-02-11",
+  "release_date": "2021-02-10",
   "publisher": "BANDAI NAMCO Entertainment",
   "developer": "Supermassive Games",
   "languages": [
@@ -72,5 +72,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Little Nightmares ® II \u0026 © 2021 BANDAI NAMCO Entertainment Europe. All rights reserved."
 }

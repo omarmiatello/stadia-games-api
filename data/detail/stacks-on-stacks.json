@@ -8,7 +8,7 @@
   "description": "Stacks On Stacks (On Stacks) is a zany 3D tower builder. Play as the Master Stacker, Rockit, who must use her psychic helmet to stack the colorful bricks falling all over her madcap world. BUILD stable towers by executing architectural feats of balancing. INCORPORATE mixed-up materials into your towers: works of art, aquariums, magnets, and more. DEFEND your towers against invading ghosts, a fireball-breathing dragon, and other outlandish hazards. KNOCK your finished towers back down with a wrecking ball.",
   "image_urls": [
     "https://lh3.googleusercontent.com/6pMECQdQDi-PBK9dZFs7LNPMoQqyxgMLkCl5z319oK2Q5NLAdUpH96Z0NnVCHtj37K8LLCj_FS3wVohYMbCUhNRM4olM7jIuYAfKC_YEy2bV_4BkPJhbt_KLNg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/E_isaw0ZVn-GCz1Vv511Gfcp01K3jV3EbessSj9j7sVxDIJaqqi0Z5kmZ_q3qltTWtMgaWO2TXUC21-WxhlUD-Vwgt6RSCgCmhGp_ZLG8d41zXIWv5iQzr4JTiI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/z-vKb__HUNQnnRPd5BuH5MhK2jhw6Va-liWFjlX8GRT14PnaZGQD3ybQGnEL-rf090ur9qzcFW6kMcPZQIJnMX3tDw2UwEgJdEgr-m48TXia_ZF76fsofCHzL48\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/OHNbIypnx0_AUid0rrYsMDexGSpilN36kmZ-UTyrk4tQbgKPh4WParj8RiE6ZkXapmUROckddjZ6RQRWpWfzS3GP_NvggDm2EWikGGR7pTYnGyo3c5O8dJF5tg\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/CexkdnLbZPKRLC5FH1AOej2H9INIEqUwfkDQeiyri0M3r3HLepR_TKuMy1Cve1xV-9eirHxHeRbMSHu1kqYCvW5TiSAYxUrS0b7QGYty8h6rC4GIpNANsOwLg0E\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/m3wOBHWQSngJhLK7xGg0oHNOLueH93XrZOHcM4nBDLjr-IqmFIbOAWW4uxw6TreQ8Gb5AlURC4qNZTAeLRy1VLNcdic28N9I7s1WupKTIuu2LOQUVs7SIhy6eBSz\u003dw588-h384-rw-no-v1-nu"
@@ -72,5 +72,8 @@
     "Separate volume controls",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Copyright Herringbone Games LLC 2020. All Rights Reserved."
 }

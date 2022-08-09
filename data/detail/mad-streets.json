@@ -70,5 +70,8 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "All Rights Reserved."
 }

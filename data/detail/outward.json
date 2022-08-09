@@ -7,12 +7,12 @@
   ],
   "description": "Outward offers an immersive RPG experience coupled with realistic gameplay, as well as deeply-rewarding challenges for the most avid gamers. As an ordinary adventurer, you’ll not only have to hide or defend yourself against threatening creatures, but also brave the hazardous environmental conditions, protect yourself against infectious diseases, and stay hydrated. Embark on risky expeditions across untamed lands to reach new cities, undertake important missions, and discover hidden dungeons crawling with formidable enemies. In order to survive in the dazzling yet deadly world of Aurai, you’ll have to be clever… and prepared. Sharing your journey with a friend, locally or online, is also greatly encouraged!",
   "image_urls": [
-    "https://lh3.googleusercontent.com/H-xSR1c5o9iYCt5mIgqy4BX_fGh8V0N0EFP8t2qCUZKRD4FDg64dAhlre_vQcMSkSRcrPA_0c4DZo1xWdkcAUvtp5Mez6vtjWj0ZqfBR8NlqgmDee3xdaU-nCJ0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/W8AS3WGFjBElIbOreF8xeolkBOKWSPaG6-_w47fFjBH6nQeD7qSAQYCbVXNEttK13S6O5qxbF1-WdH24SU6ssk6ielbMKuud1D05mBgGeJQBuoEyt4H0xwmU1tA\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/yainmarENXvD2XiIoenWsoIGYlcu1J2AsRenb_9sHpDprc3wRRwlodAFRvw_qEQAQ70NP_w3kNuLmF7ZRsX1ilsyV3duMUGpc2q4BhI-H3Tg_-kWPJtSs6fSh2E\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/yX8s916YUbqTElXWp7DjD7SWGJNIz-7klZTr-Zn-tEtO8-PEw_ail95KXUxZYH1YnmqvLz5oz6afv4HkjFOTnVvPRFfE9c5EYU-GUaX_NofRDGlk6k7CVxfssiY\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-11-30",
-  "publisher": "Koch Media",
+  "publisher": "PLAION",
   "developer": "Nine Dots Studio",
   "languages": [
     "English",
@@ -68,6 +68,9 @@
     "Motion sickness options",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©Nine Dots Studio, 2015. Published 2019 by Koch Media GmbH. Deep Silver is a division of Koch Media GmbH, Austria. Deep Silver and its respective logos are trademarks of Koch Media GmbH. Developed by Nine Dots Studio.",
   "pegi_min_age": "17",
   "pegi_notes": [

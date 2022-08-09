@@ -74,6 +74,9 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web, TV"
+  },
   "notes": "Copyright 2019 ZAUM",
   "pegi_min_age": "17",
   "pegi_notes": [

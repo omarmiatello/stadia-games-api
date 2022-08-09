@@ -13,7 +13,7 @@
     "https://lh3.googleusercontent.com/td-eazJ7-KC6Y9n6b9FAi9AZH6c34eLVcE7_cgZWko-uqZZETiipBY7gm6Dsyu2t2ek85fqY-nO6Cyd1tygSKoYBGM0oKqmw7YFJ5yLztU8NReDTG_kILOp662Be\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/rodlfu3KiNTy34rqt_o66r5VNFEcZD2bjERi186rPc5WlIOsBuv1-sE-4Ln9DWLdjZLIlMYNgTPwSLokUfdQqEl6BCQEdLB_snOnUG9e8czmE50fG6IBzz0_94M\u003dw588-h384-rw-no-v1-nu"
   ],
-  "release_date": "2021-12-10",
+  "release_date": "2021-12-09",
   "publisher": "Ubisoft",
   "developer": "Ubisoft",
   "languages": [
@@ -81,5 +81,8 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile, Web"
+  },
   "notes": "The MONOPOLY name and logo, the distinctive design of the game board, the four corner squares, the MR. MONOPOLY name and character, as well as each of the distinctive elements of board and playing pieces are trademarks of Hasbro for its property trading game and game equipment and are used with permission © 1935, 2021 Hasbro. All Rights Reserved. Licensed by Hasbro to Ubisoft Entertainment. Game software © 2021 Ubisoft Entertainment. All Rights Reserved. Ubisoft and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries."
 }

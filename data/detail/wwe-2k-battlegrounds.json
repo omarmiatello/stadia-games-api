@@ -70,5 +70,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2020 Saber Interactive. Published and distributed by 2K Games. Saber Interactive is a trademark of Saber Interactive, Inc. 2K and the 2K logos are trademarks of Take-Two Interactive Software, Inc. All rights reserved. All WWE programming, talent names, images, likenesses, slogans, wrestling moves, trademarks, logos and copyrights are the exclusive property of WWE and its subsidiaries. ©2020 WWE. All rights reserved. Andre the Giant™ licensed by CMG Brands, LLC. Unreal® Engine, Copyright 1998-2020, Epic Games, Inc. All rights reserved. Unreal® is a registered trademark of Epic Games, Inc. The ratings icon is a registered trademark of the Entertainment Software Association. All other trademarks are property of their respective owners."
 }

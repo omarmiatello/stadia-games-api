@@ -14,7 +14,7 @@
     "https://lh3.googleusercontent.com/YV27SRFivcoi-peBni1Ft3ZTZcMFBaMGsnJdJMOT7rz_SJ7F9t0uTos6-lswKiHrUTG9rrk4Io4u1bM-mZyyWSWbMcsRKbRZXk7pmblKi9sx8ql7M5l2OMIsZkU\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-08-02",
-  "publisher": "Koch Media",
+  "publisher": "PLAION",
   "developer": "Parabole",
   "languages": [
     "English",
@@ -65,5 +65,8 @@
     "Separate volume controls",
     "Skip challenges"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Published by Koch Media GmbH, Austria. Ravenscourt is a division of Koch Media GmbH. Ravenscourt and its respective logos are trademarks of Koch Media GmbH. © 2020 and developed by Studio Parabole Inc. Kona is a trademark of Studio Parabole Inc. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved."
 }

@@ -3,8 +3,8 @@
   "url": "https://stadia.google.com/game/assassins-creed-rogue-remastered",
   "img": "https://lh3.googleusercontent.com/nqYVfw7IErRW04RoUnKQi_mX_puPDKyqTpFNm7F14aTETYDnFYVdmT45lzWo70mFtJdsFTZwGWK-FkL-JvSqHCOlt8coe4syg9Sb4bEpT7CMT0qH_xkAXCYe3FNW\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$29.99 $14.39 Buy",
-    "$9.89 Buy"
+    "$29.99 Buy",
+    "Get with Ubisoft+"
   ],
   "description": "Created by Ubisoft Sofia, the studio that developed the original Assassin’s Creed® Rogue, Assassin’s Creed® Rogue Remastered will offer an even more beautiful and immersive gaming experience that invites fans of the series and new players alike to discover or rediscover Shay’s adventures in 18th-century North America. Experience the darkest chapter in Assassin\u0027s Creed® lore yet. Assume the role of Shay, an Assassin during the French and Indian War, and witness the cataclysmic events that force him to betray the Brotherhood. Also included: - Two bonus missions from the original deluxe edition - Two packs full of weapons, outfits and customisation items for your ship - The Bayek\u0027s Legacy outfit",
   "image_urls": [
@@ -76,6 +76,9 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile"
+  },
   "notes": "© 2014 Ubisoft Entertainment. All Rights Reserved. Assassin’s Creed, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries",
   "pegi_min_age": "17",
   "pegi_notes": [

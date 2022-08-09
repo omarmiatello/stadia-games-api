@@ -79,5 +79,8 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile, Web"
+  },
   "notes": "Overcooked! All You Can Eat. Developed by Team17 Digital Ltd and Ghost Town Games Ltd.© 2020. Published by Team17. Team17 is a trademark or registered trademark of Team17 Digital Limited. All other trademarks, copyrights and logos are property of their respective owners."
 }

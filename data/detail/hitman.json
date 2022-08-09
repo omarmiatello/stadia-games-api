@@ -3,14 +3,14 @@
   "url": "https://stadia.google.com/game/hitman",
   "img": "https://lh3.googleusercontent.com/cuDD88FneFJYMRcI49wDuy_pkx4zkejFL1kYuqUGdjNby6_E1qkUe89XoVihyvkNYpfViE0mDv2Z4gkYY9pIJoZAIigpUbXghdSsmdexl9xXtW3lNLtJkBOL_jM\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$59.99 Buy"
+    "$29.99 Buy"
   ],
-  "description": "Travel the globe and track your targets across exotic sandbox locations in HITMAN 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world\u0027s most creative assassin, Agent 47. Prepare to experience the ultimate spy thriller story; your mission is to eliminate the elusive Shadow Client and unravel his militia, but when 47 learns his target\u0027s true identity and the truth about his past, it changes everything.",
+  "description": "Experiment and have fun in the ultimate playground as Agent 47 to become the master assassin. Travel around the globe to exotic locations and eliminate your targets with everything from a katana or a sniper rifle to an exploding golf ball or some expired spaghetti sauce. The HITMAN - Game of The Year Edition includes: - All missions locations from the award-winning first season of HITMAN - \"Patient Zero\" Bonus campaign - 3 new Themed Escalation Contracts - 3 new Outfits - 3 new Weapons",
   "image_urls": [
-    "https://lh3.googleusercontent.com/oC1luSUNPcim6qVrGim_xCB-VyufmYCUF5gQdd8b0Q9yVBUDKSWCunvW6BOr9-R99Yf6w993wBFqyhmS3l7d_6f7suDL5xb2VpEXKm2wD0ZvXnT-eJlb4D4JQg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/82pgdlI5eQm0Ea5BnmqKBz8IL1uqxn9oqnlgzFdzeUWwJoMk4jSofr579r4iaTJliNEiwYn2eCbHPwTGJaQhGqzzSlcCXPtpXLVCRnoXw3UojP6eHSA5_2Ph7GA\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/F5grDPT2nDOp9-mUZbqAHeC7fVDYwIAPpYJbQw0TaZ3GLyjUtOEqtwTapCBDjTf4FvL881rNe2R7Q-G-2MC8NeXl5nvc8moGefTRT-Yl3wQxVv_pRzP8C9CP8ccP\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/4D8PZta2rjdQR6NwXMxGxoGPYQhr2TLbJPddQ3vr7fz5nvjO4EnCsAMVf88ZgbbV2uaydKo1TyntElnbcUleDOZM_O0TQqcMOBinGUU8M4XyzM7PZISIR5M_HmE\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/ouaOXaskjvJdL_fgmOiMENVgna145bJ9tE4dbT_YLLmuoHLI0073U9Znz4Nm5bRIipYvr7dX9gVyagT359gDInmJfBJEl9ukJ8zCTeQzdnRrdsWxaNHCl-ii43Y\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/XHFN64dNk8UJKw8ViUCv2W5lws-U7hIUpxOFoP8fBOUAi6sFCHUjAgtSZuYWxNRYqPPTXyrGSFp040Hzb5i6ED30eyOJTXcxabVKek48JxLHe565E1AJvMQ5vV8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/jFnB_RBtGZOQ1dY1yuApD8xgW3K-RfRDd68NE1lZKwGLEan28XTlLRIaKvC9u2_k5j1XtrNe-SzUofkthgMdV3W6_jQsN_begP9Bcw8McOQ_LcXUj1FRwZY8wg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/iFnqghjIGpF9Cu9QmCvLG2Vtxz8Ua9ReVB5XyrdYmPAjLD_QAObSWafdzPXflv2w95bAyFrDu729rxgLhKnVuD8o1QV86rV3VIDn-xxPvAKEPz1XyiTQPX1B5iwn\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-09-01",
   "publisher": "IO Interactive",
@@ -75,8 +75,7 @@
   "pegi_notes": [
     "+ Blood",
     "Intense Violence",
-    "Strong Language In-Game Purchases",
-    "Use of Alcohol",
-    "Use of Drugs"
+    "Strong Language",
+    "Use of Drugs In-Game Purchases"
   ]
 }

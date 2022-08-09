@@ -71,6 +71,9 @@
     "Button remapping",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Developed and Published by tinyBuild Ⓒ 2021. All rights reserved.",
   "pegi_min_age": "10",
   "pegi_notes": [

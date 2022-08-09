@@ -79,5 +79,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© SQUARE ENIX CO., LTD. All Rights Reserved."
 }

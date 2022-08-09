@@ -73,6 +73,9 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile, Web"
+  },
   "notes": "Golf With Your Friends © 2019. Developed and published by Team17 Digital Limited. Golf With Your Friends and Team17 are trademarks or registered trademarks of Team17 Digital Limited. All rights reserved",
   "pegi_min_age": "10",
   "pegi_notes": [

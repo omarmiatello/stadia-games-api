@@ -8,15 +8,15 @@
   ],
   "description": "She was once the Circle’s deadliest warrior – now she’s their most wanted fugitive. Take control of Nara and her sentient starfighter, Forsaken, on a quest to destroy the dark cult that created her. A JOURNEY OF REDEMPTION – Fight to unite resistance forces against the Circle and their leader. VENTURE BEYOND THE VOID – Enter a dark new universe, teeming with mystery and rife with conflict. ONE PILOT, ONE SHIP, ONE LIVING WEAPON – Attain powerful, distinct weapons and combat upgrades.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/28SLY-zoT6MRXxbQPsYrLxT3OkcbYVEGANAsXLbdJcN4cSbeygXG9xuHmU5vcsMesU5qxJjf2O72RLKcCVW6obiT-GCBwcisjliEqfRov1tgIKfn_Nc8rS0LTw\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/TM4ZZbeA7xVMs3DbIAI545KcFTyBvx2MF4JL5FLXXIuCSw069_JIJoMzXwQQCG3G1yzM-ozQ5BFZxj7scwjrzs_fSi3SGO2j_SuZfq76gEcuqRFYXeGJaXVfew\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/JrLhb_tIKJBeqyI9XoUQ2QFw2O6_ueu1mgDm7gMx4sgR0cEsQnDwWbbfy6lt8cGcNmlx3YJQHkxki7Q4oURkIAg68hjKH3SOG0PF4sRcYRwHNdWsJzdeeuipcxY\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/k_uTHAYr8VvdmH0Q_I73Oo-z8_eENboDbksPwNoosFQfpzdc5ac2WTg9ds1DgEHWGk603jwJCompcxER2wEHN8WQ9ivqg9DMn-URieme0O_J7ksSzB51FXkuyT4\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/HoIOyTX9yPAV_R5MpEkPzlXiQphyOHbP0xnlpDJvWvA2YL79by15xaNLI6XsBArwjkgAqKDL1AZU7hPM2af_WIJKDg-7WPct1nJh69G5TpM3JK1vi51DyEJRFCPJ\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/bmIekAe7lrb6Xl5A6fCc_QodECppatkwZI-2MBEGJAq9Mdrtlr7irBPxLclU7TaU7He3REj9hEo0vbf2qyxCB5uwBHWtg4jfgzfrgFHOJUTqOJ7SdREqbAn6tA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/cF_tqS1-ibAulvSipy42ond6bxI94gQ4Gpvq6b__0qwjxXgu3YLo2Ee50EoMd0CYuhIH508mxjhemPD4wmejzI_EpanGBhJvxBnOUW0okQuSaa6Pd-r-Bv4O9Q\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UKaT0jsetwMdF79hDzHkjT1kDvfKtiwA8Tpj-PCozayVp23l6-PNHUJnvgwelrK1ufyMjLkCY0Aris2dRLjMgycQ6EjzKi5Euzound96I0l7BEUwCsXmeh_ztl4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yOL3Uom4vfd4c07nutQd7Bivho32UOKA-82uFIDZLN-syMPEyZkLF0gsipddydywRBe0i7838qsujgRiRXDwpUnwQMLqHhSiEZ2_ZqVM3QspghGsTuHKRhobvhs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Mu-J_CGmNJ0P4LvFSncqmYFZYb9PrgaqkMx45o41CLGApwnLaekj6BMykhTZ4ZCssR-SGWM6D1SJtYyAn1AOhHYxnciteYrrXcmB8blYLozNWGKuY0bB_LbiXH_Y\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2021-12-03",
-  "publisher": "Koch Media",
-  "developer": "Koch Media",
+  "publisher": "PLAION",
+  "developer": "PLAION",
   "languages": [
     "Chinese",
     "English",
@@ -71,5 +71,8 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 and published by Deep Silver, a division of Koch Media GmbH, Austria. Chorus, Deep Silver, Deep Silver Fishlabs and their respective logos are trademarks of Koch Media GmbH."
 }

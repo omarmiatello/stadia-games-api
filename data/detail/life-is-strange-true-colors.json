@@ -3,12 +3,12 @@
   "url": "https://stadia.google.com/game/life-is-strange-true-colors",
   "img": "https://lh3.googleusercontent.com/KsxVVXlEN9_RugDMz_q98_eiEsDHjhZXUXn22-wkqT5WZ76iVeGgqzW_WwNLKeTSbCgU0ycKDHTrxDq0mwqQnPPRTQrT8EINdkm_9eyUD-aUyOGeCPNv1jQrgg\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$59.99 $29.99 Buy"
+    "$59.99 Buy"
   ],
   "description": "A bold new era of the award-winning Life is Strange begins, with an all-new playable lead character and a thrilling mystery to solve! Alex Chen has long suppressed her \u0027curse\u0027: the supernatural ability to absorb and manipulate the strong emotions of others. When her brother dies, in a so-called accident, Alex must embrace this psychic power of Empathy to get to the truth. View emotions as blazing, colored auras: change fate and change lives. Make tough decisions and choose your own future. Freely roam the streets, stores, and hidden spaces of Haven Springs. Build trust with the townsfolk – and embrace friendship or romance with Ryan and Steph. Decide Alex\u0027s style, with up to 24 outfits. Features an exclusive original score by Angus \u0026 Julia Stone, and an extensive licensed soundtrack.",
   "image_urls": [
     "https://lh3.googleusercontent.com/SCQteflxjrfW9mYNKNjrV9H72VR0Pz5t-dp18AOpT9kyLb1d7NuETu7eH0F_GgTs5ak-JKE_tme57ND7oOkIXYaZVxUC5xae4GRNqwevWHjjJqXKcgw2SgZjyb8\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/W0aRp-Vi47AcO4KxPEpr4_XPZSy34XAsq9vKGLqgoARGdDDmWO6A-PHlCFbYvNJDXDF_F7aZ92B4QPZXL9bnPixPlncJ6AReMST3GGQwgKn6GmycibXJ7YyPPg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/quiKUTGHDuimbOvxN19T7nrvC06_UWmgmY92jhROWeEXbwYr9X_yeSdYdjOcqh-PI-sPOA61tO6mMcPIaFv7Vpjv1xeT4DiHVqxIZ_Xz0qUxcp62ejb0F_erCw\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/jm9EU3QInX6Jiv_0yH4wTe-cyRkKcmOhEg9O6muk1guaC-ytzQXi7OQV-rbYjcs67OsqMFn62edcURq2mRCSg5dQQw0f5vdh6SdWT_veDN_iD6nwFTxUOl2196o\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/aUZt1oQdbciG5uwXQ_1Rf04ygJDc49zf05YKdIWXwp4VUOFaUd12L12L07fFDKR6X5zhyW4vNg-yvyBsqUV-QRvTz35-KbxV-7hvkPeUs9ouELnK9jMIHeTET2w\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/u9R2X8UUB5_GezpzNVfJx2n_JTaQcLyo7gyJYB_cm6xiEPao99vLAPAngNC5vhEtOtJP5wM4s_8SrjFhJKU9muaatlP0EWGD59UWkpFNbLkuM1e6rT7eBFIWWmE\u003dw588-h384-rw-no-v1-nu"
@@ -75,6 +75,9 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "LIFE IS STRANGE: TRUE COLORS © 2021 Square Enix Ltd. All rights reserved. Developed by Deck Nine Games. LIFE IS STRANGE, LIFE IS STRANGE: TRUE COLORS, SQUARE ENIX and the SQUARE ENIX logo are registered trademarks or trademarks of the Square Enix group of companies. DECK NINE and DECK NINE GAMES are registered trademarks of Idol Minds, LLC. All other trademarks are the property of their respective owners.",
   "pegi_min_age": "17",
   "pegi_notes": [

@@ -79,5 +79,8 @@
     "Motion sickness options",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2022 Modern Storyteller. Developed by Modern Storyteller. Published by Plug in Digital. All rights reserved."
 }

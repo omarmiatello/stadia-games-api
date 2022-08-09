@@ -66,6 +66,9 @@
     "Skip challenges",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Copyright © Matt Makes Games, Inc.",
   "pegi_min_age": "10",
   "pegi_notes": [

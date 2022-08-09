@@ -1,7 +1,7 @@
 {
   "title": "The Falconeer",
   "url": "https://stadia.google.com/game/the-falconeer",
-  "img": "https://lh3.googleusercontent.com/mdbIWl8HvfYlSuWA8XN7ISNUFMSwtFGdsBK7HK5m2rTDLCFbd9l9t6P9NUmPI8R6FTUKNcn9NOg9Js70qhCIIyi5BdJDoXrnrXIXpf01wL29Nmp8bzIgUbaDegE\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/GBA04tmm680LiI_P2YQNVuOw2lEoORJgCRlOMaYc2n7Jt-nrym7p0xHFpVGJ5YpY8wBzUFuwwKvAHtmzRaJIJ9ENGIUeCECkzC-zpg3OUNZFN9g4kovancBP2NQ\u003dw300-h400-rw-no-v1-nu",
   "button": "Play for 60 min",
   "buttons": [
     "Play for 60 min",
@@ -9,11 +9,11 @@
   ],
   "description": "Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala. You take on the role of Falconeer, a powerful airborne warrior traversing a vast oceanic world torn apart by generations of poisonous decisions and dissent. Throughout multiple campaigns, you will experience life from many different perspectives and loyalties as you embark on a journey of discovery, and solve the mystery of the Ursee, its people and history.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/jqwTxgoIISbvU3_FjmW-2UOGYRwK3ieddktXmMQgYFNH5FYkJJ5OQQTyjD4V-FBMhLG_i3zxYa-Z_W3x6lOdXc6cWWz0sqgq5ej_jiAEw4UeElyxqYRGTu6asxY\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/DkwRoIT3a1NqhwKW0oucCZkgizudGIUwA9R4_b9keVAkrhrLLPzl1AEmpEgdwE_6N0_chEJlg5C32VMWohTELWSWgVLAHBwxfzJ2sOywWJznSIO-ls5Pn-Rv2wg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/WwWfMTS5gHd_QNVkzy8RnXkHSekJDKXoTzCw7P4PP9t_U7rw6VcOccD1jcOoZUJFlV_k6d2zqczR_ynXh5WtBpEN0HQ7XMeW7rgE6jEMnjMI4KIGltowAmx3zwE\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/s5ofTVvaC7aGIYlnrXLqt0CvFgzr2uyc3aFpPFUuSxlF4sL2L8RrXst-p5Kp4GVC1ktbco5ONKU0WCM9Z9YQjkcsFxTV3IqYsWqgc3T9ySFVDy8h-ICVVvWfUQ\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/QzGWgyzv_gV97scHcfho8nPsI5aDNwxzX3GV7tICK2hq24C7oH8k7XkNlNZGBIH6ZsvtSTBMz7pOce56wcPk9-MPNdWYyuVUlRZVtVWkL2oJCcZo-0iB73KzhyZD\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/AntVN3xAHfj0Ct7_c_T8KOeICvo0W_UyGAb-FY3Q0PZsr9WUvl0CLjH7-ENC4XrjH28HfsTb_KVUuN5FHnAPzfC-X5CqlzA70E4LHZQ_nIyAM2FWUfn2Y_NKgYo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/L2R481MjRLKNrXj_wGDXbXikj4w0XIZh3beDiZkq5GcoL6qFF6AlNAs2dUZ27o8S3aJ3w4ZH-Z2pO0WsefxJQs3gspJEB-chKQfnQ6uP_0mKNkazLoPPWS4XdVs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/oGIoq9SipJgLCyPq47pkX25JFhuhfzQWK4HWd3j6U6SFco4rZBkc27PRxyrB9ms4TlI6ND5S-Z4oc3aqVXh23Wb4cTBFR_UxAwXsaCehL-70pMAf3fS2F39Z0Ac\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/G7wCHPEdthRpZbtR83-AE9zUXO_MWBDfaX46A2xIRTEkpnbuBPb5Jf3zzSUa-116CzNjO-ntemo2hzONvKUsn4Te_kPNGMUP8XsUoDyXrDOiNkyg-FpQNYNJ1w\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/n9fN5kJ-UfMAOEwESP9LW65CYBeT29SBCYii7eCMYVFinhSrf0zlhaTmSItRCwPWikpnP871jltg83t0yeolCizQkq6ozFnBFQjq3Uf2G1cIJMrO9rBE-C_c4EIx\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2021-10-05",
   "publisher": "Wired Productions",
@@ -73,5 +73,8 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "The Falconeer © 2021 Tomas Sala. Published by Wired Productions Ltd and developed by Tomas Sala. All Rights Reserved."
 }

@@ -75,5 +75,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web"
+  },
   "notes": "©BIRD STUDIO/SHUEISHA, TOEI ANIMATION Game ©BANDAI NAMCO Entertainment Inc."
 }

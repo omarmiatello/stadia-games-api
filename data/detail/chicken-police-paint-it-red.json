@@ -76,6 +76,9 @@
     "Sound captions",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 The Wild Gentlemen, Hungary. Published by HandyGames, Germany. The Wild Gentlemen, Chicken Police - Paint it RED! and their respective logos are trademarks and/or registered trademarks of The Wild Gentlemen. All other brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved.",
   "pegi_min_age": "17",
   "pegi_notes": [

@@ -65,5 +65,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 Scott Cawthon. Five Nights at Freddy\u0027s; Five Nights at Freddy\u0027s: Security Breach and related logos are registered trademarks or trademarks of Scott Cawthon in the United States and/or other countries. All Rights Reserved."
 }

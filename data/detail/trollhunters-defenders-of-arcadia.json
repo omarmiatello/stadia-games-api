@@ -69,6 +69,9 @@
     "Separate volume controls",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile"
+  },
   "notes": "DreamWorks Trollhunters © 2020 DreamWorks Animation LLC. All Rights Reserved. Published by Outright Games Limited. Software © 2020 Outright Games Limited. Developed by WayForward.",
   "pegi_min_age": "10",
   "pegi_notes": [

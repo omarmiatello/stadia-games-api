@@ -71,5 +71,8 @@
     "Copilot mode",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile"
+  },
   "notes": "© 2020 RTR Production, LLC, RFR Entertainment, Inc. and Remka, Inc., and PocketWatch, Inc. All Rights Reserved. Published by Outright Games Limited. Software © 2020 Outright Games Limited. Developed by 3D Clouds S.R.T. All trademarks and copyrights are property of their respective owners. All rights reserved."
 }

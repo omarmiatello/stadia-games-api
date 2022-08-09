@@ -71,5 +71,8 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2020 Published by Nacon and developed by Neopica. All rights reserved. All weapons, clothes, equipment and brand names and logos are the properties of their respective owners. The license for the Winchester® trademark is granted to Browning International by the Olin Corporation (USA). Browning is a Trademark of Browning International S.A. Bushnell trademarks and product designs are property of Bushnell Inc. and used with permission. SAKO and TIKKA are registered trademarks of Sako LTD, a Beretta Group Company. All rights reserved. Kryptek and the Kryptek helmet logos are registered trademarks of Kryptek Outdoor Group, LLC in the US and other countries and the camouflage and patterns of Kryptek Outdoor Group, LLC are protected by copyright and patent registrations."
 }

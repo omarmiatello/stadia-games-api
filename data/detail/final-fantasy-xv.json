@@ -61,5 +61,8 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2016-2019 SQUARE ENIX CO., LTD. All Rights Reserved. MAIN CHARACTER DESIGN:TETSUYA NOMURA"
 }

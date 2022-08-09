@@ -68,6 +68,9 @@
     "Motion sickness options",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©The Arcade Crew - 1P2P - 2020, all rights reserved.",
   "pegi_min_age": "17",
   "pegi_notes": [

@@ -63,6 +63,9 @@
     "Separate volume controls",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile"
+  },
   "notes": "DC SUPER-PETS and all related characters and elements © \u0026 ™ DC and Warner Bros. Entertainment Inc. (s22). DC LOGO, all related characters and elements ™ \u0026 © DC. WARNER BROS. INTERACTIVE ENTERTAINMENT LOGO, WB SHIELD: ™ \u0026 © Warner Bros. Entertainment Inc. (s22). Published by Outright Games Limited. Software ©2022 Outright Games Limited. Developed by PHL Collective. PHL Collective and its related trademarks and logos are property of PHL Collective. All rights reserved.",
   "pegi_min_age": "10",
   "pegi_notes": [

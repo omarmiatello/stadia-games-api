@@ -78,5 +78,8 @@
     "Motion sickness options",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "EVERSPACE™ is a trademark of ROCKFISH Games GmbH. All rights reserved. All other copyrights and trademarks are the property of their respective owners."
 }

@@ -72,5 +72,8 @@
   "accessibility_features": [
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "PHOGS!™ - ©Bit Loom Ltd 2020 - Published under license by Coatsink Software Ltd. All other trademarks are the properties of their respective owners"
 }

@@ -75,5 +75,8 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Monster Energy Supercross - The Official Videogame 3 © 2020 Published and Developed by Milestone S.r.l. All rights reserved. Copyright © 2020 Feld Motor Sports, Inc. All other trademarks are properties of their respective owners."
 }

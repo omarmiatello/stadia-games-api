@@ -65,5 +65,8 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "The Turing Test © 2016 Bulkhead Interactive Ltd. All rights reserved. Developed by Bulkhead Interactive Ltd. THE TURING TEST, BULKHEAD INTERACTIVE and the BULKHEAD INTERACTIVE logo are trademarks of Bulkhead Interactive Limited. All other trademarks are the property of their respective owners."
 }

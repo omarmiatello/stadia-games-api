@@ -90,5 +90,8 @@
     "Brightness constrast gamma adjustment",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2019 Massive Miniteam GmbH. Published by HandyGames, Germany. Massive Miniteam, Spitlings and their respective logos are trademarks and/or registered trademarks of Massive Miniteam GmbH.All other brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved."
 }

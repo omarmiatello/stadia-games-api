@@ -69,5 +69,8 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2020 Thunder Lotus. All Rights Reserved. Jotun, Thunder Lotus and Jotun: Valhalla Edition are trademarks of Thunder Lotus in the U.S. and in other countries."
 }

@@ -86,6 +86,9 @@
     "Motion sickness options",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "CD PROJEKT®, Cyberpunk®, Cyberpunk 2077® are registered trademarks of CD PROJEKT S.A. © 2020 CD PROJEKT S.A. All rights reserved. All other copyrights and trademarks are the property of their respective owners.",
   "pegi_min_age": "17",
   "pegi_notes": [

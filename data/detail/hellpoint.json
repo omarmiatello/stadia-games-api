@@ -77,6 +77,9 @@
     "Separate volume controls",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Published by tinyBuildⒸ 2020. All rights reserved.",
   "pegi_min_age": "17",
   "pegi_notes": [

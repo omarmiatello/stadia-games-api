@@ -83,5 +83,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "PERSISTENT INTERNET CONNECTION \u0026 ACCEPTANCE OF EA USER AGREEMENT (terms.ea.com) \u0026 PRIVACY \u0026 COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. ACCESS TO SOFTWARE CONTENT IS NON-TRANSFERABLE AFTER PURCHASE. EA MAY PROVIDE CERTAIN FREE INCREMENTAL CONTENT \u0026/OR UPDATES. STAR WARS © \u0026 TM 2020 Lucasfilm Ltd. All rights reserved. Game code and certain audio and/or visual material © 2019 Electronic Arts Inc. EA, the EA logo, Respawn, and the Respawn logo are trademarks of Electronic Arts Inc."
 }

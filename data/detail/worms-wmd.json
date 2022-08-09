@@ -77,6 +77,9 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Worms™ W.M.D. Developed by Team17 Digital Ltd. © 2016. Team17 and Worms™ are trademarks or registered trademarks of Team17 Digital Limited. Original concept Andy Davidson. All other trademarks, copyrights and logos are property of their respective owners. Developed and published by Team17 Digital Limited.",
   "pegi_min_age": "10",
   "pegi_notes": [

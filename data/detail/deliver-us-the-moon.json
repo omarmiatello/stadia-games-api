@@ -66,5 +66,8 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web, TV"
+  },
   "notes": "Deliver Us The Moon © 2022 KeokeN Interactive. Published by Wired Productions Ltd and developed by KeokeN Interactive. All Rights Reserved."
 }

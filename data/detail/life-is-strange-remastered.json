@@ -73,6 +73,9 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2015, 2020 Square Enix Limited.Original game developed by Dontnod Entertainment. Remastered by Deck Nine Games.LIFE IS STRANGE is a trademark or registered trademark of Square Enix Ltd. SQUARE ENIX and the SQUARE ENIX logo are trademarks or registered trademarks of the Square Enix Holdings Co., Ltd.DONTNOD is a trademark of DON’T NOD Entertainment SA.DECK NINE is a trademark or registered trademark of Idol Minds, LLC. All other trademarks are the property of their respective owners.",
   "pegi_min_age": "17",
   "pegi_notes": [

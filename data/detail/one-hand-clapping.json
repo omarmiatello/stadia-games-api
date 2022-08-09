@@ -99,5 +99,8 @@
     "Separate volume controls",
     "Skip challenges"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 Bad Dream Games. Published by HandyGames, Germany. Bad Dream Games, One Hand Clapping and their respective logos are trademarks and/or registered trademarks of Bad Dream Games. All other brands, product names, and logos are trademarks or registered trademarks of their respective owners. All rights reserved."
 }

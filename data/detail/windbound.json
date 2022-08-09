@@ -12,7 +12,7 @@
     "https://lh3.googleusercontent.com/WB1uLoTVmM63lzc6HP3w1FmvJdbkaCb4SEyC2nYGwPgxHr9iCvVB8Jyiks148S3FCWhVR5m4gBRz3Xao-vxae-kT2iFtD3D-40BRhSG6L1G5naPt7jYEHdvGGS8\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-08-28",
-  "publisher": "Koch Media",
+  "publisher": "PLAION",
   "developer": "5 Lives Studios",
   "languages": [
     "English",
@@ -60,6 +60,9 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2020 and published by Koch Media GmbH, Austria. Deep Silver is a division of Koch Media. Deep Silver, Windbound™ and their respective logos are trademarks of Koch Media GmbH. Developed by 5 Lives Studios. 5 Lives Studios and their respective logo are registered trademarks of 5 Lives Studios Pty Limited . All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
   "pegi_min_age": "10",
   "pegi_notes": [

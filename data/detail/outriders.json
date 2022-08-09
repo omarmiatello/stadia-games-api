@@ -78,6 +78,9 @@
     "Separate volume controls",
     "Sound captions"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "OUTRIDERS WORLDSLAYER © 2022 SQUARE ENIX LTD. All Rights Reserved. Developed by PCF Group S.A. SQUARE ENIX and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd. OUTRIDERS is a trademark or registered trademark of Square Enix Ltd. PEOPLE CAN FLY and the PEOPLE CAN FLY logo are registered trademarks, all used courtesy of PCF Group S.A.",
   "pegi_min_age": "17",
   "pegi_notes": [

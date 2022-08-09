@@ -72,5 +72,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2005-2020 Take-Two Interactive Software, Inc. and its subsidiaries. 2K, the 2K logo, and Take-Two Interactive Software are all trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. The NBA and NBA member team identifications are the intellectual property of NBA Properties, Inc. and the respective NBA member teams. © 2020 NBA Properties, Inc. All Rights Reserved. Officially licensed product of the National Basketball Players Association."
 }

@@ -1,13 +1,13 @@
 {
   "title": "Madden NFL 21 Superstar Edition",
   "url": "https://stadia.google.com/game/madden-nfl-21-superstar-edition",
-  "img": "https://lh3.googleusercontent.com/9dQBeqVEAZrYiHgjQqZAkzlKdIBpR6V3xycIwnxWR2xbCUR2WnAXlNUhCF_SqVOIalFxnFRvCdmHnFM0dQpZ34GsIjtoac9igFMshL1Q3M5lkUHaR7AAAH7Iovs\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/xybmWpsk4fw4pjLstdU6Fvn0MG8vc6vhCG9mhaNJXA_wKBd2BRqYwGi_P8c7ydPfUrs_rxGYDsFNrMVntR-wWbQ0LC5HeAb85OvxSi7ihjnAyEUQM1KpBmVDwyU\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
     "$79.99 Buy"
   ],
   "description": "Madden NFL 21 Superstar Edition includes Lamar Jackson, Patrick Mahomes, and Shaun Alexander in Madden Ultimate Team. Madden NFL 21 delivers new features and modes including: •Face Of The Franchise: Rise To Fame | Push the limits and rise to Hall of Fame immortality. •New Gameplay Mechanics •The Yard | A brand new backyard football mode This game includes optional purchase of virtual currency that can be used to acquire a random selection of virtual in-game items through “packs”. EA displays pack probabilities in-game. See ‘Loot box drop rates’ below for information on how probabilities are calculated.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/DwPAP4OPdt2p3Igtsh7bgpoONefvZHjWoFQP_JR3ez8IPhRXLb6_r__1sUbW22eWh3iNtBD3Et1Js7tRbpWMNDeqgPggQ7bStsRrU-u6-mjRaAORvXffNSkPkw\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/tW_dye4UbkZUx3XqOCSpNU_m2K4dGgPcpV1wPpo2CCuVF0gpWQcokvzURPNO4oqieIkEUIiUgJoa9hu7xmZe1kC1AhuKwhhWM8qGT70MA2FDbCNsLlo75Cb2qA\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2021-01-28",
   "publisher": "Electronic Arts Inc",
@@ -67,5 +67,8 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "PERSISTENT INTERNET CONNECTION, EA ACCOUNT, \u0026 ACCEPTANCE OF EA USER AGREEMENT (terms.ea.com) REQUIRED TO PLAY \u0026 ACCESS SUPERSTAR CONTENT. EA\u0027S PRIVACY \u0026 COOKIE POLICY APPLIES (privacy.ea.com). YOU CONSENT TO ANY PERSONAL DATA COLLECTED THROUGH YOUR USE OF EA’S SERVICES BEING TRANSFERRED TO THE UNITED STATES, AS FURTHER EXPLAINED IN THE PRIVACY \u0026 COOKIE POLICY. ACCESS TO SOFTWARE CONTENT IS LIMITED TO ONE EA ACCOUNT \u0026 IS NON-TRANSFERABLE AFTER PURCHASE. AGE RESTRICTIONS APPLY, SEE http://o.ea.com/ea/child-access. EA MAY PROVIDE CERTAIN FREE INCREMENTAL CONTENT \u0026/OR UPDATES. SUPERSTAR CONTENT NOT AVAILABLE IN BELGIUM. EA MAY RETIRE ONLINE FEATURES AFTER 30 DAYS NOTICE POSTED ON ea.com/service-updates. EA User Agreement: terms.ea.com/de for German residents and terms.ea.com for all other residents EA Privacy \u0026 Cookie Policy: privacy.ea.com/de for German residents and privacy.ea.com for all other residents"
 }

@@ -1,18 +1,17 @@
 {
   "title": "Tom Clancy\u0027s Rainbow Six® Extraction United Bundle",
   "url": "https://stadia.google.com/game/tom-clancys-rainbow-six-extraction-united-bundle",
-  "img": "https://lh3.googleusercontent.com/a0JbIbQ1jafRuI13HhNo8p7mnyBE8pirC_SHQCIvcqnJ0mNLmMDV45DPm7KeWvNO2qCuTYfrnMYx8qWixwqp1LI9ermiUJ4jYfmmtTCb3XTRwUCrdNB39v4E_Q\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/TSYZu0E--M-k7S3opos0T_LZcG9D4k5R21yga1YmzrkRM10MZc-5_53YwHK6hM5tv__dSULyrv8amISUhdBCxoKCeUursZ_wmsQzhlTXT3La96jBbsrAmX7HAA\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$59.99 $38.99 Buy",
-    "$29.99 Buy"
+    "$59.99 Buy"
   ],
   "description": "Get the Deluxe Editions of 2 games in the ultimate Rainbow Six bundle: The award-winning Rainbow Six® Siege AND the NEW Rainbow® Six Extraction, where Team Rainbow faces a lethal, mutating alien parasite. Rainbow Six Extraction is a 1- to 3-player co-op FPS with: • Buddy Pass: Invite 2 friends to play FREE in co-op across any platform for 14 days • 69 guns, 25 gadgets, 18 operators with progression levels, 12 large dynamic maps, 13 mutating enemies, and free post-launch • 4 adjustable difficulty levels and a thrilling Endgame ranked mode Bundle also includes 4 crossover gearsets, Rainbow Six Siege Deluxe Edition with all 18 Rainbow Six Extraction operators unlocked, plus 3 EXCLUSIVE Epic gearsets and XP boosters in Rainbow Six Extraction",
   "image_urls": [
-    "https://lh3.googleusercontent.com/kn0Nxv0EFNkcj9R3S-F4M7wKTl3kgxL1ORoec6IqbFdPJoDFXrc37D9NQ5yU1_BaGDPtnQMNk0RjFyx7YNW0dhuiUJEAAJC9yR8rEltLwtk8V2NIjzHZeoE2GY74\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/PG_9so-E6XteI7d9qftmBhKeoJoGJQPCcDTnWguSn4E5wgUuHdrG9bxo_iBhxu1som54UPcTyIWnxNX3dGRG1NG5GeHH_KZlhOvClHpC8KlqY1sVXowIFOUrdA\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/dPRx17DZYLYaJtMYyakryehRjlEzpFZKtfgZJgT9q7jaOGQkqzG1yKf3K-1Q0EpNsj4FKXBDfkR_L0ifr74HH0hL3TSwpIUCQZuHueKLUWtFKUJzy8utIMh6cw\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/LqZ6NbsdT05F8FKePQvEjuC0lOQq_ecFUnjUHxWY8tiFBZ-Daq1JYkrbEVdYBmXvUl0q2d8n-UNYhrdRz2WBQobmY0f4qmkUzxUvHAVOuX6Y4zgHv470_qNFeiP7\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Py8QtXOUSoSphIh-vic58LuN9KBIvkxvrNNzh7vt-7Mhn23waFT64GoT5ZDC_5FrCj6p7l-2HgQ-c1EOKuQJSnS9Xx7oMXVQMGqvBVV0gFW9YMpQ0kYVKL5yCA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/lus2TkrgMYjHGuqfaCdEzPjKNHw3V5kK_ACz5ppTD6jJ6UhjiAPMxyRs87-W5C1qUaJm6diy0C0jjojp9SWN68manPg_mZ6YQ5anTGOzbxMlPhC0pahHdM5QIQ\u003dw588-h384-rw-no-v1-nu"
   ],
-  "release_date": "2022-01-20",
+  "release_date": "2022-01-19",
   "publisher": "Ubisoft",
   "developer": "Ubisoft",
   "languages": [
@@ -53,6 +52,7 @@
   "game_modes": [
     "Cross-platform multiplayer",
     "Online co-op",
+    "Online multiplayer",
     "Single player"
   ],
   "supported_input": [
@@ -77,6 +77,9 @@
   "disclosure_details": [
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, Rainbow Six, the Soldier Icon, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [

@@ -70,6 +70,9 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Web, Mobile"
+  },
   "notes": "©2021 Nacon and Abrakam Entertainment SA. ©2021 Published by Nacon and developed by Abrakam Entertainment SA.",
   "pegi_min_age": "10",
   "pegi_notes": [

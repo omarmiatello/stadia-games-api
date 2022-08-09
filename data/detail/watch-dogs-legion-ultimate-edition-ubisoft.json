@@ -11,7 +11,7 @@
     "https://lh3.googleusercontent.com/XfBEntRkUnMCfC3ORb-ncVEfZbB37e44KffBWA1rZauMpSbyu2IGnYtX6eeb_ELayFNma-k3UNSOt2F82Y_3E5KJ6pLh5hWotxqmwK4LfBfSUzjZwjFTw2pa5OU1\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/vmgusa-vGpTfSMjMtdNE0Lz62tBeTkXH9dXBpooJ623ocMiRRWhxSmMFiL6dFUZnRcK7LhuG-cLThhQBz1zpyXZ9CjrZqOGSzgHQGKW7hg_wRaiVLzo3K-CntWIS\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/0R6Lb0odXvnekSL0uHSdLs646hO2hsfcbgVzF1e2YwSD0RMcDE-n8Aanw5rhug5dzkk21SG5Dko9yMS2TOIsXVIQlYhbJb0r_ZDtN021t5U_FYusEvBN630Q0A\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/e5FHg_QiSGVKnjn4qSVojPuEGrPO3Ql7ccgN_PXz4EIxq65wOaslFKoYkC3A7nW9YP1I9NWNpqrQqQaVmuGZb6OgDc1Fxy5dk6f_rxPK1jZIx50LoFcfYE_OMg\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/AcXYA2M90ZHy1yDTdnrpbnG8k38c0hwkQSoR5T78OHZbX8-fqLJI8M03Ww1VxNLxaUEILZnWhSJB-wbowY0WeKotysHS_z_RPx5KYbPlZAclDJAQ-hldgG74Tw\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-12-14",
   "publisher": "Ubisoft",
@@ -77,6 +77,9 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile"
+  },
   "notes": "© 2020 Ubisoft Entertainment. All Rights Reserved. Watch Dogs, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [

@@ -74,5 +74,8 @@
     "Motion sickness options",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 Published and developed by GIANTS Software. GIANTS Software and its logos are trademarks or registered trademarks of GIANTS Software. All manufacturers, agricultural machinery, agricultural equipment, names, brands and associated imagery featured in this game in some cases include trademarks and/or copyrighted materials of their respective owners. The agricultural machines and equipment in this game may be different from the actual machines in shapes, colours and performance. All rights reserved."
 }

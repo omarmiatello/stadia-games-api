@@ -65,5 +65,8 @@
     "Separate volume controls",
     "Skip QuickTime events"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web"
+  },
   "notes": "All rights reserved @ Merge Games 2022"
 }

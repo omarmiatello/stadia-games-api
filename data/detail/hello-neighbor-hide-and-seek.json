@@ -65,6 +65,9 @@
   "accessibility_features": [
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Developed and Published by tinyBuild Ⓒ 2020. All rights reserved.",
   "pegi_min_age": "10",
   "pegi_notes": [

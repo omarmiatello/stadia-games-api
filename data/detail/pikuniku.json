@@ -69,5 +69,8 @@
   "accessibility_features": [
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Copyright 2020 Sectordub. All Rights Reserved"
 }

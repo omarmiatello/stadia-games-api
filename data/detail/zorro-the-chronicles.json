@@ -74,6 +74,9 @@
     "Dialogue subtitles",
     "Difficulty levels"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web"
+  },
   "notes": "©2022 Published by Nacon and developed by BKOM STUDIOS ©PVP GAMES INC, ©CYBER GROUP STUDIOS, ©ZORRO PRODUCTIONS INC, All Rights Reserved Based on the TV Series Zorro the Chronicles® ©2015 Cyber Group Studios · Zorro Productions Inc. All rights reserved Zorro® All other copyrights and trademarks are the property of their respective owners.",
   "pegi_min_age": "10",
   "pegi_notes": [

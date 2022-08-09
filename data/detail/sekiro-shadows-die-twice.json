@@ -75,6 +75,9 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2019,2020 FromSoftware, Inc. All rights reserved.",
   "pegi_min_age": "17",
   "pegi_notes": [

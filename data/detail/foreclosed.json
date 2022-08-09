@@ -9,7 +9,7 @@
   ],
   "description": "FORECLOSED is a narrative-driven action-adventure set in a Cyberpunk world filled with action, suspense, \u0026 experimental augmentations. Follow the story of Evan Kapnos in this sleek comic book styled game as he unravels the conspiracy behind his identity foreclosure. Who is responsible \u0026 why?",
   "image_urls": [
-    "https://lh3.googleusercontent.com/5jUsYcM1qCCT7DKqISoEyvsLRZKre7pdL41bF6nhWq_dJVKTEtiIvYc92W7gLcrvICdB3Hjpp7mEKH6gnpR6hi93Bpyrsu55A2Or6OwjHtR22Wwx3bFSYjtM1E8\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/d2Om8-CB8OOep-YqhwaF5FbxW97B5sqpbGHVtJkcvnRXVqX-ARpLELfgJigQ_XfyQ5X9JkMIb4LuS0GbLNXpaApJkAIvrtYtKciq6iY6pWQ0ceodLj2gaBmWJQE\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/QO7sRs7yLKP6bsokmEBEGVa42jg4adiRgIMNacaG-0zRJHdxFggtTVgiVntrFwRxrjru8RNpetS1wWVEQDC2oC3J2C5ngFKoI-ptI-z7ZPye2U9lJy6h-xdkbtv0\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/DSnu-BEyWkyzNdg870ox8PVIUQ3ySkX8ICES9s4jzQMAsoh8WTZpa6f8zbZn0QkvI_uOgXFw0b6czMvaLOFIf6aS28hWH9y_68IN-IWjmBrcf_RsLlWV-Z0j9a_a\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/XZtWufwklmiuGtm9kcJVCIaJnPrlJrdOKbqzQb28ICLqJKiaT2rL_ll_A4w5EkSQS_ctcgHhVoksJlEnpTk1k9_edWg6lU0-0p1gr71jwLP8DZ7eKlcsscT5kE8\u003dw588-h384-rw-no-v1-nu",
@@ -70,6 +70,9 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "All rights reserved Merge Games 2021.",
   "pegi_min_age": "17",
   "pegi_notes": [

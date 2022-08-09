@@ -72,6 +72,9 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2020 Developed by Pixile Studios. All Rights Reserved. Published by Modus Games™. Modus Games™ and the Modus™ logo are trademarks of Modus Games, LLC. All rights reserved. All other trademarks or registered trademarks belong to their respective owners.",
   "pegi_min_age": "10",
   "pegi_notes": [

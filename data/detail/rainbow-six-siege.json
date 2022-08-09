@@ -1,16 +1,16 @@
 {
   "title": "Tom Clancy\u0027s Rainbow Six Siege",
   "url": "https://stadia.google.com/game/rainbow-six-siege",
-  "img": "https://lh3.googleusercontent.com/i_6D712Gb5bIjlFfxI-vOfulfPrmaQZ-CX6ycC08w4GOl5pJMpu-UzTCA2wVxDYwPZ5J02boMtAlXxudgbGnhJOpbFMQQIMqxQFP8JO-ekDhuyK4zjFNEfycxJE\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/A9bKTzbhrfC7UJ-JNfkvG2PPHNzmItRiY2f3GOnhab1rQktm6jh9avLHfHC0EzjJ-HS4SdgmHjmUBz_NpT3I6hZJ7iHzgqoSTK9nXUDt00UCIqRWK-aOwQlAyRk\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
     "Get with Ubisoft+"
   ],
   "description": "Dive into explosive 5v5 gameplay, high-stakes competition, and thrilling PvP team battles. Tom Clancy\u0027s Rainbow Six Siege features an ever-expanding experience with limitless opportunities to perfect your strategy and help lead your team to victory. Rainbow Six Siege is constantly evolving. Each new season brings brand-new content, game-changing operators and abilities, in-game events, weapons, and maps. Start with the core Rainbow Six Siege experience, which includes the full game with all maps and modes.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/b2ajeAh_1Ia4o38qGCBK47ZrM3KpKChb5B1mWsXftwPGbo5ReyuY3mAXLic5kjMJekdNYchIZdUYwC-TNWhxRmAC58b6N1K-MgnnansfCrvo5tv4K-zRQAncrgCF\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/JqmPbJoKYfKazHxNZxl2dB7nehLfqLK19v6a8wjWJeCdKwOfXCTfj7Q-nLCP9ZSEVQ-nS45kiGHrfOuNxsf3hVZ6HkKCA7HwL85RJICvFcOC1smmMyFD3K3rEj9P\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/YOABBKsOKNvA-lqlv3e9WQvrV0lTgUsVGqhY7g9NUknGqNHICCGCq-k_BbDutqly5lRX7509O4jI11Thb8zt8H2T7oIbzx-kGPpP33Z-lC8XqD88_TkxpTBKZw\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/LmHa3dYmVrLaXTkYWIYTWC9QClXFM1TzlKkw5H-w0RzAScdJ2evME24zHZKdJogh7IRYtXbcwzhhhu6E5CqmcIUpDcz5hy0e42EpPvgXpDt_BLM_4pIZW-4WwwWX\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/ujV7VX2uVV7CLU76k0v8Y2h-FW6fC2ABGithlinNW9KhrVqOic2bBD0ouDXbt-GdKg0L-QNfr5Vls3f38EdbCdYwE2XaSmFhCl0xdRJvbsuVusnTytpUg7dc_-VS\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/U1D_1ExisJi3mzvTKZgICoNwGl5llhjre4_slL1J_0BN-oHsN8H6cLYMX8P0HuyMbIeQqxwlYuAnS0mfcd5jcl0tPXpQyb9lH8w2RIh5xYqnR1tPnKQfwvxvkxCg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1JLYrq05_MvNGHe_ZpQASuEZCO5F8Z2fDoNnZ1a-V020hSVfNzTDxkCaZAqbdYCnkmwVVd5SJKnbHWP94fyjYv8sS5DdoxWXdkSyvDSplTXBoqwXaRCXQMxB1A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/jCrxHF3fElQsTWCnm6jp2U01DhdFwrM_5Bk8ntorqLJ_yOUmDnrVokeEJOTeV7ErNZiIYQWZB8GgIKQCmxM450Wm33rCKwqp-JFXNA6_JKuPBrcPqPHl6aCEsyV-\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2021-06-30",
   "publisher": "Ubisoft",
@@ -77,6 +77,9 @@
     "Button remapping",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Web, TV, Mobile"
+  },
   "notes": "© 2021 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, Rainbow Six, the Soldier Icon, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [

@@ -77,5 +77,8 @@
   ],
   "disclosure_details": [
     "Requires EULA"
-  ]
+  ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  }
 }

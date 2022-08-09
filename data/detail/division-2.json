@@ -1,16 +1,16 @@
 {
   "title": "The Division 2 - Standard Edition",
   "url": "https://stadia.google.com/game/division-2",
-  "img": "https://lh3.googleusercontent.com/yn7XJwwMp_CLVkIFnbko9cRcYUxODpM6kPzhB9h_M0fC2yHFEsUosa3JOtY2ZqR0iy_xegxovEzZIIVtKvN3ZjZ_stZz7FzMw1oan1Y8haL1dxbzGxCMf4q11Q\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/_eFxEZR9yo7S-T8wFSA0yLlNmymcSkCyq4Zi8pLHg-HLEPCeRun85NqSsr7V-rjwahr_tZLRj6giOZAHTTNkC2r_Dhg56meiggedu5GWm1K6V-zb7lwsKzMoYg\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$29.99 $13.49 Buy",
-    "$8.99 Buy"
+    "$29.99 Buy",
+    "Get with Ubisoft+"
   ],
   "description": "HISTORY WILL REMEMBER. In The Division 2, the fate of the free world is on the line. Lead a team of elite agents into a post-pandemic Washington DC to restore order and prevent the collapse of the city. The Division 2 is an online, action shooter RPG experience, where exploration and player-progression are essential. Liberate Washington DC – Save a country on the brink of collapse as you explore an open, dynamic and hostile world. Stronger with your team – Specialize and fight together with your friends in online co-op or against others in competitive adversial PVP mode. Genre-defining endgame – Choose a unique class specialization to take on the toughest challenges with friends.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/O1deVh4joC6lQX5bF2mCtbP-mVFutcKESdNdMxNPZekXDoVPKKEe8gN4HcKPuSqWqPVHbVHlBnHmj8ol8-9ZlrtYMnpgWR99p9k9V2ndT__GMaRRxLKoc-JcAQ8\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/6BJ9VLAubu-VmZYuz0NdDv5AsZjB6vez_OsKzBH7wtaQpxx5YT2Dq5I0pU6EFPCcrS5Io3hNnM6xBObul3M3M1ksQ9XwABJ6xwBbk1tsJMQvFEdcPCOkcw9zb6M\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/n0bUK9nfACsSqYSTzDGU5cqpp4F1oBob5tUHI1eA-DsxbufRKwjPSKlxxdCEVaiQnOkd9gsinInK_YK0OCiVH5lKyqFAevqDYUkAdQSAuwWbyWqcBVhSgr8mmMI\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/sDrWSefVQeN4Rt5Z6BKVQMRa3jEqY7oqejYM47wcrnHvycL3DJQ1VfKOgAZDZyNoanWgITH4g7fclIVKjsbH73mNdWrVlEg4AuapezReraVXDtlQtkQw5DYVeas\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QHkKjDypT70HuhI6oXnUZzAxcJ0exVu5cmFflAUJdBzp1JrNadsvFvp0VtkrJr3ah0fOWHuBk9bhibctvcDarBgYl7PDVluT32dmBHOIFJbQOB0HDoFvgamTh0M\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZKOkSHw_vZ6BXsU6sfYpdUT9x7sLIoe5B0084e3vbVKbxhNuBjp0154-haYJOh5L_7DihVk9x_zCTDJvaiAF2TClGNyslqd7YmXttZxSPIKTh5oGdEOwF48EqFw\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-03-17",
   "publisher": "Ubisoft",
@@ -80,13 +80,16 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, The Division logo, the Soldier Icon, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [
     "+ Blood",
     "Drug Reference",
+    "In-Game Purchases",
     "Intense Violence",
-    "Strong Language In-Game Purchases",
-    "Users Interact"
+    "Strong Language Users Interact"
   ]
 }

@@ -72,6 +72,9 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 THQ Nordic AB, Sweden. Developed by Gunfire Games. Darksiders, THQ and their respective logos are trademarks and/or registered trademarks of THQ Nordic AB. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners.",
   "pegi_min_age": "17",
   "pegi_notes": [

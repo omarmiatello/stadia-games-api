@@ -68,6 +68,9 @@
     "Dialogue subtitles",
     "Difficulty levels"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© SEGA. SEGA, the SEGA logo and Judgment are either registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates. All rights reserved. SEGA is registered in the U.S. Patent and Trademark Office. All other trademarks, logos and copyrights are property of their respective owners.",
   "pegi_min_age": "17",
   "pegi_notes": [

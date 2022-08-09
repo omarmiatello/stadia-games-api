@@ -5,8 +5,7 @@
   "button": "Play for 60 min",
   "buttons": [
     "Play for 60 min",
-    "$19.99 $10.99 Buy",
-    "$9.99 Buy"
+    "$19.99 Buy"
   ],
   "description": "A Dark World Awaits - Travel through the perished world of Penumbra to explore unique areas filled with diverse enemies, sharp 3D platforming challenges, quests, collectibles, and more. Embark on an extraordinary journey through the desolated kingdom of Penumbra and discover the hidden secrets of this long-forgotten land. Explore mystical temples, encounter survivors and take on strange quests to collect valuable items. Along your adventure, slash your way through daunting adversaries, roam across mysterious and abandoned regions, leap through deadly traps and ultimately master the art of movement.",
   "image_urls": [
@@ -69,6 +68,9 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 Robi Studios, Made the Unreal Engine. © 2004-2020, Epic Games, Inc. All rights reserved. Unreal and its logo are Epic’s trademarks or registered trademarks in the US and elsewhere.Made using Wwise Audio. Copyright © 2020 Audiokinetic Inc. All rights reserved.",
   "pegi_min_age": "10",
   "pegi_notes": [

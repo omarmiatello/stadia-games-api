@@ -75,5 +75,8 @@
     "Skip challenges",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Copyright 2017 Studio Wildcard"
 }

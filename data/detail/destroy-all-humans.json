@@ -1,7 +1,7 @@
 {
   "title": "Destroy All Humans!",
   "url": "https://stadia.google.com/game/destroy-all-humans",
-  "img": "https://lh3.googleusercontent.com/NydAcci2aZFhha_h7FzPFwY0HMsYtWtKN-Jolo4OnsJe2_oR0f78YG1FGNv4IFxhmG9A3usXOx2pNcxel8DT4qBPHu5WLRKY4dNYd9WWXGDvculR35PPu25Yew\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/LZirByJawgXMtETlEmAzTrrJEAKA3_il9RDI1ruM7ne8m95Ld39bZxcXOYiOpKBqJ4FfVf-XDBNeogNSmaiQB9rkRmO0GxlJEmCTpRKowPpOK4qaIWyjIaHiiA\u003dw300-h400-rw-no-v1-nu",
   "button": "Play for 30 min",
   "buttons": [
     "Play for 30 min",
@@ -10,11 +10,11 @@
   ],
   "description": "The cult-classic returns! Terrorize the people of 1950\u0027s Earth in the role of the evil alien Crypto-137. Harvest their DNA and bring down the US government in the faithful remake of the legendary alien invasion action adventure. Annihilate puny humans using an assortment of alien weaponry and psychic abilities. Reduce their cities to rubble with your flying Saucer! One giant step on mankind!",
   "image_urls": [
-    "https://lh3.googleusercontent.com/zMJS51Flxuv6_-NTMiZTNDzttw7Y9XYaomJCgyXls0xy6hQ7-rv3peofyxEz1q9czXZmskZa2MTORsEm3JN_mHfOxzJxGEotneXf-eqGnhDUtWmBLzPfnIy0Brg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/IA15YMLjX__v2Xcqej4E9_ii2nm9bjdKG4gmeGN-PLgn6hcedek1L5X81Q-M_LwQ8A6_9FkeFrdXb4Gugqj7Bot1vdpQoNl6dnWnh8olZ3hjf1IDyRq153SbPhU\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/tg2YZq0Kw_h7cUPkW_QKCf0Cn8zgr3Pdn6qq0Rw11JWPDySFeokdcICEpNxA0-C_M24RvpIs4E4t4L3Um07NbcLdyX791fBYBD_a-hg5P1k-8As7GaX-WOBn7zY\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/n1U9baNvzX0dkaQNZuZdEk-Gd0x9oVQk5x7-DH9XAXTCI0P7k35xPUZM0NbNiG3OXBEWBJsmHJH9Ov1Hw18k43e6czoofNItyTeFJdvsuRqxc2fUA3r2EBTuzGw\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/OUi4GfmBnzsJPEpRlgNvzFKtfA-TF7V5uY1mC0MAfIm45lfOcf-RK9upYzE4CvO3Il8eAdpHHP0Gwv8EG4BiT1EjRTiQRb9DkEp56QQ_SMT3fCJ8PNU3x464t1J_\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/X-MHt3QUCLsslWE9z6UVfjYeOH4xo7tMbjkHZdU0aUbUnWKgzppy_zxJOKKxv4JXTE7wCIiPRBycnvTI1Ye0mb7Fh5IGFMrvP8GjFrXwgLY5gjJn2RMDl3q_68k\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/WNqtbROkNWWbfkaeDNNdf4uDl3Se1Mo9I6phc1AdH9a0H5wjjborSyDxUCGYhpa5Zak8IR912YAskdefdAUMlRFfbGUkP3e7UtLf-Xo-OyXrqH6wff2UEqGNU4o\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/53mb-YFZ8ryhhGltXBYPbUnAn8LfgYA6mMjXo4tFa1ROiqiW2fGOY6T6LCm4J63vWN8Zv2mw2lHehwfMHE2JaIjeUFiXfiW-yIJ1uW0-3nDWPHbQQcFWyrfSZsE\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/jWqJDBUK3hZelGB2oQgwkmkLBhrbVR4rDw-BLQA2de-KT7QN8XvUeKKTxrdpHAggb-tsgnndMYLlEBJlschikZcYcD1WSi9_S99y55O7_Z46PmdVOeqdOrkBx-E\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/LlK7lmBdrGpSTlpt465vCYJ_yy164en1dq8VSE4PNoiMB0_xkOobmG5lGr4yGB3J8y5b0L_1MZkRruCrfkzBEf_zz1Lq0IKZcjGxx5ihfOQiwm_tqswFbWTCpTFF\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-12-08",
   "publisher": "THQ Nordic",
@@ -73,5 +73,8 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 THQ Nordic AB, Sweden. Published by THQ Nordic GmbH, Austria. Developed by Black Forest Games GmbH. THQ and THQ Nordic are trademarks of Embracer Group AB, Sweden. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved."
 }

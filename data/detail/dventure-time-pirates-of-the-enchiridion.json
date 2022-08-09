@@ -66,6 +66,9 @@
     "Skip challenges",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, TV"
+  },
   "notes": "ADVENTURE TIME™, CARTOON NETWORK, the logos, and all related characters and elements are trademarks of and © 2018 Cartoon Network. Published by Outright Games Ltd. Software ©2018 Outright Games Ltd.",
   "pegi_min_age": "10",
   "pegi_notes": [

@@ -73,6 +73,9 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 Funktronic Labs, Inc.",
   "pegi_min_age": "17",
   "pegi_notes": [

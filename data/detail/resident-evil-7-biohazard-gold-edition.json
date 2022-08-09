@@ -73,6 +73,9 @@
     "Motion sickness options",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web"
+  },
   "notes": "©CAPCOM CO., LTD. 2017, 2021 ALL RIGHTS RESERVED.",
   "pegi_min_age": "17",
   "pegi_notes": [

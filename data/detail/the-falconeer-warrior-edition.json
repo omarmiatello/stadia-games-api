@@ -1,17 +1,17 @@
 {
   "title": "The Falconeer: Warrior Edition",
   "url": "https://stadia.google.com/game/the-falconeer-warrior-edition",
-  "img": "https://lh3.googleusercontent.com/bQLPl_d3-aBxXHrAaf5xp65_CE5nCHcK43WBFuzYlVHHG2y1QbXHdqbHnNO4Qc37u3rm5rFhmxctoaxFgJkU3OCOqcu04UuW9aJiOLVj7gir_0C1Z_TJInPcBQ\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/q9_HoR73ZbMytTLIhqRDCD0yXNp6L49iNCf5q7ZDgkw5izP-DcsZpNePG-D428WW9tTgyXUAjsFwEpuD12wBm7f5CHmvL6HW5b0bamb8QeGQgNyzzteSzNKluQ\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
     "$29.99 Buy"
   ],
   "description": "The Falconeer: Warrior Edition includes the fully updated game, plus \u0027The Hunter\u0027 AOC, adding a new player class with a flyable Ormir dragon and a set of pyro pot guided rockets, and the new \u0027Edge of the World\u0027 AOC, containing 3 additional side quests and new boss encounters. Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/DD0gBxE0CXEqRjmvZmpkqtzV3kgHdgs9l8I1TJDlfjfyuQ2iQ68u_hCnB9x3fHDjtQ60dEimHuGI9dsuBgH-oyT3GsDS8fLQTTZaONNMQHOneKOXfrjcE0GkKoL-\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/V7-t6MS-tI6w8m6lYDqkJ_N8zkXBxs85sWYPUDnM39eE4ls_jaLpVENjUvJ6RRe8P02qSSt70VVUjt08LSz7YCCvHEHikOR8Guq4au7VdrQnQQEilFd21qqZd3A4\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/jzK6Ns9go7r5H7BJa_ySuiuG_9C0Cfq-9Z4WevUHim3VLzcr1tmkUhUeCDJ0XvxtQ6lmE46HBBojofjrtzsPBIFTLIaaiZp6mNw9oqlLL-xzPDfG8BmC27pVG528\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/dRXRx6gPH9oD_etBaiQzvTAQ2eAYmNlGCXdvVBNWljNZ7Zc8TxKhSB4MRUrUniKtsn6VR7eIOAbEE7FuNM3PZDkr-W461Dbkl11XaAs6VmzrVjkht0bpobk-CGbh\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/pF2wE2URGL5T2rinF2HGdwfV75FABo78KEEXR4laZjSMKdPaEHS6N42kqjqvPP6FM-O5-Vv5-YUnMevX1bCaAfT4lbrJqm_Le38x4W5_YL46pyujoy-x5RVBxA\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/4GZde50usCRLrDTAtyaQK2jLXEvlLhWKRNH8t7QI0jwCpZ_DiI5IaF2phzTzC4FfyLkv1qb7d7_INqXe2KSrThOcDHyTiUdv3W-toIaoWZ6D3DbfNovCddO152LA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/hASnX9qH9pUi0q5A9-M2KwxMAG9WE6JODPr99XnG3B0EO1n-BXN7Grhs5xKHWhhf7JGxIDA60XLSe1HYTj8GUUiAq_0j-KDio9mJMkpZKcsdzL1x7xNQ7oNEXWeX\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/m9ZdcjumclIYoerj8ashgjarBd8kBxc83IoUalvW9zG1vNmfijdpky1UwIz4t6jmrip4sQvCItCMsTmulkl22Sz3Qhf2tAjkjdIpjUaOxXj3cFiEcWdVE5x8PiNr\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/M206KneyZTQs6PWOFkr36yZf0CTPNePC0eWI3yQ-COY1dJ_It4OFvamDcCbQkmxsPyuVxhPmLk5-gloMnG4_7CYfj7jQ5Kj3AOHG6BxhvsPhOvY-P2YCybiFaxcZ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RCmkmWuJ6jqMw1I8dxx_8tTKF47uXTWgFvTEgBV70uCq_kD2_bPxpElvFoBU-VroD4pUDEC-hkWbMsUlHnVQpHNprr-6Axsuf4zOEQnl55KEd4iWWPSq4-WW9A\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2021-10-05",
   "publisher": "Wired Productions",
@@ -71,5 +71,8 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "The Falconeer © 2021 Tomas Sala. Published by Wired Productions Ltd and developed by Tomas Sala. All Rights Reserved."
 }

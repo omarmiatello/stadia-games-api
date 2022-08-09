@@ -70,6 +70,9 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web"
+  },
   "notes": "World War Z © 2022. Developed and Published by Saber Interactive. Uses Bink Video. Copyright © 1997-2022 by RAD Game Tools, Inc. Havok software is © 2022 Microsoft. TM \u0026 © 2022 Paramount Pictures. All rights reserved.",
   "pegi_min_age": "17",
   "pegi_notes": [

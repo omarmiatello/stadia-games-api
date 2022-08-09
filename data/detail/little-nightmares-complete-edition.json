@@ -68,5 +68,8 @@
     "Brightness constrast gamma adjustment",
     "Button remapping"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Little Nightmares™ \u0026 ©BANDAI NAMCO Entertainment Europe"
 }

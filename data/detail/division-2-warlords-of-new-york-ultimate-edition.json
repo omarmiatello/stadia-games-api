@@ -1,16 +1,16 @@
 {
   "title": "The Division 2: Warlords of New York Ultimate Edition",
   "url": "https://stadia.google.com/game/division-2-warlords-of-new-york-ultimate-edition",
-  "img": "https://lh3.googleusercontent.com/Ev0KPHo0TOH0Ln2PpbxXks7oB1v4dfhNjUzsqhEw7UZDCUXQRbAQb_jiJzlrxGkcyKJrrz2yqsUQIzrwvIa4Ec7Fosbu4G7g2nTe4IMzmk0ZCtvaBFy1se4wfQ\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/2qINoMpVXASnahdIRN4e7WDl3DyfiRuKBugfeUDs_y00IS3K2OqoQYhRIWuB_4-_3gSmHnNAsu8CEmAtr5bzZfkaIAg5TqPMbSr90K6ph0UNHL_7S4OKkm3bKg\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$79.99 $35.99 Buy",
-    "$23.99 Buy"
+    "$79.99 Buy",
+    "Get with Ubisoft+"
   ],
   "description": "In the Warlords of New York expansion, hunt down your nemesis, Aaron Keener, a former Division Agent who has taken control of New York. Trained by The Division but disavowing its ideals, he is now the highest authority in town. Tom Clancy’s The Division 2 Warlords of New York - Ultimate Edition includes: the base game, the Warlords of New York expansion, a level 30 boost, allowing you to jump right into the Warlords of New York campaign, the instant unlock of all 6 endgame specializations, 8 exclusive Classified assignments missions, the Battleworn secret service pack, the First Responder pack, the Elite Agent pack, 1 exclusive emote, 1 exclusive outfit",
   "image_urls": [
-    "https://lh3.googleusercontent.com/O1deVh4joC6lQX5bF2mCtbP-mVFutcKESdNdMxNPZekXDoVPKKEe8gN4HcKPuSqWqPVHbVHlBnHmj8ol8-9ZlrtYMnpgWR99p9k9V2ndT__GMaRRxLKoc-JcAQ8\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/6BJ9VLAubu-VmZYuz0NdDv5AsZjB6vez_OsKzBH7wtaQpxx5YT2Dq5I0pU6EFPCcrS5Io3hNnM6xBObul3M3M1ksQ9XwABJ6xwBbk1tsJMQvFEdcPCOkcw9zb6M\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/n0bUK9nfACsSqYSTzDGU5cqpp4F1oBob5tUHI1eA-DsxbufRKwjPSKlxxdCEVaiQnOkd9gsinInK_YK0OCiVH5lKyqFAevqDYUkAdQSAuwWbyWqcBVhSgr8mmMI\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/sDrWSefVQeN4Rt5Z6BKVQMRa3jEqY7oqejYM47wcrnHvycL3DJQ1VfKOgAZDZyNoanWgITH4g7fclIVKjsbH73mNdWrVlEg4AuapezReraVXDtlQtkQw5DYVeas\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/QHkKjDypT70HuhI6oXnUZzAxcJ0exVu5cmFflAUJdBzp1JrNadsvFvp0VtkrJr3ah0fOWHuBk9bhibctvcDarBgYl7PDVluT32dmBHOIFJbQOB0HDoFvgamTh0M\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZKOkSHw_vZ6BXsU6sfYpdUT9x7sLIoe5B0084e3vbVKbxhNuBjp0154-haYJOh5L_7DihVk9x_zCTDJvaiAF2TClGNyslqd7YmXttZxSPIKTh5oGdEOwF48EqFw\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-03-17",
   "publisher": "Ubisoft",
@@ -80,6 +80,9 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, The Division logo, the Soldier Icon, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [

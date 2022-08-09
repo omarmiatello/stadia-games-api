@@ -69,6 +69,9 @@
     "Dialogue subtitles",
     "Difficulty levels"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web"
+  },
   "notes": "Copyright © 2022 Published by Merge Games, Developed by Laser Dog. All rights reserved.",
   "pegi_min_age": "17",
   "pegi_notes": [

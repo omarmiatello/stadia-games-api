@@ -12,8 +12,8 @@
     "https://lh3.googleusercontent.com/WMgWJyAO_Wf8aGHaxHdzsrboEx5gMDg-xjxv7FZr8_exoP1nYR39IzO9s3h5EYkr76U30Kuc4SbcPB93sEVRmkYhQxOdNhpPPDOuVAUibbvBMumdLzEwZXYycwQ\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2021-11-01",
-  "publisher": "Koch Media",
-  "developer": "Koch Media",
+  "publisher": "PLAION",
+  "developer": "PLAION",
   "languages": [
     "English",
     "French",
@@ -66,6 +66,9 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 by Deep Silver, a division of Koch Media GmbH, Austria. Developed by Deep Silver Fishlabs. Developed by Deep Silver Volition, LLC. Saints Row, Deep Silver and their respective logos are trademarks of Koch Media. Uses Bink Video. Copyright © 1997-2021 by Epic Games Game Tools, Inc. Saints Row IV™ uses Havok™. © Copyright 2020 Microsoft. All Rights Reserved. See www.havok.com for details. Portions of this software utilize SpeedTree®RT Technology (©2017-2020 Interactive Data Visualization, Inc.). SpeedTree® is a registered trademark of IDV, Inc. All rights reserved. Wwise © 2021 Audiokinetic Inc. All rights reserved. This product includes software developed by the Open SSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/). DTS and the DTS Symbol are registered trademarks of DTS, Inc. and DTS Digital Surround is a trademark of DTS, Inc. Remastered by High Voltage Software, Inc. © 2020 High Voltage and its respective logos are either registered trademarks or trademarks of High Voltage Software, Inc. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
   "pegi_min_age": "17",
   "pegi_notes": [

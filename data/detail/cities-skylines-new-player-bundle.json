@@ -69,5 +69,8 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2015-2022 Paradox Interactive AB. Cities: Skylines is published by Paradox Interactive AB, developed by Colossal Order Ltd and adapted for Google Stadia™ by Tantalus Media Pty Ltd. CITIES: SKYLINES and PARADOX INTERACTIVE are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S. and other countries. All other trademarks, logos and copyrights are the property of their respective owners."
 }

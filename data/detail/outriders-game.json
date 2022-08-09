@@ -77,6 +77,9 @@
     "Separate volume controls",
     "Sound captions"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "OUTRIDERS © 2020 Square Enix Limited. All rights reserved. Developed by PCF Group S.A. SQUARE ENIX and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd. OUTRIDERS is a registered trademark or trademark of Square Enix Ltd. People Can Fly and the People Can Fly logo are registered trademarks, all used courtesy of People Can Fly Sp. z o.o.",
   "pegi_min_age": "17",
   "pegi_notes": [

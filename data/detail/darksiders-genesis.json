@@ -1,20 +1,20 @@
 {
   "title": "Darksiders Genesis",
   "url": "https://stadia.google.com/game/darksiders-genesis",
-  "img": "https://lh3.googleusercontent.com/Mk_mRkVZtiYS8OeO47w9BIAWlm3iprzAKEtSFySjI0ERssJNQbFGsjuXmVLQVnBgkzvURBOhgWsn4epNCXmCQh07VmbpnSbTg_wp8Vs5fhzsoP_HbkZEHNQu-SE\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/XqnNAHueCJJq5xx8aL_synGIWqto8WAeKrFoKG1LaBaOdyQIXWunfZ05dwnK0o4mFJsWkYhTBwl28189QU8W_wYZxHSzZDSndVkuDQFvrTS9jWOZIkYMSPJshok\u003dw300-h400-rw-no-v1-nu",
   "button": "Play for 60 min",
   "buttons": [
     "Play for 60 min",
-    "$39.99 $13.99 Buy",
+    "$39.99 Buy",
     "Claim with Pro"
   ],
   "description": "DARKSIDERS: GENESIS is an action/adventure that tears its way through hordes of demons, angels, and everything in-between on its way to Hell and back with guns blazing and swords swinging. Genesis gives players their first look at the world of DARKSIDERS before the events of the original game, as well as introduces the horseman STRIFE.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/s8DQkxK8UEL23apm_3jJ3cL1ir_QekTSoY_eQ5WtkOmTuL7ZhDhC8puuGPoBmwcGf292aT_JsBXNgi-7s9vJoteTE4aSXAYxbdHO6FBJg_5Qbu7cNMi2To5X4A\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/FGZKMSklTE0x37GlcBPT1PYndX7_6BbYZDDSo4GOUuHN4CJMHUJQfr2Jpn10QvbXFLDObOXq4Nvnky_kXQes9ZG71BiyiAkIZK_q0ra6_UL8x1GpFaPlzwnrq10\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/geGdZceIEV9mPUIHs2869JUda-78n0XE8QDe_AxmkwKhR7s2q5fsygy7T7wFi04aI7Rjo7mWBZbWBOOJbXl5Xcd3-8nyT5PAz-4u3akkPsVFgmBwI7-sLT8Kn8I\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/USoeSYKEUgxHBVTuCnXkXgVwSH4KsD0t5G_CCYwgBjSN3TcfDzSUiTZgwPB3-vgvazm0X_V31en2TJ1j4LjXj4P8-Fzpss5yHybPjwO84maN5ktu-8ClrLG2wg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/taUhd37qnZJDx8dy9BAYQ9xWs2hLgbIdO7aJWOaJJ2I47vtmDdkaxdlITk-9_0ngBOaaKi26yo-6JYe0lcCj9NIT5wQeD8xSeZk0OB1aUAMroyDxq3T1IUKl7EY\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/EUm9gGhSTc-J-sFHqvS5OI28leDDySRVP5uqQ9X_njoVrvwReO6TLpeaROYbwXsG2Uiaw1QSShYah4akfRPnYGNhJtVdlAjqZ7myQxgauY-XQKmCM61_SKIFjA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/CdZ0Yx6hP8pXaWvi5NpXiCirpzCa7Eur_mm-J5JIB0EumrdI2j0qPa5gaKlgkBTvpE0XcozQHHwo8T2mws8OGqdF1vJVKS3NDNW5UXSKoEivuuxhSYqpIkyqaCs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/jeKavUcoqOc-kTSovWfvvjEZzQ6djYrsPPyobsY6Yg0U5JkScU48m8yRvLLxU2QUzsyOpDoSVHhHnz5MaCwcNFpCPXKpS6w5CGKk3BpZSOSj-pFbU6TCmuadvxo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/tI_PMKx63Hmya7IoOWtpyYw6RFOTWca6kas7egJ9TCz2cYjMOAi4UD11PiO90gUc-MxAwUn_6epbC5_l8zqnozJrgVAKCmgMIvbZ2ctITvgEDazeL_6oyKkTyg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/lxlE5999h3saj8-me3Rx_T6xIIad_EhEn7hElc9m6XIua-X32K3haYg17cfTGKP9n7klHz95usqiYmtvorbZ39U2YqkTagA_Fx-AFQXy4c_2URlPuHYOx7hocfs\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2019-12-05",
   "publisher": "THQ Nordic",
@@ -55,7 +55,6 @@
   "genre": [
     "Action",
     "Adventure",
-    "Arcade",
     "Role-playing game"
   ],
   "game_modes": [

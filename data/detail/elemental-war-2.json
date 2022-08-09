@@ -80,5 +80,8 @@
   "disclosure_details": [
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2022 Clockwork Origins"
 }

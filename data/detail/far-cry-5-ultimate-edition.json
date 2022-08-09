@@ -3,8 +3,8 @@
   "url": "https://stadia.google.com/game/far-cry-5-ultimate-edition",
   "img": "https://lh3.googleusercontent.com/cerSIcwTneCrtnxckjxRws7YZ0zAeGOg6SuI8cQgnAMPBWCTkMjT6U9cyGlM2lxgCDd95uxEYTr6gRSLT8KO5Z3sxE2cYc5E0ZWcZQgPzjCT8gE4H-_Lz31sVyc\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$89.99 $35.99 Buy",
-    "$22.49 Buy"
+    "$89.99 Buy",
+    "Get with Ubisoft+"
   ],
   "description": "Upgrade to the Ultimate Edition and receive the Ultimate Pack which includes: 3 stories bundles with other-worldly adventures, the Digital Deluxe Pack, the Care Package. Far Cry comes to America in the latest installment of the award-winning franchise. FIGHT AGAINST A DEADLY CULT Free Hope County in solo or two-player co-op. Recruit Guns and Fangs for hire to help defeat the cult. A WORLD THAT HITS BACK Wreak havoc on the cult and its members but beware of the wrath of Joseph Seed and his followers. DYNAMIC TOYS Take control of iconic muscle cars, ATV\u0027s, planes and a lot more to engage the cult forces in epic fights.",
   "image_urls": [
@@ -78,6 +78,9 @@
   "disclosure_details": [
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2020 Ubisoft Entertainment. All Rights Reserved. Far Cry, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries. Based on Crytek’s original Far Cry directed by Cevat Yerli.",
   "pegi_min_age": "17",
   "pegi_notes": [

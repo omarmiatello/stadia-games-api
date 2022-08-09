@@ -67,5 +67,8 @@
   "disclosure_details": [
     "Requires EULA"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "PAC-MAN™ Mega Tunnel Battle \u0026 ©2020 BANDAI NAMCO Entertainment Inc."
 }

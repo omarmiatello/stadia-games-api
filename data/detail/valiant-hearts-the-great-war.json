@@ -72,5 +72,8 @@
   "disclosure_details": [
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web, TV"
+  },
   "notes": "©2014 Ubisoft Entertainment. All Rights Reserved. Valiant Hearts The Great War Logo, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries."
 }

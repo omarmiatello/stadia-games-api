@@ -71,5 +71,8 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2020 Thunder Lotus. All Rights Reserved. Spiritfarer and Thunder Lotus are registered trademarks of Thunder Lotus in the U.S. and in other countries."
 }

@@ -3,8 +3,7 @@
   "url": "https://stadia.google.com/game/just-dance-2022",
   "img": "https://lh3.googleusercontent.com/hiMxqtOAy96BS-59-aIsecgcya87PxlJ2BQQlZZGDgSzV3XcNA5h1XqxKhEeCwIbz4czhI2L6Wwc25-e4LOFggEz6I8UT3zgqn_obnnrQgj13LDN5mVls78CNQ\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$49.99 $27.49 Buy",
-    "$19.99 Buy"
+    "$49.99 Buy"
   ],
   "description": "Just Dance® 2022, the ultimate dance game, is back with new universes and 40 hot new tracks from chart-topping hits like \"Believer\" by Imagine Dragons, \"Level Up\" by Ciara, and more! Looking for the perfect game to dance to the latest hits and share some fun with friends and family? Just Dance 2022 is for you! Exercise while having fun and start your own routine with Sweat mode. Keep yourself motivated, track the calories burnt and your time spent dancing. Team up with your friends and rule the dance floor in Co-op mode. Join more than 138 million players around the world and Just Dance It Out!",
   "image_urls": [
@@ -13,7 +12,7 @@
     "https://lh3.googleusercontent.com/e14QLtDWuZ0sLPmrlX98GQ9sQ8aZT0O-ajxZffLCD0fLkI9v9b7RpQA-HvFN1dnv6v4i-e5D2JTZWoGenW46Vg5fY0VaFcKL8dbxjdT6mRXpZifE6sajTVCu0g\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/jpElvg7kvwDQE0MdpIl50GrNTIP_PjsQyh2GrEgJH1hbRFEwKnGembuI8unSJFK8fWoDjNnNMECQSi8uG5eYg3APMNo0CNW4GyNN9NLo3hrOeA9ESXgEC6H-hoA\u003dw588-h384-rw-no-v1-nu"
   ],
-  "release_date": "2021-11-04",
+  "release_date": "2021-11-03",
   "publisher": "Ubisoft",
   "developer": "Ubisoft",
   "languages": [
@@ -83,6 +82,9 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 Ubisoft Entertainment. All Rights Reserved. Just Dance, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "10",
   "pegi_notes": [

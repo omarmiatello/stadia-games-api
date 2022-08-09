@@ -71,5 +71,8 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©2021 Viacom International Inc. All Rights Reserved. Nickelodeon, Blaze and the Monster Machines and all related titles, logos and characters are trademarks of Viacom International Inc. Published \u0026 Software ©2021 Outright Games Limited. Developed by 3D Clouds S.R.T. Uses Unreal Engine ©2021 Unreal Engine. All trademarks and copyrights are property of their respective owners. All rights reserved."
 }

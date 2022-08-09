@@ -9,7 +9,7 @@
   ],
   "description": "Hello Neighbor is a stealth horror game about sneaking into your neighbor\u0027s house to figure out what horrible secrets he\u0027s hiding in the basement. You play against an advanced AI that learns from your every move. Really enjoying climbing through that backyard window? Expect a bear trap there. Sneaking through the front door? There\u0027ll be cameras there soon. Trying to escape? The Neighbor will find a shortcut and catch you.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/EOQwKlyVEJKybIWg7uHdBxLQEIPh8S03zoK84alKw6QGPQK96IJIgLSUs1I_pDM7--5TibqI1KTjg26lPwK5DBJhtLKJx3DZZaufNVnAg0DsgjhElTrx2D7J1g\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/oYMG65AG34gNmBVrQ3EAE29hJJz3NTmdtxTGztOdt_WTn07MnnNFJKYw-3pwm043Dzs6TebKjWwIEZV5GgmvaHT80UynEMl4czUXNG8PcSBzMw7lWbCCORBTDg\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/rpFnTSxkWiESv1Tc1ieuezpThSs-5NnRraYWGXJ7emVWTpDuATUAij_gKSL00nW1fbpY22BatO7jpV9bB74SR1ntxeIiUSPqfQ-3brou3vs2JeRI5dEOME4E_rY\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/t0MlYPwAfgYiWcB1Mn-5ntRmdXwAbDnY7GOWpXLhdpD2ds1zgDqnrBgdxoqfwwem4QE0A2KGWaSOUzKFfc698ZV2D3wmEuCF-wSxz1QmFrHEqFdhVl6rGueJboA\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/kSKTPrfOnBGahzHVCSpoLnfzPwrNumK6kaH2sjBpvbIIHX2-4nZGgo6bGgn3iFiywozVVA_BQr0AvXpg63lQzySk4inAH1954HZiXFYHfotiFxshjTU0IcBXnw\u003dw588-h384-rw-no-v1-nu",
@@ -65,6 +65,9 @@
   "accessibility_features": [
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Developed and Published by tinyBuild Ⓒ 2020. All rights reserved.",
   "pegi_min_age": "10",
   "pegi_notes": [

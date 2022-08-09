@@ -63,5 +63,8 @@
     "Subtitle speed controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Floor Kids™ is a trademark of MERJ Media, a division of 9420860 Canada Inc. © 9420860 Canada Inc., 2017."
 }

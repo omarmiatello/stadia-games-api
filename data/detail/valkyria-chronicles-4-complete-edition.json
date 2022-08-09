@@ -72,5 +72,8 @@
     "Skip repeated button presses",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "©SEGA. All rights reserved. SEGA is registered in the U.S. Patent and Trademark Office. SEGA, the SEGA logo and VALKYRIA CHRONICLES are either registered trademarks or trademarks of SEGA CORPORATION."
 }

@@ -76,5 +76,8 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© 2021 Hello There Games \u0026 © Tim Bergling. Developed by Hello There Games AB. Published by Hello There Games AB. All music is copyright of their respective owners."
 }

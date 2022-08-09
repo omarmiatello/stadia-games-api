@@ -67,6 +67,9 @@
     "Sound captions",
     "Subtitle speed controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile, Web"
+  },
   "notes": "Whitethorn Digital \u0026 Gamious 2021",
   "pegi_min_age": "17",
   "pegi_notes": [

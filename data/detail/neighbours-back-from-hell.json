@@ -77,5 +77,8 @@
     "Adjustable game interface",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web, TV"
+  },
   "notes": "© 2020 THQ Nordic AB, Sweden. Developed and published by www.handy-games.com GmbH, Germany / THQ Nordic GmbH, Austria. Neighbours back From Hell, is a trademark of THQ Nordic AB, Sweden. All other brands, product names and logos are trademarks or registered trademarks of their respective owners. All rights reserved."
 }

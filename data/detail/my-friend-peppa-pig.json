@@ -65,5 +65,8 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile"
+  },
   "notes": "PEPPA PIG and all related trademarks and characters TM \u0026 © 2003 Astley Baker Davies Ltd and/or Entertainment One UK Limited. HASBRO and all related logos and trademarks TM \u0026 © 2021 Hasbro. All Rights Reserved. Used with Permission. Published by Outright Games Limited. Software © 2021 Outright Games Limited. Developed by Petoons Studio Ltd. All Rights Reserved."
 }

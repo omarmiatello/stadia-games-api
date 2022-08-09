@@ -69,5 +69,8 @@
     "Dialogue subtitles",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, TV"
+  },
   "notes": "MY LITTLE PONY and HASBRO and all related trademarks and logos are trademarks of Hasbro, Inc. © 2022 Hasbro. All Rights Reserved.  Used with Permission.  Published by Outright Games Limited. Software © 2022 Outright Games Limited. Developed by Melbot Studios © 2022"
 }

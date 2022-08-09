@@ -12,7 +12,7 @@
     "https://lh3.googleusercontent.com/LdQ9iC70ZLsb1-xfu3GaFurou5Bp5X3Ib4dapfnkjNX7D2xhf9_WsEsXOBkJThTQ8BpTjEcqiPMHTKw1kxrfD4h9KEGf7UMwOYhFuP7B2_Sr0tQzLHXUTCdWm5SZ\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/2ieEgBm6tfhfHXKNOZhMdg5exIv8F6texv-B-JfKd3qicReE1IENzdu1l1xSpR_A4mthme38QO8N2Cp5MpocoRzJRtLYUkKBvkb4kT1SOszgEDBX-SYO9gWmc7E\u003dw588-h384-rw-no-v1-nu"
   ],
-  "release_date": "2022-01-14",
+  "release_date": "2022-01-13",
   "publisher": "Ubisoft",
   "developer": "Ubisoft",
   "languages": [
@@ -74,5 +74,8 @@
     "Requires EULA",
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "© [2021] Ubisoft Entertainment. All Rights Reserved. Riders Republic, Ubisoft and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the U.S. and/or other countries."
 }

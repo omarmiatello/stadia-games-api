@@ -13,7 +13,7 @@
     "https://lh3.googleusercontent.com/oh9nMBIJuwKeJ6bkG8rPXCqHAJgMbf49xA3NbKlHpY27JP9RbbngpQLONAbflquNLLwk6Rqkb4ygqPx6mFfqHE_xu9gERXnTC1QsHtd4fTWMe0IYMT_dQvPnQVA\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/eL5c3h46JPbSWJddwVd6VOYyFYuZfTikm0i5V47__NlCxZGTVZoa3irAqYMEjH5JZIizBR2bcmghgBkwLZUrxkyQle-7Bf9m8l3m3E7Z-MlnqhtRdQGJHgFLbfk\u003dw588-h384-rw-no-v1-nu"
   ],
-  "release_date": "2022-07-07",
+  "release_date": "2022-07-06",
   "publisher": "Ubisoft",
   "developer": "Ubisoft",
   "languages": [
@@ -72,6 +72,9 @@
   "disclosure_details": [
     "Requires third party account"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile, Web"
+  },
   "notes": "© 2022 Ubisoft Entertainment. All Rights Reserved. Far Cry, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries.",
   "pegi_min_age": "17",
   "pegi_notes": [

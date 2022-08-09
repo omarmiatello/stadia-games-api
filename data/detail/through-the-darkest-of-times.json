@@ -75,5 +75,8 @@
     "Separate volume controls",
     "Training mode"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Through the Darkest of Times © 2020 Paintbucket Studios. Published by www.handy-games.com GmbH. Paintbucket Studios, Through the Darkest of Times and their respective logos are trademarks of Paintbucket Studios. All other brands, product names and logos are trademarks or registered trademarks of their respective owners."
 }

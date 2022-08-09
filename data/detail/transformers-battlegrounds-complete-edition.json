@@ -69,6 +69,9 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "TV, Mobile"
+  },
   "notes": "© 2020 Hasbro. All Rights Reserved. Published by Outright Games Limited. Software © 2020 Outright Games Limited. Developed by Coatsink Software Ltd. All Rights Reserved.",
   "pegi_min_age": "10",
   "pegi_notes": [

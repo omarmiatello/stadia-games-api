@@ -60,5 +60,8 @@
     "Difficulty levels",
     "Separate volume controls"
   ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
   "notes": "Copyright © 2021 No More Robots, SkyBagel, Roguecode"
 }
