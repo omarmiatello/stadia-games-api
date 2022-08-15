@@ -161,7 +161,7 @@
 1. [Immortals Fenyx Rising™ Gold Edition Stadia](https://stadia.google.com/game/immortals-fenyx-rising-gold-edition) - available also with #UbisoftPlus
 1. [Immortals Fenyx Rising™ Stadia](https://stadia.google.com/game/immortals-fenyx-rising) - available also with #UbisoftPlus
 1. [Into the Breach](https://stadia.google.com/game/into-the-breach)
-1. [It Came From Space And Ate Our Brains](https://stadia.google.com/game/from-space) - Play for 60 min #LocalCoop #LocalMultiplayer
+1. [It Came From Space And Ate Our Brains](https://stadia.google.com/game/it-came-from-space-and-ate-our-brains) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Jotun: Valhalla Edition](https://stadia.google.com/game/jotun-valhalla-edition) - Play for 30 min
 1. [Journey to the Savage Planet](https://stadia.google.com/game/journey-to-the-savage-planet) - Play for 60 min - available also with #StadiaPro
 1. [Judgment](https://stadia.google.com/game/judgment) #LocalMultiplayer
