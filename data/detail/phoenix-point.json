@@ -3,18 +3,17 @@
   "url": "https://stadia.google.com/game/phoenix-point",
   "img": "https://lh3.googleusercontent.com/fLcro60iRnG-BRTjRg6HTo8-vp1xo26Cpr8Xh9Ye066bF7cCSwiOmMk_aYragqaYi2jIYuwgPal3CyS3BXu94ywMA2_3BKP1BAtbXX9x1M3xz6gPgqPBkELL7xg\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "Play for 120 min",
-    "$29.99 Buy"
+    "Play for 120 min"
   ],
-  "description": "Phoenix Point: Complete Edition, the acclaimed strategy game from the creator of X-COM, is now assembled into the ultimate collection, including all released addons, content updates, and product improvements over four years of development. The Earth has been overrun. A mutating, alien menace threatens the last remnant of mankind. Only the Phoenix Project, a secret organization of the best minds and bravest soldiers left on earth, can repel the invasion and reverse the inevitable. The Phoenix Project looks to you for leadership. Research and develop new technologies, explore a ravaged globe, build your bases, manage resources, and dominate the battlefield.",
+  "description": "Phoenix Point puts players in the midst of a desperate fight to take back the Earth from a mutating, alien menace. Featuring turn-based tactical combat on procedurally generated maps, and resource management on a global scale, Phoenix Point offers endless replayability and a brutal challenge.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/TTTnsG3_iwi831ku7oZNVnt13D6DWluyOHcpb6Oy3jvDbv0TUkwesSOMJP2obpzxGKSEwazSZn6-t-fhR53C1KHFku_nbLUIFUASgkWJ4YQ1b1kuKsHuJ3ZBse0\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/Et_s9c2ZffqNwd2gu6RpaNCwul3y5nFYuOTNrGfpMBFDmE1x_zozZ0XnE317RdjKaF2clKjZS9ZyCNM0k2IPBGhrchaeY7ra3iJay-8Q1NeNS2QQ_kfZJEmTHMBo\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/uiHITg34z_-tkMRkkBzVIyib5CD6gn0bRTGoh4hvQJ5tR-ASTeZ4DShps-mCSQSCt0G-ouYjBRf6HuEHKTeEfcz7TKFN2Wm8c_Vefb5JJOgry6JZqK-My_2QJvxg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/tYZgLq5OJQCqspdxYZyBP0ixasKSQZsYFo8j4rQ_EHPzbRRoc2IYdERcdibvcB7hYBPGWE8NmKl731j9uC9R7xLfYpIt39f4CWzPJY9VOZm3jdanH0BNKujcwXg\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/x1k4XrZ7Lref0K429EFxS58_CbwqNRj977cTtE_oaLrLjUBkal0LcV3eRCRDTgGp9CsRkw5DKBOFvcAT97-C2uQbTdpqzAAQNOCTPgnw_GcZ7eTWBvce9JqfPTs\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/WzBnggStrXKN_ydj4nPlEG5tI-n1b8aMTd9QJLYLRHLzX30aXBiqkKcm1IzhnJG1fZvOD-0Cl6Dza7pH_lGchI3_NyuTiGEmWhE5ZPGlnMJVmyvGG9JMImv-H_0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/SGcPtMKR6XnyAEQVhqdNABCcM4U18R2CwlJYlK7R9sflXJ5AylWyqQTmwTdif8D-RPdOIbVtnjcSnXMJPJ-uNcYhgV8CNvytT-Z1UKZPIkm6P53E3-tSB-VkSZ0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/fzYvl9ZF5ljOmD5fvNIY6sQEwCJ8RphkkSdkJULq9JL_K6xJfCL1AyWQzP1tpL6poo0yeypJ_6Gtg0qPYLihVeveiZPC6j7OIlEP4CuJI02DNWHIzAW2xMgAkquU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wIHWPkA1u0fNa3ooE0Z5IMFF7km_Bv1mIXsgNzRgdVvSbO8SneyttjIxPtLQEBANyvJH2BYIg5i1QFLtTGg9cWzDo-8Y6_lrqpqYjGxFmaCoYTUZRfpISau14Q\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/XH98hBYtseOvawYrmdu9MYeU6fDK4xAzcw4u55CjLN59A6BSbHvVjE-HavimofhR4EoWh8t9-d6WQ_zzkd2uzl3czmoqh86U-PQl1ZC_bQWpAxTCH1jShpVZPjI\u003dw588-h384-rw-no-v1-nu"
   ],
-  "release_date": "2022-07-21",
+  "release_date": "2021-01-26",
   "publisher": "Snapshot Games",
   "developer": "Snapshot Games",
   "languages": [
@@ -73,5 +72,5 @@
   "extra": {
     "in-game elements might be unreadable": "Mobile"
   },
-  "notes": "Copyright 2019-2022 Snapshot Games, Inc., All Rights Reserved"
+  "notes": "Copyright 2019-2020 Snapshot Games, Inc., All Rights Reserved"
 }

@@ -5,7 +5,8 @@
   "button": "Play for 30 min",
   "buttons": [
     "Play for 30 min",
-    "$19.99 Buy"
+    "$19.99 $15.99 Buy",
+    "$13.99 Buy"
   ],
   "description": "Hello Engineer is a multiplayer machinery-building construction game set in the Hello Neighbor universe. Scavenge, craft, and overcome challenges in the sandbox world of a mysterious amusement park. Put together incredible machines built of scrap, and beware of the Neighbor!",
   "image_urls": [

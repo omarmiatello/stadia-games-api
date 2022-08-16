@@ -2,7 +2,9 @@
   "title": "Journey to the Savage Planet",
   "url": "https://stadia.google.com/game/journey-to-the-savage-planet",
   "img": "https://lh3.googleusercontent.com/zCDmfiWLlDtLn6UGriJqQPkaYLVOGVLt7abUg5HG3I5gDVoxn-0U52X6zbmJVT9TNxMQI-rNtshFJGHP3CP5CuZnHjH8B43Re3tD4NWU5bgPvWVWE-HI3lyhBwk\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
+    "Play for 60 min",
     "$19.99 Buy",
     "Claim with Pro"
   ],

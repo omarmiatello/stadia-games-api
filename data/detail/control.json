@@ -2,7 +2,9 @@
   "title": "Control Ultimate Edition",
   "url": "https://stadia.google.com/game/control",
   "img": "https://lh3.googleusercontent.com/B3f8D22WJxhXn40JtnZLc6n65cNViQBhFXhuwAKqtgFd29Y5UASrFJEFgMZrLNhmcQGE5aVWYtsK-Ra8tq-prYDUKaFfZ0fDHW4j-NbchZK0GkO27ingUeddjQs\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play trial",
   "buttons": [
+    "Play trial",
     "$39.99 Buy",
     "Claim with Pro"
   ],
