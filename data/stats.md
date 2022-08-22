@@ -30,20 +30,20 @@
 ## Games by **Game modes**
 | Game modes | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Single player | 380 | 350+ | 400+ |
-| Online multiplayer | 165 | 150+ | 200+ |
-| Competitive | 125 | 100+ | 150+ |
-| Online co-op | 113 | 100+ | 150+ |
-| Local multiplayer | 89 | 50+ | 100+ |
-| Local co-op | 65 | 50+ | 100+ |
+| Single player | 381 | 350+ | 400+ |
+| Online multiplayer | 166 | 150+ | 200+ |
+| Competitive | 126 | 100+ | 150+ |
+| Online co-op | 114 | 100+ | 150+ |
+| Local multiplayer | 90 | 50+ | 100+ |
+| Local co-op | 66 | 50+ | 100+ |
 | Cross-platform multiplayer | 53 | 50+ | 100+ |
 | Split-screen | 23 | 20+ | 50+ |
 
 ## Games by **Supported input**
 | Supported input | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Keyboard/mouse | 384 | 350+ | 400+ |
-| Gamepad | 384 | 350+ | 400+ |
+| Keyboard/mouse | 385 | 350+ | 400+ |
+| Gamepad | 385 | 350+ | 400+ |
 | Partial gamepad support | 20 | 20+ | 50+ |
 | Peripheral controllers | 19 | 10+ | 20+ |
 | Touch support | 10 | 10+ | 20+ |
@@ -119,20 +119,20 @@
 ## Games by **Accessibility features**
 | Accessibility features | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Separate volume controls | 338 | 300+ | 350+ |
-| Dialogue subtitles | 291 | 250+ | 300+ |
-| Button remapping | 291 | 250+ | 300+ |
-| Difficulty levels | 226 | 200+ | 250+ |
-| Brightness constrast gamma adjustment | 212 | 200+ | 250+ |
-| Training mode | 93 | 50+ | 100+ |
-| Colorblind modes | 84 | 50+ | 100+ |
+| Separate volume controls | 339 | 300+ | 350+ |
+| Dialogue subtitles | 292 | 250+ | 300+ |
+| Button remapping | 292 | 250+ | 300+ |
+| Difficulty levels | 227 | 200+ | 250+ |
+| Brightness constrast gamma adjustment | 213 | 200+ | 250+ |
+| Training mode | 94 | 50+ | 100+ |
+| Colorblind modes | 85 | 50+ | 100+ |
 | Adjustable dialog text size | 75 | 50+ | 100+ |
 | Motion sickness options | 63 | 50+ | 100+ |
 | Sound captions | 55 | 50+ | 100+ |
-| Adjustable game interface | 53 | 50+ | 100+ |
+| Adjustable game interface | 54 | 50+ | 100+ |
 | Adjustable captions text size | 46 | 20+ | 50+ |
 | Skip repeated button presses | 34 | 20+ | 50+ |
 | Subtitle speed controls | 33 | 20+ | 50+ |
-| Skip challenges | 24 | 20+ | 50+ |
+| Skip challenges | 25 | 20+ | 50+ |
 | Copilot mode | 23 | 20+ | 50+ |
 | Skip QuickTime events | 18 | 10+ | 20+ |

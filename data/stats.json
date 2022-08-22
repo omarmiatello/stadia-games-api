@@ -25,18 +25,18 @@
       "Board games": 7
     },
     "game_modes": {
-      "Single player": 380,
-      "Online multiplayer": 165,
-      "Competitive": 125,
-      "Online co-op": 113,
-      "Local multiplayer": 89,
-      "Local co-op": 65,
+      "Single player": 381,
+      "Online multiplayer": 166,
+      "Competitive": 126,
+      "Online co-op": 114,
+      "Local multiplayer": 90,
+      "Local co-op": 66,
       "Cross-platform multiplayer": 53,
       "Split-screen": 23
     },
     "supported_input": {
-      "Keyboard/mouse": 384,
-      "Gamepad": 384,
+      "Keyboard/mouse": 385,
+      "Gamepad": 385,
       "Partial gamepad support": 20,
       "Peripheral controllers": 19,
       "Touch support": 10
@@ -106,21 +106,21 @@
       "Austria": 393
     },
     "accessibility_features": {
-      "Separate volume controls": 338,
-      "Dialogue subtitles": 291,
-      "Button remapping": 291,
-      "Difficulty levels": 226,
-      "Brightness constrast gamma adjustment": 212,
-      "Training mode": 93,
-      "Colorblind modes": 84,
+      "Separate volume controls": 339,
+      "Dialogue subtitles": 292,
+      "Button remapping": 292,
+      "Difficulty levels": 227,
+      "Brightness constrast gamma adjustment": 213,
+      "Training mode": 94,
+      "Colorblind modes": 85,
       "Adjustable dialog text size": 75,
       "Motion sickness options": 63,
       "Sound captions": 55,
-      "Adjustable game interface": 53,
+      "Adjustable game interface": 54,
       "Adjustable captions text size": 46,
       "Skip repeated button presses": 34,
       "Subtitle speed controls": 33,
-      "Skip challenges": 24,
+      "Skip challenges": 25,
       "Copilot mode": 23,
       "Skip QuickTime events": 18
     }
