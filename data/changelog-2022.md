@@ -1,5 +1,10 @@
 ## 2022-08-22
 
+### 1 new demo
+1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
+
+## 2022-08-22
+
 ### 1 new game
 1. [EA SPORTS™ FIFA 23 Ultimate Edition](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-late-product) #LocalCoop #LocalMultiplayer
 
