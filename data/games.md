@@ -3,6 +3,7 @@
 1. [AVICII Invector](https://stadia.google.com/game/avicii-invector) #LocalMultiplayer
 1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min - available also with #StadiaPro #DirectTouch
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/dventure-time-pirates-of-the-enchiridion) - Play for 30 min
+1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/re-you-smarter-than-a-5th-grader) #LocalMultiplayer
 1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
 1. [Assassin's Creed Black Flag](https://stadia.google.com/game/assassins-creed-black-flag) - available also with #UbisoftPlus
 1. [Assassin's Creed Black Flag Gold Edition](https://stadia.google.com/game/assassins-creed-black-flag-gold-edition) - available also with #UbisoftPlus
@@ -46,7 +47,7 @@
 1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min - available also with #StadiaPro #DirectTouch
 1. [Control Ultimate Edition](https://stadia.google.com/game/control) - Play trial - available also with #StadiaPro
 1. [Cosmic Star Heroine](https://stadia.google.com/game/cosmic-star-heroine) - Play for 60 min
-1. [Crayta](https://stadia.google.com/game/crayta)
+1. [Crayta](https://stadia.google.com/game/crayta) - Play for 60 min
 1. [Cris Tales](https://stadia.google.com/game/cris-tales) - Play for 60 min
 1. [Cthulhu Saves Christmas](https://stadia.google.com/game/cthulhu-saves-christmas) - Play for 60 min
 1. [Cyberpunk 2077](https://stadia.google.com/game/cyberpunk2077)
@@ -72,7 +73,7 @@
 1. [Darksiders Genesis](https://stadia.google.com/game/darksiders-genesis) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Darksiders II Deathinitive Edition](https://stadia.google.com/game/darksiders-ii-deathinitive-edition) - Play for 60 min
 1. [Darksiders III](https://stadia.google.com/game/darksiders-iii) - Play for 30 min
-1. [Darkwood](https://stadia.google.com/game/darkwood) - available also with #StadiaPro
+1. [Darkwood](https://stadia.google.com/game/darkwood) - Play for 60 min - available also with #StadiaPro
 1. [Dawn of the Monsters](https://stadia.google.com/game/dawn-of-the-monsters) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Dead by Daylight](https://stadia.google.com/game/dead-by-daylight)
 1. [Dead by Daylight: Silent Hill Edition](https://stadia.google.com/game/dead-by-daylight-silent-hill-edition)
@@ -87,7 +88,7 @@
 1. [Discovery Tour: Viking Age](https://stadia.google.com/game/discovery-tour-viking-age) - available also with #UbisoftPlus
 1. [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/game/dreamworks-dragons-dawn-of-new-riders) - Play for 30 min
 1. [DreamWorks Spirit Lucky's Big Adventure](https://stadia.google.com/game/dreamworks-spirit-luckys-big-adventure) - Play for 30 min
-1. [EA SPORTS™ FIFA 23 Standard Edition](https://stadia.google.com/game/fifa-23-standard-edition-preorder-product)
+1. [EA SPORTS™ FIFA 23 Standard Edition](https://stadia.google.com/game/fifa-23-standard-edition-preorder-product) #LocalCoop #LocalMultiplayer
 1. [EA SPORTS™ FIFA 23 Ultimate Edition](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-late-product) #LocalCoop #LocalMultiplayer
 1. [EVERSPACE™](https://stadia.google.com/game/everspace) - Play for 120 min
 1. [El Hijo - A Wild West Tale](https://stadia.google.com/game/el-hijo-a-wild-west-tale) - Play for 30 min
@@ -171,7 +172,7 @@
 1. [Katamari Damacy REROLL](https://stadia.google.com/game/katamari-damacy-reroll) #LocalMultiplayer
 1. [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks) - Play for 30 min - available also with #StadiaPro
 1. [Kemono Heroes](https://stadia.google.com/game/kemono-heroes) - Play for 30 min #LocalCoop #LocalMultiplayer
-1. [Killer Queen Black](https://stadia.google.com/game/killer-queen-black) #LocalCoop #LocalMultiplayer
+1. [Killer Queen Black](https://stadia.google.com/game/killer-queen-black) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Kine](https://stadia.google.com/game/kine)
 1. [Kona](https://stadia.google.com/game/kona)
 1. [Lake](https://stadia.google.com/game/lake) - Play for 90 min - available also with #StadiaPro
@@ -225,7 +226,7 @@
 1. [NBA 2K21 Mamba Forever Edition](https://stadia.google.com/game/nba-2k21-mamba-forever-edition) #LocalCoop #LocalMultiplayer
 1. [Nanotale - Typing Chronicles](https://stadia.google.com/game/nanotale-typing-chronicles)
 1. [Neighbours back From Hell](https://stadia.google.com/game/neighbours-back-from-hell)
-1. [Nine to Five](https://stadia.google.com/game/nine-to-five)
+1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
 1. [ONE PIECE World Seeker Premium Edition](https://stadia.google.com/game/one-piece-world-seeker-premium-edition)
 1. [OUTRIDERS](https://stadia.google.com/game/outriders-game) - available also with #StadiaPro
@@ -334,9 +335,9 @@
 1. [The Falconeer](https://stadia.google.com/game/the-falconeer) - Play for 60 min
 1. [The Falconeer: Warrior Edition](https://stadia.google.com/game/the-falconeer-warrior-edition)
 1. [The Forgotten City](https://stadia.google.com/game/forgotten-city)
-1. [The Gardens Between](https://stadia.google.com/game/the-gardens-between)
-1. [The Jackbox Party Pack 6](https://stadia.google.com/game/the-jackbox-party-pack-6) #LocalMultiplayer #DirectTouch
-1. [The Jackbox Party Pack 7](https://stadia.google.com/game/the-jackbox-party-pack-7) #LocalMultiplayer #DirectTouch
+1. [The Gardens Between](https://stadia.google.com/game/the-gardens-between) - Play for 30 min
+1. [The Jackbox Party Pack 6](https://stadia.google.com/game/the-jackbox-party-pack-6) - Play for 30 min #LocalMultiplayer #DirectTouch
+1. [The Jackbox Party Pack 7](https://stadia.google.com/game/the-jackbox-party-pack-7) - Play for 30 min #LocalMultiplayer #DirectTouch
 1. [The Jackbox Party Pack 8](https://stadia.google.com/game/jackbox-party-pack-8) - Play for 30 min #LocalMultiplayer #DirectTouch
 1. [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iii) - Play for 120 min
 1. [The Legend of Heroes: Trails of Cold Steel IV](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iv) - Play for 120 min

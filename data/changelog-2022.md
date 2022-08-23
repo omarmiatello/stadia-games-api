@@ -1,5 +1,19 @@
 ## 2022-08-23
 
+### 1 new game
+1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/re-you-smarter-than-a-5th-grader) #LocalMultiplayer
+
+### 7 new demos
+1. [Crayta](https://stadia.google.com/game/crayta) - Play for 60 min
+1. [Darkwood](https://stadia.google.com/game/darkwood) - Play for 60 min - available also with #StadiaPro
+1. [Killer Queen Black](https://stadia.google.com/game/killer-queen-black) - Play for 60 min #LocalCoop #LocalMultiplayer
+1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
+1. [The Gardens Between](https://stadia.google.com/game/the-gardens-between) - Play for 30 min
+1. [The Jackbox Party Pack 6](https://stadia.google.com/game/the-jackbox-party-pack-6) - Play for 30 min #LocalMultiplayer #DirectTouch
+1. [The Jackbox Party Pack 7](https://stadia.google.com/game/the-jackbox-party-pack-7) - Play for 30 min #LocalMultiplayer #DirectTouch
+
+## 2022-08-23
+
 ### 2 new games
 1. [Saints Row](https://stadia.google.com/store/details/c72e596b2e9542839931b113b91dfb5brcp1/sku/60b6f7cf857e4648aff6514241744811p)
 1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - available also with #StadiaPro #LocalCoop

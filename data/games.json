@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 398,
+  "count": 399,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -28,6 +28,11 @@
       "url": "https://stadia.google.com/game/dventure-time-pirates-of-the-enchiridion",
       "img": "https://lh3.googleusercontent.com/LF3J8rkkwxKhKbazX8J06gjo76MD5L9DOF1IFgbtSlmP8FgJ9iRoFfNdnisTzEe4Q2F7aeVGq-ifunxceAGaSuB3kERYEZFtuuNIai4H3K2V9bUu_eRuF-sF_pM\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 30 min"
+    },
+    {
+      "title": "Are You Smarter than a 5th Grader?",
+      "url": "https://stadia.google.com/game/re-you-smarter-than-a-5th-grader",
+      "img": "https://lh3.googleusercontent.com/rtpJuyGreJwUkqGiImFGJRQlmN-gIf-Z-rOjuv-H9XomC4JvILp1QswXY1jFW3U_WE-TUrhMxuMq3PkCN4yVj5TdMfuwnqP11uyq_c1n1fEaTWA-MsXzNhguww\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Ary and the Secret of Seasons",
@@ -262,7 +267,8 @@
     {
       "title": "Crayta",
       "url": "https://stadia.google.com/game/crayta",
-      "img": "https://lh3.googleusercontent.com/jp5RIefl89yHZvkmuseH9OpJ-hHn0qDNnzufmsI5lSXpPp7k298whrjcY2ZxBeRf9jf6W9ny4sQxGysqg9HztS4wDmvB9pdgeAee45CgRKVN__q8-RulrZfvdejT\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/jp5RIefl89yHZvkmuseH9OpJ-hHn0qDNnzufmsI5lSXpPp7k298whrjcY2ZxBeRf9jf6W9ny4sQxGysqg9HztS4wDmvB9pdgeAee45CgRKVN__q8-RulrZfvdejT\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "Cris Tales",
@@ -399,7 +405,8 @@
     {
       "title": "Darkwood",
       "url": "https://stadia.google.com/game/darkwood",
-      "img": "https://lh3.googleusercontent.com/Htz4_G1HxIS2DpSOHj6r0zobGPxDc0pNmo3ScQO9U5wfsltXkquCC9fE4PvLmnhPnrHJFcwM1CuDR6MY45COu7EofBGwYLWGhW8Vj6iOYRrJ--_S9h5G2HGUfYg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/Htz4_G1HxIS2DpSOHj6r0zobGPxDc0pNmo3ScQO9U5wfsltXkquCC9fE4PvLmnhPnrHJFcwM1CuDR6MY45COu7EofBGwYLWGhW8Vj6iOYRrJ--_S9h5G2HGUfYg\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "Dawn of the Monsters",
@@ -410,17 +417,17 @@
     {
       "title": "Dead by Daylight",
       "url": "https://stadia.google.com/game/dead-by-daylight",
-      "img": "https://lh3.googleusercontent.com/iqyDIdhMjY6TGADDzsXv1bv-bGbSWTDLX5oQvcGYUCGOqiAXYSBGP0Suv1eVAQznPR2863hAIvOOjJivVhS9tWKK4Po-PcW2AtUNo0UH1ux-CdyplPgAC4ZvXps\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/zQ1tKv7zY2vy4ZlX5CfzMtLPU3WxfgLHcOJVjm0hRrmaCqnEqgFx3iGRuj2FqiKD_FeqCRM-99B2dZbeOuVOP8ztsd36n3322gL0HYuu01erbLVwqk4bwKH3qc0\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Dead by Daylight: Silent Hill Edition",
       "url": "https://stadia.google.com/game/dead-by-daylight-silent-hill-edition",
-      "img": "https://lh3.googleusercontent.com/o8Qp54ZWH-wfyG01VnEWy51OXijEQyKD6JPS15WCicf5SYBVe1a2bxVRTDIis4kaKJd4QwBNu7iPMdewjVMfV_7gKnvaTsHlSk_3R3GMMW58MSqaJ-0perPGDYgk\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/r25HC_CoQuvL8D_Ovp6OaqQn8xKHFqGwgfZBnEa7UtbZ67bWNGsA8OR0FcUQDbemEJ-BSo0Fgzv6O6t7rx_AlrMawH0RyXaEKp45KJeJL4ewjEwA5KFz9cdg5P9X\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Dead by Daylight: ULTIMATE EDITION",
       "url": "https://stadia.google.com/game/dead-by-daylight-ultimate-edition",
-      "img": "https://lh3.googleusercontent.com/txGvrzvcG9IthNIzem05nQ5HUT-zMzRHOXIR4kL9VT9DOOarAXpDM7u663mI68-dc1hHCtBUm8ueCGIy3B1FrFX0o2hZb55obSKd0nLmNFPRAbK3602iC_unr6M\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/BQ6NA_dXVC7ocfbDesNiu3KzOVh4pV_sSmzYDeieH7F-DXOpO2eevc2gBWqpSEbr86FGm9_EAmctKd8YpwYZRZDYqKJaQbP4no0jkTlamynIZdZlAN1ti4CNgJ4\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Deliver Us The Moon",
@@ -928,7 +935,8 @@
     {
       "title": "Killer Queen Black",
       "url": "https://stadia.google.com/game/killer-queen-black",
-      "img": "https://lh3.googleusercontent.com/el8lqd23Mc8h6sdjFuzYq7dx0IkjUxIqGI-dDi6GiJfBq-yqYShmvRD1qMtr-Z3L8uHuafzYvp2Y_yXwmzQMv0UyhcUmDfZp9Hh3VQb0Ichw1YlRxAqxIm8QZg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/el8lqd23Mc8h6sdjFuzYq7dx0IkjUxIqGI-dDi6GiJfBq-yqYShmvRD1qMtr-Z3L8uHuafzYvp2Y_yXwmzQMv0UyhcUmDfZp9Hh3VQb0Ichw1YlRxAqxIm8QZg\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "Kine",
@@ -1070,12 +1078,12 @@
     {
       "title": "Marvel\u0027s Avengers",
       "url": "https://stadia.google.com/game/marvels-avengers",
-      "img": "https://lh3.googleusercontent.com/ppcKz4vu5dTXCVWNuDjtFUTTLGYke941R4l9dughWGNWHcGkBvk4LlUEaMxx4jw52XxaP9kkP3CNVuvlifo0q6a6HhCVwmdMeH1U4rlk-NpspjNRw_all1_GqQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/ICJ8QuND2xId4cayCJxGgRxGVkB2B3kVfy8JAX_7sdKu8yC0I81OhQjwXiqJIxkcP2UXAx5NOuw5LXRcAEUsUYM7V8zTeKeBSf3sQVIHWvWjHPayeAhm3abQDg\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Marvel\u0027s Avengers: Endgame Edition",
       "url": "https://stadia.google.com/game/marvels-avengers-endgame-edition",
-      "img": "https://lh3.googleusercontent.com/OjIWqUossLJMiLMLtT-7HLnN5fbrJPK4SN5ZlXHR33cCId4TeJeN8NfHUhZH1tW_VVixHVCMjalixPD110E2jozGCkknSVgRhxi3BQKzRsv1fH8H5I2Z6xOZhg\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/_Qd4YaQXNAzVwUX4TcSTsU1jz7rGNM7UX4f1XkZOj9EVRLfXK59Z9Yi8M0faHML6_AS5fzs20gEvQ_ij3hS_5M0JX5N8mHARaphRlXnB5Z6qcEKpnXDI5IgJiQ\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Merek\u0027s Market",
@@ -1214,7 +1222,8 @@
     {
       "title": "Nine to Five",
       "url": "https://stadia.google.com/game/nine-to-five",
-      "img": "https://lh3.googleusercontent.com/7ixY7OKP1OAOGFcmPHqpkV5bdJFZcccU0uUgI84DCb65zzo2O2_ZqaJJFe7W_Fa6sVGjfXPEQedLEvNnevSEWZmDEBNFUO03qrvm3ZC1qLnadNWtGDW8P4g6vVk\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/7ixY7OKP1OAOGFcmPHqpkV5bdJFZcccU0uUgI84DCb65zzo2O2_ZqaJJFe7W_Fa6sVGjfXPEQedLEvNnevSEWZmDEBNFUO03qrvm3ZC1qLnadNWtGDW8P4g6vVk\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 60 min"
     },
     {
       "title": "OCTOPATH TRAVELER™",
@@ -1234,7 +1243,7 @@
     {
       "title": "OUTRIDERS WORLDSLAYER EDITION",
       "url": "https://stadia.google.com/game/outriders",
-      "img": "https://lh3.googleusercontent.com/ei3b97aVS6FVeqaNAaR9qgYgZu65SZVKuWYdnDb0C4RY96tpcdoOySp2RYoNA7mskhyVBRSjyWnb__wYEAmEGaMI7jpejHbCTleS-gwXCMDbKu0EMGevVFN_ic8\u003dw300-h400-rw-no-v1-nu",
+      "img": "https://lh3.googleusercontent.com/XJk85tDO7CwPRg-XxrfGPyIE7YbNZoM5NUGVy4nIkTyikIfmh4KiRF93tNUyocTlvVTr2FNIagT2Uj6TJ0nAnXGrIKggkMVJHTMIwUarfC5HOtjzleVFKbWfoRc\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 45 min"
     },
     {
@@ -1804,17 +1813,20 @@
     {
       "title": "The Gardens Between",
       "url": "https://stadia.google.com/game/the-gardens-between",
-      "img": "https://lh3.googleusercontent.com/IxCDj7IdTIOMS_w7KXcGytbLsedQN5MirnaV51KLisbMvH01z1f09RXHtnEsEYnYZ83Qb-oMFUaOVluRdm6SFKioZNqh2jCNerzZ6G43iS3WlWNQRfL1_TVs9ntX\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/IxCDj7IdTIOMS_w7KXcGytbLsedQN5MirnaV51KLisbMvH01z1f09RXHtnEsEYnYZ83Qb-oMFUaOVluRdm6SFKioZNqh2jCNerzZ6G43iS3WlWNQRfL1_TVs9ntX\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "The Jackbox Party Pack 6",
       "url": "https://stadia.google.com/game/the-jackbox-party-pack-6",
-      "img": "https://lh3.googleusercontent.com/THlYk89uEpsqhrYEmctRwk9FRt5dm3bLT0FPsupPB-gUzCXNz_xcRNlC1HmWFoA3MBN7wb3GkJz4ShazbSTOvY6QKbL59KB4a6tISnV06fNNR89D65n8-hlrPn8\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/THlYk89uEpsqhrYEmctRwk9FRt5dm3bLT0FPsupPB-gUzCXNz_xcRNlC1HmWFoA3MBN7wb3GkJz4ShazbSTOvY6QKbL59KB4a6tISnV06fNNR89D65n8-hlrPn8\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "The Jackbox Party Pack 7",
       "url": "https://stadia.google.com/game/the-jackbox-party-pack-7",
-      "img": "https://lh3.googleusercontent.com/3B6QYcBlGC_jHi4iTYthBdwPKKWAO6GnbJMu59WzllIbdDYiPYlbQ_Lz4S2l_kQej6pRuOAWeZUVztYXAz61rdp_mgHkfLiDNGPCeGMi4ZWaqe1KTPgOxzI3L2E\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/3B6QYcBlGC_jHi4iTYthBdwPKKWAO6GnbJMu59WzllIbdDYiPYlbQ_Lz4S2l_kQej6pRuOAWeZUVztYXAz61rdp_mgHkfLiDNGPCeGMi4ZWaqe1KTPgOxzI3L2E\u003dw300-h400-rw-no-v1-nu",
+      "button": "Play for 30 min"
     },
     {
       "title": "The Jackbox Party Pack 8",
