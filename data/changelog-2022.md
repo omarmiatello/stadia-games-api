@@ -1,3 +1,9 @@
+## 2022-08-23
+
+### 2 new games
+1. [Saints Row](https://stadia.google.com/store/details/c72e596b2e9542839931b113b91dfb5brcp1/sku/60b6f7cf857e4648aff6514241744811p)
+1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - available also with #StadiaPro #LocalCoop
+
 ## 2022-08-22
 
 ### 1 new demo

@@ -1,0 +1,77 @@
+{
+  "title": "Yars: Recharged",
+  "url": "https://stadia.google.com/game/yars-recharged",
+  "img": "https://lh3.googleusercontent.com/5XIsmniYY0Ug_hWn8W8TRZW4xYJMZ0c83W8t38dNtWmCgcyWbBdG3gzZt6NjuVujv4f-dsUzQwD4g0dtS3RIMVqTmroGinNVA9mR1tGxdaixN1H6I0e3XrCmmNE\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$9.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "A daring attack against the enemy homeworld, guarded by mechanical hives that pulse deadly cannons and emit flurries of swirling missiles. Shoot from range as you find pockets of safety amongst the hail of incoming fire, and then dart forward in daring forays to nibble away at the enemies defenses. Gather enough energy by destroying the enemy’s shields and you can power up your massively destructive Zorlon cannon, which sends searing blasts of golden energy into the enemy hive. Yars: Recharged is the latest title from Adamvision Studios and SneakyBox, the team behind the Atari Recharged series, infusing elements of arcade, shoot-em up, and bullet hell into the classic\u0027s formula. Yars: Recharged requires players to remain acutely aware of visual and audio cues that hint of impending danger, and to master rhythm of each boss as they navigate increasingly complex enemy defenses, all to epic soundtrack by Megan McDuffee. Key Features: Arcade mode: Boss rush of 30 enemies. How far can you make it? Missions: 30 unique, challenging bosses and only one life to beat each. Power-Ups: Minor Cores will drop power-ups when attached. Shoot in all directions at once, rapid fire, explosive shots, or fire a railgun. Co-op: Yars: Recharged is a local co-op game in both arcade and mission modes.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/QFp1qlq_O5AGXoT2DimCFCJee_1HxcYdJzh_br23iK8PHpRCdn32w1wSm2Ne1Fp-VILBNNEKt98Ee88Win8k14A39XZi11o1T7bwwnNhZD1-9DPH0UIdViixS48\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/225f-ur8Z1uLOon2fbr06UafwTYPGg-OuRTkR1tIoUi97CKUzD64WG4k9QK7SzkoTk-hUkfV1ijBc9MrCCQrScp0dPpCDzw45CKmpOtXAIkWRdZbaO5rV2_3hxg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/o2TgFHh1qsV48ZTsek1V6RVvwlQ6LcYloLPxaZ56ErCCAjJco-ShC6FYCbeax3Gx-VUxXvtZ87_zGOdOJ2ro1mt0qe6taaVsYEI8H91Cc8QmZD_eALwvlizwvA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1TulB8I6xvKWNsKYMcF1dYxvvoFMDEFr9AqqZ9dVBkeXQ2YO97p0Ua9_D1fZ7C__yiprpTZmYQWdxvYRNN_-Ir7wbfPpqtzsmoOgggHf8kaMXZY08gD2OJbMlNvI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Umlut1JaccGFEmazxqgNltRDj9XKyDpPs4JicmzAzZp1LjhMtxpjzI5Kc1Uat7C7oneYOI4ZJnMM6OXguEddM2R8o93wh2zO3hyipEp-eWKp5ySp-qr2n1f4YAY\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-08-23",
+  "publisher": "Atari",
+  "developer": "Sneakybox Studios",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Colorblind modes",
+    "Copilot mode",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2022 Atari Interactive, Inc. ATARI, the ATARI logo are trademarks of Atari Interactive, Inc. in the U.S. and other countries. All rights reserved. All other trademarks are the property of their respective owners."
+}

@@ -286,6 +286,7 @@
 1. [SUPER BOMBERMAN R ONLINE](https://stadia.google.com/game/super-bomberman-r-online)
 1. [SUPERHOT](https://stadia.google.com/game/superhot) - Play for 30 min
 1. [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/game/superhot-mind-control-delete) - Play for 30 min
+1. [Saints Row](https://stadia.google.com/store/details/c72e596b2e9542839931b113b91dfb5brcp1/sku/60b6f7cf857e4648aff6514241744811p)
 1. [Saints Row IV: Re-Elected](https://stadia.google.com/game/saints-row-iv-re-elected) - available also with #StadiaPro
 1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered) - Play for 60 min - available also with #StadiaPro
 1. [Scott Pilgrim vs. The World™ - Complete Edition](https://stadia.google.com/game/scott-pilgrim-vs-the-world-complete-edition) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
@@ -387,6 +388,7 @@
 1. [World War Z: Aftermath](https://stadia.google.com/game/world-war-z-aftermath) - Play for 60 min - available also with #StadiaPro
 1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Wreckfest](https://stadia.google.com/game/wreckfest) - Play for 30 min - available also with #StadiaPro
+1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - available also with #StadiaPro #LocalCoop
 1. [Young Souls](https://stadia.google.com/game/young-souls) #LocalCoop #LocalMultiplayer
 1. [Ys IX: Monstrum Nox](https://stadia.google.com/game/ys-ix-monstrum-nox) - Play for 120 min - available also with #StadiaPro
 1. [Ys IX: Monstrum Nox Digital Deluxe Edition](https://stadia.google.com/game/ys-ix-monstrum-nox-digital-deluxe-edition)
