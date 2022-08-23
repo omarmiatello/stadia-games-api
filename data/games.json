@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 399,
+  "count": 400,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -151,7 +151,7 @@
     {
       "title": "Bloodstained: Ritual of the Night",
       "url": "https://stadia.google.com/game/bloodstained-ritual-of-the-night",
-      "img": "https://lh3.googleusercontent.com/YvsvkCy2OT-KrkJFM9RFbb7WuNz_HRzaD3n5_A5QSOUt5tvvPh7EzkY4-VLliw3iaw6tvslKb813EQI6YeKKhYFunS9nCB-pwy5M_jT3JGmCVnh050Yef_sKULk\u003dw300-h400-rw-no-v1-nu",
+      "img": "https://lh3.googleusercontent.com/qfEXDuIw2x_33va_LQcLPbbV5Y9e2zhU6bh7QtGpYtLMs8zJljurZbQMlfnW1Y6ygdd0YMvqykDSRbu5y7eHn3W3qHPDxcOhIPbc3LX71knmqLS-QitEUKFOkFM\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 60 min"
     },
     {
@@ -417,17 +417,17 @@
     {
       "title": "Dead by Daylight",
       "url": "https://stadia.google.com/game/dead-by-daylight",
-      "img": "https://lh3.googleusercontent.com/zQ1tKv7zY2vy4ZlX5CfzMtLPU3WxfgLHcOJVjm0hRrmaCqnEqgFx3iGRuj2FqiKD_FeqCRM-99B2dZbeOuVOP8ztsd36n3322gL0HYuu01erbLVwqk4bwKH3qc0\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/7aVzvRtSjJ-4g_imRxogBUTWV4GFxRdtM47Hoc71QPRjMRYNNJlkWhLshyvCiGhkWFzSOPPB5pG6N98qNytAj_7aNc71inW2h3puc-VatYD6JjVrywHEICReQdE\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Dead by Daylight: Silent Hill Edition",
       "url": "https://stadia.google.com/game/dead-by-daylight-silent-hill-edition",
-      "img": "https://lh3.googleusercontent.com/r25HC_CoQuvL8D_Ovp6OaqQn8xKHFqGwgfZBnEa7UtbZ67bWNGsA8OR0FcUQDbemEJ-BSo0Fgzv6O6t7rx_AlrMawH0RyXaEKp45KJeJL4ewjEwA5KFz9cdg5P9X\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/vf5DV-HO_rWZ9cvU1VQ-AwR4qbRr6kcvVuT2svQ6FG0-rQ7EPMsq0aevLBiGAaGqJMQU4x0cFWjnn0igGud2z3EWHEsN47XpC_HCHuYDza9vb7TZ0jDn1HI8-mXB\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Dead by Daylight: ULTIMATE EDITION",
       "url": "https://stadia.google.com/game/dead-by-daylight-ultimate-edition",
-      "img": "https://lh3.googleusercontent.com/BQ6NA_dXVC7ocfbDesNiu3KzOVh4pV_sSmzYDeieH7F-DXOpO2eevc2gBWqpSEbr86FGm9_EAmctKd8YpwYZRZDYqKJaQbP4no0jkTlamynIZdZlAN1ti4CNgJ4\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/DNK99Yo38NnLbEfXZDD222xMtx5F1B5Z5WnjgUyPyZBahEGWdf4Fwa9F2ixVAqQo5Zbu2-ylNitWDiw1qqUC2Re9wR1MUNKLRuKeAF8ujG5LvNpRrt5XTRsHjgU\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Deliver Us The Moon",
@@ -438,22 +438,27 @@
     {
       "title": "Destiny 2",
       "url": "https://stadia.google.com/game/destiny-2",
-      "img": "https://lh3.googleusercontent.com/5d64OMJm7K3bdq-OtEckV4gARbY6geju6smRERh1Sj9P-683LHc5pmmnUA2rOQF3SN4poF5oFDBB4zfHJ0aQixijbleg4rXBRX4XCglpona0hqZwytdjnGqM6k8\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/R_YUxzZUzi8XrKlwumH9TziQgsFSDVDVQVdj0q9S2jvqCJAxC84y9edSJ6RKVH35oqZtCouj2BJOD77elYgZVejblcXHnrsdA2EvDmIVyl-sad3-7wX69GzkkVmW\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Destiny 2: Legacy Collection",
       "url": "https://stadia.google.com/game/destiny-2-legacy-collection",
-      "img": "https://lh3.googleusercontent.com/2_9Cw3Y__SR8SxHQQEcWfDo_qLYptt1bqbh6wqZnz3kNuyrEuXhEynCidqxTHYIeOuLj76lTTb1qYPu_dSwpbh6Mv52mSMpCi_rzy3ooF5Q0oRgQDVhAI6LlDw\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/_5Q_M9RMT1F3deFBuzfnv8SllHM21M_GlMVKep8Jw8jvCFhATEFo0D18oa_513n9LSXPjerj_txZq4_wLudiGoUioums_PR7k0g8l8BAAmJ1RENonTJh7AAhSg\u003dw300-h400-rw-no-v1-nu"
     },
     {
-      "title": "Destiny 2: The Witch Queen Deluxe + 30th Anniv. Bundle",
-      "url": "https://stadia.google.com/game/destiny-2-the-witch-queen-deluxe-30th-anniv",
-      "img": "https://lh3.googleusercontent.com/6tEpRc8m_fMjohddlqUFuWGRVi0nnBJwWuN9hb2of4cRTHnipmINp5-RrZNMVoCfjOEBsB3GUzWb_L8dMTYLCDBZ5r4v_jPuZ1CsO2r2V195LqE78yJOw_D-vcw\u003dw300-h400-rw-no-v1-nu"
+      "title": "Destiny 2: Lightfall",
+      "url": "https://stadia.google.com/game/destiny-2-lightfall",
+      "img": "https://lh3.googleusercontent.com/jGUKUb3S4NYNx9RbTkNEwbyEhTW58aR9pZvOJT67bCMtta6ejmfeHolwcO-meKFX02TDno4T4Uad_hCeFbgDa4FJqbdP65tnLF_rLvSuyWsHq7-4iawlV_Jqv165\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "Destiny 2: Lightfall + Annual Pass",
+      "url": "https://stadia.google.com/game/destiny-2-lightfall-annual-pass",
+      "img": "https://lh3.googleusercontent.com/doO8GyQmHGqEpGBZ7_bND9fqSDtNVcNx5AwHbwpgjSYHm4WZNa7ykt2YobewOSfjBX5hGY5IWYh_CSGvaAxyGrPaf9IDYkteJ7SbwTbZ4Gnys416IAcQj6GuQ4_i\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Destiny 2: The Witch Queen Deluxe Edition",
       "url": "https://stadia.google.com/game/destiny-2-the-witch-queen-deluxe-edition",
-      "img": "https://lh3.googleusercontent.com/u46G4Vm75-QIsRz1jH0uTpwjnQYwfx7a1bUwylrEAErT6Xdw6iTXlANjR7PNT6Tq8vaqAzlSUtoRv-qRhn9OOrfomjXmHlT7Nbka7yBfLZJReJJ3kuntnL8k8w\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/Yrw9XTjvyM409B7U597WbW8Q_R4nDLcP2hynJIIh7RZrfGyY_poC3E3hQTw5UmgQfH0itNuImMiJr4jZH6dQ5E4FUKH9o-wr0FM2Kz8nDyWixyhPQ3vv4VngvQ\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Destroy All Humans!",
@@ -913,7 +918,7 @@
     {
       "title": "Just Shapes \u0026 Beats",
       "url": "https://stadia.google.com/game/just-shapes-beats",
-      "img": "https://lh3.googleusercontent.com/xG4MQ-qYb9sx8_CzvUUwSFm1laYg4Dg0pFbmbR5dlvO7phX0a1VGVjNqX53GEQiDCdPkFzXozMFcQ-mx7Fxd8H3h0q7gUQlX_k_lEVOGb5ltCyRsFJW5KXSXPVw\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/ld4x5dCtYtYS1J0z9q33O6CLDxEd1LKyg3AVbP6khTnesefI48i4GAelSMeezuRVLSob8-wC5E36izdLZrZc_NLvVg_6r1NPC0L5ke8pWMCm_m6-SSDy3TvIg1E\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Katamari Damacy REROLL",
@@ -957,12 +962,12 @@
     {
       "title": "Lara Croft and the Guardian of Light",
       "url": "https://stadia.google.com/game/lara-croft-and-the-guardian-of-light",
-      "img": "https://lh3.googleusercontent.com/mibr8p13npW6jIrY4FQJr8c7zFy8I01n5s2s8xEZvMPkZTU6uK0e081XOdXN_Ze3qQKyPbawBgfmByBqDgB4aPnW0zy_KVpCn-zv2GFukeScWgmymMIAJ8fMuo3S\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/P07OHLK49gJCREOb4lKn_Rjlf0qN8ztz_-0Tt1VmCsaq-_ieLj_6w5tvY5luuDNAVVlGbXX5gZ9Qx7P5jmRbSKvkYaPp8MaM84AKMIR3oG-EN3-Ha4msUJylfH5I\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Lara Croft and the Temple of Osiris",
       "url": "https://stadia.google.com/game/lara-croft-and-the-temple-of-osiris",
-      "img": "https://lh3.googleusercontent.com/biml1_z43JSGTrqOp6JdFq2oPcJ-J1Rlp_pYKRC1I2H7nlECjFgr4PWTkcHOKVKbNNI53jMH_amwXHYDyni-50et7ZNrS0k5ROj4KXLqgTCsR2H5DvSFYPEe820F\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/9BT69JdJRUuSyvPno-rWoiROS-FV7QX8LE98V8TujHFp-p8BMz2E2cDTYoKqXQCiG6g1ZQdmkvLZtNgFIH79ghT0x3qZVDlFoowm2zaJwqgCj7QycvOH138efdu-\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Legend of Keepers: Career of a Dungeon Manager",
@@ -1238,7 +1243,7 @@
     {
       "title": "OUTRIDERS",
       "url": "https://stadia.google.com/game/outriders-game",
-      "img": "https://lh3.googleusercontent.com/N3vrL98oYMwqOQUsliI8y31Q1qUzxPWrbm_k8hejdkAMoWAT7DrIapSbNa5UYD90AXX4Wl9sBztJpiA907cgV9rpe_3xfQOgqpcL6kXHf_Lr7dZzGLHCrl62SVjr\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/4BQdEbL4wqcW277hH5QKsZBUxT6xfCB2U44OQfRupZx0NP6I7OaflzYB6D97B7S8TD71qC5PbLXtPOQ7T9oLeC8vU5-v-DYsSyTkYr-T45ZUm4vMfWPuif36XH-s\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "OUTRIDERS WORLDSLAYER EDITION",
@@ -1548,7 +1553,7 @@
     },
     {
       "title": "Saints Row",
-      "url": "https://stadia.google.com/store/details/c72e596b2e9542839931b113b91dfb5brcp1/sku/60b6f7cf857e4648aff6514241744811p",
+      "url": "https://stadia.google.com/game/saints-row",
       "img": "https://lh3.googleusercontent.com/PeBp45UTZqstELZEvIplHlK9rDKrpbKtEP8eh3LucTW5mnFV30YwtaC9IJPUnz4vFP6LAVDh83FOOKYYaUdo6texIRJVStC6sy183Odd4tom-V6vt7V1jkMnprGZ\u003dw300-h400-rw-no-v1-nu"
     },
     {
@@ -1593,7 +1598,7 @@
     {
       "title": "Shadow of the Tomb Raider Definitive Edition",
       "url": "https://stadia.google.com/game/shadow-of-the-tomb-raider-definitive-edition",
-      "img": "https://lh3.googleusercontent.com/vlk09woO91loS9eZ8kaksNZCpSEzT2iBM_T025c2d717qptfBQ7DMYFoF-KIhRx89FrpfnWJP-pWwYNxyzDBQ6KDAHW5pc2iOoaG72tg7905pmMIesWzx0zWvg9l\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/A9m0p3PyJGnTs8wOQ0kAUGSicO7tz1LkLeNzOtEJVAUzpJOQNdEtNUl0OP_cAlccVKToq69px43qzJ4y3SR8OqZc8d3cZLkPL-ch583gygx87ZY1t6aGWS2M9uju\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Shantae: Half - Genie Hero Ultimate Edition",
@@ -1932,7 +1937,7 @@
     {
       "title": "Tomb Raider: Definitive Edition",
       "url": "https://stadia.google.com/game/tomb-raider-definitive-edition",
-      "img": "https://lh3.googleusercontent.com/e5pNProq2xu3vNZQoy9pmnez3CDU4FofIxYaa3G7wSN-LjJgnFtsxbgO688Ghr4SPoCWBTOhWUgkTeZIwyRigEMQRWVIlyrucpN91FIKJZs2Er6JuupCYKAjcCGE\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/UIeZKPrSiJZRQC5UjmF9Yg6mJvk6PGQkUJohIzHF7d43i46Qw1E994hM4ow4ohBIOUEyIscVGxw5_YN8fWn0W9iHHIXTTYlRmt5n6-TPYsgKg45fyuMlLjRH0sta\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Trails of Cold Steel III Digital Limited Edition",

@@ -1,5 +1,11 @@
 ## 2022-08-23
 
+### 2 new games
+1. [Destiny 2: Lightfall](https://stadia.google.com/game/destiny-2-lightfall)
+1. [Destiny 2: Lightfall + Annual Pass](https://stadia.google.com/game/destiny-2-lightfall-annual-pass)
+
+## 2022-08-23
+
 ### 1 new game
 1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/re-you-smarter-than-a-5th-grader) #LocalMultiplayer
 
