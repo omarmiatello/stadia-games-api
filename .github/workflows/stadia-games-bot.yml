@@ -7,8 +7,8 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    # At minute 55 past hour 6, 15, and 21 - more info: https://crontab.guru/#55_6,15,21_*_*_*
-    - cron:  '55 6,15,21 * * *'
+    # At minute 0 past hour 7, 16, and 22 - more info: https://crontab.guru/#0_7,16,22_*_*_*
+    - cron:  '0 7,16,22 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
