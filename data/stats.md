@@ -67,9 +67,9 @@
 | Czech | 58 | 50+ | 100+ |
 | Arabic | 58 | 50+ | 100+ |
 | Danish | 27 | 20+ | 50+ |
+| Turkish | 26 | 20+ | 50+ |
 | Swedish | 26 | 20+ | 50+ |
 | Thai | 25 | 20+ | 50+ |
-| Turkish | 23 | 20+ | 50+ |
 | Norwegian | 23 | 20+ | 50+ |
 | Hungarian | 22 | 20+ | 50+ |
 | Finnish | 19 | 10+ | 20+ |
@@ -120,7 +120,7 @@
 ## Games by **Accessibility features**
 | Accessibility features | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Separate volume controls | 344 | 300+ | 350+ |
+| Separate volume controls | 345 | 300+ | 350+ |
 | Button remapping | 297 | 250+ | 300+ |
 | Dialogue subtitles | 296 | 250+ | 300+ |
 | Difficulty levels | 230 | 200+ | 250+ |

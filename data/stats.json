@@ -58,9 +58,9 @@
       "Czech": 58,
       "Arabic": 58,
       "Danish": 27,
+      "Turkish": 26,
       "Swedish": 26,
       "Thai": 25,
-      "Turkish": 23,
       "Norwegian": 23,
       "Hungarian": 22,
       "Finnish": 19,
@@ -107,7 +107,7 @@
       "Austria": 397
     },
     "accessibility_features": {
-      "Separate volume controls": 344,
+      "Separate volume controls": 345,
       "Button remapping": 297,
       "Dialogue subtitles": 296,
       "Difficulty levels": 230,
