@@ -1,7 +1,7 @@
 {
   "title": "Bloodstained: Ritual of the Night",
   "url": "https://stadia.google.com/game/bloodstained-ritual-of-the-night",
-  "img": "https://lh3.googleusercontent.com/YvsvkCy2OT-KrkJFM9RFbb7WuNz_HRzaD3n5_A5QSOUt5tvvPh7EzkY4-VLliw3iaw6tvslKb813EQI6YeKKhYFunS9nCB-pwy5M_jT3JGmCVnh050Yef_sKULk\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/-CmWlDqVDAK_tpGPyl5PY_Vq5F1-5FHNCvZmG4pqqen75sNMg4EL9KUTh56zhY_tHWjeDcyv551v4K6qd7OWoX0lQ_XDP8-6bwH5WKHYJeH7Cs4DL2TwpxoJZdU\u003dw300-h400-rw-no-v1-nu",
   "button": "Play for 60 min",
   "buttons": [
     "Play for 60 min",
@@ -10,11 +10,11 @@
   ],
   "description": "Bloodstained: Ritual of the Night is a gothic horror action side-scrolling RPG set in 18th century England. A paranormal force has summoned a demon-infested castle, revealing crystal shards infused with tremendous magical power. Play as Miriam, an orphan scarred by an alchemist\u0027s curse which slowly crystallizes her body. To save humanity, and herself in the process, Miriam must fight through the castle and defeat the summoner, Gebel. Collect, craft and unlock a vast array of weapons, equipment and loot to defeat the countless minions and bosses of hell that await!",
   "image_urls": [
-    "https://lh3.googleusercontent.com/w_MPOfGx7CTNUkUpSZfPYaKNDXZYwUhueJEnbA9S2S1r9x4XH6QvxScdK4gMwky7BotAxvXk-Z9C_ENSTUn1a3yPbpRQNLJey62hn0ANn1Hy1jSQXBzCMm6Uw-M\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/W8rV--eetePIdOH5ITlvk91VpFDbpolmlALy7uaZMtktkXcx6s6dkT05xZzsl5RT1dnpenVj9Ugly_rye8IMtDMrwwu3X6C6nZjYy6-tocomVCnKiIm7P0PRXx0\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/0y4RBAl6Ulct2q6-EZtbhYcIYSbEvLgo386EZu0-oi9a-Agn_D-olfL6RAOTiyFB5oGQFi26q8FjXmvkltMRqL8B9U1n4mqnfyVzQ_EvYjD-hWJkx3AFFtyVGeY\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/FE4t83x9gNZcz7lnsPXffsYTfBZleTrWFRPfMYF3IQNIZrQU6-G_2HBwHksW20SNMZVr4aUnKjbl0Ex-iJLmc8dqbTtWU9wD3EV7OZDHgnSBjZIPBFmLQh2Qa85G\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/JVZREKmvHHXfDhZI0mDPeRAnGbvrcwkiE9nZCznSq8koZklgMteuSLQs3LrsfYs1bn6cppKFEbtRLjrHi4qanfTywz7kIftlaP6DYFVSXZQhZpZGf7ghtVK4og\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/K71oXx0qaCBINpwbWdCh_di8ikOnEs76ufU4s0W7ra6iv1aImhSYWcKtzxkTFIRGGq0a92BN_FSLnL3mtyCgZaATzsrGReiuZHXZ6xDrsBmXHsrfwXJg3XkcQ6s\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/a_MFLXtRpyC8QyqER8tix7lV32GRJ0ZJNGDfUJc6IniIuIFekvKSLCE5G7TF5N5rvXKciHKLy8QS2oDSxsrxpUKeUwMOvqQqb8DDHBDiJUEuSiZprs_mYn7J5lk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/R6WMjMqaTBy2WFVPeA-BByovP9omSU5wz4LetB9HpLsKxCD_P49vINFvNFaW83F_PGS1UxAvRyGykq24Gei007hDRnhOToHGIV0Epn9TttQP8q2aptkP8MZEh5A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/3zUG11wAcq6LZSyprkquqgox5ybmpfCyIL9MZJxAREIWf5YW8cThJONHaMMiWl4p7lEUW-Jny0_usTQyEJ9KetdhNkjf_Ht-pqvuIEhCtuYtE59lxc-09HJZ2zIu\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Fn3o3Q9RyFoJ1chjqW0oO6Vqg9Rg_AgIGb6h-HQvmLYyD4V38DfpyfOZdng71I1Y5I3PwmP54NGdVdnPAdvS7R_iwrTrbaJ0f88fIj7qo6b9GeLbuixDNgMVVg\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2021-07-06",
   "publisher": "505 Games",
@@ -69,7 +69,8 @@
   "accessibility_features": [
     "Button remapping",
     "Dialogue subtitles",
-    "Difficulty levels"
+    "Difficulty levels",
+    "Separate volume controls"
   ],
   "extra": {
     "in-game elements might be unreadable": "Web, Mobile"
