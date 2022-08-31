@@ -1,3 +1,8 @@
+## 2022-08-31
+
+### 1 new demo
+1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
+
 ## 2022-08-23
 
 ### 2 new games

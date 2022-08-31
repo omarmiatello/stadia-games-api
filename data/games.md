@@ -390,7 +390,7 @@
 1. [World War Z: Aftermath](https://stadia.google.com/game/world-war-z-aftermath) - Play for 60 min - available also with #StadiaPro
 1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Wreckfest](https://stadia.google.com/game/wreckfest) - Play for 30 min - available also with #StadiaPro
-1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - available also with #StadiaPro #LocalCoop
+1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
 1. [Young Souls](https://stadia.google.com/game/young-souls) #LocalCoop #LocalMultiplayer
 1. [Ys IX: Monstrum Nox](https://stadia.google.com/game/ys-ix-monstrum-nox) - Play for 120 min - available also with #StadiaPro
 1. [Ys IX: Monstrum Nox Digital Deluxe Edition](https://stadia.google.com/game/ys-ix-monstrum-nox-digital-deluxe-edition)
