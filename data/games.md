@@ -248,7 +248,7 @@
 1. [PIKUNIKU](https://stadia.google.com/game/pikuniku) - Play for 30 min #LocalCoop
 1. [PJ MASKS: HEROES OF THE NIGHT](https://stadia.google.com/game/pj-masks-heroes-of-the-night) - Play for 30 min
 1. [PUBG: BATTLEGROUNDS](https://stadia.google.com/game/pubg)
-1. [Panzer Dragoon: Remake](https://stadia.google.com/game/panzer-dragoon-remake)
+1. [Panzer Dragoon: Remake](https://stadia.google.com/game/panzer-dragoon-remake) - Play for 30 min
 1. [Phoenix Point](https://stadia.google.com/game/phoenix-point)
 1. [Phoenix Point: Complete Edition](https://stadia.google.com/game/phoenix-point-complete-edition) - Play for 120 min
 1. [PixelJunk Raiders](https://stadia.google.com/game/pixeljunk-raiders) - available also with #StadiaPro
