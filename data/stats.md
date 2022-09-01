@@ -4,14 +4,14 @@
 | --- | --- | --- | --- |
 | Stadia games | 401 | 400+ | 500+ |
 | Stadia demos | 146 | 100+ | 150+ |
-| Games on Stadia Pro | 53 | 50+ | 100+ |
+| Games on Stadia Pro | 52 | 50+ | 100+ |
 
 ## Games by **Genre**
 | Genre | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Action | 221 | 200+ | 250+ |
+| Action | 220 | 200+ | 250+ |
 | Adventure | 163 | 150+ | 200+ |
-| Shooter | 72 | 50+ | 100+ |
+| Shooter | 73 | 50+ | 100+ |
 | Role-playing game | 49 | 20+ | 50+ |
 | Indie | 45 | 20+ | 50+ |
 | Sports | 35 | 20+ | 50+ |

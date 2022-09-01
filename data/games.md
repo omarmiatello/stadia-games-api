@@ -2,8 +2,8 @@
 1. [ARK: Survival Evolved](https://stadia.google.com/game/ark-survival-evolved) - available also with #StadiaPro
 1. [AVICII Invector](https://stadia.google.com/game/avicii-invector) #LocalMultiplayer
 1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min - available also with #StadiaPro #DirectTouch
-1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/dventure-time-pirates-of-the-enchiridion) - Play for 30 min
-1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/re-you-smarter-than-a-5th-grader) #LocalMultiplayer
+1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion) - Play for 30 min
+1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/are-you-smarter-than-a-5th-grader) #LocalMultiplayer
 1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
 1. [Assassin's Creed Black Flag](https://stadia.google.com/game/assassins-creed-black-flag)
 1. [Assassin's Creed Black Flag Gold Edition](https://stadia.google.com/game/assassins-creed-black-flag-gold-edition)
@@ -230,8 +230,8 @@
 1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
 1. [ONE PIECE World Seeker Premium Edition](https://stadia.google.com/game/one-piece-world-seeker-premium-edition)
-1. [OUTRIDERS](https://stadia.google.com/game/outriders-game) - available also with #StadiaPro
-1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders)
+1. [OUTRIDERS](https://stadia.google.com/game/outriders)
+1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders-worldslayer-edition)
 1. [Olympic Games Tokyo 2020 – The Official Video Game™](https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game) #LocalCoop #LocalMultiplayer
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
 1. [Orcs Must Die! 3](https://stadia.google.com/game/orcs-must-die-3)
@@ -275,7 +275,7 @@
 1. [Riders Republic Ultimate Edition](https://stadia.google.com/game/riders-republic-ultimate-edition-bundle)
 1. [Riders Republic™ Ultimate - Ubisoft + Edition](https://stadia.google.com/game/riders-republic-ultimate-ubisoft-edition) - available also with #UbisoftPlus
 1. [Rise of the Tomb Raider: 20 Year Celebration](https://stadia.google.com/game/rise-of-the-tomb-raider-20-year-celebration)
-1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 60 min
+1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 30 min
 1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
 1. [Roguebook](https://stadia.google.com/game/roguebook) - Play for 90 min - available also with #StadiaPro
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min #LocalCoop #LocalMultiplayer

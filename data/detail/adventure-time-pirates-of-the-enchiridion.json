@@ -1,0 +1,78 @@
+{
+  "title": "Adventure Time: Pirates of the Enchiridion",
+  "url": "https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion",
+  "img": "https://lh3.googleusercontent.com/LF3J8rkkwxKhKbazX8J06gjo76MD5L9DOF1IFgbtSlmP8FgJ9iRoFfNdnisTzEe4Q2F7aeVGq-ifunxceAGaSuB3kERYEZFtuuNIai4H3K2V9bUu_eRuF-sF_pM\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$29.99 Buy"
+  ],
+  "description": "Ahoy! The Land of Ooo is underwater and it’s up to Finn and Jake to find out why. Join our heroes as they explore the high seas, search for hidden clues, interrogate shady suspects and fight pirates to solve the mystery and save their waterlogged world! Key Features: - Explore the Land of Ooo freely, discover secrets and collect loot with playable fan-favourite characters, Finn, Jake, BMO and Marceline. - Set sail across the high seas between kingdoms and venture into uncharted territories to figure out what’s going on. - Upgrade your heroes, use items, spells, potions and unique ultimate hero abilities to battle bad guys in fast-paced tactical combat. - An original adventure with the English voice cast.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/YEvZCUpMOFA7U39jT2eZPQJ7mcIMtkhu8W5WFleyDxlsuxoLO3Jam7C_hqDLbYIdXZQMcvCiUFnNJ01ibhCIUjcaFKCH_CANT_-nAii03uCEkb265UbnCJ6g95Gg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ZNzCA8WWUrCUkAqkr05lziyuej16x9TSjRpF0huwy0hNp66z4m4U6upVb6uc8q2Scy8DIPMCXZzLqcMQSLcLJTYnYb7ZkJZFevgmIKOtgj-AGExY-ypX9djOZ8c\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Hh1jglxZuU0D_WqZKpd6qXDWxOcnXabTOkaEfpwDoLmLFYYi8Tqyv8ORDybn-GhuTKHxyoQfwoDZCDcfgYY_78i7ghG_JiDwfyfB8_sxkS0OQ_9nsAGjcTqdeNw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/46AVQq4jQWgi2h_qQEuyXZkEOngMeu6PlfEkwnSU4AQ71pb82V6nrenngoKgKeGZRFERKPPFDc00BkLwLTOJgoYdmnoFFnjkadLQ5KqJzBWfn8Y-MPsPKgr_c1A\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5o4XBEzJU9a1fT_hbJd4a3t8WQMD8ZyrV6gGCSYfUzsrR7uzU3Am8wjLKaoyMy4cRW9K41O01i7r_Vl-Dq9C-WHXUthi_N5TZr76ABIitTjYCPRh8E1VT5CGrCc\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-03-25",
+  "publisher": "Outright Games",
+  "developer": "Climax Studios",
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Adventure",
+    "Kids \u0026 family"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Dialogue subtitles",
+    "Separate volume controls",
+    "Skip challenges",
+    "Subtitle speed controls"
+  ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, TV"
+  },
+  "notes": "ADVENTURE TIME™, CARTOON NETWORK, the logos, and all related characters and elements are trademarks of and © 2018 Cartoon Network. Published by Outright Games Ltd. Software ©2018 Outright Games Ltd.",
+  "pegi_min_age": "10",
+  "pegi_notes": [
+    "+ Cartoon Violence",
+    "Comic Mischief"
+  ]
+}

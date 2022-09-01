@@ -1,5 +1,10 @@
 ## 2022-09-01
 
+### 1 new demo
+1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 30 min
+
+## 2022-09-01
+
 ### 2 new demos
 1. [Elemental War 2](https://stadia.google.com/game/elemental-war-2) - Play for 60 min
 1. [Tri6: Infinite](https://stadia.google.com/game/tri6-infinite) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
