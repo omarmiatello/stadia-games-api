@@ -1,0 +1,70 @@
+{
+  "title": "Tri6: Infinite",
+  "url": "https://stadia.google.com/game/tri6-infinite",
+  "img": "https://lh3.googleusercontent.com/2uhj7R8yJlSIw_Hz8du2qollCkRwoBHGXWvx__zpuGgMlsh8TPkVPsfhHi6rpZ7rfPSnkKD9hYOxkCGIlu14qM5Fa_XJOGXEK6t7wXarFbZJzRe_iWdvLQIe4g\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$7.99 Buy",
+    "Claim with Pro"
+  ],
+  "description": "Dive into the Tri6 cyberspace with three different vehicles, avoid procedurally distributed obstacles getting harder with each lap and beat the evil virus enemies as long as possible to reach the top of the global leaderboards! Play locally in up to 4-player multiplayer and make life difficult for your friends using different powerups from missiles and mines to boosts and jumps. Features - 3 playable vehicles with different steering characteristics - 11 unlockable powerups - More than 300 obstacle variations - Global leaderboards per vehicle across all supported platforms - Up to 4 players splitscreen support",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/w-zfu4P9YI5vebLyaeChPJTBFpTgaERAPxtN4fiRNTCjQe5LYmAg0XknbBzsUsigWb1qEaHj3GNHGvTULSUb0gJZ_-trkB_ZEb8GZymErg5N09rU0eqiZQ03GA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/yTjAGLuCwZsl5a_qGUaF0K1Lzg4z4kGvL9uLmkS0CFBzzIe1EdvTBAxjC3W_9Z0ZvL2yMgL6Mb3n1xGDle6IfIXkVKZ2CZWNkYnRLuTkzZMQtmQ_QBxdNwqE6Ks7\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/C-oGeGT3J6I9vEGQcA5gCQfzJ2HVjIpN4owNM0ijZr5-iqgPD3Oz0f3LvX_gviJbcCnJMNhgEAXFQw6NcqfZcyMrciSEEs0gsH3I6AvP24Jb3hzHzhfyJ51a4Q\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/epW-RmfvNA0ypkAZaH9Q97ewSc1cppPN0JIDUL_rka4xzf9UToY0jzWUAcCK3Ia0Ralc2AXwi7yeC2yN9mZWnJXnJBKr85LRq_1-Q9mblcV332nqT110AIc1qrCc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wLzksl4dStjQAqpXQ7IUMjxa4S2xx45t59wK4f17TWvkq_sRaEKq83ixa7zOI8Uc6R05ar6EIg21zZqgdRZxYPbd-Y1gAPIv0FFgJYD6QHbGrhHt86H6eAkOjQ\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-09-01",
+  "publisher": "Clockwork Origins",
+  "developer": "Clockwork Origins",
+  "languages": [
+    "English",
+    "German"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade",
+    "Indie",
+    "Racing"
+  ],
+  "game_modes": [
+    "Local multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Skip repeated button presses",
+    "Training mode"
+  ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile"
+  },
+  "notes": "© 2022 Clockwork Origins"
+}

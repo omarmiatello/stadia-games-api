@@ -361,6 +361,7 @@
 1. [Tomb Raider: Definitive Edition](https://stadia.google.com/game/tomb-raider-definitive-edition)
 1. [Trails of Cold Steel III Digital Limited Edition](https://stadia.google.com/game/trails-of-cold-steel-iii-digital-limited-edition)
 1. [Trails of Cold Steel IV Digital Deluxe Edition](https://stadia.google.com/game/trails-of-cold-steel-iv-digital-deluxe-edition)
+1. [Tri6: Infinite](https://stadia.google.com/game/tri6-infinite) - available also with #StadiaPro #LocalMultiplayer
 1. [Trials Rising](https://stadia.google.com/game/trials-rising) #LocalMultiplayer
 1. [Trials Rising - Digital Gold Edition](https://stadia.google.com/game/trials-rising-digital-gold-edition) #LocalMultiplayer
 1. [Trine 4: The Nightmare Prince](https://stadia.google.com/game/trine-4-the-nightmare-prince) - Play for 30 min #LocalCoop #LocalMultiplayer

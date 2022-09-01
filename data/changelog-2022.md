@@ -1,3 +1,8 @@
+## 2022-09-01
+
+### 1 new game
+1. [Tri6: Infinite](https://stadia.google.com/game/tri6-infinite) - available also with #StadiaPro #LocalMultiplayer
+
 ## 2022-08-31
 
 ### 1 new demo
