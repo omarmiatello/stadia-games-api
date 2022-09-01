@@ -93,7 +93,7 @@
 1. [EA SPORTS™ FIFA 23 Ultimate Edition](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-late-product) #LocalCoop #LocalMultiplayer
 1. [EVERSPACE™](https://stadia.google.com/game/everspace) - Play for 120 min
 1. [El Hijo - A Wild West Tale](https://stadia.google.com/game/el-hijo-a-wild-west-tale) - Play for 30 min
-1. [Elemental War 2](https://stadia.google.com/game/elemental-war-2)
+1. [Elemental War 2](https://stadia.google.com/game/elemental-war-2) - Play for 60 min
 1. [Embr](https://stadia.google.com/game/embr) - Play for 60 min
 1. [Enter The Gungeon](https://stadia.google.com/game/enter-the-gungeon) - Play for 30 min #LocalMultiplayer
 1. [Epistory - Typing Chronicles](https://stadia.google.com/game/epistory-typing-chronicles)
@@ -231,7 +231,7 @@
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
 1. [ONE PIECE World Seeker Premium Edition](https://stadia.google.com/game/one-piece-world-seeker-premium-edition)
 1. [OUTRIDERS](https://stadia.google.com/game/outriders-game) - available also with #StadiaPro
-1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders) - Play for 45 min
+1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders)
 1. [Olympic Games Tokyo 2020 – The Official Video Game™](https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game) #LocalCoop #LocalMultiplayer
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
 1. [Orcs Must Die! 3](https://stadia.google.com/game/orcs-must-die-3)
@@ -361,7 +361,7 @@
 1. [Tomb Raider: Definitive Edition](https://stadia.google.com/game/tomb-raider-definitive-edition)
 1. [Trails of Cold Steel III Digital Limited Edition](https://stadia.google.com/game/trails-of-cold-steel-iii-digital-limited-edition)
 1. [Trails of Cold Steel IV Digital Deluxe Edition](https://stadia.google.com/game/trails-of-cold-steel-iv-digital-deluxe-edition)
-1. [Tri6: Infinite](https://stadia.google.com/game/tri6-infinite) - available also with #StadiaPro #LocalMultiplayer
+1. [Tri6: Infinite](https://stadia.google.com/game/tri6-infinite) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
 1. [Trials Rising](https://stadia.google.com/game/trials-rising) #LocalMultiplayer
 1. [Trials Rising - Digital Gold Edition](https://stadia.google.com/game/trials-rising-digital-gold-edition) #LocalMultiplayer
 1. [Trine 4: The Nightmare Prince](https://stadia.google.com/game/trine-4-the-nightmare-prince) - Play for 30 min #LocalCoop #LocalMultiplayer
