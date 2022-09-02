@@ -1,3 +1,8 @@
+## 2022-09-02
+
+### 1 new demo
+1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min
+
 ## 2022-09-01
 
 ### 1 new demo

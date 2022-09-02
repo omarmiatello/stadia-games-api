@@ -230,7 +230,7 @@
 1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
 1. [ONE PIECE World Seeker Premium Edition](https://stadia.google.com/game/one-piece-world-seeker-premium-edition)
-1. [OUTRIDERS](https://stadia.google.com/game/outriders)
+1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min
 1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders-worldslayer-edition)
 1. [Olympic Games Tokyo 2020 – The Official Video Game™](https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game) #LocalCoop #LocalMultiplayer
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
