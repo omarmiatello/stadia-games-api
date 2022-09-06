@@ -1,3 +1,9 @@
+## 2022-09-06
+
+### 2 new demos
+1. [House of the Dead - Remake](https://stadia.google.com/game/house-of-the-dead-remake) - Play for 30 min #LocalCoop #LocalMultiplayer
+1. [Just Shapes & Beats](https://stadia.google.com/game/just-shapes-beats) - Play for 30 min #LocalCoop #LocalMultiplayer
+
 ## 2022-09-02
 
 ### 1 new demo

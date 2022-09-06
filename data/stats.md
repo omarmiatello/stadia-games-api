@@ -3,15 +3,15 @@
 | Stats | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
 | Stadia games | 401 | 400+ | 500+ |
-| Stadia demos | 147 | 100+ | 150+ |
-| Games on Stadia Pro | 52 | 50+ | 100+ |
+| Stadia demos | 149 | 100+ | 150+ |
+| Games on Stadia Pro | 50 | 50+ | 100+ |
 
 ## Games by **Genre**
 | Genre | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Action | 220 | 200+ | 250+ |
+| Action | 221 | 200+ | 250+ |
 | Adventure | 163 | 150+ | 200+ |
-| Shooter | 73 | 50+ | 100+ |
+| Shooter | 72 | 50+ | 100+ |
 | Role-playing game | 49 | 20+ | 50+ |
 | Indie | 45 | 20+ | 50+ |
 | Sports | 35 | 20+ | 50+ |
@@ -31,20 +31,20 @@
 ## Games by **Game modes**
 | Game modes | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Single player | 387 | 350+ | 400+ |
-| Online multiplayer | 169 | 150+ | 200+ |
-| Competitive | 128 | 100+ | 150+ |
-| Online co-op | 117 | 100+ | 150+ |
-| Local multiplayer | 93 | 50+ | 100+ |
-| Local co-op | 68 | 50+ | 100+ |
+| Single player | 385 | 350+ | 400+ |
+| Online multiplayer | 167 | 150+ | 200+ |
+| Competitive | 126 | 100+ | 150+ |
+| Online co-op | 115 | 100+ | 150+ |
+| Local multiplayer | 91 | 50+ | 100+ |
+| Local co-op | 66 | 50+ | 100+ |
 | Cross-platform multiplayer | 52 | 50+ | 100+ |
 | Split-screen | 23 | 20+ | 50+ |
 
 ## Games by **Supported input**
 | Supported input | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Keyboard/mouse | 391 | 350+ | 400+ |
-| Gamepad | 391 | 350+ | 400+ |
+| Keyboard/mouse | 389 | 350+ | 400+ |
+| Gamepad | 389 | 350+ | 400+ |
 | Partial gamepad support | 20 | 20+ | 50+ |
 | Peripheral controllers | 19 | 10+ | 20+ |
 | Touch support | 10 | 10+ | 20+ |
@@ -120,20 +120,20 @@
 ## Games by **Accessibility features**
 | Accessibility features | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Separate volume controls | 345 | 300+ | 350+ |
-| Button remapping | 298 | 250+ | 300+ |
-| Dialogue subtitles | 296 | 250+ | 300+ |
-| Difficulty levels | 230 | 200+ | 250+ |
-| Brightness constrast gamma adjustment | 217 | 200+ | 250+ |
-| Training mode | 96 | 50+ | 100+ |
-| Colorblind modes | 89 | 50+ | 100+ |
+| Separate volume controls | 343 | 300+ | 350+ |
+| Button remapping | 296 | 250+ | 300+ |
+| Dialogue subtitles | 294 | 250+ | 300+ |
+| Difficulty levels | 228 | 200+ | 250+ |
+| Brightness constrast gamma adjustment | 215 | 200+ | 250+ |
+| Training mode | 94 | 50+ | 100+ |
+| Colorblind modes | 87 | 50+ | 100+ |
 | Adjustable dialog text size | 76 | 50+ | 100+ |
 | Motion sickness options | 64 | 50+ | 100+ |
 | Sound captions | 56 | 50+ | 100+ |
-| Adjustable game interface | 55 | 50+ | 100+ |
+| Adjustable game interface | 53 | 50+ | 100+ |
 | Adjustable captions text size | 47 | 20+ | 50+ |
 | Skip repeated button presses | 35 | 20+ | 50+ |
 | Subtitle speed controls | 33 | 20+ | 50+ |
-| Skip challenges | 26 | 20+ | 50+ |
+| Skip challenges | 24 | 20+ | 50+ |
 | Copilot mode | 24 | 20+ | 50+ |
 | Skip QuickTime events | 18 | 10+ | 20+ |

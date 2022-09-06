@@ -1,7 +1,7 @@
 1. [A Place for the Unwilling](https://stadia.google.com/game/a-place-for-the-unwilling)
 1. [ARK: Survival Evolved](https://stadia.google.com/game/ark-survival-evolved) - available also with #StadiaPro
 1. [AVICII Invector](https://stadia.google.com/game/avicii-invector) #LocalMultiplayer
-1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min - available also with #StadiaPro #DirectTouch
+1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min #DirectTouch
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion) - Play for 30 min
 1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/are-you-smarter-than-a-5th-grader) #LocalMultiplayer
 1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
@@ -70,11 +70,11 @@
 1. [DRAGON QUEST XI S: Echoes of an Elusive Age](https://stadia.google.com/game/dragon-quest-xi-s-echoes-of-an-elusive-age) - Play for 120 min
 1. [DYNASTY WARRIORS 9 Empires](https://stadia.google.com/game/dynasty-warriors-9-empires)
 1. [DYNASTY WARRIORS 9 Empires - Deluxe Edition](https://stadia.google.com/game/dynasty-warriors-9-empires-deluxe-edition)
-1. [Darksiders Genesis](https://stadia.google.com/game/darksiders-genesis) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Darksiders Genesis](https://stadia.google.com/game/darksiders-genesis) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Darksiders II Deathinitive Edition](https://stadia.google.com/game/darksiders-ii-deathinitive-edition) - Play for 60 min
 1. [Darksiders III](https://stadia.google.com/game/darksiders-iii) - Play for 30 min
-1. [Darkwood](https://stadia.google.com/game/darkwood) - Play for 60 min - available also with #StadiaPro
-1. [Dawn of the Monsters](https://stadia.google.com/game/dawn-of-the-monsters) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Darkwood](https://stadia.google.com/game/darkwood) - Play for 60 min
+1. [Dawn of the Monsters](https://stadia.google.com/game/dawn-of-the-monsters) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Dead by Daylight](https://stadia.google.com/game/dead-by-daylight)
 1. [Dead by Daylight: Silent Hill Edition](https://stadia.google.com/game/dead-by-daylight-silent-hill-edition)
 1. [Dead by Daylight: ULTIMATE EDITION](https://stadia.google.com/game/dead-by-daylight-ultimate-edition)
@@ -89,8 +89,8 @@
 1. [Discovery Tour: Viking Age](https://stadia.google.com/game/discovery-tour-viking-age) - available also with #UbisoftPlus
 1. [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/game/dreamworks-dragons-dawn-of-new-riders) - Play for 30 min
 1. [DreamWorks Spirit Lucky's Big Adventure](https://stadia.google.com/game/dreamworks-spirit-luckys-big-adventure) - Play for 30 min
-1. [EA SPORTS™ FIFA 23 Standard Edition](https://stadia.google.com/game/fifa-23-standard-edition-preorder-product) #LocalCoop #LocalMultiplayer
-1. [EA SPORTS™ FIFA 23 Ultimate Edition](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-late-product) #LocalCoop #LocalMultiplayer
+1. [EA SPORTS™ FIFA 23 Standard Edition](https://stadia.google.com/game/fifa-23-standard-edition-preorder-product)
+1. [EA SPORTS™ FIFA 23 Ultimate Edition](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-late-product)
 1. [EVERSPACE™](https://stadia.google.com/game/everspace) - Play for 120 min
 1. [El Hijo - A Wild West Tale](https://stadia.google.com/game/el-hijo-a-wild-west-tale) - Play for 30 min
 1. [Elemental War 2](https://stadia.google.com/game/elemental-war-2) - Play for 60 min
@@ -154,7 +154,7 @@
 1. [Hellpoint](https://stadia.google.com/game/hellpoint) #LocalCoop #LocalMultiplayer
 1. [Hotline Miami](https://stadia.google.com/game/hotline-miami) - Play for 30 min
 1. [Hotline Miami 2:Wrong Number](https://stadia.google.com/game/hotline-miami-2wrong-number) - Play for 30 min
-1. [House of the Dead - Remake](https://stadia.google.com/game/house-of-the-dead-remake) #LocalCoop #LocalMultiplayer
+1. [House of the Dead - Remake](https://stadia.google.com/game/house-of-the-dead-remake) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Human: Fall Flat Stadia Edition](https://stadia.google.com/game/human-fall-flat-stadia-edition) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Hundred Days - Winemaking Simulator](https://stadia.google.com/game/hundred-days-winemaking-simulator) - Play for 60 min - available also with #StadiaPro #DirectTouch
 1. [Hunting Simulator 2 Elite Edition](https://stadia.google.com/game/hunting-simulator-2-elite-edition) - Play for 60 min
@@ -169,7 +169,7 @@
 1. [Judgment](https://stadia.google.com/game/judgment) #LocalMultiplayer
 1. [Just Dance® 2021](https://stadia.google.com/game/just-dance-2021) #LocalCoop #LocalMultiplayer
 1. [Just Dance® 2022](https://stadia.google.com/game/just-dance-2022) #LocalCoop #LocalMultiplayer
-1. [Just Shapes & Beats](https://stadia.google.com/game/just-shapes-beats) #LocalCoop #LocalMultiplayer
+1. [Just Shapes & Beats](https://stadia.google.com/game/just-shapes-beats) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Katamari Damacy REROLL](https://stadia.google.com/game/katamari-damacy-reroll) #LocalMultiplayer
 1. [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks) - Play for 30 min - available also with #StadiaPro
 1. [Kemono Heroes](https://stadia.google.com/game/kemono-heroes) - Play for 30 min #LocalCoop #LocalMultiplayer
@@ -179,7 +179,7 @@
 1. [Lake](https://stadia.google.com/game/lake) - Play for 90 min - available also with #StadiaPro
 1. [Lara Croft and the Guardian of Light](https://stadia.google.com/game/lara-croft-and-the-guardian-of-light)
 1. [Lara Croft and the Temple of Osiris](https://stadia.google.com/game/lara-croft-and-the-temple-of-osiris)
-1. [Legend of Keepers: Career of a Dungeon Manager](https://stadia.google.com/game/legend-of-keepers-career-of-a-dungeon-manager) - available also with #StadiaPro
+1. [Legend of Keepers: Career of a Dungeon Manager](https://stadia.google.com/game/legend-of-keepers-career-of-a-dungeon-manager)
 1. [Life is Strange Remastered](https://stadia.google.com/game/life-is-strange-remastered)
 1. [Life is Strange: Before the Storm Remastered](https://stadia.google.com/game/life-is-strange-before-the-storm-remastered)
 1. [Life is Strange: True Colors](https://stadia.google.com/game/life-is-strange-true-colors)
@@ -230,7 +230,7 @@
 1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
 1. [ONE PIECE World Seeker Premium Edition](https://stadia.google.com/game/one-piece-world-seeker-premium-edition)
-1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min
+1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min - available also with #StadiaPro
 1. [OUTRIDERS WORLDSLAYER EDITION](https://stadia.google.com/game/outriders-worldslayer-edition)
 1. [Olympic Games Tokyo 2020 – The Official Video Game™](https://stadia.google.com/game/olympic-games-tokyo-2020-the-official-video-game) #LocalCoop #LocalMultiplayer
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
@@ -238,7 +238,7 @@
 1. [Outbreak: Shades of Horror Playable Teaser](https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser) - Play for 60 min
 1. [Outcasters](https://stadia.google.com/game/outcasters) - Play for 60 min
 1. [Outward](https://stadia.google.com/game/outward) #LocalCoop #LocalMultiplayer
-1. [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat) - Play for 30 min #LocalCoop #LocalMultiplayer
+1. [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/game/pac-man-mega-tunnel-battle) - Play for 30 min
 1. [PAW Patrol Mighty Pups Save Adventure Bay](https://stadia.google.com/game/paw-patrol-mighty-pups-save-adventure-bay) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [PAW Patrol The Movie: Adventure City Calls](https://stadia.google.com/game/paw-patrol-the-movie) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
@@ -246,7 +246,7 @@
 1. [PGA TOUR 2K21 Digital Deluxe](https://stadia.google.com/game/pga-tour-2k21-digital-deluxe) #LocalMultiplayer
 1. [PHOGS!](https://stadia.google.com/game/phogs) - Play for 60 min - available also with #StadiaPro #LocalCoop
 1. [PIKUNIKU](https://stadia.google.com/game/pikuniku) - Play for 30 min #LocalCoop
-1. [PJ MASKS: HEROES OF THE NIGHT](https://stadia.google.com/game/pj-masks-heroes-of-the-night) - Play for 30 min
+1. [PJ MASKS: HEROES OF THE NIGHT](https://stadia.google.com/game/pj-masks-heroes-of-the-night) - Play for 30 min - available also with #StadiaPro
 1. [PUBG: BATTLEGROUNDS](https://stadia.google.com/game/pubg)
 1. [Panzer Dragoon: Remake](https://stadia.google.com/game/panzer-dragoon-remake) - Play for 30 min
 1. [Phoenix Point](https://stadia.google.com/game/phoenix-point)
@@ -301,7 +301,7 @@
 1. [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/game/shantae-riskys-revenge-directors-cut) - Play for 30 min
 1. [Sniper Elite 4](https://stadia.google.com/game/sniper-elite-4) - Play trial
 1. [Sniper Elite 4: Deluxe Edition](https://stadia.google.com/game/sniper-elite-4-deluxe-edition)
-1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min #LocalCoop
+1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min - available also with #StadiaPro #LocalCoop
 1. [Spitlings](https://stadia.google.com/game/spitlings) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [SpongeBobSquarePants:Battle for Bikini BottomRehydrated](https://stadia.google.com/game/spongebobsquarepantsbattle-for-bikini-bottomrehydrated) - Play for 30 min #LocalMultiplayer
 1. [Stacks On Stacks (On Stacks)](https://stadia.google.com/game/stacks-on-stacks) #LocalCoop #LocalMultiplayer
@@ -382,7 +382,7 @@
 1. [Watch Dogs: Legion - Ultimate Edition](https://stadia.google.com/game/watch-dogs-legion-ultimate-edition)
 1. [Watch Dogs: Legion - Ultimate Edition Ubisoft+](https://stadia.google.com/game/watch-dogs-legion-ultimate-edition-ubisoft) - available also with #UbisoftPlus
 1. [Watch_Dogs® 2](https://stadia.google.com/game/watch-dogs-2) - available also with #UbisoftPlus
-1. [Wave Break](https://stadia.google.com/game/wave-break) - Play for 60 min - available also with #StadiaPro
+1. [Wave Break](https://stadia.google.com/game/wave-break) - Play for 60 min
 1. [Wavetale](https://stadia.google.com/game/wavetale) - available also with #StadiaPro
 1. [Welcome to Elk](https://stadia.google.com/game/welcome-to-elk) - Play for 60 min - available also with #StadiaPro
 1. [West of Loathing](https://stadia.google.com/game/west-of-loathing)
