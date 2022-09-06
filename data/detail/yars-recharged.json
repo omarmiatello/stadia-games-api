@@ -2,7 +2,9 @@
   "title": "Yars: Recharged",
   "url": "https://stadia.google.com/game/yars-recharged",
   "img": "https://lh3.googleusercontent.com/5XIsmniYY0Ug_hWn8W8TRZW4xYJMZ0c83W8t38dNtWmCgcyWbBdG3gzZt6NjuVujv4f-dsUzQwD4g0dtS3RIMVqTmroGinNVA9mR1tGxdaixN1H6I0e3XrCmmNE\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
   "buttons": [
+    "Play for 30 min",
     "$9.99 Buy",
     "Claim with Pro"
   ],
