@@ -1,3 +1,8 @@
+## 2022-09-13
+
+### 1 new demo
+1. [Darksiders II Deathinitive Edition](https://stadia.google.com/game/darksiders-ii-deathinitive-edition) - Play for 30 min
+
 ## 2022-09-06
 
 ### 2 new demos

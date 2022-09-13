@@ -5,19 +5,19 @@
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion) - Play for 30 min
 1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/are-you-smarter-than-a-5th-grader) #LocalMultiplayer
 1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
-1. [Assassin's Creed Black Flag](https://stadia.google.com/game/assassins-creed-black-flag)
-1. [Assassin's Creed Black Flag Gold Edition](https://stadia.google.com/game/assassins-creed-black-flag-gold-edition)
+1. [Assassin's Creed Black Flag](https://stadia.google.com/game/assassins-creed-black-flag) - available also with #UbisoftPlus
+1. [Assassin's Creed Black Flag Gold Edition](https://stadia.google.com/game/assassins-creed-black-flag-gold-edition) - available also with #UbisoftPlus
 1. [Assassin's Creed III Remastered](https://stadia.google.com/game/assassins-creed-iii-remastered) - available also with #UbisoftPlus
-1. [Assassin's Creed Odyssey](https://stadia.google.com/game/assassins-creed-odyssey)
-1. [Assassin's Creed Odyssey - Stadia Ultimate Edition](https://stadia.google.com/game/assassins-creed-odyssey-stadia-ultimate-edition)
-1. [Assassin's Creed Origins](https://stadia.google.com/game/assassins-creed-origins)
+1. [Assassin's Creed Odyssey](https://stadia.google.com/game/assassins-creed-odyssey) - available also with #UbisoftPlus
+1. [Assassin's Creed Odyssey - Stadia Ultimate Edition](https://stadia.google.com/game/assassins-creed-odyssey-stadia-ultimate-edition) - available also with #UbisoftPlus
+1. [Assassin's Creed Origins](https://stadia.google.com/game/assassins-creed-origins) - available also with #UbisoftPlus
 1. [Assassin's Creed Origins - DELUXE EDITION](https://stadia.google.com/game/assassins-creed-origins-deluxe-edition)
-1. [Assassin's Creed Origins - GOLD EDITION](https://stadia.google.com/game/assassins-creed-origins-gold-edition)
-1. [Assassin's Creed Rogue Remastered](https://stadia.google.com/game/assassins-creed-rogue-remastered)
-1. [Assassin's Creed Syndicate](https://stadia.google.com/game/assassins-creed-syndicate)
-1. [Assassin's Creed Syndicate Gold Edition](https://stadia.google.com/game/assassins-creed-syndicate-gold-edition)
-1. [Assassin's Creed Unity](https://stadia.google.com/game/assassins-creed-unity)
-1. [Assassin's Creed Valhalla](https://stadia.google.com/game/assassins-creed-valhalla) - Play for 120 min
+1. [Assassin's Creed Origins - GOLD EDITION](https://stadia.google.com/game/assassins-creed-origins-gold-edition) - available also with #UbisoftPlus
+1. [Assassin's Creed Rogue Remastered](https://stadia.google.com/game/assassins-creed-rogue-remastered) - available also with #UbisoftPlus
+1. [Assassin's Creed Syndicate](https://stadia.google.com/game/assassins-creed-syndicate) - available also with #UbisoftPlus
+1. [Assassin's Creed Syndicate Gold Edition](https://stadia.google.com/game/assassins-creed-syndicate-gold-edition) - available also with #UbisoftPlus
+1. [Assassin's Creed Unity](https://stadia.google.com/game/assassins-creed-unity) - available also with #UbisoftPlus
+1. [Assassin's Creed Valhalla](https://stadia.google.com/game/assassins-creed-valhalla) - Play for 120 min - available also with #UbisoftPlus
 1. [Assassin's Creed Valhalla Complete Edition](https://stadia.google.com/game/assassins-creed-valhalla-complete-edition-bundle)
 1. [Assassin's Creed Valhalla Ragnarök Edition](https://stadia.google.com/game/ssassins-creed-valhalla-ragnarok-edition-bundle)
 1. [Assassin's Creed® Valhalla Deluxe Edition](https://stadia.google.com/game/assassins-creed-valhalla-deluxe-edition)
@@ -36,8 +36,8 @@
 1. [Celeste](https://stadia.google.com/game/celeste)
 1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min - available also with #StadiaPro
-1. [Child of Light - Standard Edition](https://stadia.google.com/game/child-of-light-standard-edition) #LocalCoop
-1. [Child of Light - Ultimate Edition](https://stadia.google.com/game/child-of-light-ultimate-edition) #LocalCoop
+1. [Child of Light - Standard Edition](https://stadia.google.com/game/child-of-light-standard-edition) - available also with #UbisoftPlus #LocalCoop
+1. [Child of Light - Ultimate Edition](https://stadia.google.com/game/child-of-light-ultimate-edition) - available also with #UbisoftPlus #LocalCoop
 1. [Chorus](https://stadia.google.com/game/chorus)
 1. [Chorus Demo](https://stadia.google.com/game/chorus-demo)
 1. [Chronos: Before the Ashes](https://stadia.google.com/game/chronos-before-the-ashes) - Play for 30 min
@@ -71,7 +71,7 @@
 1. [DYNASTY WARRIORS 9 Empires](https://stadia.google.com/game/dynasty-warriors-9-empires)
 1. [DYNASTY WARRIORS 9 Empires - Deluxe Edition](https://stadia.google.com/game/dynasty-warriors-9-empires-deluxe-edition)
 1. [Darksiders Genesis](https://stadia.google.com/game/darksiders-genesis) - Play for 60 min #LocalCoop #LocalMultiplayer
-1. [Darksiders II Deathinitive Edition](https://stadia.google.com/game/darksiders-ii-deathinitive-edition) - Play for 60 min
+1. [Darksiders II Deathinitive Edition](https://stadia.google.com/game/darksiders-ii-deathinitive-edition) - Play for 30 min
 1. [Darksiders III](https://stadia.google.com/game/darksiders-iii) - Play for 30 min
 1. [Darkwood](https://stadia.google.com/game/darkwood) - Play for 60 min
 1. [Dawn of the Monsters](https://stadia.google.com/game/dawn-of-the-monsters) - Play for 60 min #LocalCoop #LocalMultiplayer
@@ -99,7 +99,7 @@
 1. [Epistory - Typing Chronicles](https://stadia.google.com/game/epistory-typing-chronicles)
 1. [F1® 2020](https://stadia.google.com/game/f1-2020) #LocalMultiplayer
 1. [F1® 2020 Deluxe Schumacher Edition](https://stadia.google.com/game/f1-2020-deluxe-schumacher-edition) #LocalMultiplayer
-1. [FAR CRY 6](https://stadia.google.com/game/far-cry-6) - Play for 120 min
+1. [FAR CRY 6](https://stadia.google.com/game/far-cry-6) - Play for 120 min - available also with #UbisoftPlus
 1. [FAR CRY 6 DELUXE EDITION](https://stadia.google.com/game/far-cry-6-deluxe-edition)
 1. [FAR CRY 6 Gold Edition](https://stadia.google.com/game/far-cry-6-gold-edition)
 1. [FIFA 21](https://stadia.google.com/game/fifa-21) #LocalCoop #LocalMultiplayer
@@ -111,14 +111,14 @@
 1. [FLOOR KIDS](https://stadia.google.com/game/floor-kids) #LocalMultiplayer
 1. [FORECLOSED](https://stadia.google.com/game/foreclosed) - Play for 60 min
 1. [Family Feud®](https://stadia.google.com/game/family-feud) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
-1. [Far Cry 5](https://stadia.google.com/game/far-cry-5)
-1. [Far Cry 5 Ultimate Edition](https://stadia.google.com/game/far-cry-5-ultimate-edition)
-1. [Far Cry 6 Ultimate Edition](https://stadia.google.com/game/far-cry-6-ultimate-edition)
+1. [Far Cry 5](https://stadia.google.com/game/far-cry-5) - available also with #UbisoftPlus
+1. [Far Cry 5 Ultimate Edition](https://stadia.google.com/game/far-cry-5-ultimate-edition) - available also with #UbisoftPlus
+1. [Far Cry 6 Ultimate Edition](https://stadia.google.com/game/far-cry-6-ultimate-edition) - available also with #UbisoftPlus
 1. [Far Cry Primal](https://stadia.google.com/game/far-cry-primal) - Play for 60 min - available also with #UbisoftPlus
 1. [Far Cry Primal Apex Edition](https://stadia.google.com/game/far-cry-primal-apex-edition) - available also with #UbisoftPlus
 1. [Far Cry® 3 Blood Dragon Classic Edition](https://stadia.google.com/game/far-cry-3-blood-dragon-classic-edition) - available also with #UbisoftPlus
-1. [Far Cry® New Dawn](https://stadia.google.com/game/far-cry-new-dawn)
-1. [Far Cry® New Dawn Deluxe Edition](https://stadia.google.com/game/far-cry-new-dawn-deluxe-edition)
+1. [Far Cry® New Dawn](https://stadia.google.com/game/far-cry-new-dawn) - available also with #UbisoftPlus
+1. [Far Cry® New Dawn Deluxe Edition](https://stadia.google.com/game/far-cry-new-dawn-deluxe-edition) - available also with #UbisoftPlus
 1. [Farming Simulator 19](https://stadia.google.com/game/farming-simulator-19)
 1. [Farming Simulator 19 Platinum Edition](https://stadia.google.com/game/farming-simulator-19-platinum-edition)
 1. [Farming Simulator 19 Premium Edition](https://stadia.google.com/game/farming-simulator-19-premium-edition)
@@ -191,7 +191,7 @@
 1. [Lost Words: Beyond the Page](https://stadia.google.com/game/lost-words-beyond-the-page) - Play for 30 min
 1. [Lumote: The Mastermote Chronicles](https://stadia.google.com/game/lumote-the-mastermote-chronicles) - Play for 30 min - available also with #StadiaPro
 1. [MONOPOLY + MONOPOLY Madness](https://stadia.google.com/game/monopoly-monopoly-madness) #LocalCoop #LocalMultiplayer
-1. [MONOPOLY® Madness](https://stadia.google.com/game/monopoly-madness) #LocalCoop #LocalMultiplayer
+1. [MONOPOLY® Madness](https://stadia.google.com/game/monopoly-madness) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
 1. [MY HERO ONE'S JUSTICE 2 for STADIA™](https://stadia.google.com/game/my-hero-ones-justice-2-for) #LocalMultiplayer
 1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Mad Streets](https://stadia.google.com/game/mad-streets) - Play for 60 min #LocalCoop #LocalMultiplayer
@@ -207,7 +207,7 @@
 1. [Metro Exodus](https://stadia.google.com/game/metro-exodus)
 1. [Metro Exodus - Gold Edition](https://stadia.google.com/game/metro-exodus-gold-edition)
 1. [Metro Last Light Redux](https://stadia.google.com/game/metro-last-light-redux)
-1. [Monopoly](https://stadia.google.com/game/monopoly) #LocalMultiplayer
+1. [Monopoly](https://stadia.google.com/game/monopoly) - available also with #UbisoftPlus #LocalMultiplayer
 1. [Monster Boy and the Cursed Kingdom](https://stadia.google.com/game/monster-boy-and-the-cursed-kingdom)
 1. [Monster Energy Supercross - The Official Videogame 3](https://stadia.google.com/game/monster-energy-supercross-the-official-videogame-3) - Play for 60 min
 1. [Monster Energy Supercross - The Official Videogame 4](https://stadia.google.com/game/monster-energy-supercross-the-official-videogame-4) - Play for 60 min
@@ -262,7 +262,7 @@
 1. [RIDERS REPUBLIC DELUXE EDITION](https://stadia.google.com/game/riders-republic-deluxe-edition)
 1. [Rabbids: Party of Legends](https://stadia.google.com/game/rabbids-party-of-legends) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
 1. [Race With Ryan Road Trip Deluxe Edition](https://stadia.google.com/game/race-with-ryan-road-trip-deluxe-edition) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
-1. [Rayman Legends](https://stadia.google.com/game/rayman-legends) #LocalCoop
+1. [Rayman Legends](https://stadia.google.com/game/rayman-legends) - available also with #UbisoftPlus #LocalCoop
 1. [Red Dead Redemption 2](https://stadia.google.com/game/rdr2)
 1. [Red Dead Redemption 2:  Ultimate Edition](https://stadia.google.com/game/rdr2-ultimate-edition)
 1. [Reigns](https://stadia.google.com/game/reigns) - Play for 30 min
@@ -291,7 +291,7 @@
 1. [Saints Row](https://stadia.google.com/game/saints-row)
 1. [Saints Row IV: Re-Elected](https://stadia.google.com/game/saints-row-iv-re-elected) - available also with #StadiaPro
 1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered) - Play for 60 min - available also with #StadiaPro
-1. [Scott Pilgrim vs. The World™ - Complete Edition](https://stadia.google.com/game/scott-pilgrim-vs-the-world-complete-edition) #LocalCoop #LocalMultiplayer
+1. [Scott Pilgrim vs. The World™ - Complete Edition](https://stadia.google.com/game/scott-pilgrim-vs-the-world-complete-edition) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
 1. [Secret Neighbor](https://stadia.google.com/game/secret-neighbor) - Play for 60 min
 1. [Sekiro™: Shadows Die Twice](https://stadia.google.com/game/sekiro-shadows-die-twice)
 1. [Serious Sam 4](https://stadia.google.com/game/serious-sam-4) - Play for 30 min
@@ -362,8 +362,8 @@
 1. [Trails of Cold Steel III Digital Limited Edition](https://stadia.google.com/game/trails-of-cold-steel-iii-digital-limited-edition)
 1. [Trails of Cold Steel IV Digital Deluxe Edition](https://stadia.google.com/game/trails-of-cold-steel-iv-digital-deluxe-edition)
 1. [Tri6: Infinite](https://stadia.google.com/game/tri6-infinite) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
-1. [Trials Rising](https://stadia.google.com/game/trials-rising) #LocalMultiplayer
-1. [Trials Rising - Digital Gold Edition](https://stadia.google.com/game/trials-rising-digital-gold-edition) #LocalMultiplayer
+1. [Trials Rising](https://stadia.google.com/game/trials-rising) - available also with #UbisoftPlus #LocalMultiplayer
+1. [Trials Rising - Digital Gold Edition](https://stadia.google.com/game/trials-rising-digital-gold-edition) - available also with #UbisoftPlus #LocalMultiplayer
 1. [Trine 4: The Nightmare Prince](https://stadia.google.com/game/trine-4-the-nightmare-prince) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Trollhunters: Defenders of Arcadia](https://stadia.google.com/game/trollhunters-defenders-of-arcadia) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [UNO®](https://stadia.google.com/game/uno) - available also with #UbisoftPlus #LocalCoop #LocalMultiplayer
@@ -376,7 +376,7 @@
 1. [WATCH_DOGS STANDARD EDITION](https://stadia.google.com/game/watch-dogs-standard-edition) - available also with #UbisoftPlus
 1. [WWE 2K Battlegrounds](https://stadia.google.com/game/wwe-2k-battlegrounds) #LocalCoop #LocalMultiplayer
 1. [WWE 2K Battlegrounds Digital Deluxe Edition](https://stadia.google.com/game/wwe-2k-battlegrounds-digital-deluxe-edition) #LocalCoop #LocalMultiplayer
-1. [Watch Dogs: Legion](https://stadia.google.com/game/watch-dogs-legion)
+1. [Watch Dogs: Legion](https://stadia.google.com/game/watch-dogs-legion) - available also with #UbisoftPlus
 1. [Watch Dogs: Legion - Deluxe Edition](https://stadia.google.com/game/watch-dogs-legion-deluxe-edition-bundle)
 1. [Watch Dogs: Legion - Gold Edition](https://stadia.google.com/game/watch-dogs-legion-gold-edition)
 1. [Watch Dogs: Legion - Ultimate Edition](https://stadia.google.com/game/watch-dogs-legion-ultimate-edition)
