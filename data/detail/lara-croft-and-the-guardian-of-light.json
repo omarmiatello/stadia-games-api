@@ -3,7 +3,7 @@
   "url": "https://stadia.google.com/game/lara-croft-and-the-guardian-of-light",
   "img": "https://lh3.googleusercontent.com/iUKH3l5Sd-TODhHlqiMxy0GmXjVpORl-zTjjfGP6R54x399ZvgYAyhZtuczIlzDEBhhzgeBYI8ISFwRjyTwM2X3-_Zz4KOrHDHH5N4ga2pTZBdnvHvCt_5YrVe2_\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$14.99 $2.24 Buy"
+    "$14.99 Buy"
   ],
   "description": "Lara Croft and the Guardian of Light is an action/adventure game featuring Lara Croft. This brand extension combines the hallmarks of the Tomb Raider franchise including exploration \u0026 discovery, platforming, and puzzle solving combined with character progression, fun fast-paced combat, and elements of human cooperation and competition.",
   "image_urls": [
@@ -81,5 +81,5 @@
   "extra": {
     "in-game elements might be unreadable": "Mobile"
   },
-  "notes": "Lara Croft and the Guardian of Light © Square Enix Limited 2010, 2020. SQUARE ENIX and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd. LARA CROFT AND THE GUARDIAN OF LIGHT, CRYSTAL DYNAMICS, the CRYSTAL DYNAMICS logo, EIDOS, and the EIDOS logo are trademarks of Square Enix Limited. All rights reserved."
+  "notes": "LARA CROFT AND THE GUARDIAN OF LIGHT © 2010 Crystal Dynamics group of companies. All rights reserved. LARA CROFT AND THE GUARDIAN OF LIGHT, TOMB RAIDER, LARA CROFT, GUARDIAN OF LIGHT, CRYSTAL DYNAMICS, the CRYSTAL DYNAMICS logo, EIDOS, and the EIDOS logo are trademarks of the Crystal Dynamics and Eidos Interactive Corp. group of companies. SQUARE ENIX and the SQUARE ENIX logo are registered trademarks of Square Enix Holdings Co., Ltd."
 }
