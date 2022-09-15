@@ -239,7 +239,7 @@
 1. [Outcasters](https://stadia.google.com/game/outcasters) - Play for 60 min
 1. [Outward](https://stadia.google.com/game/outward) #LocalCoop #LocalMultiplayer
 1. [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
-1. [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/game/pac-man-mega-tunnel-battle) - Play for 30 min
+1. [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/game/pac-man-mega-tunnel-battle)
 1. [PAW Patrol Mighty Pups Save Adventure Bay](https://stadia.google.com/game/paw-patrol-mighty-pups-save-adventure-bay) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [PAW Patrol The Movie: Adventure City Calls](https://stadia.google.com/game/paw-patrol-the-movie) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [PGA TOUR 2K21](https://stadia.google.com/game/pga-tour-2k21) #LocalMultiplayer
