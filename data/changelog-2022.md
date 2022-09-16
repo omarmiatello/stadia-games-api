@@ -1,3 +1,8 @@
+## 2022-09-16
+
+### 1 new demo
+1. [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/game/pac-man-mega-tunnel-battle) - Play for 60 min
+
 ## 2022-09-13
 
 ### 1 new demo
