@@ -251,7 +251,7 @@
 1. [Panzer Dragoon: Remake](https://stadia.google.com/game/panzer-dragoon-remake) - Play for 30 min
 1. [Phoenix Point](https://stadia.google.com/game/phoenix-point)
 1. [Phoenix Point: Complete Edition](https://stadia.google.com/game/phoenix-point-complete-edition) - Play for 120 min
-1. [PixelJunk Raiders](https://stadia.google.com/game/pixeljunk-raiders) - available also with #StadiaPro
+1. [PixelJunk Raiders](https://stadia.google.com/game/pixeljunk-raiders) - Play for 60 min - available also with #StadiaPro
 1. [Power Rangers: Battle for the Grid](https://stadia.google.com/game/power-rangers-battle-for-the-grid) #LocalMultiplayer
 1. [Power Rangers: Battle for the Grid Collector's Edition](https://stadia.google.com/game/power-rangers-battle-for-the-grid-collectors-edition) #LocalMultiplayer
 1. [Power Rangers: Battle for the Grid Super Edition](https://stadia.google.com/game/power-rangers-battle-for-the-grid-super-edition) - Play for 60 min #LocalMultiplayer

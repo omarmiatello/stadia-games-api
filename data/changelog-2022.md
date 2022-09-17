@@ -1,3 +1,8 @@
+## 2022-09-17
+
+### 1 new demo
+1. [PixelJunk Raiders](https://stadia.google.com/game/pixeljunk-raiders) - Play for 60 min - available also with #StadiaPro
+
 ## 2022-09-16
 
 ### 1 new demo
