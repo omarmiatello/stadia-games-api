@@ -22,15 +22,18 @@
 1. [Assassin's Creed Valhalla Ragnarök Edition](https://stadia.google.com/game/ssassins-creed-valhalla-ragnarok-edition-bundle)
 1. [Assassin's Creed® Valhalla Deluxe Edition](https://stadia.google.com/game/assassins-creed-valhalla-deluxe-edition)
 1. [Assassin’s Creed Liberation HD](https://stadia.google.com/game/assassins-creed-liberation-hd) - available also with #UbisoftPlus
+1. [Asteroids: Recharged](https://stadia.google.com/game/steroids-recharged) #LocalCoop
 1. [Attack on Titan 2: Final Battle](https://stadia.google.com/game/aot-2-final-battle)
 1. [Baldur's Gate 3 Early Access](https://stadia.google.com/game/baldurs-gate-3)
 1. [Ben 10: Power Trip](https://stadia.google.com/game/ben-10-power-trip) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Black Widow: Recharged](https://stadia.google.com/game/black-widow-recharged) #LocalCoop
 1. [Blaze and the Monster Machines: Axle City Racers](https://stadia.google.com/game/blaze-and-the-monster-machines-axle-city-racers) - Play for 60 min #LocalMultiplayer
 1. [Bloodstained: Ritual of the Night](https://stadia.google.com/game/bloodstained-ritual-of-the-night) - Play for 60 min - available also with #StadiaPro
 1. [Blue Fire](https://stadia.google.com/game/blue-fire) - Play for 60 min
 1. [Borderlands®3](https://stadia.google.com/game/borderlands3)
 1. [Borderlands®3: Super Deluxe Edition](https://stadia.google.com/game/borderlands3-super-deluxe-edition)
 1. [Borderlands®3: Ultimate Edition](https://stadia.google.com/game/borderlands3-ultimate-edition)
+1. [Breakout: Recharged](https://stadia.google.com/game/breakout-recharged) #LocalCoop
 1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
 1. [Calico](https://stadia.google.com/game/calico) - Play for 60 min - available also with #StadiaPro
 1. [Celeste](https://stadia.google.com/game/celeste)
@@ -136,6 +139,7 @@
 1. [Gods Will Fall](https://stadia.google.com/game/gods-will-fall)
 1. [Gods Will Fall - Valiant Edition](https://stadia.google.com/game/gods-will-fall-valiant-edition)
 1. [Golf With Your Friends](https://stadia.google.com/game/golf-with-your-friends) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
+1. [Gravitar: Recharged](https://stadia.google.com/game/gravitar-recharged) #LocalCoop
 1. [Gunsport](https://stadia.google.com/game/gunsport) #LocalCoop #LocalMultiplayer
 1. [HITMAN - Game of The Year Edition](https://stadia.google.com/game/hitman-game-of-the-year-edition)
 1. [HITMAN - Starter Pack](https://stadia.google.com/game/hitman-free-starter-pack)

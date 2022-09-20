@@ -1,0 +1,76 @@
+{
+  "title": "Gravitar: Recharged",
+  "url": "https://stadia.google.com/game/gravitar-recharged",
+  "img": "https://lh3.googleusercontent.com/HekFuCSFaXHu5zOr693FzQbFPu2AuV3IE8xNXqSVlK3IcP7u3hT-XSj0Ik4xA1C1bOjCInIwuFppGwhDQYDDtdjNzoIWtk8PJAEwlICXjNHXg3QMC6hBRkGUqA\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$9.99 Buy"
+  ],
+  "description": "A lone pilot, far from home, must navigate an abstract universe of uncharted planets and space stations guarded by mysterious, hostile aliens in Gravitar: Recharged. You must complete missions in each solar system, navigating a variety of challenging environments, each with varying levels of gravity that will test your skills as a pilot. Complete each mission within a solar system and you will be transported to the next through a massive black hole. Will you ever make it home?",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/zxo-hjQzND1LauSYff6x62qWeaE4IXbHJIMaoJ-Sfkz-VK5VlBqHcN_2xc-9NjT0BAmxl-YqCLDp96jAUaKh7HJucivCeZKmBFWOg4Do2SHkgDuHZxIz-RvRZOVQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5oy6kAElD3Vxt2g1UrSdfUFIawTYc5bxUHugEKOoEJYjXQl0-jBilf5d86uf8nsiPqdu3INvcN42uFAKEcKFE8-AKo9dcL22pMyVH24nCnAtVKQfQMNy_C-d6gc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/PIw5vhCqKC7CZkJk4lBcmTUpyfRvrSVV_JAlyA5r9WErInqr6NV89xxZKGWz7lWYgsweKXJMex-W_ec-_QOxvcdGokDTjuOiRMHJA0BD5_rPF5fKqabS5rK2SZUY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/7k7LwY7qRnJ3nQmg-2UGgTyfDKnVETlWk2a-2LZZXrlbhRQL2T963PufvZQTdDk0RdA3S5iA4fEo_y2Gp0J_1ZSDglHA4TcRnsNBuKeQgolkcsvOe59b1qD9tak\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/tkXsXAI48be9svj4OBUah6AvTs7rnZQ4_6fAPfupfZ5yR_cYiUxRtNLDGItoI5SvV6sbXTOLJwkNNobQdI6lRycSeHvR4WEk3gOr8LH7HaEeUCI8EFDi2IZbeN4\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/bTBvLpO4PaDGX47WSeVS5P0SghX5rsivQGT2FMQ-osbrUUfAaYioVQ1tw2ZwOO-kLAcRME38iihB6gue94egcMgjjKxF0q2qrTD3KNkLYpr-qJ-pndKEm2wNYrA\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-09-20",
+  "publisher": "Atari",
+  "developer": "Sneakybox Studios",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Colorblind modes",
+    "Copilot mode",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2021 Atari Interactive, Inc. Gravitar, and its logo, Atari and the Atari logo are trademarks of Atari Interactive, Inc. in the U.S. and other countries. All rights reserved."
+}

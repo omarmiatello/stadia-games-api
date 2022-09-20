@@ -1,0 +1,75 @@
+{
+  "title": "Black Widow: Recharged",
+  "url": "https://stadia.google.com/game/black-widow-recharged",
+  "img": "https://lh3.googleusercontent.com/C75NwTfHLeyn9JE5I0hA-z0e0KAdZAAiMx1g8AhTphMrrSX2jih45XhmSOnxuArQhtECajophSTImpGtunG4HlUWxQmDN7c9HABzKpdCPPs_tZelSLBWRT_eGUA\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$9.99 Buy"
+  ],
+  "description": "The original cult classic arachnid-starring, twin-stick shooter returns! Black Widow: Recharged has been reimagined for modern gameplay, with vibrant visuals, powerful new abilities, and another original soundtrack from award-winning video game composer Megan McDuffee. Aim for a high score in the old school arcade mode and earn bragging rights with your name at the top of the leaderboard. Or test your skills and rank on the boards in one of 30 intensely creative challenges, which twist the gameplay in new and exciting ways. Collect cash from downed enemies to charge a powerful web blast, or pick up one of a dozen new power-ups including explosive blasts, spread-shots, and fear, trapping all enemies in your web. Every mode and level is playable in local co-op mode with a friend.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/CNJpwXY18r5CjRxKmclMZQcUAlNgJpBXdm90m_yoSUjl7wo0H7hcIbBN6PzBycfj4sgamdsI3TBVh6ipkNR1w-bLKzvKshI7fES1n1N2kCObPPJELEjlzu0OZ9U\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/1SBMLknhhNI1Lv6ez7erQt4n4SR1LnGSmNriOFsK1duQRVKgXEeVEbhPiMzR5kQMdV1k15kAx5B5cDbNN4K87BqejIuCFhvk1VZNnsd-4eXiQkIZn7Kwcek58yrD\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/h4xH0D7Xi_VGIFoBTiBTSJII5rs7X64M3pePMOA2tqzg9e1Cu4wWurgBw91J4LyLaiayUkxLIcOX4u5TF8FaqD9kfptxWxtm4B_BsdIrGpqgRQiyXEaAJZbxOFUd\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/ci5kXTDgqq0m2u1UFjbK__sXUH6l8eLlw-zuDpSQDRAeJFDqAowQT4kLmv19xxy7esNepEUCG24h30yXRxenTOc00tTHIS_El8CbABKtY2rOEx2Y79XzJNSTYis\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/utZMi-aDsmJKBjLs_7rP4F5aEMAgckQM_Ji9zmN6jjULELOMe8jt7e1FEQmhXu7llKYyuYQZNFp6PghnNFanU0lLQed4pNEgZOtVYRK88f1isyOcOJXlaw3kW0s\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-09-20",
+  "publisher": "Atari",
+  "developer": "Sneakybox Studios",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Colorblind modes",
+    "Copilot mode",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2021 Atari Interactive, Inc Black Widow, and its logo, Atari and the Atari logo are trademarks of Atari Interactive, Inc. in the U.S. and other countries. All rights reserved."
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Breakout: Recharged",
+  "url": "https://stadia.google.com/game/breakout-recharged",
+  "img": "https://lh3.googleusercontent.com/dz0em4tAEVjWM8EPLB5-GM6LKpgtmfv-SQ8f3Bd79yOAj-rYn4r4PIjjwfOy-LkaAj4ih0JcxuKPxyOxoZUGIYldFhBzWLNvis5JHRzsQvzLhBb_Xo4SD2_LoWU\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "$9.99 Buy"
+  ],
+  "description": "The grandfather of brick-breaking games is back with some of the toughest challenges yet! Breakout: Recharged steps up the excitement with a fresh coat of paint, exciting power-ups, and another original soundtrack from award-winning video game composer Megan McDuffee. Breakout: Recharged will forever change what you expect from a brick-breaking title. The endless arcade mode and 50 challenge levels will push you to the limit of your skills. Don’t fret, however, as this wouldn’t be a Recharged title without game-changing powerups. Expect the aid of rail guns, homing missiles, and explosives to join the traditional multi-ball. You’ll need every tool in the arsenal and razor-sharp reflexes to climb the global leaderboards.",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/LxdKtOH0ROBNnEdSvL-4ehueXObiFQ2lTGFESJ2umUM38d8-Fg757CBk9wuPx5LB_SqcAgaX5PnzGSpg5FiJHooN0skmml8HBK1GpDonR44TPjG2IVEqysuwL8Pn\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/bJBKunywtgHapXi_U25-nJtW1qhYuPqe49BeuwEiJzg-3b9dJ7Azbj5sxk25H-ZTziZ4UmY6A41HAyttvDl0lEGp4G1QOsykUYY6dg0Xn8bde0C7xli9CCCH_tQC\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/g_r0wyHqesToaTxCLJpWlw50E22yLNo1QlfgGO76eWeeuovwhWc_M5Q4asy-aAvCt4kML4dnm3w46G-T40XAhG5o9Zs45u8dfZj9fFjmVRHC5RZw9lCTQU1nyQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/dp8us1fY8noU0ex9ehRz8cSdhLKlbx1jQc1pd4MhqjvsaGv79wDSGKxVmINn7izUqU0-DmAfx3hjFl2a-8ra63B-h4fSe96nxIXaHZ2ccSsMchNnCSjU0Wfg78iN\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/y8q_jonvUODvBebtwezOE5m6LX64IhaVsW9YrGeR4zAtYziYn5JNEsEGdzFzB1kfhyCyMBqQFfPYHSDlUiq9GDXfqqldxIVP4baiQUM4-jvAyLJFoqltOsMMdQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Er6yuq_eA9b_kI4lCbGAYDvGMIyQaQy0W_YMQ3Em6WV1QThFrlOUh7uS7oMAPZ6YNhsfGn2835cbHpcUTp3YUjkDVbunMNjQNdutTy59lU-QT40y9kfsHDIKmw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-09-20",
+  "publisher": "Atari",
+  "developer": "Sneakybox Studios",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade",
+    "Puzzle"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Colorblind modes",
+    "Copilot mode",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2021 Atari Interactive, Inc. Breakout, and its logo, Atari and the Atari logo are trademarks of Atari Interactive, Inc. in the U.S. and other countries. All rights reserved."
+}
