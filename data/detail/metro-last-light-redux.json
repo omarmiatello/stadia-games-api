@@ -3,7 +3,8 @@
   "url": "https://stadia.google.com/game/metro-last-light-redux",
   "img": "https://lh3.googleusercontent.com/rs0JO4VBYsKS49CyviNFa-PecDuj_3d89n7EeG2iGfMHCGrCdvooozFEGXNWm6R6IdMyGv-ebEJu1Drycsl8Jan5pT-RDNrMQY03daylxbOFQjssdkTHq-5IFog\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$19.99 Buy"
+    "$19.99 $7.99 Buy",
+    "$4.99 Buy"
   ],
   "description": "The awe-inspiring immersive experience of a lifetime. Join the external and internal fights that could change everything for a single Artyom. Just when hope is lost, this Artyom finds it time and time again. This game may be 3D in pixels, but it\u0027s infinitely dimensional in meaning.",
   "image_urls": [
@@ -14,7 +15,7 @@
     "https://lh3.googleusercontent.com/8mranJdA0Z7fze935SgglSqISWbyUGxrjx5-CgtYdH2Jz1SroRDksleu4qRdhsu_KZMtn_gZaRBJG-ia1mHH1OxBXeaKqe-THj3KLLJ115O0207UAtuPVsgPmgY\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-06-23",
-  "publisher": "PLAION",
+  "publisher": "PLAION GmbH",
   "developer": "4A Games",
   "languages": [
     "Czech",

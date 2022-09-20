@@ -2,7 +2,9 @@
   "title": "PixelJunk Raiders",
   "url": "https://stadia.google.com/game/pixeljunk-raiders",
   "img": "https://lh3.googleusercontent.com/3aw-gYOLNxwfIPv8MV4WhcJzRViWJyR-rJ2SogF3UAyX6M0Vq7Rt59sloOtYRfVPGwcLU3y8vR-X5uqCy4o7aK6diLlJl1n8WhK8358YSqMpbtK8nUJUFMmKVmYh\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
+    "Play for 60 min",
     "$19.99 Buy",
     "Claim with Pro"
   ],

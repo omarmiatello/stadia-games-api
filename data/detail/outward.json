@@ -3,7 +3,8 @@
   "url": "https://stadia.google.com/game/outward",
   "img": "https://lh3.googleusercontent.com/gGN4Y8zDEr8TWLdIPwWGK3h9Uk2Xob7Qza-0hNg6_8yHluDMX-BrN6pHOpq3ON8DkyYU7iLQUz0epDLW6Q4UIMzAFfoYWOv15NlVDDLhStlS_m12JYIhllYxYxnV\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$39.99 Buy"
+    "$39.99 $31.99 Buy",
+    "$29.99 Buy"
   ],
   "description": "Outward offers an immersive RPG experience coupled with realistic gameplay, as well as deeply-rewarding challenges for the most avid gamers. As an ordinary adventurer, you’ll not only have to hide or defend yourself against threatening creatures, but also brave the hazardous environmental conditions, protect yourself against infectious diseases, and stay hydrated. Embark on risky expeditions across untamed lands to reach new cities, undertake important missions, and discover hidden dungeons crawling with formidable enemies. In order to survive in the dazzling yet deadly world of Aurai, you’ll have to be clever… and prepared. Sharing your journey with a friend, locally or online, is also greatly encouraged!",
   "image_urls": [
@@ -12,7 +13,7 @@
     "https://lh3.googleusercontent.com/czPCWUql2Fz8I3sZyShwkxjmO00lG9zRaVsHBDC8Ipg8bVtJA6-MfhlfgZG1yKq2D2wRog3YHT1FSVomxiuX3oVXlbi0jnH4NBoypF0EkuFXKHHATwWwsmeh9e8\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-11-30",
-  "publisher": "PLAION",
+  "publisher": "PLAION GmbH",
   "developer": "Nine Dots Studio",
   "languages": [
     "English",

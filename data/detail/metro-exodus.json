@@ -3,12 +3,13 @@
   "url": "https://stadia.google.com/game/metro-exodus",
   "img": "https://lh3.googleusercontent.com/o5w6Q3NAF1A0-beDBBA-0ylZEa9WKB1zMgK7_C57Z9H198QR5pQBjNZlOhWtTOOjLelDOploO6TXXszAhmHPs5NAjJeDnC8HtjBGbOMqf7g2pvinUophhApqc9E\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$39.99 Buy"
+    "$39.99 $11.99 Buy",
+    "$9.99 Buy"
   ],
   "description": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created. Flee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet. Explore the Russian wilderness in vast, non-linear levels and follow a thrilling story-line inspired by the novels of Dmitry Glukhovsky that spans an entire year through spring, summer and autumn to the depths of nuclear winter.",
   "image_urls": [
     "https://lh3.googleusercontent.com/P9bhJNGnm5I7Ve4R7GtjOdogYgwB6FiBID6oHCw-6hTgRhkN04uZfQpCzY_tdhM-QSTyzgg9IPcTDULeJWoNRcgoVGm6eq-YT5DeIBcNz9PjK_1BTbXBrLcHyhw\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/_KEPtZffs_MIP2tzkPbK4IlK_Y5vCQ3JWyK47H6faNWtzfPCCnTgCbeCEJrm1VgmW8eb9MOWOwMKmJXG7aORLPHJlDykseViJ_MWJl-MnKwR854eUp2L4_d6yg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/iez_uRPFvLY8a0CcmQmW-uy14iQZB6F4bJyF05Ot4hvponCUAUD-R_1aP-xn7zirzQXifrxvx4NgH32sGRgBhJcsDFSnLxNRh4Ewdosw8R3ertErx1nKAAMjlA\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/9cYoTWNnsXYSjjBjhUWobWKFCXMSlGY1_5Ld-6hwJJAQwvAldLSZWoDHSs6jvAnqeqvqwBUDFS_Hb02uqGYSrw546mA_desOqs0ewfug4u3oGmXEnLtnyEUCMw\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/27ppkESl3Q1RJS1P-71wWxjEjjrnrVXzNp-7-SEaugfV72x4_wqLFNVDEf_jy6FVGPXGVNyx0px4dz7gBFYy60dNHBPSsL8KalwyXs4z-5bfHQXK0neVw5VRvg\u003dw588-h384-rw-no-v1-nu",
     "https://lh3.googleusercontent.com/8plcUsTTCRbWMkGYf5oDkGBXrMh14wd7PZVno7OpS3NUCgn38Pyqch_0F9eTQ50HUxks4iji5Xg6Uwlwi7LLuoXwq3SylDVY5rHvQO6FY6E0z58wBNb7UJSwivM\u003dw588-h384-rw-no-v1-nu",
@@ -16,7 +17,7 @@
     "https://lh3.googleusercontent.com/MZ0-KXZj4Nuq6XDAVsjFG8hDRbURjG9qr56J4hOiFSTKAeM0alH73puDvReC7ZtVi3b1cqbDN_w75zl_qcW73VkInCx_So2du4tj7ZpzMGMdc7ySh2WrZbKudw\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2019-11-05",
-  "publisher": "PLAION",
+  "publisher": "PLAION GmbH",
   "developer": "4A Games",
   "languages": [
     "Chinese",
