@@ -1,5 +1,11 @@
 ## 2022-09-20
 
+### 2 new demos
+1. [Epistory - Typing Chronicles](https://stadia.google.com/game/epistory-typing-chronicles) - Play for 60 min
+1. [Nanotale - Typing Chronicles](https://stadia.google.com/game/nanotale-typing-chronicles) - Play for 60 min
+
+## 2022-09-20
+
 ### 8 new demos
 1. [A Place for the Unwilling](https://stadia.google.com/game/a-place-for-the-unwilling) - Play for 60 min
 1. [Asteroids: Recharged](https://stadia.google.com/game/steroids-recharged) - Play for 30 min #LocalCoop

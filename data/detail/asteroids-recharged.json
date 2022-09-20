@@ -1,0 +1,79 @@
+{
+  "title": "Asteroids: Recharged",
+  "url": "https://stadia.google.com/game/asteroids-recharged",
+  "img": "https://lh3.googleusercontent.com/D7ZFQVRslC2niEx_cArheJbVFdaqPldslwTS-kKFwJf-KoKlSzWlsnWnhjcPUCmgkcOAr6pkot9kbbQrRt6pQlaRpcqS0TwpK-C9gdMMsw1RSHuIa88FzyQHWkc\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 30 min",
+  "buttons": [
+    "Play for 30 min",
+    "$9.99 Buy"
+  ],
+  "description": "The original space shooter warps to the modern era! Asteroids: Recharged has been reimagined for modern gameplay, with vibrant visuals, powerful new abilities, and another original soundtrack from award-winning video game composer Megan McDuffee. Asteroids: Recharged creates a familiar, but revitalized and modern challenge to both old school and new high score chasers. And 30 unique and creative challenge levels take the space shooting game play into new territory, complete with local and global leaderboards. An entirely new collection of power-ups -- including spread shots, rail guns, reflector shields, and more -- will help stave off splintering asteroids and aggressive UFOs. Co-op play lets you play with a friend, and ramps up the intensity as players do their best to coordinate and survive. Key Features: Old Meets New: Classic Asteroids gameplay updated with refined control, and modern visual flourishes Power Up: Blast pink UFOs to pick up deadly benefits like explosives asteroids or a black hole shot that sucks in all enemies in its radius Challenge: Compete in a series of 30 challenges designed to put even the most seasoned players to the test Compete: Reach the top of global leaderboards for arcade and individual challenge modes Bring a Friend: Play local co-op in every mode, surviving the depths of space together Get in the Groove: Space out to an original score by Megan McDuffee",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/RqNFFfiL146Zfk95E7sNUbGnydmZD6ueN1p16ZroRqFJqhnxmdAnQ0RA4drqvBdt1ltpDAxn8avqNIthsRP4FHA_9NeMHYFH45reavw6gjDO57YQfwy3kyGeEWs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/O5jIT_yTYfYQZ6N3T5MzziTf986lNLGNVXgIvrGNw30XSun8ekZFLsA9pc8iRiFAf1LA8QeCEOpKpNikIY1Ukb0CWJqrJYbQzfr4ORljPfiy4LUK4iXIkuu6yw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/P4m6e7RWRxue2RqaU2lpnM1OlFDqLSafKwmjTknSLr7dJ6ZXOjTCBENAX1KB8IgKDXjF--ECFuyQVCv8uaXf6lq6mUBbml3cckH2MO4YJqyd8i29_UP2ty1i8ylW\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/YP9M88783EbDd5gogfJC6sfMi8It8GPgAChvxh3AxdZcfeyPNy-XYAgwBuMjUk9ctt-0LzCzth9F9CBKnYnqXIT8tcUJdqKeFHkfZjQtCm0mOwXLUuyTKjBP16cm\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/quda9KVdP1ljIPIEwvlIHS89QKGGjlTnxu3jzoXrS2DLT25c6fC9-9VtWKm7JCsu82c8qSTiOtiHLRcBX-kKwHKKIjaPnNFze7i1zEyQzA1XJ-8coC704aPloBhn\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/wi-fAcaKLpo_5b8xJwFH19vCLrkRvjoZE5rsaWqGdffKLXfA9ZrV-vQDDtLYzpeUyXfKLZkzIAZd6LWEJvzA4ZrZp8K9BIl4wWJavab9mpaWDL0tZxDjXiqVLII\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-09-20",
+  "publisher": "Atari",
+  "developer": "Sneakybox Studios",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Portuguese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Local co-op",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Colorblind modes",
+    "Copilot mode",
+    "Difficulty levels",
+    "Separate volume controls"
+  ],
+  "notes": "© 2021 Atari Interactive, Inc Asteroids, and its logo, Atari and the Atari logo are trademarks of Atari Interactive, Inc. in the U.S. and other countries. All rights reserved."
+}

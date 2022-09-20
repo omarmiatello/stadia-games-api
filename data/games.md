@@ -22,7 +22,7 @@
 1. [Assassin's Creed Valhalla Ragnarök Edition](https://stadia.google.com/game/ssassins-creed-valhalla-ragnarok-edition-bundle)
 1. [Assassin's Creed® Valhalla Deluxe Edition](https://stadia.google.com/game/assassins-creed-valhalla-deluxe-edition)
 1. [Assassin’s Creed Liberation HD](https://stadia.google.com/game/assassins-creed-liberation-hd) - available also with #UbisoftPlus
-1. [Asteroids: Recharged](https://stadia.google.com/game/steroids-recharged) - Play for 30 min #LocalCoop
+1. [Asteroids: Recharged](https://stadia.google.com/game/asteroids-recharged) - Play for 30 min #LocalCoop
 1. [Attack on Titan 2: Final Battle](https://stadia.google.com/game/aot-2-final-battle)
 1. [Baldur's Gate 3 Early Access](https://stadia.google.com/game/baldurs-gate-3)
 1. [Ben 10: Power Trip](https://stadia.google.com/game/ben-10-power-trip) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
@@ -99,7 +99,7 @@
 1. [Elemental War 2](https://stadia.google.com/game/elemental-war-2) - Play for 60 min
 1. [Embr](https://stadia.google.com/game/embr) - Play for 60 min
 1. [Enter The Gungeon](https://stadia.google.com/game/enter-the-gungeon) - Play for 30 min #LocalMultiplayer
-1. [Epistory - Typing Chronicles](https://stadia.google.com/game/epistory-typing-chronicles)
+1. [Epistory - Typing Chronicles](https://stadia.google.com/game/epistory-typing-chronicles) - Play for 60 min
 1. [F1® 2020](https://stadia.google.com/game/f1-2020) #LocalMultiplayer
 1. [F1® 2020 Deluxe Schumacher Edition](https://stadia.google.com/game/f1-2020-deluxe-schumacher-edition) #LocalMultiplayer
 1. [FAR CRY 6](https://stadia.google.com/game/far-cry-6) - Play for 120 min
@@ -229,7 +229,7 @@
 1. [NBA 2K20 Legend Edition](https://stadia.google.com/game/nba-2k20-legend-edition) #LocalCoop #LocalMultiplayer
 1. [NBA 2K21](https://stadia.google.com/game/nba-2k21) #LocalCoop #LocalMultiplayer
 1. [NBA 2K21 Mamba Forever Edition](https://stadia.google.com/game/nba-2k21-mamba-forever-edition) #LocalCoop #LocalMultiplayer
-1. [Nanotale - Typing Chronicles](https://stadia.google.com/game/nanotale-typing-chronicles)
+1. [Nanotale - Typing Chronicles](https://stadia.google.com/game/nanotale-typing-chronicles) - Play for 60 min
 1. [Neighbours back From Hell](https://stadia.google.com/game/neighbours-back-from-hell)
 1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
 1. [OCTOPATH TRAVELER™](https://stadia.google.com/game/octopath-traveler)
