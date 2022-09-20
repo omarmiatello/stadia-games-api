@@ -1,5 +1,17 @@
 ## 2022-09-20
 
+### 8 new demos
+1. [A Place for the Unwilling](https://stadia.google.com/game/a-place-for-the-unwilling) - Play for 60 min
+1. [Asteroids: Recharged](https://stadia.google.com/game/steroids-recharged) - Play for 30 min #LocalCoop
+1. [Black Widow: Recharged](https://stadia.google.com/game/black-widow-recharged) - Play for 30 min #LocalCoop
+1. [Breakout: Recharged](https://stadia.google.com/game/breakout-recharged) - Play for 30 min #LocalCoop
+1. [Gravitar: Recharged](https://stadia.google.com/game/gravitar-recharged) - Play for 30 min #LocalCoop
+1. [HITMAN - Starter Pack](https://stadia.google.com/game/hitman-free-starter-pack) - Play for 180 min
+1. [Moonlighter](https://stadia.google.com/game/moonlighter) - Play for 60 min
+1. [Submerged: Hidden Depths](https://stadia.google.com/game/submerged-hidden-depths) - Play for 60 min
+
+## 2022-09-20
+
 ### 4 new games
 1. [Asteroids: Recharged](https://stadia.google.com/game/steroids-recharged) #LocalCoop
 1. [Black Widow: Recharged](https://stadia.google.com/game/black-widow-recharged) #LocalCoop
