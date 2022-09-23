@@ -91,6 +91,7 @@
 1. [Disco Elysium - The Final Cut](https://stadia.google.com/game/disco-elysium-the-final-cut)
 1. [Discovery Tour: Viking Age](https://stadia.google.com/game/discovery-tour-viking-age) - available also with #UbisoftPlus
 1. [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/game/dreamworks-dragons-dawn-of-new-riders) - Play for 30 min
+1. [DreamWorks Dragons: Legends of The Nine Realms](https://stadia.google.com/game/dreamworks-dragons-legends-of-the-nine-realms)
 1. [DreamWorks Spirit Lucky's Big Adventure](https://stadia.google.com/game/dreamworks-spirit-luckys-big-adventure) - Play for 30 min
 1. [EA SPORTS™ FIFA 23 Standard Edition](https://stadia.google.com/game/fifa-23-standard-edition-preorder-product)
 1. [EA SPORTS™ FIFA 23 Ultimate Edition](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-late-product)

@@ -1,3 +1,8 @@
+## 2022-09-23
+
+### 1 new game
+1. [DreamWorks Dragons: Legends of The Nine Realms](https://stadia.google.com/game/dreamworks-dragons-legends-of-the-nine-realms)
+
 ## 2022-09-20
 
 ### 2 new demos

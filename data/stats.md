@@ -2,15 +2,15 @@
 ## Overview
 | Stats | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Stadia games | 405 | 400+ | 500+ |
+| Stadia games | 406 | 400+ | 500+ |
 | Stadia demos | 160 | 150+ | 200+ |
 | Games on Stadia Pro | 50 | 50+ | 100+ |
 
 ## Games by **Genre**
 | Genre | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Action | 224 | 200+ | 250+ |
-| Adventure | 163 | 150+ | 200+ |
+| Action | 225 | 200+ | 250+ |
+| Adventure | 164 | 150+ | 200+ |
 | Shooter | 73 | 50+ | 100+ |
 | Role-playing game | 49 | 20+ | 50+ |
 | Indie | 45 | 20+ | 50+ |
@@ -19,7 +19,7 @@
 | Arcade | 28 | 20+ | 50+ |
 | Strategy | 27 | 20+ | 50+ |
 | Racing | 27 | 20+ | 50+ |
-| Kids & family | 26 | 20+ | 50+ |
+| Kids & family | 27 | 20+ | 50+ |
 | Puzzle | 17 | 10+ | 20+ |
 | Casual | 17 | 10+ | 20+ |
 | Party | 15 | 10+ | 20+ |
@@ -31,7 +31,7 @@
 ## Games by **Game modes**
 | Game modes | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Single player | 389 | 350+ | 400+ |
+| Single player | 390 | 350+ | 400+ |
 | Online multiplayer | 167 | 150+ | 200+ |
 | Competitive | 126 | 100+ | 150+ |
 | Online co-op | 115 | 100+ | 150+ |
@@ -43,8 +43,8 @@
 ## Games by **Supported input**
 | Supported input | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Keyboard/mouse | 393 | 350+ | 400+ |
-| Gamepad | 393 | 350+ | 400+ |
+| Keyboard/mouse | 394 | 350+ | 400+ |
+| Gamepad | 394 | 350+ | 400+ |
 | Partial gamepad support | 20 | 20+ | 50+ |
 | Peripheral controllers | 19 | 10+ | 20+ |
 | Touch support | 10 | 10+ | 20+ |
@@ -52,11 +52,11 @@
 ## Games by **Languages**
 | Languages | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| English | 400 | 400+ | 500+ |
-| French | 372 | 350+ | 400+ |
-| Spanish | 371 | 350+ | 400+ |
-| German | 366 | 350+ | 400+ |
-| Italian | 346 | 300+ | 350+ |
+| English | 401 | 400+ | 500+ |
+| French | 373 | 350+ | 400+ |
+| Spanish | 372 | 350+ | 400+ |
+| German | 367 | 350+ | 400+ |
+| Italian | 347 | 300+ | 350+ |
 | Russian | 192 | 150+ | 200+ |
 | Portuguese | 191 | 150+ | 200+ |
 | Chinese | 191 | 150+ | 200+ |
@@ -94,35 +94,35 @@
 ## Games by **Available country**
 | Available country | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| United States | 405 | 400+ | 500+ |
-| United Kingdom | 405 | 400+ | 500+ |
-| Sweden | 405 | 400+ | 500+ |
-| Spain | 405 | 400+ | 500+ |
-| Norway | 405 | 400+ | 500+ |
-| Italy | 405 | 400+ | 500+ |
-| Ireland | 405 | 400+ | 500+ |
-| Germany | 405 | 400+ | 500+ |
-| France | 405 | 400+ | 500+ |
-| Finland | 405 | 400+ | 500+ |
-| Denmark | 405 | 400+ | 500+ |
-| Canada | 405 | 400+ | 500+ |
-| Netherlands | 403 | 400+ | 500+ |
-| Belgium | 403 | 400+ | 500+ |
-| Switzerland | 402 | 400+ | 500+ |
-| Slovakia | 402 | 400+ | 500+ |
-| Romania | 402 | 400+ | 500+ |
-| Portugal | 402 | 400+ | 500+ |
-| Poland | 402 | 400+ | 500+ |
-| Hungary | 402 | 400+ | 500+ |
-| Czechia | 402 | 400+ | 500+ |
-| Austria | 402 | 400+ | 500+ |
+| United States | 406 | 400+ | 500+ |
+| United Kingdom | 406 | 400+ | 500+ |
+| Sweden | 406 | 400+ | 500+ |
+| Spain | 406 | 400+ | 500+ |
+| Norway | 406 | 400+ | 500+ |
+| Italy | 406 | 400+ | 500+ |
+| Ireland | 406 | 400+ | 500+ |
+| Germany | 406 | 400+ | 500+ |
+| France | 406 | 400+ | 500+ |
+| Finland | 406 | 400+ | 500+ |
+| Denmark | 406 | 400+ | 500+ |
+| Canada | 406 | 400+ | 500+ |
+| Netherlands | 404 | 400+ | 500+ |
+| Belgium | 404 | 400+ | 500+ |
+| Switzerland | 403 | 400+ | 500+ |
+| Slovakia | 403 | 400+ | 500+ |
+| Romania | 403 | 400+ | 500+ |
+| Portugal | 403 | 400+ | 500+ |
+| Poland | 403 | 400+ | 500+ |
+| Hungary | 403 | 400+ | 500+ |
+| Czechia | 403 | 400+ | 500+ |
+| Austria | 403 | 400+ | 500+ |
 
 ## Games by **Accessibility features**
 | Accessibility features | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Separate volume controls | 347 | 300+ | 350+ |
+| Separate volume controls | 348 | 300+ | 350+ |
 | Button remapping | 300 | 300+ | 350+ |
-| Dialogue subtitles | 294 | 250+ | 300+ |
+| Dialogue subtitles | 295 | 250+ | 300+ |
 | Difficulty levels | 232 | 200+ | 250+ |
 | Brightness constrast gamma adjustment | 215 | 200+ | 250+ |
 | Training mode | 94 | 50+ | 100+ |
@@ -133,7 +133,7 @@
 | Adjustable game interface | 53 | 50+ | 100+ |
 | Adjustable captions text size | 47 | 20+ | 50+ |
 | Skip repeated button presses | 35 | 20+ | 50+ |
-| Subtitle speed controls | 33 | 20+ | 50+ |
+| Subtitle speed controls | 34 | 20+ | 50+ |
 | Copilot mode | 28 | 20+ | 50+ |
 | Skip challenges | 24 | 20+ | 50+ |
 | Skip QuickTime events | 18 | 10+ | 20+ |
