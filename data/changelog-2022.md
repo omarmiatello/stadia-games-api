@@ -1,5 +1,10 @@
 ## 2022-09-27
 
+### 1 new demo
+1. [MotoGP™21](https://stadia.google.com/game/motogp21) - Play trial
+
+## 2022-09-27
+
 ### 1 new game
 1. [EA SPORTS™ FIFA 23](https://stadia.google.com/game/fifa-23) #LocalCoop #LocalMultiplayer
 

@@ -223,7 +223,7 @@
 1. [Mortal Kombat 11](https://stadia.google.com/game/mortal-kombat11) #LocalMultiplayer
 1. [Mortal Kombat 11 Ultimate](https://stadia.google.com/game/mortal-kombat11-ultimate) #LocalMultiplayer
 1. [MotoGP™20](https://stadia.google.com/game/motogp20) - Play for 60 min
-1. [MotoGP™21](https://stadia.google.com/game/motogp21) - Play for 60 min
+1. [MotoGP™21](https://stadia.google.com/game/motogp21) - Play trial
 1. [Murder by Numbers](https://stadia.google.com/game/murder-by-numbers) - Play for 60 min - available also with #StadiaPro
 1. [My Friend Peppa Pig](https://stadia.google.com/game/my-friend-peppa-pig) - Play for 30 min
 1. [NBA 2K20](https://stadia.google.com/game/nba-2k20) #LocalCoop #LocalMultiplayer
