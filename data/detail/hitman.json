@@ -1,17 +1,16 @@
 {
   "title": "HITMAN - World of Assassination",
   "url": "https://stadia.google.com/game/hitman",
-  "img": "https://lh3.googleusercontent.com/O0rEf8MFAuo7zlSVgNIAcJhk-l0N4spQSjMrpMnTkoczF_3L3XkHf85KlT8QQ4hi2afvjD61xDrSyFpw-DWOXNVo-Bv0S3cs32qxcy2akxkswzBT69DOISB1we8\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/W3WAtzp07S1Y0NWthkZidnR3f8bgLTajpQXs4uqIasiLSfC4SzI6GaWd5nie_v8cJ_bXf9Urv1jjpm8O7QvUrY2j8-t5JM7WIur-6wfpfzZcNy9nxnDSghj_6iY\u003dw300-h400-rw-no-v1-nu",
   "buttons": [
-    "$29.99 $5.99 Buy",
-    "$4.49 Buy"
+    "Play for 180 min"
   ],
-  "description": "Experiment and have fun in the ultimate playground as Agent 47 to become the master assassin. Travel around the globe to exotic locations and eliminate your targets with everything from a katana or a sniper rifle to an exploding golf ball or some expired spaghetti sauce. The HITMAN - Game of The Year Edition includes: - All missions locations from the award-winning first season of HITMAN - \"Patient Zero\" Bonus campaign - 3 new Themed Escalation Contracts - 3 new Outfits - 3 new Weapons",
+  "description": "State Share To play Hitman game states that are shared with you, claim or buy the relevant bundle or add-on below. Ask the original player which content the game state uses. Experience a globetrotting adventure as Agent 47 and travel to exotic sandbox locations that are meticulously crafted and packed full of creative opportunities. When you purchase HITMAN 1, HITMAN 2 or HITMAN 3 on Stadia, you’ll play them seamlessly within HITMAN: World of Assassination.",
   "image_urls": [
-    "https://lh3.googleusercontent.com/iYkEnC9uQSfC9cOkFN7OwCC1MHKlRaVtJSkgSSRZKy1DyeWUXXwr_kJRG_pUfmwi89QI6ZL1S_87GmSFUk5oUcqAoQ81AIpMIZ8b04hShAJmPZrmYQthzNQ4J2k\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/dOSau31s8iEOWzGAZ7Vz6vnakH980OJwSFAAnFHYPlZh6fjp0L-e5VH2J0A91mLy8IOCk1yIyvNnPZ-4D7LMQNCW3HTkiTN_YWW_4nnlT8y0p262eTMd1YwdSm8\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/mcaome1o0GlcEL7VcE0r5YwlUPJ1qV4Dtksgx6HIwwLSAfE8W10JJ_ckSnZn_xynaxT95Ng9XpYvJlLgziFSrcd3D2HPYHdtdv6vn5qnfACW9-PY0or1pV09vQ\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/bby-NwObGiO0euXXLgmApX6eRGdnCvJDebFaH20nBpWwXxeZ2xfRF_Mo8NeCzwtlGmm1-By35QC6jVkHeYubL599iWeQMy5iEvJlT3Dy-wLJjCkYmFZLdoi6g7mv\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/ZV_k74BMcGpLgQjz-UBson7MUeOLMD6UmRgAKeVrhBFK97cbtlhrqtAfoSd7JQIltsoXJPZaL4gRkYOdpSDkaR4bS0ynX5ObYPpMziViZcNk05639Car51e0PZo\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/0YoT2lqoOIWrkECS0HU7EnUYk6mjQHumByxUyFbxOHR2VNJnVu_7fIWmxZkKB0Y0u5PHYc-tI_IpGs7UCtgKJKah46fF-ZICvNGnf635GRqfpa9JO47EChlDaJc\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/o63DQeAnNMkvFPgYOU14M6DD7mUJ2n_9KOWKECzIbhEhqFvOzZ2m53xijb2ZPSnHTL3a0GD8ptAN8rsXow8osUyjle26F3pa4T5-i99gZhqeVr_D3GwxZaevWoGK\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/Ym3PbOPIqkjwFzIp3NQvqiVjBse1pL9bswAft_BMv9v96tYcZYY2EpOxGW_LaxLe6HpSxjosVUNP8ul5vUO7xFUPnahs4Qw_Sd-uJI8UinJTT8bkN48eVwkF_dDG\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2020-09-01",
   "publisher": "IO Interactive",
@@ -75,8 +74,8 @@
   "pegi_min_age": "17",
   "pegi_notes": [
     "+ Blood",
-    "Intense Violence",
-    "Strong Language",
-    "Use of Drugs In-Game Purchases"
+    "Drug Reference",
+    "Intense Violence In-Game Purchases",
+    "Strong Language"
   ]
 }
