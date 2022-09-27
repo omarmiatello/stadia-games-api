@@ -31,20 +31,20 @@
 ## Games by **Game modes**
 | Game modes | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Single player | 392 | 350+ | 400+ |
-| Online multiplayer | 169 | 150+ | 200+ |
-| Competitive | 128 | 100+ | 150+ |
-| Online co-op | 117 | 100+ | 150+ |
-| Local multiplayer | 93 | 50+ | 100+ |
-| Local co-op | 72 | 50+ | 100+ |
-| Cross-platform multiplayer | 54 | 50+ | 100+ |
+| Single player | 393 | 350+ | 400+ |
+| Online multiplayer | 171 | 150+ | 200+ |
+| Competitive | 129 | 100+ | 150+ |
+| Online co-op | 119 | 100+ | 150+ |
+| Local multiplayer | 94 | 50+ | 100+ |
+| Local co-op | 73 | 50+ | 100+ |
+| Cross-platform multiplayer | 55 | 50+ | 100+ |
 | Split-screen | 23 | 20+ | 50+ |
 
 ## Games by **Supported input**
 | Supported input | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Keyboard/mouse | 396 | 350+ | 400+ |
-| Gamepad | 396 | 350+ | 400+ |
+| Keyboard/mouse | 397 | 350+ | 400+ |
+| Gamepad | 397 | 350+ | 400+ |
 | Partial gamepad support | 20 | 20+ | 50+ |
 | Peripheral controllers | 19 | 10+ | 20+ |
 | Touch support | 10 | 10+ | 20+ |
@@ -52,25 +52,25 @@
 ## Games by **Languages**
 | Languages | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| English | 403 | 400+ | 500+ |
-| French | 375 | 350+ | 400+ |
-| Spanish | 374 | 350+ | 400+ |
-| German | 369 | 350+ | 400+ |
-| Italian | 349 | 300+ | 350+ |
-| Russian | 194 | 150+ | 200+ |
-| Portuguese | 193 | 150+ | 200+ |
-| Chinese | 193 | 150+ | 200+ |
-| Japanese | 187 | 150+ | 200+ |
-| Korean | 160 | 150+ | 200+ |
-| Polish | 156 | 150+ | 200+ |
-| Dutch | 79 | 50+ | 100+ |
-| Czech | 60 | 50+ | 100+ |
-| Arabic | 60 | 50+ | 100+ |
-| Danish | 29 | 20+ | 50+ |
-| Turkish | 28 | 20+ | 50+ |
-| Swedish | 28 | 20+ | 50+ |
+| English | 405 | 400+ | 500+ |
+| French | 377 | 350+ | 400+ |
+| Spanish | 376 | 350+ | 400+ |
+| German | 371 | 350+ | 400+ |
+| Italian | 351 | 350+ | 400+ |
+| Russian | 195 | 150+ | 200+ |
+| Portuguese | 194 | 150+ | 200+ |
+| Chinese | 194 | 150+ | 200+ |
+| Japanese | 188 | 150+ | 200+ |
+| Korean | 161 | 150+ | 200+ |
+| Polish | 157 | 150+ | 200+ |
+| Dutch | 80 | 50+ | 100+ |
+| Czech | 61 | 50+ | 100+ |
+| Arabic | 61 | 50+ | 100+ |
+| Danish | 30 | 20+ | 50+ |
+| Turkish | 29 | 20+ | 50+ |
+| Swedish | 29 | 20+ | 50+ |
+| Norwegian | 26 | 20+ | 50+ |
 | Thai | 25 | 20+ | 50+ |
-| Norwegian | 25 | 20+ | 50+ |
 | Hungarian | 22 | 20+ | 50+ |
 | Finnish | 19 | 10+ | 20+ |
 | Romanian | 11 | 10+ | 20+ |
@@ -120,20 +120,20 @@
 ## Games by **Accessibility features**
 | Accessibility features | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Separate volume controls | 350 | 350+ | 400+ |
-| Button remapping | 302 | 300+ | 350+ |
-| Dialogue subtitles | 297 | 250+ | 300+ |
-| Difficulty levels | 234 | 200+ | 250+ |
-| Brightness constrast gamma adjustment | 217 | 200+ | 250+ |
-| Training mode | 96 | 50+ | 100+ |
-| Colorblind modes | 93 | 50+ | 100+ |
+| Separate volume controls | 352 | 350+ | 400+ |
+| Button remapping | 304 | 300+ | 350+ |
+| Dialogue subtitles | 298 | 250+ | 300+ |
+| Difficulty levels | 236 | 200+ | 250+ |
+| Brightness constrast gamma adjustment | 218 | 200+ | 250+ |
+| Training mode | 97 | 50+ | 100+ |
+| Colorblind modes | 94 | 50+ | 100+ |
 | Adjustable dialog text size | 76 | 50+ | 100+ |
 | Motion sickness options | 64 | 50+ | 100+ |
 | Sound captions | 56 | 50+ | 100+ |
-| Adjustable game interface | 55 | 50+ | 100+ |
+| Adjustable game interface | 56 | 50+ | 100+ |
 | Adjustable captions text size | 47 | 20+ | 50+ |
 | Skip repeated button presses | 35 | 20+ | 50+ |
 | Subtitle speed controls | 34 | 20+ | 50+ |
 | Copilot mode | 28 | 20+ | 50+ |
-| Skip challenges | 26 | 20+ | 50+ |
+| Skip challenges | 27 | 20+ | 50+ |
 | Skip QuickTime events | 18 | 10+ | 20+ |
