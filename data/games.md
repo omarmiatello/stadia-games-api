@@ -93,8 +93,9 @@
 1. [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/game/dreamworks-dragons-dawn-of-new-riders) - Play for 30 min
 1. [DreamWorks Dragons: Legends of The Nine Realms](https://stadia.google.com/game/dreamworks-dragons-legends-of-the-nine-realms)
 1. [DreamWorks Spirit Lucky's Big Adventure](https://stadia.google.com/game/dreamworks-spirit-luckys-big-adventure) - Play for 30 min
+1. [EA SPORTS™ FIFA 23](https://stadia.google.com/game/fifa-23) #LocalCoop #LocalMultiplayer
 1. [EA SPORTS™ FIFA 23 Standard Edition](https://stadia.google.com/game/fifa-23-standard-edition-preorder-product)
-1. [EA SPORTS™ FIFA 23 Ultimate Edition](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-late-product)
+1. [EA SPORTS™ FIFA 23 Ultimate Edition](https://stadia.google.com/game/fifa-23-ultimate-edition-preorder-late-bundle) #LocalCoop #LocalMultiplayer
 1. [EVERSPACE™](https://stadia.google.com/game/everspace) - Play for 120 min
 1. [El Hijo - A Wild West Tale](https://stadia.google.com/game/el-hijo-a-wild-west-tale) - Play for 30 min
 1. [Elemental War 2](https://stadia.google.com/game/elemental-war-2) - Play for 60 min

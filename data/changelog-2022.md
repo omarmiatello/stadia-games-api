@@ -1,3 +1,8 @@
+## 2022-09-27
+
+### 1 new game
+1. [EA SPORTS™ FIFA 23](https://stadia.google.com/game/fifa-23) #LocalCoop #LocalMultiplayer
+
 ## 2022-09-23
 
 ### 1 new game
