@@ -151,6 +151,7 @@
 1. [HITMAN 2 - Gold Edition](https://stadia.google.com/game/hitman2-gold-edition)
 1. [HITMAN 3 - Deluxe Edition](https://stadia.google.com/game/hitman-3-deluxe-edition)
 1. [HITMAN 3 - Standard Edition](https://stadia.google.com/game/hitman-3)
+1. [HOT WHEELS UNLEASHED™ - Game of the Year Edition](https://stadia.google.com/game/hot-wheels-unleashed-game-of-the-year-edition) - available also with #StadiaPro #LocalMultiplayer
 1. [HUMANKIND™](https://stadia.google.com/game/humankind) - Play for 120 min #DirectTouch
 1. [HUMANKIND™ - Digital Deluxe Edition](https://stadia.google.com/game/humankind-digital-deluxe-edition) #DirectTouch
 1. [Heist Simulator Early Access](https://stadia.google.com/game/heist-simulator)

@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 407,
+  "count": 408,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -576,18 +576,18 @@
     {
       "title": "FAR CRY 6",
       "url": "https://stadia.google.com/game/far-cry-6",
-      "img": "https://lh3.googleusercontent.com/K4P9mUZD7X4zrxmYc3LA3o96nCtQSCVOeSDTaCdW28BrpSy9ftJr17gq6fAnzr0ICFU-JiD4JENq_nwAEboxJ_MlNX8Qbz6be5Q-sI5fDGG9EVCKYBl2wpcHJ7St\u003dw300-h400-rw-no-v1-nu",
+      "img": "https://lh3.googleusercontent.com/kB2eM20jaFLUpwiH6JvOVNZ2JLl9Foi3Vpt4SGOiPVaJmxbYjwp5s1DRLgkg0s2_JN5VeSD2DOw_fxBX7LjyCGKs58GgJsoSsxmRYHhaP6wIT3aGRDZXqO82fLTG\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 120 min"
     },
     {
       "title": "FAR CRY 6 DELUXE EDITION",
       "url": "https://stadia.google.com/game/far-cry-6-deluxe-edition",
-      "img": "https://lh3.googleusercontent.com/D99zkohd7qZuBVtlvQv1mfmUThPrJaWM9zxF_YsUI8YQXLTTNMerJicf_HFSOcNkajk6aAjidb-CScSzyMrcVn8mu01no9jUnAQ8T0hEGlPI17OFfCIn8uVErxE\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/vxJd4gD_IX-cLyK82gpJbCa4OtYrPC0jQCdz3_Cb92hFd9ONJwj0gDR4LQFcxj72BQMSgQsbhoudN4nXUYI4gio6TviQLSS5dNeUY8Xs1X3b4Lj5XeicZEc6NSs\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "FAR CRY 6 Gold Edition",
       "url": "https://stadia.google.com/game/far-cry-6-gold-edition",
-      "img": "https://lh3.googleusercontent.com/oMyITwrcGneeb6KVuesnKa0WPu38EnRJslzfQb5w-x8W4aOud1s8AM2a7hvgrzCiALgKkQMnNtPQraiP0804gBFAsnZVilSfN_nno358ow_fClaPuQ6PS5XkGcIJ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/XPJDaZ8iRcDZ6HcU79xZYm9FnN5quvSF82ICAJlIRRIt0_aEs2LqyUDTayUyeBP-erzIoswswtV1LSh5bsHsRZGLYwetauOpSqXy3bYTQ9TLkfNsZU5qf1767MWf\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "FIFA 21",
@@ -648,7 +648,7 @@
     {
       "title": "Far Cry 6 Ultimate Edition",
       "url": "https://stadia.google.com/game/far-cry-6-ultimate-edition",
-      "img": "https://lh3.googleusercontent.com/l5yXRizt8FvaLCSInDHcg_Val9gdJLOuPucQPRXvqoV6FQJmuxTSW2-DQ4iKP_vSM1uqTI4BZktJMtB_s43DkiUK0Uv18kcGn6SHRumUKlUi64viSanZjgWBpgY\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/TnpZ2VPbI6sYK93J8QmC3jn-hk1vU1w4JJFIFhUUVZobKycUZmxaWCUerCuyF32ozDCCUUBOTTuajFmZvx6pPrNjNAtIq68j9hkRF6dV0_Z3fonmxE6Mzz2FSmQ\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Far Cry Primal",
@@ -819,6 +819,11 @@
       "title": "HITMAN 3 - Standard Edition",
       "url": "https://stadia.google.com/game/hitman-3",
       "img": "https://lh3.googleusercontent.com/TUP6gTeQuxdxXPMk90OMyUqI1Wlkf6on_omOYvk8WvJ48Cji-ZphsQE0efawuhlVbSAH2ZFvhGLR3xWKBnpb30jX1iFCxHDlbkouzce4ibbUimx37IKIEUo4BE0\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
+      "title": "HOT WHEELS UNLEASHED™ - Game of the Year Edition",
+      "url": "https://stadia.google.com/game/hot-wheels-unleashed-game-of-the-year-edition",
+      "img": "https://lh3.googleusercontent.com/PCVrXryDqnOYyH596lmw6VRPDJ1YrYXDzyGHxn5g1Uz63U8LvlbYjE-elWLmZIc5uXJYBTlkbdW64lBBzNNxXia4BZd8Y-A-2F9qxaKv7Zw8nbRobMTHE9-WP78\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "HUMANKIND™",
@@ -1425,12 +1430,12 @@
     {
       "title": "RAGE 2",
       "url": "https://stadia.google.com/game/rage-2",
-      "img": "https://lh3.googleusercontent.com/hzHvUWEcdhTYjseUhTILrYFm-LfGGzlkdwD9n_jyNiPHbaclfPycTdJ6iCi3qUMSHZElCtFpu19P2SM3No5VN-sDEkG6uhgNHAUwCOZT1NGIkU3LXuo2xbbJZac\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/3HN1oKc0snkP0FngLeh335-bkL1BMcEUyOPpfK5xmSxqYj9aVDrhKoH-CgRbPzAYMTxgSuAuKVgOgIeSRbyLNpN8KdnKJKWTyrLIzRUBsTwqjyMREAWUxG7cd64\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "RAGE 2: Deluxe Edition",
       "url": "https://stadia.google.com/game/rage-2-deluxe-edition",
-      "img": "https://lh3.googleusercontent.com/BHosVH8z4cBdnqfEzg0e_8ot9HwHN9NWwoToyegSEslt_Yu7cd8InsrnXuh8167LfXvcy1RPamEK_llbjX_eySR7kvp4kIES1cWvVEt7wLXTUrMUe9aQiqkaznQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/wTvk1R_MwrBdXRZFnD6DyKQw1s5_EJ2TWyzaCubt12OW-vDQBWWqUAlRf3rKhf2khugYhgFcKfU3Ie1vGLUBQtOKtoL2TuBucWQHYS5uL1PcFKZaQZdtFc17A6g\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "RAINBOW SIX: EXTRACTION",
@@ -1492,7 +1497,7 @@
     {
       "title": "Resident Evil Village",
       "url": "https://stadia.google.com/game/resident-evil-village",
-      "img": "https://lh3.googleusercontent.com/9n5AuFWz6shtd1kH5w6rfZY6KM8yvwlrCWib6E4GddL1qLRHFPS8Rc_pqdPEtqek4yGm6yfC3UZNOZJH5WG9AFt-OIIwLoN6aY18G13f-LUXEuQvG2Ul8bsdsQ\u003dw300-h400-rw-no-v1-nu"
+      "img": "https://lh3.googleusercontent.com/s7lqgZpjiHJFx28PzP8rcLRiPB-xU6OQlB68V_OGkRfGwXFMDW9feakmHUjSPnoMFZA0CUQVS937a0lPbCDId9vn8YRVgTZflHc2zi6HmHKzCjnf66WjCVDrXg\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Resident Evil Village Gameplay Demo",
