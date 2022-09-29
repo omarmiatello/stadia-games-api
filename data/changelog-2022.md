@@ -1,5 +1,10 @@
 ## 2022-09-29
 
+### 1 new demo
+1. [HOT WHEELS UNLEASHED™ - Game of the Year Edition](https://stadia.google.com/game/hot-wheels-unleashed-game-of-the-year-edition) - Play for 60 min - available also with #StadiaPro #LocalMultiplayer
+
+## 2022-09-29
+
 ### 1 new game
 1. [HOT WHEELS UNLEASHED™ - Game of the Year Edition](https://stadia.google.com/game/hot-wheels-unleashed-game-of-the-year-edition) - available also with #StadiaPro #LocalMultiplayer
 
