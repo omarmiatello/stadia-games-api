@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 175,
+  "count": 180,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -24,6 +24,11 @@
       "url": "https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion",
       "img": "https://lh3.googleusercontent.com/LF3J8rkkwxKhKbazX8J06gjo76MD5L9DOF1IFgbtSlmP8FgJ9iRoFfNdnisTzEe4Q2F7aeVGq-ifunxceAGaSuB3kERYEZFtuuNIai4H3K2V9bUu_eRuF-sF_pM\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 30 min"
+    },
+    {
+      "title": "Arcade Paradise",
+      "url": "https://stadia.google.com/game/arcade-paradise",
+      "img": "https://lh3.googleusercontent.com/wOd62JpThiiOHLHMvbZ8GSuJhDxdx6OUa1gSfxFMv-MTUnwfOjQSsEdE2ExM30H6kxkZvsXqf8CWGvLlAFycGETKIlQ3d2--3ai4xfZnBN2td5RI940yLVVUy68\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Ary and the Secret of Seasons",
@@ -214,6 +219,11 @@
       "url": "https://stadia.google.com/game/destroy-all-humans",
       "img": "https://lh3.googleusercontent.com/LZirByJawgXMtETlEmAzTrrJEAKA3_il9RDI1ruM7ne8m95Ld39bZxcXOYiOpKBqJ4FfVf-XDBNeogNSmaiQB9rkRmO0GxlJEmCTpRKowPpOK4qaIWyjIaHiiA\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 30 min"
+    },
+    {
+      "title": "Drawful 2",
+      "url": "https://stadia.google.com/game/drawful-2",
+      "img": "https://lh3.googleusercontent.com/VM0S4EwhhtlVYsFMBf1z_mz7OTrmdYLnEECIVHPsbpyCF0lc571qBLwmdl117Xz8gkn7hIbJ3nB7UHfNPManLKs0DkO7jBGZqc78eDRa7Y6FCv6kejrssV6RNwM\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "DreamWorks Dragons: Dawn of New Riders",
@@ -486,6 +496,11 @@
       "url": "https://stadia.google.com/game/little-nightmares-complete-edition",
       "img": "https://lh3.googleusercontent.com/MtcFbk2GP7lxcWyb9ymNHiHXlL1R7laIpWOmiXem-Q6BTp0FTfcrLcGusYdXL9csAdbuk1JGjTBwUR_hRMP2WLNvNwGgbCHOWGbM4bD9WDz5UsKIxpAOnFHH4dA\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 30 min"
+    },
+    {
+      "title": "Looking for Aliens",
+      "url": "https://stadia.google.com/game/looking-for-aliens",
+      "img": "https://lh3.googleusercontent.com/9fiMFW2W7idCRjB1rkUnJV7sLlN2AswR5Du9nfuuHmPXULDyFcJ8mWM3-Ur--Ol0ij5o-IkARkVCleR0ORUkiuDK8ne1K2g4qhelo7wBNbPf1eUC3ccBHsC4rrk0\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Lost Words: Beyond the Page",
@@ -788,6 +803,11 @@
       "button": "Play for 30 min"
     },
     {
+      "title": "Slaycation Paradise",
+      "url": "https://stadia.google.com/game/slaycation-paradise",
+      "img": "https://lh3.googleusercontent.com/EpbCZ5q19MTnQrRoW7yKlOiUf9G39YvpS6AE-2um7np8erxyXPegBn5sFq-zvVdftrKGIr6DTj5ZqbrI5MfsFLBuSPCucV0dHJnSiLJ5iqs34sZhdncSb8qRJ-o\u003dw300-h400-rw-no-v1-nu"
+    },
+    {
       "title": "Sniper Elite 4",
       "url": "https://stadia.google.com/game/sniper-elite-4",
       "img": "https://lh3.googleusercontent.com/_D6oMAGmmukQpdpNgFbkam-eeR7aF7TH50jqCSweQoI1kO8pFDpzQj0KRNAPsG31y2r8hDNYnwAU1hHy6tnlWfTVK7LfgXsr_S4zEJwJErIeamFr3dBhx0obLIM\u003dw300-h400-rw-no-v1-nu",
@@ -870,6 +890,11 @@
       "url": "https://stadia.google.com/game/transformers-battlegrounds-complete-edition",
       "img": "https://lh3.googleusercontent.com/XT7BneQBkalw-zJzNep5DknTkK6qqV62bufvTPMIy-0iRtrazMN8L-jNhQasbHf6gIpYeCdhEvVAEg0uyNfyMhjxj-K7FKXZWec0hjMY0yQuTuOHqyU2y4EpE7uO\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 30 min"
+    },
+    {
+      "title": "Tangle Tower",
+      "url": "https://stadia.google.com/store/details/88926d0fbc584e7d88b4bad03ea19e34rcp1/sku/b8cd91e8f6ae4fe49eee8d1181565146p",
+      "img": "https://lh3.googleusercontent.com/JrHakhwfpAGBi2BUzemztUh0rKke62ou7A7174kQAmSXDjuSGrvows81K9VFohOjfgHlmH6UsVmdMHR6DdYGZsWWcG69lKeVdfO-DnLcHZhg10lFb7fnltyAOg\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Terraria",

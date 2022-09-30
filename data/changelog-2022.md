@@ -1,3 +1,12 @@
+## 2022-09-30
+
+### 5 new games
+1. [Arcade Paradise](https://stadia.google.com/game/arcade-paradise) - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Drawful 2](https://stadia.google.com/game/drawful-2) - available also with #StadiaPro #LocalMultiplayer #DirectTouch
+1. [Looking for Aliens](https://stadia.google.com/game/looking-for-aliens) - available also with #StadiaPro #DirectTouch
+1. [Slaycation Paradise](https://stadia.google.com/game/slaycation-paradise) - available also with #StadiaPro
+1. [Tangle Tower](https://stadia.google.com/store/details/88926d0fbc584e7d88b4bad03ea19e34rcp1/sku/b8cd91e8f6ae4fe49eee8d1181565146p) - available also with #StadiaPro #DirectTouch
+
 ## 2022-09-29
 
 ### 1 new demo

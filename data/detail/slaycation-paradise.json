@@ -1,0 +1,83 @@
+{
+  "title": "Slaycation Paradise",
+  "url": "https://stadia.google.com/game/slaycation-paradise",
+  "img": "https://lh3.googleusercontent.com/EpbCZ5q19MTnQrRoW7yKlOiUf9G39YvpS6AE-2um7np8erxyXPegBn5sFq-zvVdftrKGIr6DTj5ZqbrI5MfsFLBuSPCucV0dHJnSiLJ5iqs34sZhdncSb8qRJ-o\u003dw300-h400-rw-no-v1-nu",
+  "buttons": [
+    "Claim with Pro"
+  ],
+  "description": "Are you tired of the same boring old vacations? Then boy have we got the tonic for you! Slaycation Paradise offers the ultimate in multi-dimensional apocalyptic tours. Slay away your worries with Twin-Stick action mixed with Tower Defence as you visit the end-of-world scenarios of your dreams!",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/GlHuO7owFoaaiNJ5uByanTI4f-pHrEW97cG0HuBrlMtSqbdXXWty7_owkysyhoQXYgtmx0zh6IPKes897XpVn5bmGH5zCTn9SOto71rvUprRQB6P-4ffeyqYheY\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/h9ejmWlJAYH-sCQOg1aCh_je1xNzHq1ikF49zadV4ECBK3c3kVSLB_kXn9nLsmerWGFZgRuYGiQl-8JlVG1xsVvkV7pN5ZlZHxVAKo7zSVkWyvRtMsHrOq1klA\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/djbTmRRK_TajKDgsQlQbmVWKCGGjU1NjmBEBBevOAh3X9XzD8S0FWooZyKyWnkrKRl3cZfjj8lCybeNXaGvESW_tZOkvOdfRRwNfD4zl9xTln6ONvscFGjS7jg\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/AkBR-hGEiodmkt7YHTzdUHg48kdgAoos12tiFottqYaXIdgLwkmV3JhFaE-i0a3m4J92J9CjLg0nZZmG2mIMJpsuptmNKt86MjsRT72hgjJcXLHOt6r1v9I2TYI\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/DVQAUKN3qN0aqW5tYAMTZ5KcNNAZ0i8RxXY855M5TTtFrjBwUTSzuUkin6Ksh0Hv-E6NlN_e-FAMUAHowsusAfFG6rD1j8GE_ayjd8vjm1pAlNS0BmfvVinmyMs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/8AkIlJgX4DJStx3egzngruXirnTsk53PKJbfasgpBzWZhHDCyzqd-vp2oHoMzqeoZtUZ90x-nkLrJ9zlBQ5sSwa2dtL3VahYejjuf3DFjNK_e53Sr18_7ssvsQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/B41jQJRMvHOIdKPNBCPErLrinvD7Qs6gj5YENhgMvFiRFM4PQv6ZFsFybtVXBknjQpe2aSz6NtKbtQgB9EtRJxm8dzSiznpom9vcvJiF1L42iYLoe6rQAe6qVvU\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/of4df4lwjJQku482wWZJlEa17vwRs6rRtTy24X9oIYFV6mDlslLnBT70SZPeZeArra75tubuGFCPsk0xZEj7H2pUbtR2hyQPfBjXpLmMSNRwzT8NkmBVw3rU2ZKd\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2022-09-01",
+  "publisher": "Merge Games",
+  "developer": "Merge Games",
+  "languages": [
+    "Chinese",
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "Spanish"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Action",
+    "Shooter"
+  ],
+  "game_modes": [
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Button remapping",
+    "Difficulty levels",
+    "Separate volume controls",
+    "Skip QuickTime events"
+  ],
+  "extra": {
+    "in-game elements might be unreadable": "Web, Mobile"
+  },
+  "notes": "Copyright © 2022 Published by Merge Games, Developed by Affordable Acquisition. All rights reserved.",
+  "pegi_min_age": "17",
+  "pegi_notes": [
+    "+ Blood and Gore",
+    "Strong Language",
+    "Suggestive Themes",
+    "Violence"
+  ]
+}
