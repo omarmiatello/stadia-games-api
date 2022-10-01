@@ -2,7 +2,7 @@
 1. [ARK: Survival Evolved](https://stadia.google.com/game/ark-survival-evolved) - available also with #StadiaPro
 1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min #DirectTouch
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion) - Play for 30 min
-1. [Arcade Paradise](https://stadia.google.com/game/arcade-paradise) - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Arcade Paradise](https://stadia.google.com/game/arcade-paradise) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
 1. [Assassin's Creed Valhalla](https://stadia.google.com/game/assassins-creed-valhalla) - Play for 120 min
 1. [Asteroids: Recharged](https://stadia.google.com/game/asteroids-recharged) - Play for 30 min #LocalCoop
@@ -82,7 +82,7 @@
 1. [Lake](https://stadia.google.com/game/lake) - Play for 90 min - available also with #StadiaPro
 1. [Little Big Workshop](https://stadia.google.com/game/little-big-workshop) - Play for 30 min
 1. [Little Nightmares Complete Edition](https://stadia.google.com/game/little-nightmares-complete-edition) - Play for 30 min
-1. [Looking for Aliens](https://stadia.google.com/game/looking-for-aliens) - available also with #StadiaPro #DirectTouch
+1. [Looking for Aliens](https://stadia.google.com/game/looking-for-aliens) - Play for 30 min - available also with #StadiaPro #DirectTouch
 1. [Lost Words: Beyond the Page](https://stadia.google.com/game/lost-words-beyond-the-page) - Play for 30 min
 1. [Lumote: The Mastermote Chronicles](https://stadia.google.com/game/lumote-the-mastermote-chronicles) - Play for 30 min - available also with #StadiaPro
 1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min #LocalCoop #LocalMultiplayer

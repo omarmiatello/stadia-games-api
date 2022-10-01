@@ -1,3 +1,9 @@
+## 2022-10-01
+
+### 2 new demos
+1. [Arcade Paradise](https://stadia.google.com/game/arcade-paradise) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Looking for Aliens](https://stadia.google.com/game/looking-for-aliens) - Play for 30 min - available also with #StadiaPro #DirectTouch
+
 ## 2022-09-30
 
 ### 5 new games
