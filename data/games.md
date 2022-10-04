@@ -3,6 +3,7 @@
 1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min #DirectTouch
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion) - Play for 30 min
 1. [Arcade Paradise](https://stadia.google.com/game/arcade-paradise) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/are-you-smarter-than-a-5th-grader) - Play for 30 min #LocalMultiplayer
 1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
 1. [Assassin's Creed Valhalla](https://stadia.google.com/game/assassins-creed-valhalla) - Play for 120 min
 1. [Asteroids: Recharged](https://stadia.google.com/game/asteroids-recharged) - Play for 30 min #LocalCoop
@@ -15,11 +16,11 @@
 1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
 1. [Calico](https://stadia.google.com/game/calico) - Play for 60 min - available also with #StadiaPro
 1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
-1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min - available also with #StadiaPro
+1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min
 1. [Chorus Demo](https://stadia.google.com/game/chorus-demo)
 1. [Chronos: Before the Ashes](https://stadia.google.com/game/chronos-before-the-ashes) - Play for 30 min
 1. [Cities: Skylines - Stadia™ Edition](https://stadia.google.com/game/cities-skylines-stadia-edition) - Play for 60 min - available also with #StadiaPro
-1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min - available also with #StadiaPro #DirectTouch
+1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min #DirectTouch
 1. [Control Ultimate Edition](https://stadia.google.com/game/control) - Play trial - available also with #StadiaPro
 1. [Cosmic Star Heroine](https://stadia.google.com/game/cosmic-star-heroine) - Play for 60 min
 1. [Crayta](https://stadia.google.com/game/crayta) - Play for 60 min
@@ -46,7 +47,7 @@
 1. [Epistory - Typing Chronicles](https://stadia.google.com/game/epistory-typing-chronicles) - Play for 60 min
 1. [FAR CRY 6](https://stadia.google.com/game/far-cry-6) - Play for 120 min
 1. [FORECLOSED](https://stadia.google.com/game/foreclosed) - Play for 60 min
-1. [Far Cry Primal](https://stadia.google.com/game/far-cry-primal) - Play for 60 min - available also with #UbisoftPlus
+1. [Far Cry Primal](https://stadia.google.com/game/far-cry-primal) - Play for 60 min
 1. [Farming Simulator 22](https://stadia.google.com/game/farming-simulator-22) - Play for 180 min
 1. [Fast and Furious: Spy Racers Rise of SH1FT3R](https://stadia.google.com/game/fast-and-furious-spy-racers-rise-of-sh1ft3r) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
 1. [Figment](https://stadia.google.com/game/figment) - Play for 30 min
@@ -98,6 +99,7 @@
 1. [Murder by Numbers](https://stadia.google.com/game/murder-by-numbers) - Play for 60 min - available also with #StadiaPro
 1. [My Friend Peppa Pig](https://stadia.google.com/game/my-friend-peppa-pig) - Play for 30 min
 1. [Nanotale - Typing Chronicles](https://stadia.google.com/game/nanotale-typing-chronicles) - Play for 60 min
+1. [Neighbours back From Hell](https://stadia.google.com/game/neighbours-back-from-hell) - Play for 30 min
 1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
 1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min - available also with #StadiaPro
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
@@ -136,7 +138,7 @@
 1. [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/game/shantae-riskys-revenge-directors-cut) - Play for 30 min
 1. [Slaycation Paradise](https://stadia.google.com/game/slaycation-paradise) - available also with #StadiaPro
 1. [Sniper Elite 4](https://stadia.google.com/game/sniper-elite-4) - Play trial
-1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min - available also with #StadiaPro #LocalCoop
+1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min #LocalCoop
 1. [Spitlings](https://stadia.google.com/game/spitlings) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [SpongeBobSquarePants:Battle for Bikini BottomRehydrated](https://stadia.google.com/game/spongebobsquarepantsbattle-for-bikini-bottomrehydrated) - Play for 30 min #LocalMultiplayer
 1. [SteamWorld Dig](https://stadia.google.com/game/steamworld-dig) - Play for 60 min
@@ -151,7 +153,7 @@
 1. [TRANSFORMERS: BATTLEGROUNDS - Complete Edition](https://stadia.google.com/game/transformers-battlegrounds-complete-edition) - Play for 30 min #LocalMultiplayer
 1. [Tangle Tower](https://stadia.google.com/store/details/88926d0fbc584e7d88b4bad03ea19e34rcp1/sku/b8cd91e8f6ae4fe49eee8d1181565146p) - available also with #StadiaPro #DirectTouch
 1. [Terraria](https://stadia.google.com/game/terraria) - Play for 90 min - available also with #StadiaPro
-1. [The Addams Family: Mansion Mayhem](https://stadia.google.com/game/the-addams-family-mansion-mayhem) - Play for 30 min #LocalCoop #LocalMultiplayer
+1. [The Addams Family: Mansion Mayhem](https://stadia.google.com/game/the-addams-family-mansion-mayhem) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [The Darkside Detective](https://stadia.google.com/game/the-darkside-detective) - Play for 60 min
 1. [The Darkside Detective: A Fumble in the Dark](https://stadia.google.com/game/the-darkside-detective-a-fumble-in-the-dark) - Play for 60 min
 1. [The Falconeer](https://stadia.google.com/game/the-falconeer) - Play for 60 min
@@ -174,7 +176,7 @@
 1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Wreckfest](https://stadia.google.com/game/wreckfest) - Play for 30 min - available also with #StadiaPro
 1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
-1. [Ys IX: Monstrum Nox](https://stadia.google.com/game/ys-ix-monstrum-nox) - Play for 120 min - available also with #StadiaPro
+1. [Ys IX: Monstrum Nox](https://stadia.google.com/game/ys-ix-monstrum-nox) - Play for 120 min
 1. [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/game/ys-viii-lacrimosa-of-dana) - Play for 120 min
 1. [Zombie Army 4: Dead War](https://stadia.google.com/game/zombie-army-4-dead-war) - Play for 60 min
 1. [Zorro The Chronicles](https://stadia.google.com/game/zorro-the-chronicles) - Play for 60 min

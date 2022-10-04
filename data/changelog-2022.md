@@ -1,3 +1,13 @@
+## 2022-10-04
+
+### 2 new games
+1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/are-you-smarter-than-a-5th-grader) - Play for 30 min #LocalMultiplayer
+1. [Neighbours back From Hell](https://stadia.google.com/game/neighbours-back-from-hell) - Play for 30 min
+
+### 2 new demos
+1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/are-you-smarter-than-a-5th-grader) - Play for 30 min #LocalMultiplayer
+1. [Neighbours back From Hell](https://stadia.google.com/game/neighbours-back-from-hell) - Play for 30 min
+
 ## 2022-10-01
 
 ### 2 new demos
