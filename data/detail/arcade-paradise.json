@@ -1,17 +1,20 @@
 {
   "title": "Arcade Paradise",
   "url": "https://stadia.google.com/game/arcade-paradise",
-  "img": "https://lh3.googleusercontent.com/wOd62JpThiiOHLHMvbZ8GSuJhDxdx6OUa1gSfxFMv-MTUnwfOjQSsEdE2ExM30H6kxkZvsXqf8CWGvLlAFycGETKIlQ3d2--3ai4xfZnBN2td5RI940yLVVUy68\u003dw300-h400-rw-no-v1-nu",
+  "img": "https://lh3.googleusercontent.com/I6IIOKaxVDz7hjRMkJiaj-mruwqEWzL2jBnHdPUQ-t0infr3l9hg36VPGVZ9Mjp6YXaGxhPm5XXa_Z9CpRoWRswvztQt3mv0YGxDUZkynuDtvcZPrRsD04g8ZEE\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 60 min",
   "buttons": [
+    "Play for 60 min",
+    "$19.99 Buy",
     "Claim with Pro"
   ],
   "description": "Welcome to Arcade Paradise, the 90’s retro arcade game and light-management sim combo! Take on the role of Ashley and manage the day-to-day tasks of running the family laundromat. Rebel against your father’s wishes and create a games arcade to give the sleepy town of Grindstone something to really get excited about as you wash rags, invest the profits and build your very own Arcade Paradise! The more arcade cabinets you install, the more players will spend, with over 35 fully playable games to unlock! But remember, you don’t have time to just stand around setting the highest scores… the toilet won’t clean itself and there’s trash to take out!",
   "image_urls": [
-    "https://lh3.googleusercontent.com/CwE8CBWHTgT2TrFgOKrRN0ZYUkjl3woPbe1VTpNWt4RZtfJ_CZ9AU2qo2wUBzLqst_IeskQS3wBpaamGl549jKMx2ncA1azr0HSEQ3iuwMnC9_kFOkmfej7AkCun\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/9rQq3UBCN6Bt_2Qn1DEjRVYRvnIvQGG6NSeQPDL7qv9RzAbxrgtu38tbUDpUXAx8cyMo0uV4DyuPhDjTAOB6Btem8QS7p4qnijBgVhQbDOY_a2ZOSOQH-RU7I1s\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/Q-FlyUUJcVIVbL_bnKiKP1ycWFD9vCmEf_EZGXT9T3-hAPI2V-793LsZmnUDMzyyFmmldqaClUGg8gfLVRHvpAaoUn6P-tEkqoPMTZ9ADtHMb84LRE57kNg7ZcM\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/ZBOaIo9v3-sGuW_9377FfmozQcQutbGd5LWAr98W-CBHbSijt4yKIc9EZ975eRl9WDZeB-X87Mh5B0wwOQ7w3ZfDErghTka7D5g_rCa-DWF3H1tVrlPWMTss8nCo\u003dw588-h384-rw-no-v1-nu",
-    "https://lh3.googleusercontent.com/Ba_WMSfYWDwFxuXCFzuFCcdU9lNSX6QrtU7uVL96aAzJul3FTIEm8xkh996Qsvps6N8zZi6--myr-RVO1CFC3xr3PnXY9LrUMHh6OKEJVcMhO_x3a1VipJ5mq7s\u003dw588-h384-rw-no-v1-nu"
+    "https://lh3.googleusercontent.com/wi0W7Aq83KYsNakGc9zHHBQl_Gk1hlVjqpw_vTBq-zD6j1TazquVaw8vel8CX1LYhHEsLoSz2v7uSs10u9IbseE9LDtv2PL-QpXcSyS2YHyQ4nhkH4xzIq4-EVZw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/UQ3gMfh08EO2STibmKYnJ2BbSBK9iaMh2UkO9EVdFa4Kjgh_4jta91LY7pBqtwWpqKtlaQBc33l2cZ7yVizJFkm3Q6OkwpHPNZlv7l-dTb5ypjmcr9wKcOUshSs\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/5uHJr5CCYkoZno40p2AJ0ow0XkUR6lwpSLLv5ofabIjgPmhwPytri6_OGpRYJyin5TVUQKsmX7ilfaFt-a-PUkWCY4pom4NeFIFD5-7BPYj_f5FHcqtOGmDcxk0\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/LgRv_NDzX8OUueRdAus1iOx11vHQErEmXpwx01aZxd0G91syfrjwmvqgMz4zEVzAjFd_02-aZdV82_WwTdaUoGKwg9yIpkk8vLq_rsHA4qMNCrxfLsQvE2go7yPw\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/jYIvWaL8dVzYpq_Wtdz29BTKyHItgG0jCziJ2jImdU4_x9EXCmhZsa5YUZmCFVzydwISS4jKIbtO-rzC5lgIfWE3k8yT-ibbk7jmowKQz63OPcE9PHg1nua0VEM\u003dw588-h384-rw-no-v1-nu"
   ],
   "release_date": "2022-10-01",
   "publisher": "Wired Productions",
