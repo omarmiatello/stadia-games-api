@@ -2,7 +2,6 @@
 1. [ARK: Survival Evolved](https://stadia.google.com/game/ark-survival-evolved) - available also with #StadiaPro
 1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min #DirectTouch
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion) - Play for 30 min
-1. [Arcade Paradise](https://stadia.google.com/game/arcade-paradise) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/are-you-smarter-than-a-5th-grader) - Play for 30 min #LocalMultiplayer
 1. [Ary and the Secret of Seasons](https://stadia.google.com/game/ary-and-the-secret-of-seasons) - Play for 60 min
 1. [Assassin's Creed Valhalla](https://stadia.google.com/game/assassins-creed-valhalla) - Play for 120 min
@@ -36,7 +35,6 @@
 1. [Deliver Us The Moon](https://stadia.google.com/game/deliver-us-the-moon) - Play for 30 min - available also with #StadiaPro
 1. [Destiny 2](https://stadia.google.com/game/destiny-2)
 1. [Destroy All Humans!](https://stadia.google.com/game/destroy-all-humans) - Play for 30 min - available also with #StadiaPro
-1. [Drawful 2](https://stadia.google.com/game/drawful-2) - available also with #StadiaPro #LocalMultiplayer #DirectTouch
 1. [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/game/dreamworks-dragons-dawn-of-new-riders) - Play for 30 min
 1. [DreamWorks Spirit Lucky's Big Adventure](https://stadia.google.com/game/dreamworks-spirit-luckys-big-adventure) - Play for 30 min
 1. [EVERSPACE™](https://stadia.google.com/game/everspace) - Play for 120 min
@@ -83,7 +81,6 @@
 1. [Lake](https://stadia.google.com/game/lake) - Play for 90 min - available also with #StadiaPro
 1. [Little Big Workshop](https://stadia.google.com/game/little-big-workshop) - Play for 30 min
 1. [Little Nightmares Complete Edition](https://stadia.google.com/game/little-nightmares-complete-edition) - Play for 30 min
-1. [Looking for Aliens](https://stadia.google.com/game/looking-for-aliens) - Play for 30 min - available also with #StadiaPro #DirectTouch
 1. [Lost Words: Beyond the Page](https://stadia.google.com/game/lost-words-beyond-the-page) - Play for 30 min
 1. [Lumote: The Mastermote Chronicles](https://stadia.google.com/game/lumote-the-mastermote-chronicles) - Play for 30 min - available also with #StadiaPro
 1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min #LocalCoop #LocalMultiplayer
@@ -136,7 +133,6 @@
 1. [Serious Sam Collection](https://stadia.google.com/game/serious-sam-collection) - Play for 30 min
 1. [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition) - Play for 60 min - available also with #StadiaPro
 1. [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/game/shantae-riskys-revenge-directors-cut) - Play for 30 min
-1. [Slaycation Paradise](https://stadia.google.com/game/slaycation-paradise) - available also with #StadiaPro
 1. [Sniper Elite 4](https://stadia.google.com/game/sniper-elite-4) - Play trial
 1. [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition) - Play for 30 min #LocalCoop
 1. [Spitlings](https://stadia.google.com/game/spitlings) - Play for 30 min #LocalCoop #LocalMultiplayer
@@ -151,7 +147,6 @@
 1. [Super Animal Royale](https://stadia.google.com/game/super-animal-royale) - Play for 60 min
 1. [TOHU](https://stadia.google.com/game/tohu) - Play for 30 min - available also with #StadiaPro
 1. [TRANSFORMERS: BATTLEGROUNDS - Complete Edition](https://stadia.google.com/game/transformers-battlegrounds-complete-edition) - Play for 30 min #LocalMultiplayer
-1. [Tangle Tower](https://stadia.google.com/store/details/88926d0fbc584e7d88b4bad03ea19e34rcp1/sku/b8cd91e8f6ae4fe49eee8d1181565146p) - available also with #StadiaPro #DirectTouch
 1. [Terraria](https://stadia.google.com/game/terraria) - Play for 90 min - available also with #StadiaPro
 1. [The Addams Family: Mansion Mayhem](https://stadia.google.com/game/the-addams-family-mansion-mayhem) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [The Darkside Detective](https://stadia.google.com/game/the-darkside-detective) - Play for 60 min
