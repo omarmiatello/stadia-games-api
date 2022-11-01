@@ -126,7 +126,6 @@
 1. [SUPER BOMBERMAN R ONLINE](https://stadia.google.com/game/super-bomberman-r-online)
 1. [SUPERHOT](https://stadia.google.com/game/superhot) - Play for 30 min
 1. [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/game/superhot-mind-control-delete) - Play for 30 min
-1. [Saints Row IV: Re-Elected](https://stadia.google.com/game/saints-row-iv-re-elected) - available also with #StadiaPro
 1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered) - Play for 60 min - available also with #StadiaPro
 1. [Secret Neighbor](https://stadia.google.com/game/secret-neighbor) - Play for 60 min
 1. [Serious Sam 4](https://stadia.google.com/game/serious-sam-4) - Play for 30 min

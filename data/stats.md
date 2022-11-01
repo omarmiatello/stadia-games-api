@@ -2,17 +2,17 @@
 ## Overview
 | Stats | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Stadia games | 177 | 150+ | 200+ |
+| Stadia games | 176 | 150+ | 200+ |
 | Stadia demos | 163 | 150+ | 200+ |
-| Games on Stadia Pro | 48 | 20+ | 50+ |
+| Games on Stadia Pro | 47 | 20+ | 50+ |
 
 ## Games by **Genre**
 | Genre | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
 | Adventure | 92 | 50+ | 100+ |
-| Action | 92 | 50+ | 100+ |
+| Action | 91 | 50+ | 100+ |
 | Indie | 35 | 20+ | 50+ |
-| Shooter | 25 | 20+ | 50+ |
+| Shooter | 24 | 20+ | 50+ |
 | Arcade | 19 | 10+ | 20+ |
 | Kids & family | 17 | 10+ | 20+ |
 | Role-playing game | 16 | 10+ | 20+ |
@@ -31,19 +31,19 @@
 | Game modes | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
 | Single player | 168 | 150+ | 200+ |
-| Online multiplayer | 48 | 20+ | 50+ |
+| Online multiplayer | 47 | 20+ | 50+ |
 | Local multiplayer | 40 | 20+ | 50+ |
 | Local co-op | 33 | 20+ | 50+ |
 | Competitive | 30 | 20+ | 50+ |
-| Online co-op | 29 | 20+ | 50+ |
+| Online co-op | 28 | 20+ | 50+ |
 | Split-screen | 14 | 10+ | 20+ |
 | Cross-platform multiplayer | 13 | 10+ | 20+ |
 
 ## Games by **Supported input**
 | Supported input | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Gamepad | 174 | 150+ | 200+ |
-| Keyboard/mouse | 172 | 150+ | 200+ |
+| Gamepad | 173 | 150+ | 200+ |
+| Keyboard/mouse | 171 | 150+ | 200+ |
 | Touch support | 7 | 5+ | 10+ |
 | Peripheral controllers | 6 | 5+ | 10+ |
 | Partial gamepad support | 5 | 5+ | 10+ |
@@ -51,16 +51,16 @@
 ## Games by **Languages**
 | Languages | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| English | 177 | 150+ | 200+ |
-| Spanish | 159 | 150+ | 200+ |
-| French | 157 | 150+ | 200+ |
-| German | 155 | 150+ | 200+ |
-| Italian | 145 | 100+ | 150+ |
+| English | 176 | 150+ | 200+ |
+| Spanish | 158 | 150+ | 200+ |
+| French | 156 | 150+ | 200+ |
+| German | 154 | 150+ | 200+ |
+| Italian | 144 | 100+ | 150+ |
 | Portuguese | 83 | 50+ | 100+ |
-| Russian | 74 | 50+ | 100+ |
+| Russian | 73 | 50+ | 100+ |
 | Chinese | 71 | 50+ | 100+ |
-| Japanese | 67 | 50+ | 100+ |
-| Polish | 61 | 50+ | 100+ |
+| Japanese | 66 | 50+ | 100+ |
+| Polish | 60 | 50+ | 100+ |
 | Korean | 58 | 50+ | 100+ |
 | Dutch | 17 | 10+ | 20+ |
 | Hungarian | 14 | 10+ | 20+ |
@@ -91,37 +91,37 @@
 ## Games by **Available country**
 | Available country | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| United States | 177 | 150+ | 200+ |
-| United Kingdom | 177 | 150+ | 200+ |
-| Switzerland | 177 | 150+ | 200+ |
-| Sweden | 177 | 150+ | 200+ |
-| Spain | 177 | 150+ | 200+ |
-| Slovakia | 177 | 150+ | 200+ |
-| Romania | 177 | 150+ | 200+ |
-| Portugal | 177 | 150+ | 200+ |
-| Poland | 177 | 150+ | 200+ |
-| Norway | 177 | 150+ | 200+ |
-| Netherlands | 177 | 150+ | 200+ |
-| Italy | 177 | 150+ | 200+ |
-| Ireland | 177 | 150+ | 200+ |
-| Hungary | 177 | 150+ | 200+ |
-| Germany | 177 | 150+ | 200+ |
-| France | 177 | 150+ | 200+ |
-| Finland | 177 | 150+ | 200+ |
-| Denmark | 177 | 150+ | 200+ |
-| Czechia | 177 | 150+ | 200+ |
-| Canada | 177 | 150+ | 200+ |
-| Belgium | 177 | 150+ | 200+ |
-| Austria | 177 | 150+ | 200+ |
+| United States | 176 | 150+ | 200+ |
+| United Kingdom | 176 | 150+ | 200+ |
+| Switzerland | 176 | 150+ | 200+ |
+| Sweden | 176 | 150+ | 200+ |
+| Spain | 176 | 150+ | 200+ |
+| Slovakia | 176 | 150+ | 200+ |
+| Romania | 176 | 150+ | 200+ |
+| Portugal | 176 | 150+ | 200+ |
+| Poland | 176 | 150+ | 200+ |
+| Norway | 176 | 150+ | 200+ |
+| Netherlands | 176 | 150+ | 200+ |
+| Italy | 176 | 150+ | 200+ |
+| Ireland | 176 | 150+ | 200+ |
+| Hungary | 176 | 150+ | 200+ |
+| Germany | 176 | 150+ | 200+ |
+| France | 176 | 150+ | 200+ |
+| Finland | 176 | 150+ | 200+ |
+| Denmark | 176 | 150+ | 200+ |
+| Czechia | 176 | 150+ | 200+ |
+| Canada | 176 | 150+ | 200+ |
+| Belgium | 176 | 150+ | 200+ |
+| Austria | 176 | 150+ | 200+ |
 
 ## Games by **Accessibility features**
 | Accessibility features | # of games | Milestone reached | Next milestone |
 | --- | --- | --- | --- |
-| Separate volume controls | 160 | 150+ | 200+ |
+| Separate volume controls | 159 | 150+ | 200+ |
 | Button remapping | 120 | 100+ | 150+ |
-| Dialogue subtitles | 112 | 100+ | 150+ |
-| Difficulty levels | 76 | 50+ | 100+ |
-| Brightness constrast gamma adjustment | 66 | 50+ | 100+ |
+| Dialogue subtitles | 111 | 100+ | 150+ |
+| Difficulty levels | 75 | 50+ | 100+ |
+| Brightness constrast gamma adjustment | 65 | 50+ | 100+ |
 | Training mode | 31 | 20+ | 50+ |
 | Colorblind modes | 21 | 20+ | 50+ |
 | Subtitle speed controls | 18 | 10+ | 20+ |

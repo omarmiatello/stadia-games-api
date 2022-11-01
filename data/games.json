@@ -1,6 +1,6 @@
 {
   "api_version": 1,
-  "count": 177,
+  "count": 176,
   "games": [
     {
       "title": "A Place for the Unwilling",
@@ -757,11 +757,6 @@
       "url": "https://stadia.google.com/game/superhot-mind-control-delete",
       "img": "https://lh3.googleusercontent.com/7_gwGE1oWJr2RI1IJz2Twi1HQz-dx4LmgL8Lv25i8md5XLBKBooMrhg-v5H9xoX3eWsWwV2_2jDqCwKy_tFCu7fGenG0vcj_4kv64A9dlPf0d-nkaEh4T3skGwE\u003dw300-h400-rw-no-v1-nu",
       "button": "Play for 30 min"
-    },
-    {
-      "title": "Saints Row IV: Re-Elected",
-      "url": "https://stadia.google.com/game/saints-row-iv-re-elected",
-      "img": "https://lh3.googleusercontent.com/EqpB5gnztDIcxYqXF5nv9dUKBiI-Wd7wgo4I68GCaGeF-3Ovdi3JGsAkZakdC3M6aji0MpdpCEdGey64PKAan6BL6Pd7NNiBBh7vse4etHZYUnsJv661zotW-4c\u003dw300-h400-rw-no-v1-nu"
     },
     {
       "title": "Saints Row®: The Third™ - Remastered",
