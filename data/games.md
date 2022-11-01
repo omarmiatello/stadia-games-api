@@ -67,7 +67,7 @@
 1. [Hotline Miami 2:Wrong Number](https://stadia.google.com/game/hotline-miami-2wrong-number) - Play for 30 min
 1. [House of the Dead - Remake](https://stadia.google.com/game/house-of-the-dead-remake) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Human: Fall Flat Stadia Edition](https://stadia.google.com/game/human-fall-flat-stadia-edition) - Play for 60 min #LocalCoop #LocalMultiplayer
-1. [Hundred Days - Winemaking Simulator](https://stadia.google.com/game/hundred-days-winemaking-simulator) - Play for 60 min - available also with #StadiaPro #DirectTouch
+1. [Hundred Days - Winemaking Simulator](https://stadia.google.com/game/hundred-days-winemaking-simulator) - Play for 60 min #DirectTouch
 1. [Hunting Simulator 2 Elite Edition](https://stadia.google.com/game/hunting-simulator-2-elite-edition) - Play for 60 min
 1. [Ice Age: Scrat's Nutty Adventure](https://stadia.google.com/game/ice-age-scrats-nutty-adventure) - Play for 30 min
 1. [Immortals Fenyx Rising™ Demo](https://stadia.google.com/game/immortals-fenyx-rising-demo)
@@ -75,14 +75,14 @@
 1. [Jotun: Valhalla Edition](https://stadia.google.com/game/jotun-valhalla-edition) - Play for 30 min
 1. [Journey to the Savage Planet](https://stadia.google.com/game/journey-to-the-savage-planet) - Play for 60 min - available also with #StadiaPro
 1. [Just Shapes & Beats](https://stadia.google.com/game/just-shapes-beats) - Play for 30 min #LocalCoop #LocalMultiplayer
-1. [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks) - Play for 30 min - available also with #StadiaPro
+1. [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks) - Play for 30 min
 1. [Kemono Heroes](https://stadia.google.com/game/kemono-heroes) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Killer Queen Black](https://stadia.google.com/game/killer-queen-black) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Lake](https://stadia.google.com/game/lake) - Play for 90 min - available also with #StadiaPro
 1. [Little Big Workshop](https://stadia.google.com/game/little-big-workshop) - Play for 30 min
 1. [Little Nightmares Complete Edition](https://stadia.google.com/game/little-nightmares-complete-edition) - Play for 30 min
 1. [Lost Words: Beyond the Page](https://stadia.google.com/game/lost-words-beyond-the-page) - Play for 30 min
-1. [Lumote: The Mastermote Chronicles](https://stadia.google.com/game/lumote-the-mastermote-chronicles) - Play for 30 min - available also with #StadiaPro
+1. [Lumote: The Mastermote Chronicles](https://stadia.google.com/game/lumote-the-mastermote-chronicles) - Play for 30 min
 1. [MY LITTLE PONY: A Maretime Bay Adventure](https://stadia.google.com/game/my-little-pony-a-maretime-bay-adventure) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Mad Streets](https://stadia.google.com/game/mad-streets) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Merek's Market](https://stadia.google.com/game/mereks-market) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
@@ -98,14 +98,14 @@
 1. [Nanotale - Typing Chronicles](https://stadia.google.com/game/nanotale-typing-chronicles) - Play for 60 min
 1. [Neighbours back From Hell](https://stadia.google.com/game/neighbours-back-from-hell) - Play for 30 min
 1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
-1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min - available also with #StadiaPro
+1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
 1. [Outbreak: Shades of Horror Playable Teaser](https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser) - Play for 60 min
 1. [Outcasters](https://stadia.google.com/game/outcasters) - Play for 60 min
 1. [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/game/pac-man-mega-tunnel-battle) - Play for 60 min
 1. [PAW Patrol Mighty Pups Save Adventure Bay](https://stadia.google.com/game/paw-patrol-mighty-pups-save-adventure-bay) - Play for 30 min #LocalCoop #LocalMultiplayer
-1. [PAW Patrol The Movie: Adventure City Calls](https://stadia.google.com/game/paw-patrol-the-movie) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [PAW Patrol The Movie: Adventure City Calls](https://stadia.google.com/game/paw-patrol-the-movie) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [PHOGS!](https://stadia.google.com/game/phogs) - Play for 60 min - available also with #StadiaPro #LocalCoop
 1. [PIKUNIKU](https://stadia.google.com/game/pikuniku) - Play for 30 min #LocalCoop
 1. [PJ MASKS: HEROES OF THE NIGHT](https://stadia.google.com/game/pj-masks-heroes-of-the-night) - Play for 30 min - available also with #StadiaPro
