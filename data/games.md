@@ -100,7 +100,7 @@
 1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
 1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
-1. [Outbreak: Shades of Horror Playable Teaser](https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser) - Play for 60 min
+1. [Outbreak: Shades of Horror Playable Teaser](https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser)
 1. [Outcasters](https://stadia.google.com/game/outcasters) - Play for 60 min
 1. [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/game/pac-man-mega-tunnel-battle) - Play for 60 min
