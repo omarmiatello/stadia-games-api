@@ -1,5 +1,4 @@
 1. [A Place for the Unwilling](https://stadia.google.com/game/a-place-for-the-unwilling) - Play for 60 min
-1. [ARK: Survival Evolved](https://stadia.google.com/game/ark-survival-evolved) - available also with #StadiaPro
 1. [Adam Wolfe](https://stadia.google.com/game/adam-wolfe) - Play for 60 min #DirectTouch
 1. [Adventure Time: Pirates of the Enchiridion](https://stadia.google.com/game/adventure-time-pirates-of-the-enchiridion) - Play for 30 min
 1. [Are You Smarter than a 5th Grader?](https://stadia.google.com/game/are-you-smarter-than-a-5th-grader) - Play for 30 min #LocalMultiplayer
@@ -16,7 +15,6 @@
 1. [Calico](https://stadia.google.com/game/calico) - Play for 60 min - available also with #StadiaPro
 1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min
-1. [Chorus Demo](https://stadia.google.com/game/chorus-demo)
 1. [Chronos: Before the Ashes](https://stadia.google.com/game/chronos-before-the-ashes) - Play for 30 min
 1. [Cities: Skylines - Stadia™ Edition](https://stadia.google.com/game/cities-skylines-stadia-edition) - Play for 60 min - available also with #StadiaPro
 1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min #DirectTouch
@@ -33,7 +31,6 @@
 1. [Darkwood](https://stadia.google.com/game/darkwood) - Play for 60 min
 1. [Dawn of the Monsters](https://stadia.google.com/game/dawn-of-the-monsters) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Deliver Us The Moon](https://stadia.google.com/game/deliver-us-the-moon) - Play for 30 min - available also with #StadiaPro
-1. [Destiny 2](https://stadia.google.com/game/destiny-2)
 1. [Destroy All Humans!](https://stadia.google.com/game/destroy-all-humans) - Play for 30 min - available also with #StadiaPro
 1. [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/game/dreamworks-dragons-dawn-of-new-riders) - Play for 30 min
 1. [DreamWorks Spirit Lucky's Big Adventure](https://stadia.google.com/game/dreamworks-spirit-luckys-big-adventure) - Play for 30 min
@@ -49,15 +46,12 @@
 1. [Farming Simulator 22](https://stadia.google.com/game/farming-simulator-22) - Play for 180 min
 1. [Fast and Furious: Spy Racers Rise of SH1FT3R](https://stadia.google.com/game/fast-and-furious-spy-racers-rise-of-sh1ft3r) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
 1. [Figment](https://stadia.google.com/game/figment) - Play for 30 min
-1. [Five Nights at Freddy's: Security Breach](https://stadia.google.com/game/five-nights-at-freddys-security-breach) - available also with #StadiaPro
 1. [GRIME](https://stadia.google.com/game/grime) - Play for 120 min
 1. [Get Packed: Fully Loaded](https://stadia.google.com/game/get-packed) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Gigantosaurus The Game](https://stadia.google.com/game/gigantosaurus-the-game) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Golf With Your Friends](https://stadia.google.com/game/golf-with-your-friends) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
 1. [Gravitar: Recharged](https://stadia.google.com/game/gravitar-recharged) - Play for 30 min #LocalCoop
 1. [HITMAN - Starter Pack](https://stadia.google.com/game/hitman-free-starter-pack) - Play for 180 min
-1. [HITMAN - The Complete First Season](https://stadia.google.com/game/hitman-the-complete-first-season) - available also with #StadiaPro
-1. [HITMAN - World of Assassination](https://stadia.google.com/game/hitman)
 1. [HOT WHEELS UNLEASHED™ - Game of the Year Edition](https://stadia.google.com/game/hot-wheels-unleashed-game-of-the-year-edition) - Play for 60 min - available also with #StadiaPro #LocalMultiplayer
 1. [HUMANKIND™](https://stadia.google.com/game/humankind) - Play for 120 min #DirectTouch
 1. [Hello Engineer](https://stadia.google.com/game/hello-engineer) - Play for 30 min
@@ -70,7 +64,6 @@
 1. [Hundred Days - Winemaking Simulator](https://stadia.google.com/game/hundred-days-winemaking-simulator) - Play for 60 min #DirectTouch
 1. [Hunting Simulator 2 Elite Edition](https://stadia.google.com/game/hunting-simulator-2-elite-edition) - Play for 60 min
 1. [Ice Age: Scrat's Nutty Adventure](https://stadia.google.com/game/ice-age-scrats-nutty-adventure) - Play for 30 min
-1. [Immortals Fenyx Rising™ Demo](https://stadia.google.com/game/immortals-fenyx-rising-demo)
 1. [It Came From Space And Ate Our Brains](https://stadia.google.com/game/it-came-from-space-and-ate-our-brains) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Jotun: Valhalla Edition](https://stadia.google.com/game/jotun-valhalla-edition) - Play for 30 min
 1. [Journey to the Savage Planet](https://stadia.google.com/game/journey-to-the-savage-planet) - Play for 60 min - available also with #StadiaPro
@@ -100,7 +93,6 @@
 1. [Nine to Five](https://stadia.google.com/game/nine-to-five) - Play for 60 min
 1. [OUTRIDERS](https://stadia.google.com/game/outriders) - Play for 90 min
 1. [One Hand Clapping](https://stadia.google.com/game/one-hand-clapping) - Play for 30 min
-1. [Outbreak: Shades of Horror Playable Teaser](https://stadia.google.com/game/outbreak-shades-of-horror-playable-teaser)
 1. [Outcasters](https://stadia.google.com/game/outcasters) - Play for 60 min
 1. [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat) - Play for 30 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
 1. [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/game/pac-man-mega-tunnel-battle) - Play for 60 min
@@ -109,21 +101,16 @@
 1. [PHOGS!](https://stadia.google.com/game/phogs) - Play for 60 min - available also with #StadiaPro #LocalCoop
 1. [PIKUNIKU](https://stadia.google.com/game/pikuniku) - Play for 30 min #LocalCoop
 1. [PJ MASKS: HEROES OF THE NIGHT](https://stadia.google.com/game/pj-masks-heroes-of-the-night) - Play for 30 min - available also with #StadiaPro
-1. [PUBG: BATTLEGROUNDS](https://stadia.google.com/game/pubg)
 1. [Panzer Dragoon: Remake](https://stadia.google.com/game/panzer-dragoon-remake) - Play for 30 min
 1. [Phoenix Point: Complete Edition](https://stadia.google.com/game/phoenix-point-complete-edition) - Play for 120 min
 1. [PixelJunk Raiders](https://stadia.google.com/game/pixeljunk-raiders) - Play for 60 min - available also with #StadiaPro
 1. [Power Rangers: Battle for the Grid Super Edition](https://stadia.google.com/game/power-rangers-battle-for-the-grid-super-edition) - Play for 60 min #LocalMultiplayer
-1. [RAINBOW SIX: EXTRACTION](https://stadia.google.com/game/rainbow-six-extraction)
 1. [Race With Ryan Road Trip Deluxe Edition](https://stadia.google.com/game/race-with-ryan-road-trip-deluxe-edition) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
 1. [Reigns](https://stadia.google.com/game/reigns) - Play for 30 min
-1. [Resident Evil Village Gameplay Demo](https://stadia.google.com/game/resident-evil-village-demo)
 1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 30 min
 1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
 1. [Roguebook](https://stadia.google.com/game/roguebook) - Play for 90 min - available also with #StadiaPro
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min #LocalCoop #LocalMultiplayer
-1. [République](https://stadia.google.com/game/republique)
-1. [SUPER BOMBERMAN R ONLINE](https://stadia.google.com/game/super-bomberman-r-online)
 1. [SUPERHOT](https://stadia.google.com/game/superhot) - Play for 30 min
 1. [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/game/superhot-mind-control-delete) - Play for 30 min
 1. [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered) - Play for 60 min - available also with #StadiaPro
@@ -164,7 +151,6 @@
 1. [Trine 4: The Nightmare Prince](https://stadia.google.com/game/trine-4-the-nightmare-prince) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Trollhunters: Defenders of Arcadia](https://stadia.google.com/game/trollhunters-defenders-of-arcadia) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [Wave Break](https://stadia.google.com/game/wave-break) - Play for 60 min
-1. [Wavetale](https://stadia.google.com/game/wavetale) - available also with #StadiaPro
 1. [Welcome to Elk](https://stadia.google.com/game/welcome-to-elk) - Play for 60 min - available also with #StadiaPro
 1. [World War Z: Aftermath](https://stadia.google.com/game/world-war-z-aftermath) - Play for 60 min - available also with #StadiaPro
 1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
