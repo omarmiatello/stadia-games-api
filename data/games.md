@@ -16,7 +16,7 @@
 1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min
 1. [Chronos: Before the Ashes](https://stadia.google.com/game/chronos-before-the-ashes) - Play for 30 min
-1. [Cities: Skylines - Stadia™ Edition](https://stadia.google.com/game/cities-skylines-stadia-edition) - Play for 60 min - available also with #StadiaPro
+1. [Cities: Skylines - Stadia™ Edition](https://stadia.google.com/game/cities-skylines-stadia-edition) - Play for 60 min
 1. [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/game/city-legends-the-curse-of-the-crimson-shadow-ce) - Play for 60 min #DirectTouch
 1. [Control Ultimate Edition](https://stadia.google.com/game/control) - Play trial - available also with #StadiaPro
 1. [Cosmic Star Heroine](https://stadia.google.com/game/cosmic-star-heroine) - Play for 60 min

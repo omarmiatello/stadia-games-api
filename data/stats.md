@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | Stadia games | 162 | 150+ | 200+ |
 | Stadia demos | 162 | 150+ | 200+ |
-| Games on Stadia Pro | 38 | 20+ | 50+ |
+| Games on Stadia Pro | 37 | 20+ | 50+ |
 
 ## Games by **Genre**
 | Genre | # of games | Milestone reached | Next milestone |
