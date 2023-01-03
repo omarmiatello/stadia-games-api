@@ -13,7 +13,7 @@
 1. [Breakout: Recharged](https://stadia.google.com/game/breakout-recharged) - Play for 30 min #LocalCoop
 1. [Cake Bash](https://stadia.google.com/game/cake-bash) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
 1. [Calico](https://stadia.google.com/game/calico) - Play for 60 min - available also with #StadiaPro
-1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
+1. [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged) - Play for 30 min #LocalCoop
 1. [Chicken Police - Paint it RED!](https://stadia.google.com/game/chicken-police-paint-it-red) - Play for 30 min
 1. [Chronos: Before the Ashes](https://stadia.google.com/game/chronos-before-the-ashes) - Play for 30 min
 1. [Cities: Skylines - Stadia™ Edition](https://stadia.google.com/game/cities-skylines-stadia-edition) - Play for 60 min
@@ -44,7 +44,7 @@
 1. [FORECLOSED](https://stadia.google.com/game/foreclosed) - Play for 60 min
 1. [Far Cry Primal](https://stadia.google.com/game/far-cry-primal) - Play for 60 min
 1. [Farming Simulator 22](https://stadia.google.com/game/farming-simulator-22) - Play for 180 min
-1. [Fast and Furious: Spy Racers Rise of SH1FT3R](https://stadia.google.com/game/fast-and-furious-spy-racers-rise-of-sh1ft3r) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
+1. [Fast and Furious: Spy Racers Rise of SH1FT3R](https://stadia.google.com/game/fast-and-furious-spy-racers-rise-of-sh1ft3r) - Play for 30 min #LocalMultiplayer
 1. [Figment](https://stadia.google.com/game/figment) - Play for 30 min
 1. [GRIME](https://stadia.google.com/game/grime) - Play for 120 min
 1. [Get Packed: Fully Loaded](https://stadia.google.com/game/get-packed) - Play for 60 min #LocalCoop #LocalMultiplayer
@@ -109,7 +109,7 @@
 1. [Reigns](https://stadia.google.com/game/reigns) - Play for 30 min
 1. [Risk of Rain 2](https://stadia.google.com/game/risk-of-rain-2) - Play for 30 min
 1. [Rock of Ages 3: Make & Break](https://stadia.google.com/game/rock-of-ages-3-make-break) - Play for 30 min
-1. [Roguebook](https://stadia.google.com/game/roguebook) - Play for 90 min - available also with #StadiaPro
+1. [Roguebook](https://stadia.google.com/game/roguebook) - Play for 90 min
 1. [Ryan's Rescue Squad](https://stadia.google.com/game/ryans-rescue-squad) - Play for 30 min #LocalCoop #LocalMultiplayer
 1. [SUPERHOT](https://stadia.google.com/game/superhot) - Play for 30 min
 1. [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/game/superhot-mind-control-delete) - Play for 30 min
@@ -144,7 +144,7 @@
 1. [The Jackbox Party Pack 8](https://stadia.google.com/game/jackbox-party-pack-8) - Play for 30 min #LocalMultiplayer #DirectTouch
 1. [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iii) - Play for 120 min
 1. [The Legend of Heroes: Trails of Cold Steel IV](https://stadia.google.com/game/the-legend-of-heroes-trails-of-cold-steel-iv) - Play for 120 min
-1. [Those Who Remain](https://stadia.google.com/game/those-who-remain) - Play for 30 min - available also with #StadiaPro
+1. [Those Who Remain](https://stadia.google.com/game/those-who-remain) - Play for 30 min
 1. [Through the Darkest of Times](https://stadia.google.com/game/through-the-darkest-of-times) - Play for 30 min
 1. [Time on Frog Island](https://stadia.google.com/game/time-on-frog-island) - Play for 60 min - available also with #StadiaPro
 1. [Tri6: Infinite](https://stadia.google.com/game/tri6-infinite) - Play for 30 min - available also with #StadiaPro #LocalMultiplayer
@@ -153,7 +153,7 @@
 1. [Wave Break](https://stadia.google.com/game/wave-break) - Play for 60 min
 1. [Welcome to Elk](https://stadia.google.com/game/welcome-to-elk) - Play for 60 min - available also with #StadiaPro
 1. [World War Z: Aftermath](https://stadia.google.com/game/world-war-z-aftermath) - Play for 60 min - available also with #StadiaPro
-1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min - available also with #StadiaPro #LocalCoop #LocalMultiplayer
+1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Wreckfest](https://stadia.google.com/game/wreckfest) - Play for 30 min
 1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - Play for 30 min - available also with #StadiaPro #LocalCoop
 1. [Ys IX: Monstrum Nox](https://stadia.google.com/game/ys-ix-monstrum-nox) - Play for 120 min
