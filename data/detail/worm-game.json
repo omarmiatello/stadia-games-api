@@ -1,0 +1,64 @@
+{
+  "title": "Worm Game",
+  "url": "https://stadia.google.com/game/worm-game",
+  "img": "https://lh3.googleusercontent.com/AmuF1b5ylXx_4v5HvJBcA7mbzokeMP6A1zuN9BdIGzLH5TBTu9ciccCHisyTu5hbRZ0rFjFoDqb3o1OrCZ0YuJWviJ6U73oytGi4147iI8Ip4n0UjTAG577ph8A\u003dw300-h400-rw-no-v1-nu",
+  "button": "Play for 180 min",
+  "buttons": [
+    "Play for 180 min"
+  ],
+  "description": "Play the game that came to Stadia before Stadia came to the world. “Worm Game” is a humble title we used to test many of Stadia’s features, starting well before our 2019 public launch, right through 2022. It won’t win Game of the Year, but the Stadia team spent a LOT of time playing it, and we thought we’d share it with you. Thanks for playing, and for everything. Keyboard or controller required. Worm Game is available in English only. For up to date information about our wind down please go to g.co/stadia/faq",
+  "image_urls": [
+    "https://lh3.googleusercontent.com/UY6GaRUEYHuq039D2KLkXA1L50ogxos0eQlOpqLNliHBzdmteqQPuAVfNW7Zo_qU2cYVhMZT_ERQX46SEshZyn2RR4ja_zQIRgV2JG7DBJyL1sCE9_9sm8A1qzk\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/nfkM0-53UphXhFLaPpxPBJ5LIcPGplNyf3--KJJRB1ZFgBgWlJL-rQzhZEaAKjZ6CgapL0Qwo_a2kuQGznWjJloSjn8BMn3Rs-_WQZ_PJjt9BWLhcgidA85N6gzQ\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/RupiO-NgECpOuYYlNwuHN6rMpwUpIe27dwaCLHFNmP6GwbnX2CFcB1PQfSeAcN_SLAKgA7ZLJQuV8d39w3YpIaDnQwBtypujSlE0BTFJNGCGsXdiHTpM38cve8E\u003dw588-h384-rw-no-v1-nu",
+    "https://lh3.googleusercontent.com/sACqKv7DuBSAmKade_mw99Og_awsD71-XAHxb0Z5cUg3qSmkgt8zJrEsoKQdFZCPbnyyQKtf-6meYzMnHqd66idr9KFM6lPDO7Nw0q4UbV39H2bY0ks2TCO5Lkw\u003dw588-h384-rw-no-v1-nu"
+  ],
+  "release_date": "2023-01-13",
+  "publisher": "Stadia Platform Content",
+  "developer": "Stadia Platform Content",
+  "languages": [
+    "English"
+  ],
+  "available_country": [
+    "Austria",
+    "Belgium",
+    "Canada",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "genre": [
+    "Arcade"
+  ],
+  "game_modes": [
+    "Online multiplayer",
+    "Single player"
+  ],
+  "supported_input": [
+    "Gamepad",
+    "Keyboard/mouse"
+  ],
+  "accessibility_features": [
+    "Difficulty levels"
+  ],
+  "extra": {
+    "in-game elements might be unreadable": "Mobile, Web"
+  },
+  "notes": "All Rights Reserved."
+}

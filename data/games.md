@@ -153,6 +153,7 @@
 1. [Wave Break](https://stadia.google.com/game/wave-break) - Play for 60 min
 1. [Welcome to Elk](https://stadia.google.com/game/welcome-to-elk) - Play for 60 min
 1. [World War Z: Aftermath](https://stadia.google.com/game/world-war-z-aftermath) - Play for 60 min
+1. [Worm Game](https://stadia.google.com/game/worm-game) - Play for 180 min
 1. [Worms W.M.D](https://stadia.google.com/game/worms-wmd) - Play for 60 min #LocalCoop #LocalMultiplayer
 1. [Wreckfest](https://stadia.google.com/game/wreckfest) - Play for 30 min
 1. [Yars: Recharged](https://stadia.google.com/game/yars-recharged) - Play for 30 min #LocalCoop
